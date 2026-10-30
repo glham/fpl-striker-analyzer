@@ -6,7 +6,8 @@ FULL = {'Manchester City': 'Man City', 'Manchester United': 'Man Utd',
         'Tottenham Hotspur': 'Spurs', 'Nottingham Forest': "Nott'm Forest",
         'Newcastle United': 'Newcastle', 'Leeds United': 'Leeds',
         'Brighton & Hove Albion': 'Brighton', 'AFC Bournemouth': 'Bournemouth',
-        'Liverpool FC': 'Liverpool'}
+        'Liverpool FC': 'Liverpool', 'West Ham United': 'West Ham',
+        'Wolverhampton': 'Wolves'}
 # Sofascore SHORT team names (team rows, match JSONs) -> FPL bootstrap names
 SHORT = {'Forest': "Nott'm Forest", 'Tottenham': 'Spurs', 'Hull': 'Hull City',
          'Coventry': 'Coventry City', 'Ipswich': 'Ipswich Town'}

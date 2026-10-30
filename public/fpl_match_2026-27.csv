@@ -1,0 +1,2299 @@
+season,gw,element,fpl_pos,team,opp,home,mins,pts,xpts,cbi,tackles,recoveries,dc,threshold,hit,pid
+2026-27,1,4,DEF,Arsenal,Coventry City,True,90,5,4.6,4,0,2,4,10,0,869792
+2026-27,1,7,MID,Arsenal,Coventry City,True,90,3,3.45,1,1,5,7,12,0,1423711
+2026-27,1,8,DEF,Arsenal,Coventry City,True,80,9,6.28,4,1,1,5,10,0,957602
+2026-27,1,9,DEF,Arsenal,Coventry City,True,9,1,1.0,0,0,0,0,10,0,1002837
+2026-27,1,10,DEF,Arsenal,Coventry City,True,90,11,8.98,4,1,3,5,10,0,846036
+2026-27,1,11,DEF,Arsenal,Coventry City,True,90,6,5.27,6,0,3,6,10,0,1144630
+2026-27,1,12,MID,Arsenal,Coventry City,True,67,9,7.38,2,1,4,7,12,0,934235
+2026-27,1,13,MID,Arsenal,Coventry City,True,67,3,3.53,3,0,3,6,12,0,856714
+2026-27,1,14,MID,Arsenal,Coventry City,True,14,1,1.2,0,0,2,2,12,0,864921
+2026-27,1,15,MID,Arsenal,Coventry City,True,75,11,7.29,1,3,4,8,12,0,547410
+2026-27,1,16,MID,Arsenal,Coventry City,True,22,1,1.12,0,0,2,2,12,0,966547
+2026-27,1,17,MID,Arsenal,Coventry City,True,14,1,1.76,0,0,2,2,12,0,592010
+2026-27,1,19,MID,Arsenal,Coventry City,True,22,1,1.06,0,1,2,3,12,0,966837
+2026-27,1,26,FWD,Arsenal,Coventry City,True,90,6,3.13,2,0,0,2,12,0,836705
+2026-27,1,32,DEF,Aston Villa,Brighton,False,90,-1,-0.91,5,2,0,7,10,0,833956
+2026-27,1,33,DEF,Aston Villa,Brighton,False,16,1,1.0,0,1,0,1,10,0,303638
+2026-27,1,34,DEF,Aston Villa,Brighton,False,73,0,0.11,5,0,1,5,10,0,864169
+2026-27,1,35,MID,Aston Villa,Brighton,False,16,1,1.0,1,0,0,1,12,0,1089388
+2026-27,1,36,DEF,Aston Villa,Brighton,False,81,0,0.29,7,2,2,9,10,0,976263
+2026-27,1,37,DEF,Aston Villa,Brighton,False,90,-2,-1.91,3,0,1,3,10,0,143334
+2026-27,1,40,MID,Chelsea,Fulham,False,81,8,8.39,0,2,5,7,12,0,948261
+2026-27,1,41,MID,Aston Villa,Brighton,False,85,2,2.95,3,1,3,7,12,0,783126
+2026-27,1,42,MID,Crystal Palace,Everton,False,27,1,1.21,0,1,0,1,12,0,930245
+2026-27,1,43,MID,Man Utd,Hull City,False,66,2,2.92,0,0,5,5,12,0,331737
+2026-27,1,45,MID,Aston Villa,Brighton,False,81,1,1.26,2,1,3,6,12,0,250223
+2026-27,1,46,MID,Aston Villa,Brighton,False,73,2,2.59,1,0,0,1,12,0,98435
+2026-27,1,47,MID,Aston Villa,Brighton,False,90,2,2.02,3,2,2,7,12,0,826204
+2026-27,1,51,MID,Aston Villa,Brighton,False,90,2,2.02,0,3,2,5,12,0,1398204
+2026-27,1,52,MID,Aston Villa,Brighton,False,8,1,1.0,1,1,1,3,12,0,1631879
+2026-27,1,54,MID,Aston Villa,Brighton,False,39,-2,-1.97,1,4,2,7,12,0,1015267
+2026-27,1,60,DEF,Bournemouth,Man City,False,90,1,1.42,5,1,1,6,10,0,1156586
+2026-27,1,61,DEF,Bournemouth,Man City,False,90,1,1.42,5,2,7,7,10,0,999028
+2026-27,1,64,DEF,Bournemouth,Man City,False,90,1,1.42,4,1,3,5,10,0,44566
+2026-27,1,67,MID,Bournemouth,Man City,False,88,2,2.42,1,0,0,1,12,0,1464966
+2026-27,1,68,MID,Bournemouth,Man City,False,90,10,7.35,2,2,4,8,12,0,895576
+2026-27,1,69,MID,Bournemouth,Man City,False,90,2,2.14,1,4,6,11,12,0,1104986
+2026-27,1,70,MID,Bournemouth,Man City,False,74,3,2.69,1,3,5,9,12,0,851596
+2026-27,1,71,MID,Bournemouth,Man City,False,75,3,2.14,3,1,3,7,12,0,548188
+2026-27,1,72,MID,Bournemouth,Man City,False,1,1,1.0,0,0,1,1,12,0,1154861
+2026-27,1,73,MID,Bournemouth,Man City,False,15,1,1.0,3,0,0,3,12,0,800419
+2026-27,1,76,MID,Bournemouth,Man City,False,15,1,1.0,0,1,1,2,12,0,1476524
+2026-27,1,79,FWD,Bournemouth,Man City,False,74,4,1.63,4,1,3,8,12,0,998490
+2026-27,1,84,DEF,Brentford,Spurs,True,90,6,6.42,3,0,3,3,10,0,958916
+2026-27,1,86,MID,Brentford,Spurs,True,90,10,8.78,4,1,5,10,12,0,972421
+2026-27,1,87,DEF,Brentford,Spurs,True,90,8,6.98,8,2,3,10,10,1,576384
+2026-27,1,88,DEF,Brentford,Spurs,True,75,13,8.5,4,0,5,4,10,0,1137431
+2026-27,1,90,DEF,Brentford,Spurs,True,14,1,1.0,0,0,2,0,10,0,966869
+2026-27,1,94,MID,Brentford,Spurs,True,90,3,5.2,1,3,5,9,12,0,1006387
+2026-27,1,95,MID,Brentford,Spurs,True,66,3,3.75,2,0,4,6,12,0,1106451
+2026-27,1,96,MID,Brentford,Spurs,True,14,1,1.33,0,1,3,4,12,0,907072
+2026-27,1,97,MID,Brentford,Spurs,True,66,6,4.05,0,2,3,5,12,0,799251
+2026-27,1,98,MID,Brentford,Spurs,True,90,9,6.03,6,4,3,13,12,1,814873
+2026-27,1,102,MID,Brentford,Spurs,True,23,1,1.2,1,2,3,6,12,0,1031258
+2026-27,1,104,MID,Coventry City,Arsenal,False,90,2,2.18,3,1,5,9,12,0,885864
+2026-27,1,105,MID,Brentford,Spurs,True,23,1,2.2,0,2,6,8,12,0,1020680
+2026-27,1,106,FWD,Brentford,Spurs,True,82,0,4.24,1,0,4,5,12,0,1016907
+2026-27,1,108,FWD,Brentford,Spurs,True,7,1,1.24,0,0,0,0,12,0,113956
+2026-27,1,112,DEF,Spurs,Brentford,False,90,1,1.17,7,2,3,9,10,0,962012
+2026-27,1,114,DEF,Brighton,Aston Villa,True,90,6,5.11,5,1,4,6,10,0,788784
+2026-27,1,115,DEF,Brighton,Aston Villa,True,77,17,16.44,1,3,3,4,10,0,997152
+2026-27,1,116,DEF,Brighton,Aston Villa,True,90,6,5.11,1,1,2,2,10,0,115365
+2026-27,1,119,DEF,Brighton,Aston Villa,True,26,1,1.72,3,1,0,4,10,0,988333
+2026-27,1,123,MID,Brighton,Aston Villa,True,63,16,12.94,0,2,1,3,12,0,1142315
+2026-27,1,124,MID,Brighton,Aston Villa,True,90,2,2.56,0,3,2,5,12,0,48480
+2026-27,1,125,FWD,Brighton,Aston Villa,True,90,5,3.64,1,2,4,7,12,0,946695
+2026-27,1,127,MID,Brighton,Aston Villa,True,85,6,5.09,2,3,1,6,12,0,1065588
+2026-27,1,129,MID,Brighton,Aston Villa,True,63,2,2.47,1,0,3,4,12,0,1036269
+2026-27,1,130,DEF,Brighton,Aston Villa,True,77,7,6.68,4,4,5,8,10,0,959628
+2026-27,1,135,MID,Brighton,Aston Villa,True,12,1,1.09,0,0,0,0,12,0,2189496
+2026-27,1,138,FWD,Brighton,Aston Villa,True,26,1,1.72,0,1,1,2,12,0,1416535
+2026-27,1,142,DEF,Chelsea,Fulham,False,90,0,1.87,6,0,4,6,10,0,885908
+2026-27,1,144,DEF,Chelsea,Fulham,False,75,1,2.41,2,1,4,3,10,0,996958
+2026-27,1,148,DEF,Chelsea,Fulham,False,64,1,2.55,1,2,2,3,10,0,1153079
+2026-27,1,149,DEF,Chelsea,Fulham,False,90,0,1.21,2,2,3,4,10,0,996911
+2026-27,1,151,DEF,Chelsea,Fulham,False,90,3,4.09,10,5,6,15,10,1,1403050
+2026-27,1,154,MID,Chelsea,Fulham,False,82,13,7.26,0,2,7,9,12,0,982780
+2026-27,1,155,MID,Man City,Fulham,False,25,1,1.06,0,0,3,3,12,0,974505
+2026-27,1,156,MID,Chelsea,Fulham,False,14,1,1.36,0,1,3,4,12,0,879349
+2026-27,1,157,MID,Chelsea,Fulham,False,7,1,1.0,0,0,1,1,12,0,1597265
+2026-27,1,160,MID,Aston Villa,Brighton,False,4,1,1.0,0,0,0,0,12,0,1135873
+2026-27,1,161,MID,Chelsea,Fulham,False,64,1,2.49,2,3,4,9,12,0,1069488
+2026-27,1,162,MID,Man Utd,Hull City,False,66,2,3.08,3,1,5,9,12,0,1105779
+2026-27,1,164,MID,Chelsea,Fulham,False,8,1,1.0,1,0,0,1,12,0,1403165
+2026-27,1,165,FWD,Chelsea,Fulham,False,90,11,6.7,1,0,2,3,12,0,975079
+2026-27,1,173,DEF,Coventry City,Arsenal,False,90,3,3.76,9,1,2,10,10,1,1033352
+2026-27,1,175,DEF,Coventry City,Arsenal,False,90,1,1.64,6,1,3,7,10,0,948723
+2026-27,1,176,DEF,Coventry City,Arsenal,False,90,1,1.67,6,0,1,6,10,0,791985
+2026-27,1,182,DEF,Coventry City,Arsenal,False,90,1,1.64,9,0,4,9,10,0,999276
+2026-27,1,183,MID,Coventry City,Arsenal,False,20,1,1.75,0,1,4,5,12,0,979565
+2026-27,1,184,MID,Coventry City,Arsenal,False,90,2,2.18,4,0,3,7,12,0,340713
+2026-27,1,188,MID,Coventry City,Arsenal,False,28,1,1.33,1,0,0,1,12,0,837011
+2026-27,1,190,MID,Coventry City,Arsenal,False,81,2,2.43,3,0,5,8,12,0,1004505
+2026-27,1,194,FWD,Coventry City,Arsenal,False,69,2,2.06,5,0,1,6,12,0,846061
+2026-27,1,195,FWD,Coventry City,Arsenal,False,69,2,2.03,1,0,2,3,12,0,991614
+2026-27,1,200,DEF,Chelsea,Fulham,False,90,6,4.66,7,5,2,12,10,1,879674
+2026-27,1,201,DEF,Nott'm Forest,Everton,False,54,0,1.41,3,1,1,4,10,0,870360
+2026-27,1,202,DEF,Crystal Palace,Everton,False,90,3,4.31,14,2,1,16,10,1,931844
+2026-27,1,203,DEF,Crystal Palace,Everton,False,90,1,2.64,4,4,3,8,10,0,1471671
+2026-27,1,204,DEF,Crystal Palace,Everton,False,90,1,2.34,3,2,4,5,10,0,988275
+2026-27,1,206,DEF,Crystal Palace,Everton,False,72,1,2.53,6,1,3,7,10,0,1064218
+2026-27,1,209,MID,Everton,Crystal Palace,True,6,1,1.0,2,0,0,2,12,0,1085180
+2026-27,1,210,MID,Crystal Palace,Everton,False,90,4,5.05,4,2,8,14,12,1,1109771
+2026-27,1,211,MID,Crystal Palace,Everton,False,35,1,1.36,0,2,3,5,12,0,984624
+2026-27,1,214,MID,Crystal Palace,Everton,False,90,3,4.14,3,3,8,14,12,1,794338
+2026-27,1,222,FWD,Crystal Palace,Everton,False,27,1,2.03,0,0,0,0,12,0,876599
+2026-27,1,223,FWD,Crystal Palace,Everton,False,62,2,4.86,1,2,2,5,12,0,848276
+2026-27,1,224,FWD,Crystal Palace,Everton,False,55,1,5.14,1,1,1,3,12,0,858194
+2026-27,1,229,DEF,Everton,Crystal Palace,True,90,6,2.86,8,1,4,9,10,0,145188
+2026-27,1,230,DEF,Everton,Crystal Palace,True,90,6,2.59,6,2,2,8,10,0,979563
+2026-27,1,233,DEF,Everton,Crystal Palace,True,90,6,2.71,4,0,4,4,10,0,876643
+2026-27,1,236,MID,Everton,Crystal Palace,True,90,11,6.26,1,2,5,8,12,0,861970
+2026-27,1,237,MID,Man City,Everton,False,90,9,7.3,0,4,8,12,12,1,914309
+2026-27,1,238,MID,Everton,Man City,False,8,1,1.0,0,1,0,1,12,0,189061
+2026-27,1,239,MID,Everton,Crystal Palace,True,11,1,1.09,0,1,0,1,12,0,927361
+2026-27,1,241,MID,Crystal Palace,Everton,False,62,2,2.69,3,0,2,5,12,0,935543
+2026-27,1,242,MID,Everton,Crystal Palace,True,83,3,3.33,3,0,4,7,12,0,1403061
+2026-27,1,243,MID,Everton,Crystal Palace,True,1,1,1.1,0,1,2,3,12,0,1017392
+2026-27,1,244,MID,Everton,Crystal Palace,True,90,8,4.26,3,2,11,16,12,1,1627560
+2026-27,1,246,MID,Everton,Crystal Palace,True,90,3,2.32,2,2,5,9,12,0,1064082
+2026-27,1,247,MID,Everton,Crystal Palace,True,78,3,2.28,1,2,4,7,12,0,1008471
+2026-27,1,248,FWD,Everton,Crystal Palace,True,11,1,1.2,0,0,0,0,12,0,987489
+2026-27,1,249,FWD,Everton,Crystal Palace,True,78,8,6.07,0,1,2,3,12,0,1395746
+2026-27,1,254,DEF,Fulham,Chelsea,True,81,1,2.34,4,3,5,7,10,0,803174
+2026-27,1,255,DEF,Fulham,Chelsea,True,90,3,3.52,9,1,3,10,10,1,868715
+2026-27,1,257,DEF,Fulham,Chelsea,True,90,0,0.61,3,1,4,4,10,0,861972
+2026-27,1,258,DEF,Fulham,Chelsea,True,90,6,1.51,5,1,4,6,10,0,329417
+2026-27,1,259,DEF,Ipswich Town,Sunderland,True,90,2,4.1,4,1,6,5,10,0,825719
+2026-27,1,260,MID,Leeds,Nott'm Forest,False,65,3,2.65,0,2,0,2,12,0,355528
+2026-27,1,261,MID,Fulham,Chelsea,True,90,2,2.23,3,1,6,10,12,0,352770
+2026-27,1,263,MID,Fulham,Chelsea,True,17,1,1.03,0,2,1,3,12,0,1112879
+2026-27,1,264,MID,Fulham,Chelsea,True,66,2,2.89,1,3,2,6,12,0,1065216
+2026-27,1,265,MID,Fulham,Chelsea,True,72,2,2.35,1,1,2,4,12,0,793167
+2026-27,1,267,MID,Ipswich Town,Sunderland,True,90,5,2.58,2,1,3,6,12,0,371222
+2026-27,1,268,MID,Fulham,Chelsea,True,90,7,3.08,2,2,4,8,12,0,1546231
+2026-27,1,269,DEF,Fulham,Chelsea,True,17,1,1.18,1,0,1,1,10,0,836698
+2026-27,1,271,FWD,Fulham,Chelsea,True,8,1,1.08,1,0,0,1,12,0,1015256
+2026-27,1,277,DEF,Hull City,Man Utd,True,90,8,4.64,20,1,3,21,10,1,100578
+2026-27,1,279,DEF,Hull City,Man Utd,True,63,14,8.81,7,0,3,7,10,0,307274
+2026-27,1,280,DEF,Hull City,Man Utd,True,69,6,3.28,1,1,3,2,10,0,827587
+2026-27,1,281,DEF,Hull City,Man Utd,True,20,1,1.3,2,1,2,3,10,0,991577
+2026-27,1,282,DEF,Hull City,Man Utd,True,84,6,3.02,5,1,1,6,10,0,931304
+2026-27,1,285,DEF,Hull City,Man Utd,True,26,1,1.0,2,0,1,2,10,0,592876
+2026-27,1,286,MID,Hull City,Man Utd,True,90,3,2.5,3,4,3,10,12,0,1125839
+2026-27,1,287,MID,Hull City,Man Utd,True,19,0,0.0,1,1,1,3,12,0,902083
+2026-27,1,289,MID,Hull City,Man Utd,True,90,2,1.16,4,4,1,9,12,0,140479
+2026-27,1,290,MID,Hull City,Man Utd,True,90,6,3.48,0,1,2,3,12,0,864474
+2026-27,1,295,FWD,Hull City,Man Utd,True,90,5,2.67,3,0,2,5,12,0,367228
+2026-27,1,304,DEF,Ipswich Town,Sunderland,True,90,4,6.55,16,2,6,18,10,1,856719
+2026-27,1,305,DEF,Ipswich Town,Sunderland,True,90,2,4.1,7,0,4,7,10,0,963493
+2026-27,1,306,DEF,Ipswich Town,Sunderland,True,90,2,4.07,4,3,1,7,10,0,990821
+2026-27,1,309,MID,Ipswich Town,Sunderland,True,79,4,4.77,4,2,6,12,12,1,1014801
+2026-27,1,313,MID,Ipswich Town,Sunderland,True,19,7,2.5,0,1,1,2,12,0,921005
+2026-27,1,315,MID,Ipswich Town,Sunderland,True,65,2,3.76,1,4,2,7,12,0,1103589
+2026-27,1,316,FWD,Ipswich Town,Sunderland,True,65,9,8.46,1,1,1,3,12,0,1128844
+2026-27,1,320,FWD,Ipswich Town,Sunderland,True,24,1,1.0,0,1,2,3,12,0,190867
+2026-27,1,321,FWD,Ipswich Town,Sunderland,True,10,1,1.0,0,0,0,0,12,0,1154598
+2026-27,1,323,MID,Ipswich Town,Sunderland,True,24,1,1.0,0,1,2,3,12,0,1065134
+2026-27,1,327,DEF,Leeds,Nott'm Forest,False,90,10,8.73,11,1,5,12,10,1,886930
+2026-27,1,329,DEF,Leeds,Nott'm Forest,False,90,6,4.43,6,1,1,7,10,0,828640
+2026-27,1,330,DEF,Leeds,Nott'm Forest,False,90,6,4.07,2,1,3,3,10,0,929132
+2026-27,1,332,DEF,Leeds,Nott'm Forest,False,90,10,8.1,6,6,4,12,10,1,827681
+2026-27,1,334,DEF,Leeds,Nott'm Forest,False,90,6,4.61,7,0,1,7,10,0,1118177
+2026-27,1,335,MID,Leeds,Nott'm Forest,False,90,13,8.17,8,3,5,16,12,1,889861
+2026-27,1,336,MID,Leeds,Nott'm Forest,False,24,1,1.48,1,2,2,5,12,0,865523
+2026-27,1,337,MID,Leeds,Nott'm Forest,False,81,3,2.64,0,1,6,7,12,0,973431
+2026-27,1,338,MID,Leeds,Nott'm Forest,False,90,5,4.64,6,2,5,13,12,1,847097
+2026-27,1,339,MID,Leeds,Nott'm Forest,False,8,1,1.0,0,0,0,0,12,0,866191
+2026-27,1,346,FWD,Leeds,Nott'm Forest,False,90,1,1.52,0,0,2,2,12,0,372344
+2026-27,1,356,DEF,Liverpool,Newcastle,False,90,2,4.35,9,2,6,11,10,1,151545
+2026-27,1,357,DEF,Liverpool,Newcastle,False,90,0,1.15,1,1,3,2,10,0,970361
+2026-27,1,358,DEF,Liverpool,Newcastle,False,90,0,1.0,4,3,3,7,10,0,1097425
+2026-27,1,362,DEF,Liverpool,Newcastle,False,69,1,2.47,2,1,3,3,10,0,1445625
+2026-27,1,366,MID,Liverpool,Newcastle,False,62,2,4.02,0,1,4,5,12,0,1019322
+2026-27,1,367,MID,Liverpool,Newcastle,False,90,12,9.16,4,3,5,12,12,1,862967
+2026-27,1,368,MID,Liverpool,Newcastle,False,90,8,8.27,2,1,4,7,12,0,869856
+2026-27,1,369,MID,Liverpool,Newcastle,False,62,2,2.86,0,1,2,3,12,0,1881902
+2026-27,1,371,MID,Liverpool,Newcastle,False,77,5,2.78,2,1,8,11,12,0,904897
+2026-27,1,372,MID,Liverpool,Newcastle,False,27,1,1.03,0,2,1,3,12,0,895324
+2026-27,1,377,MID,Liverpool,Newcastle,False,27,4,1.62,0,0,0,0,12,0,1145642
+2026-27,1,379,FWD,Liverpool,Newcastle,False,90,2,6.39,1,0,0,1,12,0,823941
+2026-27,1,381,MID,Liverpool,Newcastle,False,12,1,1.15,0,0,1,1,12,0,1403111
+2026-27,1,387,DEF,Man City,Bournemouth,True,62,2,5.96,1,1,5,2,10,0,1142703
+2026-27,1,388,DEF,Man City,Bournemouth,True,90,10,12.39,1,3,4,4,10,0,877994
+2026-27,1,389,DEF,Man City,Bournemouth,True,33,1,1.12,1,0,2,1,10,0,945122
+2026-27,1,390,DEF,Man City,Bournemouth,True,90,2,4.51,6,0,8,6,10,0,318941
+2026-27,1,391,DEF,Man City,Bournemouth,True,90,9,6.38,5,2,5,7,10,0,964994
+2026-27,1,393,DEF,Man City,Bournemouth,True,90,2,4.15,2,2,6,4,10,0,1194333
+2026-27,1,395,DEF,Man City,Bournemouth,True,56,1,2.08,2,0,0,2,10,0,1136731
+2026-27,1,397,MID,Man City,Bournemouth,True,90,2,2.88,0,1,4,5,12,0,934354
+2026-27,1,398,MID,Man City,Bournemouth,True,81,1,3.32,0,3,3,6,12,0,859765
+2026-27,1,399,MID,Man City,Bournemouth,True,27,8,3.5,0,0,0,0,12,0,979128
+2026-27,1,406,MID,Man City,Bournemouth,True,27,1,1.03,0,0,2,2,12,0,136710
+2026-27,1,411,FWD,Man City,Bournemouth,True,90,2,5.02,0,0,3,3,12,0,839956
+2026-27,1,415,MID,Man Utd,Hull City,False,45,0,2.44,1,0,0,1,12,0,1397168
+2026-27,1,417,DEF,Man Utd,Hull City,False,10,1,1.0,1,2,1,3,10,0,843200
+2026-27,1,418,DEF,Man Utd,Hull City,False,90,1,3.9,4,0,5,4,10,0,149380
+2026-27,1,421,DEF,Man Utd,Hull City,False,90,1,3.3,1,1,4,2,10,0,1445799
+2026-27,1,422,DEF,Man Utd,Hull City,False,79,1,3.93,4,1,3,5,10,0,847030
+2026-27,1,423,DEF,Man Utd,Hull City,False,90,1,3.24,3,1,3,4,10,0,190839
+2026-27,1,426,MID,Man Utd,Hull City,False,90,2,3.54,1,0,5,6,12,0,288205
+2026-27,1,427,MID,Man Utd,Hull City,False,90,2,5.55,0,0,4,4,12,0,927083
+2026-27,1,428,MID,Man Utd,Hull City,False,79,2,4.19,0,0,3,3,12,0,886363
+2026-27,1,429,MID,Man Utd,Hull City,False,45,1,1.3,0,0,1,1,12,0,814590
+2026-27,1,432,MID,Man Utd,Hull City,False,23,1,1.38,0,0,1,1,12,0,1142175
+2026-27,1,435,MID,Man Utd,Hull City,False,10,1,1.0,0,0,1,1,12,0,1465865
+2026-27,1,439,FWD,Man Utd,Hull City,False,23,1,1.16,0,0,0,0,12,0,986397
+2026-27,1,445,DEF,Newcastle,Liverpool,True,90,3,3.2,15,0,2,15,10,1,1014286
+2026-27,1,446,DEF,Newcastle,Liverpool,True,1,1,1.0,0,0,0,0,10,0,101882
+2026-27,1,447,DEF,Newcastle,Liverpool,True,90,3,3.23,10,0,2,10,10,1,910046
+2026-27,1,449,DEF,Newcastle,Liverpool,True,90,3,4.25,6,5,8,11,10,1,1136730
+2026-27,1,453,MID,Newcastle,Liverpool,True,90,2,2.46,3,1,4,8,12,0,855647
+2026-27,1,454,MID,Newcastle,Liverpool,True,75,9,5.27,1,0,1,2,12,0,979232
+2026-27,1,455,MID,Spurs,Brentford,False,90,2,2.4,0,1,3,4,12,0,892673
+2026-27,1,456,MID,Newcastle,Liverpool,True,34,0,0.33,3,2,1,6,12,0,975937
+2026-27,1,457,MID,Newcastle,Liverpool,True,14,0,0.0,1,0,1,2,12,0,372336
+2026-27,1,459,MID,Newcastle,Liverpool,True,75,3,3.42,6,1,6,13,12,1,1400650
+2026-27,1,460,MID,Newcastle,Liverpool,True,34,6,1.96,0,2,1,3,12,0,888550
+2026-27,1,462,MID,Newcastle,Liverpool,True,55,1,1.0,0,0,2,2,12,0,1859920
+2026-27,1,464,FWD,Newcastle,Liverpool,True,90,4,5.06,1,4,3,8,12,0,805123
+2026-27,1,465,FWD,Newcastle,Liverpool,True,55,4,1.66,2,1,2,5,12,0,1122603
+2026-27,1,469,DEF,Nott'm Forest,Leeds,True,90,2,4.56,3,3,10,6,10,0,927356
+2026-27,1,471,DEF,Nott'm Forest,Leeds,True,90,2,5.22,7,0,6,7,10,0,836168
+2026-27,1,472,DEF,Nott'm Forest,Leeds,True,90,4,7.34,12,2,3,14,10,1,1199282
+2026-27,1,473,DEF,Nott'm Forest,Leeds,True,73,5,4.6,2,0,4,2,10,0,800417
+2026-27,1,474,DEF,Nott'm Forest,Leeds,True,90,1,3.5,7,1,0,8,10,0,1170722
+2026-27,1,478,DEF,Nott'm Forest,Leeds,True,16,1,1.0,0,0,1,0,10,0,979144
+2026-27,1,480,MID,Nott'm Forest,Leeds,True,90,2,3.46,1,0,2,3,12,0,865912
+2026-27,1,481,MID,Man City,Bournemouth,True,62,2,3.33,1,2,3,6,12,0,994546
+2026-27,1,483,MID,Nott'm Forest,Leeds,True,61,3,2.78,1,1,1,3,12,0,944327
+2026-27,1,486,MID,Nott'm Forest,Leeds,True,73,3,3.19,2,1,5,8,12,0,1003334
+2026-27,1,488,MID,Nott'm Forest,Leeds,True,90,2,2.81,3,0,3,6,12,0,843754
+2026-27,1,490,FWD,Nott'm Forest,Leeds,True,28,1,1.51,0,0,1,1,12,0,50480
+2026-27,1,491,FWD,Nott'm Forest,Leeds,True,90,2,2.94,2,0,1,3,12,0,981619
+2026-27,1,492,FWD,Coventry City,Arsenal,False,20,1,1.0,0,0,1,1,12,0,359664
+2026-27,1,493,FWD,Nott'm Forest,Leeds,True,1,1,1.0,0,0,0,0,12,0,954061
+2026-27,1,498,DEF,Spurs,Brentford,False,90,3,3.14,11,5,2,16,10,1,830659
+2026-27,1,502,DEF,Spurs,Brentford,False,90,3,3.26,9,2,3,11,10,1,262911
+2026-27,1,504,DEF,Brighton,Aston Villa,True,90,6,5.86,4,0,2,4,10,0,1405212
+2026-27,1,506,DEF,Spurs,Brentford,False,4,1,1.06,0,0,2,0,10,0,983572
+2026-27,1,514,MID,Spurs,Brentford,False,90,2,2.5,1,0,7,8,12,0,1048888
+2026-27,1,515,MID,Spurs,Brentford,False,22,1,1.03,1,0,1,2,12,0,356398
+2026-27,1,516,MID,Spurs,Brentford,False,45,1,1.03,0,3,2,5,12,0,791190
+2026-27,1,519,MID,Spurs,Brentford,False,45,0,0.28,0,1,2,3,12,0,904970
+2026-27,1,520,MID,Spurs,Brentford,False,45,1,1.03,0,1,7,8,12,0,1391251
+2026-27,1,522,MID,Spurs,Brentford,False,85,2,2.06,2,1,2,5,12,0,1142335
+2026-27,1,523,MID,Spurs,Brentford,False,67,2,4.01,0,1,1,2,12,0,1403192
+2026-27,1,525,MID,Spurs,Brentford,False,45,1,1.18,0,1,1,2,12,0,1142562
+2026-27,1,526,FWD,Spurs,Brentford,False,22,1,1.28,0,0,0,0,12,0,361420
+2026-27,1,527,FWD,Spurs,Brentford,False,67,2,2.0,1,0,0,1,12,0,840217
+2026-27,1,532,DEF,Sunderland,Ipswich Town,False,90,0,0.69,7,2,0,9,10,0,958878
+2026-27,1,534,DEF,Sunderland,Ipswich Town,False,79,2,3.79,1,3,6,4,10,0,989034
+2026-27,1,535,DEF,Sunderland,Ipswich Town,False,23,1,1.03,0,0,2,0,10,0,805137
+2026-27,1,536,DEF,Sunderland,Ipswich Town,False,90,1,2.53,5,3,5,8,10,0,831424
+2026-27,1,539,DEF,Sunderland,Ipswich Town,False,66,1,1.83,4,1,4,5,10,0,365812
+2026-27,1,541,DEF,Sunderland,Ipswich Town,False,90,1,2.38,2,2,3,4,10,0,128587
+2026-27,1,542,MID,Sunderland,Ipswich Town,False,79,2,2.27,0,1,1,2,12,0,984014
+2026-27,1,543,MID,Sunderland,Ipswich Town,False,10,1,1.15,0,0,0,0,12,0,1128532
+2026-27,1,544,MID,Sunderland,Ipswich Town,False,90,9,6.44,2,3,8,13,12,1,117777
+2026-27,1,545,MID,Sunderland,Ipswich Town,False,90,2,2.56,0,0,2,2,12,0,1171539
+2026-27,1,548,MID,Sunderland,Ipswich Town,False,10,1,1.0,0,0,1,1,12,0,1394089
+2026-27,1,549,MID,Sunderland,Ipswich Town,False,31,1,1.0,0,0,2,2,12,0,1142675
+2026-27,1,551,MID,Sunderland,Ipswich Town,False,58,5,0.78,1,1,5,7,12,0,1116571
+2026-27,1,552,FWD,Sunderland,Ipswich Town,False,66,2,3.2,0,0,0,0,12,0,910048
+2026-27,1,553,FWD,Sunderland,Ipswich Town,False,23,1,1.0,0,0,0,0,12,0,877980
+2026-27,1,556,DEF,Hull City,Man Utd,True,5,1,1.0,0,0,1,0,10,0,368134
+2026-27,1,557,MID,Arsenal,Coventry City,True,75,6,4.31,2,1,3,6,12,0,1031259
+2026-27,1,558,MID,Nott'm Forest,Leeds,True,16,1,1.0,0,0,1,1,12,0,791079
+2026-27,1,559,MID,Newcastle,Liverpool,True,14,1,1.0,1,1,0,2,12,0,1868591
+2026-27,1,562,MID,Ipswich Town,Sunderland,True,79,2,5.58,3,4,2,9,12,0,832420
+2026-27,1,565,MID,Brentford,Spurs,True,75,14,8.87,4,2,7,13,12,1,1064697
+2026-27,1,566,DEF,Bournemouth,Man City,False,90,2,2.42,13,0,1,13,10,1,1006069
+2026-27,1,569,FWD,Fulham,Chelsea,True,90,6,4.95,0,1,1,2,12,0,1402716
+2026-27,1,570,MID,Fulham,Chelsea,True,72,2,2.94,0,2,2,4,12,0,1402688
+2026-27,1,575,MID,Coventry City,Arsenal,False,61,1,1.21,0,0,3,3,12,0,1986794
+2026-27,1,576,MID,Hull City,Man Utd,True,70,3,2.4,1,3,2,6,12,0,1383695
+2026-27,1,577,DEF,Crystal Palace,Everton,False,18,1,1.03,1,0,1,1,10,0,804434
+2026-27,1,579,DEF,Liverpool,Newcastle,False,20,1,1.09,3,1,1,4,10,0,925097
+2026-27,1,580,MID,Fulham,Chelsea,True,23,1,1.0,0,1,2,3,12,0,1131449
+2026-27,1,583,DEF,Chelsea,Fulham,False,25,1,1.0,1,0,1,1,10,0,1010421
+2026-27,1,584,MID,Coventry City,Arsenal,False,8,1,1.0,0,0,1,1,12,0,837495
+2026-27,1,585,DEF,Hull City,Man Utd,True,26,1,1.0,4,0,0,4,10,0,1646783
+2026-27,1,586,DEF,Hull City,Man Utd,True,63,15,8.37,13,0,2,13,10,1,1458073
+2026-27,1,588,DEF,Crystal Palace,Everton,False,35,1,1.48,5,4,3,9,10,0,1403362
+2026-27,1,591,MID,Ipswich Town,Sunderland,True,70,5,4.61,2,1,5,8,12,0,973556
+2026-27,1,592,DEF,Ipswich Town,Sunderland,True,10,1,1.0,2,0,0,2,10,0,1930811
+2026-27,1,593,DEF,Newcastle,Liverpool,True,90,1,1.38,7,2,2,9,10,0,1102791
+2026-27,1,596,DEF,Aston Villa,Brighton,False,8,1,1.0,0,2,0,2,10,0,965011
+2026-27,1,600,MID,Brighton,Aston Villa,True,12,1,1.15,0,0,2,2,12,0,1471095
+2026-27,1,605,MID,Brighton,Aston Villa,True,4,1,1.03,0,0,0,0,12,0,1568186
+2026-27,1,608,FWD,Bournemouth,Man City,False,15,1,1.4,0,0,1,1,12,0,1096136
+2026-27,2,4,DEF,Arsenal,Aston Villa,False,90,8,7.72,8,2,5,10,10,1,869792
+2026-27,2,7,MID,Arsenal,Aston Villa,False,70,3,3.13,4,0,1,5,12,0,1423711
+2026-27,2,8,DEF,Arsenal,Aston Villa,False,90,11,8.92,2,1,4,3,10,0,957602
+2026-27,2,10,DEF,Arsenal,Aston Villa,False,90,7,6.03,3,1,2,4,10,0,846036
+2026-27,2,11,DEF,Arsenal,Aston Villa,False,78,6,4.91,4,0,0,4,10,0,1144630
+2026-27,2,12,MID,Arsenal,Aston Villa,False,90,11,8.99,3,2,6,11,12,0,934235
+2026-27,2,13,MID,Arsenal,Aston Villa,False,84,5,5.02,2,3,7,12,12,1,856714
+2026-27,2,14,MID,Arsenal,Aston Villa,False,45,1,1.21,0,0,3,3,12,0,864921
+2026-27,2,15,MID,Arsenal,Aston Villa,False,70,3,3.33,2,2,1,5,12,0,547410
+2026-27,2,17,MID,Arsenal,Aston Villa,False,19,1,1.0,0,0,4,4,12,0,592010
+2026-27,2,19,MID,Arsenal,Aston Villa,False,5,1,1.0,0,2,0,2,12,0,966837
+2026-27,2,26,FWD,Arsenal,Aston Villa,False,90,2,2.17,0,0,5,5,12,0,836705
+2026-27,2,31,DEF,Arsenal,Aston Villa,False,11,1,1.0,1,0,0,1,10,0,827679
+2026-27,2,32,DEF,Aston Villa,Arsenal,True,77,2,4.34,2,4,1,6,10,0,833956
+2026-27,2,34,DEF,Aston Villa,Arsenal,True,90,2,3.44,3,1,8,4,10,0,864169
+2026-27,2,36,DEF,Aston Villa,Arsenal,True,90,1,2.83,5,3,2,8,10,0,976263
+2026-27,2,37,DEF,Aston Villa,Arsenal,True,90,2,3.65,6,1,1,7,10,0,143334
+2026-27,2,40,MID,Chelsea,Brighton,True,90,5,5.97,1,1,3,5,12,0,948261
+2026-27,2,41,MID,Aston Villa,Arsenal,True,90,2,2.61,0,1,4,5,12,0,783126
+2026-27,2,42,MID,Crystal Palace,Man City,True,27,1,1.03,1,0,0,1,12,0,930245
+2026-27,2,43,MID,Man Utd,Ipswich Town,True,90,4,6.81,4,2,7,13,12,1,331737
+2026-27,2,45,MID,Aston Villa,Arsenal,True,90,1,1.75,1,1,2,4,12,0,250223
+2026-27,2,46,MID,Aston Villa,Arsenal,True,77,2,2.56,1,3,6,10,12,0,98435
+2026-27,2,47,MID,Aston Villa,Arsenal,True,90,2,2.44,3,1,4,8,12,0,826204
+2026-27,2,51,MID,Aston Villa,Arsenal,True,70,2,2.39,0,2,4,6,12,0,1398204
+2026-27,2,52,MID,Aston Villa,Arsenal,True,19,0,0.0,0,1,1,2,12,0,1631879
+2026-27,2,56,FWD,Aston Villa,Arsenal,True,19,1,1.0,0,0,0,0,12,0,610766
+2026-27,2,60,DEF,Bournemouth,Everton,True,90,4,6.86,9,3,3,12,10,1,1156586
+2026-27,2,61,DEF,Bournemouth,Everton,True,90,4,4.85,7,2,6,9,10,0,999028
+2026-27,2,64,DEF,Bournemouth,Everton,True,90,1,1.7,4,2,0,6,10,0,44566
+2026-27,2,67,MID,Bournemouth,Everton,True,90,2,4.22,1,1,3,5,12,0,1464966
+2026-27,2,68,MID,Bournemouth,Everton,True,90,1,2.24,1,4,6,11,12,0,895576
+2026-27,2,69,MID,Bournemouth,Everton,True,86,12,8.29,3,3,9,15,12,1,1104986
+2026-27,2,70,MID,Bournemouth,Everton,True,80,3,5.39,0,0,5,5,12,0,851596
+2026-27,2,71,MID,Bournemouth,Everton,True,68,3,2.22,0,0,2,2,12,0,548188
+2026-27,2,73,MID,Bournemouth,Everton,True,21,1,1.0,0,0,3,3,12,0,800419
+2026-27,2,74,MID,Bournemouth,Everton,True,9,1,1.03,0,0,0,0,12,0,855731
+2026-27,2,75,MID,Bournemouth,Everton,True,3,1,1.0,0,1,1,2,12,0,322391
+2026-27,2,79,FWD,Bournemouth,Everton,True,80,5,4.44,1,0,2,3,12,0,998490
+2026-27,2,81,FWD,Bournemouth,Everton,True,9,1,1.0,0,0,1,1,12,0,1154587
+2026-27,2,84,DEF,Brentford,Leeds,False,90,3,4.98,11,2,8,13,10,1,958916
+2026-27,2,86,MID,Brentford,Leeds,False,87,6,3.72,3,2,6,11,12,0,972421
+2026-27,2,87,DEF,Brentford,Leeds,False,90,3,3.96,17,0,2,17,10,1,576384
+2026-27,2,88,DEF,Brentford,Leeds,False,87,2,3.68,3,1,4,4,10,0,1137431
+2026-27,2,89,DEF,Brentford,Leeds,False,2,1,1.0,0,0,0,0,10,0,599128
+2026-27,2,90,DEF,Brentford,Leeds,False,2,1,1.06,0,1,0,1,10,0,966869
+2026-27,2,91,DEF,Coventry City,Hull City,True,12,1,1.0,2,0,0,2,10,0,855864
+2026-27,2,94,MID,Brentford,Leeds,False,87,10,6.54,3,2,4,9,12,0,1006387
+2026-27,2,95,MID,Brentford,Leeds,False,29,1,1.34,3,1,3,7,12,0,1106451
+2026-27,2,96,MID,Brentford,Leeds,False,68,3,3.42,2,2,5,9,12,0,907072
+2026-27,2,98,MID,Brentford,Leeds,False,90,1,1.65,5,3,2,10,12,0,814873
+2026-27,2,102,MID,Brentford,Leeds,False,21,1,1.03,0,0,0,0,12,0,1031258
+2026-27,2,105,MID,Brentford,Leeds,False,60,2,2.64,0,0,1,1,12,0,1020680
+2026-27,2,106,FWD,Brentford,Leeds,False,90,2,5.23,0,1,3,4,12,0,1016907
+2026-27,2,108,FWD,Brentford,Leeds,False,2,1,1.16,0,0,1,1,12,0,113956
+2026-27,2,112,DEF,Spurs,Newcastle,True,90,1,3.7,6,2,4,8,10,0,962012
+2026-27,2,113,DEF,Brighton,Chelsea,False,90,0,0.36,0,0,2,0,10,0,825844
+2026-27,2,114,DEF,Brighton,Chelsea,False,90,-1,-0.16,3,0,2,3,10,0,788784
+2026-27,2,115,DEF,Brighton,Chelsea,False,90,0,0.54,2,0,3,2,10,0,997152
+2026-27,2,116,DEF,Brighton,Chelsea,False,90,-1,-0.76,2,1,4,3,10,0,115365
+2026-27,2,119,DEF,Brighton,Chelsea,False,10,0,0.0,0,0,0,0,10,0,988333
+2026-27,2,124,MID,Brighton,Chelsea,False,90,13,5.63,2,1,3,6,12,0,48480
+2026-27,2,127,MID,Brighton,Chelsea,False,90,5,4.46,1,2,2,5,12,0,1065588
+2026-27,2,130,DEF,Brighton,Chelsea,False,79,0,0.64,7,0,4,7,10,0,959628
+2026-27,2,138,FWD,Brighton,Chelsea,False,79,5,2.74,0,0,6,6,12,0,1416535
+2026-27,2,142,DEF,Chelsea,Brighton,True,22,1,1.0,0,0,1,0,10,0,885908
+2026-27,2,144,DEF,Chelsea,Brighton,True,90,1,2.01,4,1,3,5,10,0,996958
+2026-27,2,145,DEF,Chelsea,Brighton,True,67,0,1.16,9,0,0,9,10,0,923894
+2026-27,2,148,DEF,Chelsea,Brighton,True,90,4,2.16,4,2,3,6,10,0,1153079
+2026-27,2,149,DEF,Chelsea,Brighton,True,71,1,2.08,8,1,2,9,10,0,996911
+2026-27,2,151,DEF,Chelsea,Brighton,True,22,1,1.0,2,1,0,3,10,0,1403050
+2026-27,2,153,DEF,Crystal Palace,Man City,True,16,1,1.0,0,1,1,1,10,0,827243
+2026-27,2,154,MID,Chelsea,Brighton,True,90,7,5.93,2,2,4,8,12,0,982780
+2026-27,2,156,MID,Chelsea,Brighton,True,67,7,5.32,3,0,1,4,12,0,879349
+2026-27,2,159,MID,Chelsea,Brighton,True,13,1,1.0,0,0,0,0,12,0,987650
+2026-27,2,160,MID,Aston Villa,Arsenal,True,12,1,1.0,0,0,2,2,12,0,1135873
+2026-27,2,161,MID,Chelsea,Brighton,True,67,7,4.98,3,1,3,7,12,0,1069488
+2026-27,2,162,MID,Man Utd,Ipswich Town,True,10,1,1.0,0,3,2,5,12,0,1105779
+2026-27,2,165,FWD,Chelsea,Brighton,True,90,9,7.04,0,1,2,3,12,0,975079
+2026-27,2,166,FWD,Aston Villa,Arsenal,True,70,2,2.3,0,0,3,3,12,0,1085381
+2026-27,2,167,FWD,Nott'm Forest,Liverpool,False,24,1,1.28,0,0,0,0,12,0,997087
+2026-27,2,173,DEF,Coventry City,Hull City,True,77,8,7.37,9,0,6,9,10,0,1033352
+2026-27,2,175,DEF,Coventry City,Hull City,True,90,2,4.52,1,1,3,2,10,0,948723
+2026-27,2,176,DEF,Coventry City,Hull City,True,90,2,5.18,1,2,3,3,10,0,791985
+2026-27,2,182,DEF,Coventry City,Hull City,True,90,1,3.19,4,0,1,4,10,0,999276
+2026-27,2,183,MID,Coventry City,Hull City,True,70,3,3.55,1,1,4,6,12,0,979565
+2026-27,2,184,MID,Coventry City,Hull City,True,90,2,2.66,1,0,9,10,12,0,340713
+2026-27,2,185,MID,Coventry City,Hull City,True,31,1,1.16,0,2,2,4,12,0,978927
+2026-27,2,186,MID,Coventry City,Hull City,True,57,1,1.18,2,0,2,4,12,0,861315
+2026-27,2,188,MID,Coventry City,Hull City,True,19,1,1.03,0,0,2,2,12,0,837011
+2026-27,2,190,MID,Coventry City,Hull City,True,58,1,1.64,2,1,3,6,12,0,1004505
+2026-27,2,194,FWD,Coventry City,Hull City,True,32,1,1.0,0,0,2,2,12,0,846061
+2026-27,2,200,DEF,Chelsea,Brighton,True,90,1,2.1,8,1,1,9,10,0,879674
+2026-27,2,202,DEF,Crystal Palace,Man City,True,90,0,0.68,4,2,2,6,10,0,931844
+2026-27,2,203,DEF,Crystal Palace,Man City,True,90,0,0.44,6,1,1,7,10,0,1471671
+2026-27,2,204,DEF,Crystal Palace,Man City,True,90,0,1.58,3,2,1,5,10,0,988275
+2026-27,2,207,DEF,Crystal Palace,Man City,True,15,1,1.0,0,1,0,1,10,0,859773
+2026-27,2,209,MID,Everton,Bournemouth,False,28,1,1.0,0,1,1,2,12,0,1085180
+2026-27,2,210,MID,Crystal Palace,Man City,True,90,2,2.32,0,4,3,7,12,0,1109771
+2026-27,2,211,MID,Crystal Palace,Man City,True,67,5,2.59,2,2,6,10,12,0,984624
+2026-27,2,214,MID,Crystal Palace,Man City,True,90,2,2.42,1,6,2,9,12,0,794338
+2026-27,2,222,FWD,Crystal Palace,Man City,True,62,2,2.2,2,1,1,4,12,0,876599
+2026-27,2,224,FWD,Crystal Palace,Man City,True,67,2,3.44,1,2,3,6,12,0,858194
+2026-27,2,229,DEF,Everton,Bournemouth,False,90,12,7.09,9,1,3,10,10,1,145188
+2026-27,2,230,DEF,Everton,Bournemouth,False,90,4,5.03,11,1,3,12,10,1,979563
+2026-27,2,233,DEF,Everton,Bournemouth,False,90,4,4.49,11,1,7,12,10,1,876643
+2026-27,2,236,MID,Everton,Bournemouth,False,90,2,2.9,0,3,7,10,12,0,861970
+2026-27,2,237,MID,Man City,Bournemouth,False,90,4,4.43,5,1,7,13,12,1,914309
+2026-27,2,239,MID,Everton,Bournemouth,False,61,1,1.56,0,3,7,10,12,0,927361
+2026-27,2,240,MID,Hull City,Bournemouth,False,4,1,1.0,0,0,0,0,12,0,1085950
+2026-27,2,241,MID,Crystal Palace,Man City,True,22,1,1.0,1,0,1,2,12,0,935543
+2026-27,2,242,MID,Everton,Bournemouth,False,61,2,2.84,0,1,1,2,12,0,1403061
+2026-27,2,243,MID,Everton,Bournemouth,False,4,0,0.21,0,0,0,0,12,0,1017392
+2026-27,2,244,MID,Everton,Bournemouth,False,86,2,2.21,3,3,3,9,12,0,1627560
+2026-27,2,246,MID,Everton,Bournemouth,False,85,2,2.15,2,3,4,9,12,0,1064082
+2026-27,2,247,MID,Everton,Bournemouth,False,28,1,1.03,2,0,1,3,12,0,1008471
+2026-27,2,248,FWD,Everton,Bournemouth,False,20,1,1.16,1,0,0,1,12,0,987489
+2026-27,2,249,FWD,Everton,Bournemouth,False,69,2,7.92,2,0,1,3,12,0,1395746
+2026-27,2,253,DEF,Fulham,Sunderland,False,90,1,1.65,8,0,2,8,10,0,362682
+2026-27,2,254,DEF,Fulham,Sunderland,False,90,2,2.59,0,3,2,3,10,0,803174
+2026-27,2,257,DEF,Fulham,Sunderland,False,90,2,2.56,6,1,6,7,10,0,861972
+2026-27,2,258,DEF,Fulham,Sunderland,False,67,6,5.08,1,1,2,2,10,0,329417
+2026-27,2,259,DEF,Ipswich Town,Man Utd,False,90,2,2.03,12,0,4,12,10,1,825719
+2026-27,2,260,MID,Leeds,Brentford,True,45,1,1.17,2,1,3,6,12,0,355528
+2026-27,2,261,MID,Fulham,Sunderland,False,90,2,3.38,1,1,2,4,12,0,352770
+2026-27,2,262,MID,Fulham,Sunderland,False,14,1,1.36,0,0,1,1,12,0,867445
+2026-27,2,263,MID,Fulham,Sunderland,False,7,1,1.12,0,0,0,0,12,0,1112879
+2026-27,2,264,MID,Fulham,Sunderland,False,67,3,2.8,1,2,2,5,12,0,1065216
+2026-27,2,265,MID,Fulham,Sunderland,False,82,2,2.76,0,0,2,2,12,0,793167
+2026-27,2,267,MID,Ipswich Town,Man Utd,False,72,1,1.18,7,3,1,11,12,0,371222
+2026-27,2,268,MID,Fulham,Sunderland,False,90,2,4.57,1,2,1,4,12,0,1546231
+2026-27,2,269,DEF,Fulham,Sunderland,False,22,1,1.48,0,1,1,1,10,0,836698
+2026-27,2,277,DEF,Hull City,Coventry City,False,90,9,6.1,12,1,1,13,10,1,100578
+2026-27,2,279,DEF,Hull City,Coventry City,False,90,6,3.1,5,2,5,7,10,0,307274
+2026-27,2,280,DEF,Hull City,Coventry City,False,45,0,0.0,4,0,1,4,10,0,827587
+2026-27,2,281,DEF,Hull City,Coventry City,False,45,1,1.0,3,0,2,3,10,0,991577
+2026-27,2,282,DEF,Hull City,Coventry City,False,90,6,3.31,1,1,4,2,10,0,931304
+2026-27,2,286,MID,Hull City,Coventry City,False,82,6,2.99,3,2,5,10,12,0,1125839
+2026-27,2,287,MID,Hull City,Coventry City,False,31,6,3.9,1,0,0,1,12,0,902083
+2026-27,2,290,MID,Hull City,Coventry City,False,90,2,1.31,2,4,4,10,12,0,864474
+2026-27,2,295,FWD,Hull City,Coventry City,False,90,1,1.03,0,0,4,4,12,0,367228
+2026-27,2,304,DEF,Ipswich Town,Man Utd,False,90,0,0.48,1,0,2,1,10,0,856719
+2026-27,2,305,DEF,Ipswich Town,Man Utd,False,90,6,3.63,4,0,1,4,10,0,963493
+2026-27,2,306,DEF,Ipswich Town,Man Utd,False,90,-1,-0.94,9,1,4,10,10,1,990821
+2026-27,2,308,DEF,Ipswich Town,Man Utd,False,17,1,1.0,2,1,0,3,10,0,786022
+2026-27,2,309,MID,Ipswich Town,Man Utd,False,61,2,2.12,4,1,4,9,12,0,1014801
+2026-27,2,315,MID,Ipswich Town,Man Utd,False,82,4,1.67,1,1,2,4,12,0,1103589
+2026-27,2,316,FWD,Ipswich Town,Man Utd,False,45,1,1.0,1,0,0,1,12,0,1128844
+2026-27,2,320,FWD,Ipswich Town,Man Utd,False,45,5,4.88,0,0,0,0,12,0,190867
+2026-27,2,323,MID,Ipswich Town,Man Utd,False,7,1,1.0,0,0,1,1,12,0,1065134
+2026-27,2,327,DEF,Leeds,Brentford,True,45,1,1.0,5,0,2,5,10,0,886930
+2026-27,2,329,DEF,Leeds,Brentford,True,33,1,1.0,4,0,1,4,10,0,828640
+2026-27,2,330,DEF,Leeds,Brentford,True,67,2,3.94,5,2,5,7,10,0,929132
+2026-27,2,332,DEF,Leeds,Brentford,True,90,2,2.96,6,2,3,8,10,0,827681
+2026-27,2,334,DEF,Leeds,Brentford,True,90,4,4.78,17,2,3,19,10,1,1118177
+2026-27,2,335,MID,Leeds,Brentford,True,90,4,4.57,8,4,4,16,12,1,889861
+2026-27,2,336,MID,Leeds,Brentford,True,68,2,2.91,1,1,0,2,12,0,865523
+2026-27,2,337,MID,Leeds,Brentford,True,45,1,1.03,1,1,1,3,12,0,973431
+2026-27,2,338,MID,Leeds,Brentford,True,90,2,2.51,5,2,3,10,12,0,847097
+2026-27,2,343,MID,Leeds,Brentford,True,22,1,2.23,0,0,2,2,12,0,828639
+2026-27,2,345,MID,Leeds,Brentford,True,45,1,1.03,5,3,3,11,12,0,871886
+2026-27,2,346,FWD,Leeds,Brentford,True,90,8,7.74,3,0,1,4,12,0,372344
+2026-27,2,347,FWD,Leeds,Brentford,True,21,4,1.4,0,0,1,1,12,0,803185
+2026-27,2,356,DEF,Liverpool,Nott'm Forest,True,90,1,1.49,7,0,5,7,10,0,151545
+2026-27,2,357,DEF,Liverpool,Nott'm Forest,True,70,1,1.49,4,2,3,6,10,0,970361
+2026-27,2,358,DEF,Liverpool,Nott'm Forest,True,70,1,1.46,7,1,4,8,10,0,1097425
+2026-27,2,362,DEF,Liverpool,Nott'm Forest,True,76,3,3.58,8,3,4,11,10,1,1445625
+2026-27,2,364,DEF,Liverpool,Nott'm Forest,True,19,1,1.27,0,0,0,0,10,0,786259
+2026-27,2,366,MID,Liverpool,Nott'm Forest,True,90,4,2.85,0,3,7,10,12,0,1019322
+2026-27,2,367,MID,Liverpool,Nott'm Forest,True,70,5,4.06,1,0,2,3,12,0,862967
+2026-27,2,368,MID,Liverpool,Nott'm Forest,True,90,4,5.41,3,3,7,13,12,1,869856
+2026-27,2,369,MID,Liverpool,Nott'm Forest,True,19,1,1.09,0,0,0,0,12,0,1881902
+2026-27,2,371,MID,Liverpool,Nott'm Forest,True,19,1,1.03,0,1,0,1,12,0,904897
+2026-27,2,372,MID,Liverpool,Nott'm Forest,True,76,2,3.28,2,3,5,10,12,0,895324
+2026-27,2,375,MID,Liverpool,Nott'm Forest,True,13,1,1.0,1,2,2,5,12,0,1445945
+2026-27,2,377,MID,Liverpool,Nott'm Forest,True,90,6,3.27,4,2,1,7,12,0,1145642
+2026-27,2,379,FWD,Liverpool,Nott'm Forest,True,90,8,7.96,0,1,0,1,12,0,823941
+2026-27,2,387,DEF,Man City,Crystal Palace,False,88,2,4.25,0,1,2,1,10,0,1142703
+2026-27,2,388,DEF,Man City,Crystal Palace,False,90,2,4.19,5,0,4,5,10,0,877994
+2026-27,2,390,DEF,Man City,Crystal Palace,False,90,2,6.32,5,1,6,6,10,0,318941
+2026-27,2,391,DEF,Man City,Crystal Palace,False,74,5,4.19,1,1,0,2,10,0,964994
+2026-27,2,393,DEF,Man City,Crystal Palace,False,88,2,4.13,3,4,3,7,10,0,1194333
+2026-27,2,396,DEF,Man City,Crystal Palace,False,1,1,1.0,0,0,0,0,10,0,1485300
+2026-27,2,397,MID,Man City,Crystal Palace,False,90,5,4.53,0,1,2,3,12,0,934354
+2026-27,2,398,MID,Man City,Crystal Palace,False,90,9,9.22,2,1,4,7,12,0,859765
+2026-27,2,399,MID,Man City,Crystal Palace,False,81,14,7.92,0,0,3,3,12,0,979128
+2026-27,2,401,FWD,Spurs,Newcastle,True,90,2,2.89,0,1,3,4,12,0,873554
+2026-27,2,405,MID,Newcastle,Spurs,False,70,2,2.08,2,0,2,4,12,0,954056
+2026-27,2,406,MID,Man City,Crystal Palace,False,15,1,1.03,0,0,0,0,12,0,136710
+2026-27,2,411,FWD,Man City,Crystal Palace,False,90,13,7.64,3,0,2,5,12,0,839956
+2026-27,2,415,MID,Man Utd,Ipswich Town,True,10,1,1.93,1,1,0,2,12,0,1397168
+2026-27,2,417,DEF,Man Utd,Ipswich Town,True,73,2,4.65,4,0,1,4,10,0,843200
+2026-27,2,418,DEF,Man Utd,Ipswich Town,True,90,4,1.72,4,1,4,5,10,0,149380
+2026-27,2,419,DEF,Man Utd,Ipswich Town,True,90,1,1.87,0,0,6,0,10,0,859999
+2026-27,2,420,DEF,Man Utd,Ipswich Town,True,16,1,1.03,2,0,1,2,10,0,1153315
+2026-27,2,422,DEF,Man Utd,Ipswich Town,True,17,1,1.0,0,0,0,0,10,0,847030
+2026-27,2,423,DEF,Man Utd,Ipswich Town,True,72,2,3.45,4,4,2,8,10,0,190839
+2026-27,2,426,MID,Man Utd,Ipswich Town,True,90,23,16.67,1,2,5,8,12,0,288205
+2026-27,2,427,MID,Man Utd,Ipswich Town,True,90,11,12.56,0,3,2,5,12,0,927083
+2026-27,2,428,MID,Man Utd,Ipswich Town,True,79,9,4.35,0,0,2,2,12,0,886363
+2026-27,2,429,MID,Man Utd,Ipswich Town,True,79,2,3.8,0,3,3,6,12,0,814590
+2026-27,2,432,MID,Man Utd,Ipswich Town,True,79,4,5.86,2,3,10,15,12,1,1142175
+2026-27,2,439,FWD,Man Utd,Ipswich Town,True,10,1,1.03,0,0,3,3,12,0,986397
+2026-27,2,445,DEF,Newcastle,Spurs,False,90,6,3.37,3,0,1,3,10,0,1014286
+2026-27,2,447,DEF,Newcastle,Spurs,False,90,5,2.37,4,1,4,5,10,0,910046
+2026-27,2,449,DEF,Newcastle,Spurs,False,90,11,9.42,11,2,6,13,10,1,1136730
+2026-27,2,452,MID,Arsenal,Aston Villa,False,19,1,1.03,0,0,3,3,12,0,866469
+2026-27,2,453,MID,Newcastle,Spurs,False,90,3,2.56,2,2,0,4,12,0,855647
+2026-27,2,454,MID,Newcastle,Spurs,False,81,8,3.78,0,2,1,3,12,0,979232
+2026-27,2,455,MID,Spurs,Newcastle,True,74,2,2.8,1,0,3,4,12,0,892673
+2026-27,2,456,MID,Newcastle,Spurs,False,8,1,1.39,0,0,1,1,12,0,975937
+2026-27,2,457,MID,Newcastle,Spurs,False,8,1,1.6,0,1,2,3,12,0,372336
+2026-27,2,459,MID,Newcastle,Spurs,False,90,3,2.45,3,0,6,9,12,0,1400650
+2026-27,2,460,MID,Newcastle,Spurs,False,70,3,2.89,1,0,1,2,12,0,888550
+2026-27,2,461,MID,Newcastle,Spurs,False,1,1,1.0,0,0,0,0,12,0,1568123
+2026-27,2,462,MID,Newcastle,Spurs,False,19,1,1.0,3,0,0,3,12,0,1859920
+2026-27,2,463,FWD,Newcastle,Spurs,False,19,4,1.11,0,0,0,0,12,0,980623
+2026-27,2,464,FWD,Newcastle,Spurs,False,81,8,5.4,1,1,4,6,12,0,805123
+2026-27,2,469,DEF,Nott'm Forest,Liverpool,False,90,6,4.87,6,6,1,12,10,1,927356
+2026-27,2,471,DEF,Nott'm Forest,Liverpool,False,90,3,3.7,10,3,3,13,10,1,836168
+2026-27,2,472,DEF,Nott'm Forest,Liverpool,False,90,1,2.78,6,0,3,6,10,0,1199282
+2026-27,2,473,DEF,Nott'm Forest,Liverpool,False,85,0,1.75,3,2,4,5,10,0,800417
+2026-27,2,474,DEF,Nott'm Forest,Liverpool,False,90,1,1.7,6,2,3,8,10,0,1170722
+2026-27,2,478,DEF,Nott'm Forest,Liverpool,False,4,1,1.0,0,1,0,1,10,0,979144
+2026-27,2,480,MID,Nott'm Forest,Liverpool,False,90,13,9.24,1,2,2,5,12,0,865912
+2026-27,2,481,MID,Man City,Crystal Palace,False,81,3,4.53,4,5,5,14,12,1,994546
+2026-27,2,482,MID,Nott'm Forest,Liverpool,False,1,1,1.0,0,0,0,0,12,0,867442
+2026-27,2,483,MID,Nott'm Forest,Liverpool,False,65,9,7.88,1,0,8,9,12,0,944327
+2026-27,2,486,MID,Nott'm Forest,Liverpool,False,90,2,2.65,2,1,5,8,12,0,1003334
+2026-27,2,487,MID,Nott'm Forest,Liverpool,False,1,1,1.0,0,0,0,0,12,0,871765
+2026-27,2,491,FWD,Nott'm Forest,Liverpool,False,90,1,4.08,3,1,1,5,12,0,981619
+2026-27,2,492,FWD,Coventry City,Hull City,True,90,2,5.81,1,0,2,3,12,0,359664
+2026-27,2,499,DEF,Spurs,Newcastle,True,90,1,5.23,3,1,2,4,10,0,913654
+2026-27,2,502,DEF,Spurs,Newcastle,True,67,2,4.9,2,1,1,3,10,0,262911
+2026-27,2,503,DEF,Spurs,Newcastle,True,90,0,2.01,7,1,4,8,10,0,998247
+2026-27,2,504,DEF,Brighton,Chelsea,False,90,0,0.45,7,1,3,8,10,0,1405212
+2026-27,2,506,DEF,Spurs,Newcastle,True,22,1,1.57,0,1,1,1,10,0,983572
+2026-27,2,512,MID,Spurs,Newcastle,True,22,1,1.23,0,0,2,2,12,0,905163
+2026-27,2,514,MID,Spurs,Newcastle,True,67,2,3.41,0,1,2,3,12,0,1048888
+2026-27,2,516,MID,Spurs,Newcastle,True,90,2,2.55,3,2,6,11,12,0,791190
+2026-27,2,522,MID,Spurs,Newcastle,True,67,2,2.62,3,0,3,6,12,0,1142335
+2026-27,2,523,MID,Spurs,Newcastle,True,22,1,1.1,0,0,1,1,12,0,1403192
+2026-27,2,525,MID,Spurs,Newcastle,True,90,2,3.05,0,3,5,8,12,0,1142562
+2026-27,2,526,FWD,Spurs,Newcastle,True,15,1,1.8,0,0,0,0,12,0,361420
+2026-27,2,532,DEF,Sunderland,Fulham,True,90,8,5.73,9,1,1,10,10,1,958878
+2026-27,2,533,DEF,Sunderland,Fulham,True,90,9,6.58,17,2,4,19,10,1,780014
+2026-27,2,534,DEF,Sunderland,Fulham,True,90,6,3.58,2,4,4,6,10,0,989034
+2026-27,2,536,DEF,Sunderland,Fulham,True,90,6,3.58,6,1,3,7,10,0,831424
+2026-27,2,541,DEF,Sunderland,Fulham,True,90,6,3.82,8,0,5,8,10,0,128587
+2026-27,2,542,MID,Sunderland,Fulham,True,89,3,4.78,1,1,4,6,12,0,984014
+2026-27,2,543,MID,Sunderland,Fulham,True,18,4,1.48,0,0,0,0,12,0,1128532
+2026-27,2,544,MID,Sunderland,Fulham,True,90,6,6.47,1,0,6,7,12,0,117777
+2026-27,2,545,MID,Sunderland,Fulham,True,90,3,2.55,6,3,2,11,12,0,1171539
+2026-27,2,547,MID,Sunderland,Fulham,True,1,1,1.85,1,0,0,1,12,0,1094440
+2026-27,2,548,MID,Sunderland,Fulham,True,7,1,1.0,0,0,0,0,12,0,1394089
+2026-27,2,551,MID,Sunderland,Fulham,True,64,3,2.68,0,1,4,5,12,0,1116571
+2026-27,2,552,FWD,Sunderland,Fulham,True,63,2,2.12,1,0,3,4,12,0,910048
+2026-27,2,553,FWD,Sunderland,Fulham,True,26,8,9.56,0,0,0,0,12,0,877980
+2026-27,2,557,MID,Arsenal,Aston Villa,False,45,0,0.03,1,0,2,3,12,0,1031259
+2026-27,2,558,MID,Nott'm Forest,Liverpool,False,90,4,4.42,3,5,7,15,12,1,791079
+2026-27,2,562,MID,Ipswich Town,Man Utd,False,72,2,2.35,3,1,1,5,12,0,832420
+2026-27,2,563,MID,Hull City,Coventry City,False,45,1,1.0,2,0,1,3,12,0,926560
+2026-27,2,565,MID,Brentford,Leeds,False,90,4,5.37,5,4,5,14,12,1,1064697
+2026-27,2,566,DEF,Bournemouth,Everton,True,90,4,6.23,8,2,4,10,10,1,1006069
+2026-27,2,568,MID,Chelsea,Brighton,True,8,1,1.2,1,0,0,1,12,0,1127057
+2026-27,2,569,FWD,Fulham,Sunderland,False,90,2,3.11,2,0,2,4,12,0,1402716
+2026-27,2,570,MID,Fulham,Sunderland,False,75,1,1.3,3,0,6,9,12,0,1402688
+2026-27,2,575,MID,Coventry City,Hull City,True,70,3,3.52,3,0,4,7,12,0,1986794
+2026-27,2,576,MID,Hull City,Coventry City,False,58,0,0.08,2,0,5,7,12,0,1383695
+2026-27,2,577,DEF,Crystal Palace,Man City,True,73,1,1.54,7,1,3,8,10,0,804434
+2026-27,2,579,DEF,Liverpool,Nott'm Forest,True,13,0,0.03,1,0,2,1,10,0,925097
+2026-27,2,580,MID,Fulham,Sunderland,False,22,1,1.54,1,0,1,2,12,0,1131449
+2026-27,2,583,DEF,Chelsea,Brighton,True,18,1,1.06,2,1,1,3,10,0,1010421
+2026-27,2,584,MID,Coventry City,Hull City,True,19,1,1.06,0,0,0,0,12,0,837495
+2026-27,2,585,DEF,Hull City,Coventry City,False,31,1,1.0,1,0,0,1,10,0,1646783
+2026-27,2,586,DEF,Hull City,Coventry City,False,58,1,1.06,7,2,2,9,10,0,1458073
+2026-27,2,588,DEF,Crystal Palace,Man City,True,74,2,2.66,4,10,5,14,10,1,1403362
+2026-27,2,589,MID,Hull City,Coventry City,False,45,1,1.03,1,3,2,6,12,0,1012657
+2026-27,2,591,MID,Ipswich Town,Man Utd,False,90,5,4.94,0,1,7,8,12,0,973556
+2026-27,2,592,DEF,Ipswich Town,Man Utd,False,17,1,1.0,0,0,1,0,10,0,1930811
+2026-27,2,593,DEF,Newcastle,Spurs,False,90,11,5.49,5,3,5,8,10,0,1102791
+2026-27,2,594,FWD,Brighton,Chelsea,False,10,1,1.0,0,0,0,0,12,0,1119328
+2026-27,2,595,MID,Crystal Palace,Man City,True,22,1,1.0,0,1,0,1,12,0,1578999
+2026-27,2,598,DEF,Leeds,Brentford,True,56,1,1.0,5,1,4,6,10,0,282229
+2026-27,2,600,MID,Brighton,Chelsea,False,16,1,1.03,0,1,0,1,12,0,1471095
+2026-27,2,605,MID,Brighton,Chelsea,False,73,8,7.04,2,3,2,7,12,0,1568186
+2026-27,2,611,DEF,Aston Villa,Arsenal,True,12,1,1.0,0,2,0,2,10,0,863653
+2026-27,2,616,MID,Man City,Crystal Palace,False,8,1,1.36,1,0,0,1,12,0,1564180
+2026-27,2,617,MID,Hull City,Coventry City,False,7,1,1.0,0,0,0,0,12,0,1063235
+2026-27,2,619,MID,Ipswich Town,Man Utd,False,28,1,1.03,2,1,3,6,12,0,822600
+2026-27,2,621,MID,Man City,Crystal Palace,False,8,1,1.5,0,0,0,0,12,0,1826151
+2026-27,2,622,DEF,Man City,Crystal Palace,False,1,1,1.0,0,0,1,0,10,0,1899484
+2026-27,3,4,DEF,Arsenal,Chelsea,True,90,2,6.63,7,0,4,7,10,0,869792
+2026-27,3,7,MID,Arsenal,Chelsea,True,66,2,3.22,0,0,2,2,12,0,1423711
+2026-27,3,8,DEF,Arsenal,Chelsea,True,66,2,7.51,0,1,1,1,10,0,957602
+2026-27,3,9,DEF,Arsenal,Chelsea,True,23,1,1.0,2,1,0,3,10,0,1002837
+2026-27,3,10,DEF,Arsenal,Chelsea,True,90,2,4.8,4,2,4,6,10,0,846036
+2026-27,3,12,MID,Arsenal,Chelsea,True,89,2,4.52,1,1,2,4,12,0,934235
+2026-27,3,13,MID,Arsenal,Chelsea,True,90,5,3.07,5,0,1,6,12,0,856714
+2026-27,3,15,MID,Arsenal,Chelsea,True,76,10,12.0,0,0,3,3,12,0,547410
+2026-27,3,16,MID,Arsenal,Chelsea,True,1,1,1.03,0,1,0,1,12,0,966547
+2026-27,3,17,MID,Arsenal,Chelsea,True,13,0,0.0,0,0,0,0,12,0,592010
+2026-27,3,19,MID,Arsenal,Chelsea,True,23,1,1.46,4,0,0,4,12,0,966837
+2026-27,3,25,FWD,Arsenal,Chelsea,True,12,1,1.0,0,0,1,1,12,0,804508
+2026-27,3,26,FWD,Arsenal,Chelsea,True,77,8,5.89,1,0,0,1,12,0,836705
+2026-27,3,31,DEF,Arsenal,Chelsea,True,90,4,6.74,7,3,5,10,10,1,827679
+2026-27,3,32,DEF,Aston Villa,Hull City,False,84,6,5.3,1,0,1,1,10,0,833956
+2026-27,3,33,DEF,Aston Villa,Hull City,False,90,6,4.98,4,1,2,5,10,0,303638
+2026-27,3,36,DEF,Aston Villa,Hull City,False,74,7,7.47,2,1,0,3,10,0,976263
+2026-27,3,37,DEF,Aston Villa,Hull City,False,90,6,4.5,4,0,3,4,10,0,143334
+2026-27,3,40,MID,Chelsea,Arsenal,False,86,6,1.62,0,0,5,5,12,0,948261
+2026-27,3,41,MID,Aston Villa,Hull City,False,74,3,6.0,0,0,2,2,12,0,783126
+2026-27,3,43,MID,Man Utd,Everton,False,90,2,2.79,2,0,5,7,12,0,331737
+2026-27,3,45,MID,Aston Villa,Hull City,False,90,3,6.06,1,2,2,5,12,0,250223
+2026-27,3,46,MID,Aston Villa,Hull City,False,90,3,3.94,2,0,4,6,12,0,98435
+2026-27,3,47,MID,Aston Villa,Hull City,False,90,3,2.78,3,1,6,10,12,0,826204
+2026-27,3,51,MID,Aston Villa,Hull City,False,74,3,3.57,2,1,4,7,12,0,1398204
+2026-27,3,52,MID,Aston Villa,Hull City,False,15,1,1.0,0,0,1,1,12,0,1631879
+2026-27,3,56,FWD,Aston Villa,Hull City,False,5,1,1.0,0,1,0,1,12,0,610766
+2026-27,3,60,DEF,Bournemouth,Newcastle,False,90,1,3.03,6,0,1,6,10,0,1156586
+2026-27,3,61,DEF,Bournemouth,Newcastle,False,90,0,2.21,3,3,5,6,10,0,999028
+2026-27,3,64,DEF,Bournemouth,Newcastle,False,90,0,2.15,3,1,6,4,10,0,44566
+2026-27,3,67,MID,Bournemouth,Newcastle,False,88,2,2.75,1,1,0,2,12,0,1464966
+2026-27,3,68,MID,Bournemouth,Newcastle,False,88,10,10.72,0,1,8,9,12,0,895576
+2026-27,3,69,MID,Bournemouth,Newcastle,False,90,10,4.9,5,0,6,11,12,0,1104986
+2026-27,3,70,MID,Bournemouth,Newcastle,False,75,1,1.95,0,1,3,4,12,0,851596
+2026-27,3,71,MID,Bournemouth,Newcastle,False,14,1,1.0,1,0,0,1,12,0,548188
+2026-27,3,72,MID,Bournemouth,Newcastle,False,1,1,1.1,0,1,1,2,12,0,1154861
+2026-27,3,73,MID,Bournemouth,Newcastle,False,75,4,4.65,1,3,8,12,12,1,800419
+2026-27,3,74,MID,Bournemouth,Newcastle,False,14,1,1.0,0,0,0,0,12,0,855731
+2026-27,3,75,MID,Bournemouth,Newcastle,False,1,1,1.0,0,0,0,0,12,0,322391
+2026-27,3,79,FWD,Bournemouth,Newcastle,False,90,2,2.55,4,0,3,7,12,0,998490
+2026-27,3,84,DEF,Brentford,Sunderland,True,16,1,1.0,1,0,0,1,10,0,958916
+2026-27,3,86,MID,Brentford,Sunderland,True,90,2,4.58,4,1,1,6,12,0,972421
+2026-27,3,87,DEF,Brentford,Sunderland,True,90,2,2.72,5,0,2,5,10,0,576384
+2026-27,3,88,DEF,Brentford,Sunderland,True,45,1,1.18,5,0,2,5,10,0,1137431
+2026-27,3,90,DEF,Brentford,Sunderland,True,45,1,1.0,4,1,2,5,10,0,966869
+2026-27,3,91,DEF,Coventry City,Man City,False,90,3,4.14,12,1,2,13,10,1,855864
+2026-27,3,93,DEF,Brentford,Sunderland,True,73,4,5.43,10,0,0,10,10,1,1474198
+2026-27,3,94,MID,Brentford,Sunderland,True,90,2,2.69,0,0,5,5,12,0,1006387
+2026-27,3,95,MID,Brentford,Sunderland,True,45,1,1.03,3,1,7,11,12,0,1106451
+2026-27,3,96,MID,Brentford,Sunderland,True,85,8,5.83,1,0,3,4,12,0,907072
+2026-27,3,98,MID,Brentford,Sunderland,True,90,11,6.76,3,4,5,12,12,1,814873
+2026-27,3,102,MID,Brentford,Sunderland,True,45,0,0.21,1,1,3,5,12,0,1031258
+2026-27,3,104,MID,Coventry City,Man City,False,62,2,2.31,0,1,2,3,12,0,885864
+2026-27,3,105,MID,Brentford,Sunderland,True,45,1,1.28,0,0,4,4,12,0,1020680
+2026-27,3,106,FWD,Brentford,Sunderland,True,90,2,4.03,3,1,2,6,12,0,1016907
+2026-27,3,108,FWD,Brentford,Sunderland,True,4,1,1.0,1,0,0,1,12,0,113956
+2026-27,3,112,DEF,Spurs,Nott'm Forest,False,90,8,6.16,3,1,4,4,10,0,962012
+2026-27,3,113,DEF,Brighton,Leeds,True,77,2,2.75,4,1,2,5,10,0,825844
+2026-27,3,114,DEF,Brighton,Leeds,True,90,2,3.32,4,0,4,4,10,0,788784
+2026-27,3,115,DEF,Brighton,Leeds,True,76,4,1.78,1,1,4,2,10,0,997152
+2026-27,3,116,DEF,Brighton,Leeds,True,90,5,5.36,12,0,5,12,10,1,115365
+2026-27,3,119,DEF,Brighton,Leeds,True,12,1,1.48,1,0,0,1,10,0,988333
+2026-27,3,124,MID,Brighton,Leeds,True,90,1,5.15,2,0,2,4,12,0,48480
+2026-27,3,127,MID,Brighton,Leeds,True,90,2,2.68,2,3,4,9,12,0,1065588
+2026-27,3,129,MID,Brighton,Leeds,True,90,2,3.05,1,0,2,3,12,0,1036269
+2026-27,3,136,FWD,Chelsea,Arsenal,False,3,1,1.0,0,0,0,0,12,0,33902
+2026-27,3,138,FWD,Brighton,Leeds,True,90,2,3.78,3,1,4,8,12,0,1416535
+2026-27,3,142,DEF,Chelsea,Arsenal,False,90,1,2.08,3,0,6,3,10,0,885908
+2026-27,3,144,DEF,Chelsea,Arsenal,False,30,1,1.27,0,2,2,2,10,0,996958
+2026-27,3,145,DEF,Chelsea,Arsenal,False,90,3,3.63,14,3,3,17,10,1,923894
+2026-27,3,148,DEF,Chelsea,Arsenal,False,59,3,0.06,4,2,2,6,10,0,1153079
+2026-27,3,151,DEF,Chelsea,Arsenal,False,90,1,1.54,1,0,1,1,10,0,1403050
+2026-27,3,153,DEF,Crystal Palace,Fulham,False,90,3,3.29,9,4,8,13,10,1,827243
+2026-27,3,154,MID,Chelsea,Arsenal,False,90,1,1.8,0,0,3,3,12,0,982780
+2026-27,3,155,MID,Man City,Coventry City,True,75,3,3.38,1,1,1,3,12,0,974505
+2026-27,3,156,MID,Chelsea,Arsenal,False,80,2,2.37,2,1,4,7,12,0,879349
+2026-27,3,157,MID,Chelsea,Arsenal,False,9,1,1.2,0,0,0,0,12,0,1597265
+2026-27,3,160,MID,Aston Villa,Hull City,False,15,1,1.0,0,0,0,0,12,0,1135873
+2026-27,3,161,MID,Chelsea,Arsenal,False,59,1,1.03,2,1,3,6,12,0,1069488
+2026-27,3,162,MID,Man Utd,Everton,False,6,1,1.03,4,0,0,4,12,0,1105779
+2026-27,3,165,FWD,Chelsea,Arsenal,False,90,1,1.23,0,0,1,1,12,0,975079
+2026-27,3,166,FWD,Aston Villa,Hull City,False,84,2,4.28,0,0,2,2,12,0,1085381
+2026-27,3,167,FWD,Nott'm Forest,Spurs,True,73,2,2.42,2,0,3,5,12,0,997087
+2026-27,3,173,DEF,Coventry City,Man City,False,90,4,6.31,11,1,3,12,10,1,1033352
+2026-27,3,175,DEF,Coventry City,Man City,False,90,3,3.66,8,3,4,11,10,1,948723
+2026-27,3,176,DEF,Coventry City,Man City,False,84,2,2.72,5,2,3,7,10,0,791985
+2026-27,3,182,DEF,Coventry City,Man City,False,90,2,3.5,2,1,6,3,10,0,999276
+2026-27,3,183,MID,Coventry City,Man City,False,62,2,4.03,2,1,2,5,12,0,979565
+2026-27,3,184,MID,Coventry City,Man City,False,90,2,2.32,3,5,0,8,12,0,340713
+2026-27,3,186,MID,Coventry City,Man City,False,70,2,2.31,2,0,3,5,12,0,861315
+2026-27,3,190,MID,Coventry City,Man City,False,27,1,1.59,0,0,1,1,12,0,1004505
+2026-27,3,194,FWD,Coventry City,Man City,False,19,1,1.0,1,0,2,3,12,0,846061
+2026-27,3,195,FWD,Coventry City,Man City,False,19,1,2.2,0,0,0,0,12,0,991614
+2026-27,3,200,DEF,Chelsea,Arsenal,False,90,2,2.54,9,2,2,11,10,1,879674
+2026-27,3,201,DEF,Nott'm Forest,Spurs,True,31,1,1.18,0,1,0,1,10,0,870360
+2026-27,3,202,DEF,Crystal Palace,Fulham,False,90,1,1.41,8,1,4,9,10,0,931844
+2026-27,3,203,DEF,Crystal Palace,Fulham,False,90,1,1.17,7,2,2,9,10,0,1471671
+2026-27,3,204,DEF,Crystal Palace,Fulham,False,73,15,7.3,4,2,2,6,10,0,988275
+2026-27,3,207,DEF,Crystal Palace,Fulham,False,1,1,1.0,0,1,1,1,10,0,859773
+2026-27,3,209,MID,Everton,Man Utd,True,65,1,2.06,3,1,4,8,12,0,1085180
+2026-27,3,210,MID,Crystal Palace,Fulham,False,90,2,2.07,7,1,0,8,12,0,1109771
+2026-27,3,211,MID,Crystal Palace,Fulham,False,88,5,4.2,1,1,3,5,12,0,984624
+2026-27,3,212,MID,Crystal Palace,Fulham,False,16,1,1.0,2,0,1,3,12,0,193554
+2026-27,3,214,MID,Crystal Palace,Fulham,False,88,5,2.08,0,0,4,4,12,0,794338
+2026-27,3,222,FWD,Crystal Palace,Fulham,False,45,1,1.0,1,0,3,4,12,0,876599
+2026-27,3,224,FWD,Crystal Palace,Fulham,False,45,4,1.56,0,1,1,2,12,0,858194
+2026-27,3,229,DEF,Everton,Man Utd,True,90,3,5.16,9,3,3,12,10,1,145188
+2026-27,3,230,DEF,Everton,Man Utd,True,90,3,5.49,10,1,4,11,10,1,979563
+2026-27,3,233,DEF,Everton,Man Utd,True,90,1,3.04,3,3,4,6,10,0,876643
+2026-27,3,236,MID,Everton,Man Utd,True,90,2,4.06,2,4,5,11,12,0,861970
+2026-27,3,237,MID,Man City,Coventry City,True,86,3,2.48,1,2,2,5,12,0,914309
+2026-27,3,238,MID,Everton,Man Utd,True,24,1,1.49,0,1,0,1,12,0,189061
+2026-27,3,239,MID,Everton,Man Utd,True,76,2,2.91,2,1,5,8,12,0,927361
+2026-27,3,242,MID,Everton,Man Utd,True,90,10,5.91,1,0,3,4,12,0,1403061
+2026-27,3,244,MID,Everton,Man Utd,True,90,1,2.04,3,1,1,5,12,0,1627560
+2026-27,3,246,MID,Everton,Man Utd,True,74,1,2.06,2,0,4,6,12,0,1064082
+2026-27,3,247,MID,Everton,Man Utd,True,15,4,1.47,0,1,0,1,12,0,1008471
+2026-27,3,249,FWD,Everton,Man Utd,True,90,2,3.58,0,0,4,4,12,0,1395746
+2026-27,3,253,DEF,Fulham,Crystal Palace,True,90,1,1.74,5,2,7,7,10,0,362682
+2026-27,3,254,DEF,Fulham,Crystal Palace,True,78,1,2.34,3,2,5,5,10,0,803174
+2026-27,3,257,DEF,Fulham,Crystal Palace,True,90,1,1.68,1,1,2,2,10,0,861972
+2026-27,3,258,DEF,Fulham,Crystal Palace,True,90,1,5.61,5,2,5,7,10,0,329417
+2026-27,3,259,DEF,Ipswich Town,Liverpool,True,90,3,5.04,9,2,2,11,10,1,825719
+2026-27,3,260,MID,Leeds,Brighton,False,17,0,0.0,0,0,1,1,12,0,355528
+2026-27,3,261,MID,Fulham,Crystal Palace,True,82,2,3.12,0,1,3,4,12,0,352770
+2026-27,3,262,MID,Fulham,Crystal Palace,True,11,1,1.0,0,0,0,0,12,0,867445
+2026-27,3,264,MID,Fulham,Crystal Palace,True,78,2,5.69,0,0,4,4,12,0,1065216
+2026-27,3,265,MID,Fulham,Crystal Palace,True,29,1,1.3,0,0,2,2,12,0,793167
+2026-27,3,267,MID,Ipswich Town,Liverpool,True,90,2,2.56,1,1,2,4,12,0,371222
+2026-27,3,268,MID,Fulham,Crystal Palace,True,90,10,7.5,1,1,5,7,12,0,1546231
+2026-27,3,269,DEF,Fulham,Crystal Palace,True,11,1,2.44,1,0,1,1,10,0,836698
+2026-27,3,271,FWD,Fulham,Crystal Palace,True,7,1,2.52,0,0,0,0,12,0,1015256
+2026-27,3,277,DEF,Hull City,Aston Villa,True,90,6,2.58,4,3,1,7,10,0,100578
+2026-27,3,279,DEF,Hull City,Aston Villa,True,90,5,1.58,5,1,1,6,10,0,307274
+2026-27,3,280,DEF,Hull City,Aston Villa,True,63,6,2.68,0,0,0,0,10,0,827587
+2026-27,3,282,DEF,Hull City,Aston Villa,True,90,8,4.7,3,1,5,4,10,0,931304
+2026-27,3,286,MID,Hull City,Aston Villa,True,81,5,4.33,8,3,1,12,12,1,1125839
+2026-27,3,290,MID,Hull City,Aston Villa,True,90,3,2.38,3,1,2,6,12,0,864474
+2026-27,3,295,FWD,Hull City,Aston Villa,True,90,2,3.67,1,2,0,3,12,0,367228
+2026-27,3,304,DEF,Ipswich Town,Liverpool,True,90,3,5.04,8,3,3,11,10,1,856719
+2026-27,3,305,DEF,Ipswich Town,Liverpool,True,90,1,4.03,4,2,3,6,10,0,963493
+2026-27,3,306,DEF,Ipswich Town,Liverpool,True,90,1,3.13,6,1,3,7,10,0,990821
+2026-27,3,313,MID,Ipswich Town,Liverpool,True,24,1,1.31,1,0,1,2,12,0,921005
+2026-27,3,315,MID,Ipswich Town,Liverpool,True,78,2,3.1,2,2,2,6,12,0,1103589
+2026-27,3,316,FWD,Ipswich Town,Liverpool,True,65,2,2.88,1,1,1,3,12,0,1128844
+2026-27,3,323,MID,Ipswich Town,Liverpool,True,11,1,1.25,0,0,1,1,12,0,1065134
+2026-27,3,327,DEF,Leeds,Brighton,False,29,1,1.0,2,2,0,4,10,0,886930
+2026-27,3,328,DEF,Brighton,Leeds,True,1,1,1.0,0,0,0,0,10,0,836675
+2026-27,3,330,DEF,Leeds,Brighton,False,60,14,12.61,2,0,0,2,10,0,929132
+2026-27,3,331,DEF,Leeds,Brighton,False,90,2,2.45,2,3,9,5,10,0,834308
+2026-27,3,332,DEF,Leeds,Brighton,False,90,4,5.29,7,3,4,10,10,1,827681
+2026-27,3,334,DEF,Leeds,Brighton,False,90,4,4.48,12,1,2,13,10,1,1118177
+2026-27,3,335,MID,Leeds,Brighton,False,90,2,4.01,2,2,2,6,12,0,889861
+2026-27,3,336,MID,Leeds,Brighton,False,61,3,2.82,0,0,0,0,12,0,865523
+2026-27,3,337,MID,Leeds,Brighton,False,28,1,1.0,0,0,0,0,12,0,973431
+2026-27,3,338,MID,Leeds,Brighton,False,90,2,2.14,6,4,1,11,12,0,847097
+2026-27,3,345,MID,Leeds,Brighton,False,72,5,5.1,3,2,3,8,12,0,871886
+2026-27,3,346,FWD,Leeds,Brighton,False,72,1,3.42,1,0,2,3,12,0,372344
+2026-27,3,347,FWD,Leeds,Brighton,False,17,1,2.1,0,0,0,0,12,0,803185
+2026-27,3,356,DEF,Liverpool,Ipswich Town,False,90,6,3.95,4,3,4,7,10,0,151545
+2026-27,3,358,DEF,Liverpool,Ipswich Town,False,90,5,2.98,3,2,1,5,10,0,1097425
+2026-27,3,362,DEF,Liverpool,Ipswich Town,False,90,5,2.98,6,3,3,9,10,0,1445625
+2026-27,3,366,MID,Liverpool,Ipswich Town,False,90,3,3.57,0,0,4,4,12,0,1019322
+2026-27,3,367,MID,Liverpool,Ipswich Town,False,90,11,5.97,2,3,5,10,12,0,862967
+2026-27,3,368,MID,Liverpool,Ipswich Town,False,90,3,3.51,3,0,6,9,12,0,869856
+2026-27,3,371,MID,Liverpool,Ipswich Town,False,26,1,1.0,1,0,1,2,12,0,904897
+2026-27,3,372,MID,Liverpool,Ipswich Town,False,83,2,2.01,3,3,5,11,12,0,895324
+2026-27,3,375,MID,Liverpool,Ipswich Town,False,6,1,1.0,0,0,0,0,12,0,1445945
+2026-27,3,377,MID,Liverpool,Ipswich Town,False,63,3,2.62,0,0,4,4,12,0,1145642
+2026-27,3,379,FWD,Liverpool,Ipswich Town,False,63,13,5.99,1,0,2,3,12,0,823941
+2026-27,3,381,MID,Liverpool,Ipswich Town,False,1,1,1.0,0,0,0,0,12,0,1403111
+2026-27,3,388,DEF,Man City,Coventry City,True,90,8,5.08,9,0,6,9,10,0,877994
+2026-27,3,390,DEF,Man City,Coventry City,True,90,6,3.11,3,0,0,3,10,0,318941
+2026-27,3,391,DEF,Man City,Coventry City,True,90,8,5.14,4,4,7,8,10,0,964994
+2026-27,3,393,DEF,Man City,Coventry City,True,90,5,2.08,4,2,4,6,10,0,1194333
+2026-27,3,397,MID,Man City,Coventry City,True,90,6,3.52,0,1,3,4,12,0,934354
+2026-27,3,398,MID,Man City,Coventry City,True,24,1,4.13,0,0,1,1,12,0,859765
+2026-27,3,399,MID,Man City,Coventry City,True,65,3,4.37,0,0,3,3,12,0,979128
+2026-27,3,401,FWD,Spurs,Nott'm Forest,False,83,2,2.71,0,0,0,0,12,0,873554
+2026-27,3,403,MID,Spurs,Nott'm Forest,False,60,3,3.52,0,0,0,0,12,0,1046795
+2026-27,3,405,MID,Newcastle,Bournemouth,True,76,2,2.29,1,0,6,7,12,0,954056
+2026-27,3,411,FWD,Man City,Coventry City,True,90,9,10.68,5,0,2,7,12,0,839956
+2026-27,3,415,MID,Man Utd,Everton,False,20,1,1.03,1,1,1,3,12,0,1397168
+2026-27,3,417,DEF,Man Utd,Everton,False,83,1,2.68,2,2,3,4,10,0,843200
+2026-27,3,418,DEF,Man Utd,Everton,False,90,2,3.49,12,0,2,12,10,1,149380
+2026-27,3,419,DEF,Man Utd,Everton,False,90,3,4.46,10,0,2,10,10,1,859999
+2026-27,3,420,DEF,Man Utd,Everton,False,6,1,1.03,1,2,0,3,10,0,1153315
+2026-27,3,422,DEF,Man Utd,Everton,False,1,1,1.03,0,1,0,1,10,0,847030
+2026-27,3,423,DEF,Man Utd,Everton,False,90,4,3.37,7,1,1,8,10,0,190839
+2026-27,3,426,MID,Man Utd,Everton,False,90,2,3.29,0,0,2,2,12,0,288205
+2026-27,3,427,MID,Man Utd,Everton,False,90,8,3.7,4,0,4,8,12,0,927083
+2026-27,3,428,MID,Man Utd,Everton,False,69,3,3.27,0,2,1,3,12,0,886363
+2026-27,3,429,MID,Man Utd,Everton,False,69,3,2.7,0,0,4,4,12,0,814590
+2026-27,3,432,MID,Man Utd,Everton,False,83,9,6.61,3,2,10,15,12,1,1142175
+2026-27,3,439,FWD,Man Utd,Everton,False,20,5,2.16,0,0,0,0,12,0,986397
+2026-27,3,445,DEF,Newcastle,Bournemouth,True,90,-1,0.17,3,0,3,3,10,0,1014286
+2026-27,3,447,DEF,Newcastle,Bournemouth,True,90,1,2.5,8,1,3,9,10,0,910046
+2026-27,3,449,DEF,Newcastle,Bournemouth,True,89,4,2.13,5,1,13,6,10,0,1136730
+2026-27,3,450,DEF,Newcastle,Bournemouth,True,1,1,1.0,0,0,0,0,10,0,980634
+2026-27,3,453,MID,Newcastle,Bournemouth,True,90,12,4.89,2,0,4,6,12,0,855647
+2026-27,3,454,MID,Newcastle,Bournemouth,True,76,1,1.95,1,2,1,4,12,0,979232
+2026-27,3,455,MID,Spurs,Nott'm Forest,False,90,5,4.43,4,4,4,12,12,1,892673
+2026-27,3,456,MID,Newcastle,Bournemouth,True,27,6,1.61,0,0,4,4,12,0,975937
+2026-27,3,457,MID,Newcastle,Bournemouth,True,13,1,1.0,0,0,1,1,12,0,372336
+2026-27,3,459,MID,Newcastle,Bournemouth,True,62,2,2.32,1,0,3,4,12,0,1400650
+2026-27,3,460,MID,Newcastle,Bournemouth,True,62,2,4.09,1,1,1,3,12,0,888550
+2026-27,3,462,MID,Newcastle,Bournemouth,True,13,1,1.0,1,0,1,2,12,0,1859920
+2026-27,3,464,FWD,Newcastle,Bournemouth,True,90,1,1.09,0,0,3,3,12,0,805123
+2026-27,3,469,DEF,Nott'm Forest,Spurs,True,90,7,4.6,3,3,8,6,10,0,927356
+2026-27,3,471,DEF,Nott'm Forest,Spurs,True,90,7,4.42,9,2,3,11,10,1,836168
+2026-27,3,472,DEF,Nott'm Forest,Spurs,True,89,8,6.41,6,4,4,10,10,1,1199282
+2026-27,3,473,DEF,Nott'm Forest,Spurs,True,58,1,1.0,2,5,4,7,10,0,800417
+2026-27,3,474,DEF,Nott'm Forest,Spurs,True,90,8,5.6,10,2,2,12,10,1,1170722
+2026-27,3,480,MID,Nott'm Forest,Spurs,True,90,3,4.78,0,2,5,7,12,0,865912
+2026-27,3,481,MID,Man City,Coventry City,True,90,3,2.86,4,1,6,11,12,0,994546
+2026-27,3,483,MID,Nott'm Forest,Spurs,True,58,1,1.0,0,1,4,5,12,0,944327
+2026-27,3,486,MID,Nott'm Forest,Spurs,True,90,2,2.66,0,3,4,7,12,0,1003334
+2026-27,3,490,FWD,Nott'm Forest,Spurs,True,16,1,1.0,0,0,0,0,12,0,50480
+2026-27,3,491,FWD,Nott'm Forest,Spurs,True,31,1,1.0,0,1,0,1,12,0,981619
+2026-27,3,492,FWD,Coventry City,Man City,False,70,2,3.24,2,0,3,5,12,0,359664
+2026-27,3,499,DEF,Spurs,Nott'm Forest,False,90,7,4.95,3,1,3,4,10,0,913654
+2026-27,3,501,DEF,Sunderland,Brentford,False,90,2,3.43,7,1,3,8,10,0,794953
+2026-27,3,502,DEF,Spurs,Nott'm Forest,False,29,1,1.0,1,0,1,1,10,0,262911
+2026-27,3,503,DEF,Spurs,Nott'm Forest,False,90,9,10.01,6,3,4,9,10,0,998247
+2026-27,3,504,DEF,Brighton,Leeds,True,90,12,7.5,8,2,4,10,10,1,1405212
+2026-27,3,506,DEF,Spurs,Nott'm Forest,False,60,5,3.51,3,0,1,3,10,0,983572
+2026-27,3,512,MID,Spurs,Nott'm Forest,False,29,1,1.48,0,0,3,3,12,0,905163
+2026-27,3,514,MID,Spurs,Nott'm Forest,False,73,3,2.62,0,0,2,2,12,0,1048888
+2026-27,3,516,MID,Spurs,Nott'm Forest,False,90,5,4.53,11,1,5,17,12,1,791190
+2026-27,3,519,MID,Spurs,Nott'm Forest,False,83,3,2.59,1,4,6,11,12,0,904970
+2026-27,3,525,MID,Spurs,Nott'm Forest,False,7,0,0.0,0,0,0,0,12,0,1142562
+2026-27,3,526,FWD,Spurs,Nott'm Forest,False,6,1,1.68,1,0,0,1,12,0,361420
+2026-27,3,532,DEF,Sunderland,Brentford,False,90,4,5.97,8,2,5,10,10,1,958878
+2026-27,3,533,DEF,Sunderland,Brentford,False,90,4,5.25,10,4,6,14,10,1,780014
+2026-27,3,534,DEF,Sunderland,Brentford,False,26,1,1.0,0,2,2,2,10,0,989034
+2026-27,3,536,DEF,Sunderland,Brentford,False,90,2,3.22,4,3,7,7,10,0,831424
+2026-27,3,541,DEF,Sunderland,Brentford,False,63,2,4.53,2,0,0,2,10,0,128587
+2026-27,3,542,MID,Sunderland,Brentford,False,90,8,7.59,0,4,2,6,12,0,984014
+2026-27,3,544,MID,Sunderland,Brentford,False,90,3,3.96,4,2,9,15,12,1,117777
+2026-27,3,545,MID,Sunderland,Brentford,False,73,1,3.38,0,0,3,3,12,0,1171539
+2026-27,3,551,MID,Sunderland,Brentford,False,63,2,2.68,1,1,3,5,12,0,1116571
+2026-27,3,552,FWD,Sunderland,Brentford,False,90,2,3.22,0,0,3,3,12,0,910048
+2026-27,3,553,FWD,Sunderland,Brentford,False,26,4,1.43,0,0,2,2,12,0,877980
+2026-27,3,557,MID,Arsenal,Chelsea,True,90,5,3.28,2,1,5,8,12,0,1031259
+2026-27,3,558,MID,Nott'm Forest,Spurs,True,90,3,2.68,3,4,3,10,12,0,791079
+2026-27,3,562,MID,Ipswich Town,Liverpool,True,65,2,2.74,2,2,1,5,12,0,832420
+2026-27,3,565,MID,Brentford,Sunderland,True,45,0,0.78,1,1,3,5,12,0,1064697
+2026-27,3,566,DEF,Bournemouth,Newcastle,False,90,1,3.12,7,1,2,8,10,0,1006069
+2026-27,3,569,FWD,Fulham,Crystal Palace,True,90,2,4.36,3,1,3,7,12,0,1402716
+2026-27,3,570,MID,Fulham,Crystal Palace,True,60,8,7.38,0,0,0,0,12,0,1402688
+2026-27,3,574,MID,Hull City,Aston Villa,True,8,1,1.0,0,0,1,1,12,0,1427971
+2026-27,3,575,MID,Coventry City,Man City,False,27,1,1.0,2,0,4,6,12,0,1986794
+2026-27,3,576,MID,Hull City,Aston Villa,True,62,3,2.39,0,0,2,2,12,0,1383695
+2026-27,3,578,MID,Spurs,Nott'm Forest,False,16,1,1.0,0,0,0,0,12,0,958966
+2026-27,3,579,DEF,Liverpool,Ipswich Town,False,90,8,5.92,9,1,1,10,10,1,925097
+2026-27,3,580,MID,Fulham,Crystal Palace,True,78,2,2.41,3,0,8,11,12,0,1131449
+2026-27,3,581,DEF,Nott'm Forest,Spurs,True,1,1,1.0,0,0,0,0,10,0,1394342
+2026-27,3,583,DEF,Chelsea,Arsenal,False,30,1,1.0,1,1,1,2,10,0,1010421
+2026-27,3,584,MID,Coventry City,Man City,False,5,1,1.0,0,1,1,2,12,0,837495
+2026-27,3,585,DEF,Hull City,Aston Villa,True,19,1,1.0,1,1,1,2,10,0,1646783
+2026-27,3,586,DEF,Hull City,Aston Villa,True,70,8,4.83,7,3,2,10,10,1,1458073
+2026-27,3,588,DEF,Crystal Palace,Fulham,False,90,3,7.52,7,3,3,10,10,1,1403362
+2026-27,3,589,MID,Hull City,Aston Villa,True,81,2,1.18,4,1,5,10,12,0,1012657
+2026-27,3,591,MID,Ipswich Town,Liverpool,True,90,1,2.76,2,0,3,5,12,0,973556
+2026-27,3,592,DEF,Ipswich Town,Liverpool,True,12,1,1.06,0,0,2,0,10,0,1930811
+2026-27,3,593,DEF,Newcastle,Bournemouth,True,90,1,2.74,1,0,4,1,10,0,1102791
+2026-27,3,594,FWD,Brighton,Leeds,True,13,0,1.68,0,0,0,0,12,0,1119328
+2026-27,3,596,DEF,Aston Villa,Hull City,False,15,1,1.03,1,0,2,1,10,0,965011
+2026-27,3,598,DEF,Leeds,Brighton,False,90,4,6.16,10,0,0,10,10,1,282229
+2026-27,3,605,MID,Brighton,Leeds,True,90,2,2.6,2,0,3,5,12,0,1568186
+2026-27,3,608,FWD,Bournemouth,Newcastle,False,1,1,1.0,0,0,0,0,12,0,1096136
+2026-27,3,611,DEF,Aston Villa,Hull City,False,5,1,1.0,1,0,0,1,10,0,863653
+2026-27,3,616,MID,Man City,Coventry City,True,14,1,1.0,2,0,3,5,12,0,1564180
+2026-27,3,617,MID,Hull City,Aston Villa,True,8,1,1.25,0,0,0,0,12,0,1063235
+2026-27,3,619,MID,Ipswich Town,Liverpool,True,77,4,4.56,3,4,12,19,12,1,822600
+2026-27,3,621,MID,Man City,Coventry City,True,3,1,1.0,0,2,2,4,12,0,1826151
+2026-27,3,627,MID,Liverpool,Ipswich Town,False,26,1,1.21,0,0,0,0,12,0,996952
+2026-27,3,634,FWD,Newcastle,Bournemouth,True,27,1,1.0,0,0,1,1,12,0,1149144
+2026-27,3,635,MID,Fulham,Crystal Palace,True,11,1,2.31,0,1,0,1,12,0,1142211
+2026-27,3,638,DEF,Hull City,Aston Villa,True,26,1,1.0,1,0,2,1,10,0,1087514
+2026-27,3,640,FWD,Ipswich Town,Liverpool,True,24,1,1.11,0,0,0,0,12,0,875137
+2026-27,3,642,MID,Hull City,Aston Villa,True,27,1,1.12,0,0,1,1,12,0,911039
+2026-27,3,643,DEF,Crystal Palace,Fulham,False,16,7,1.9,0,0,0,0,10,0,802695
+2026-27,3,644,MID,Crystal Palace,Fulham,False,73,2,2.18,2,1,3,6,12,0,959805
+2026-27,3,646,MID,Sunderland,Brentford,False,16,1,1.0,0,0,0,0,12,0,1195784
+2026-27,3,647,MID,Crystal Palace,Fulham,False,1,1,1.0,0,1,0,1,12,0,1106824
+2026-27,3,649,DEF,Everton,Man Utd,True,13,7,1.18,0,0,0,0,10,0,352768
+2026-27,4,4,DEF,Arsenal,Sunderland,False,90,9,5.81,10,1,2,11,10,1,869792
+2026-27,4,5,DEF,Arsenal,Sunderland,False,45,1,1.03,2,1,5,3,10,0,958959
+2026-27,4,7,MID,Arsenal,Sunderland,False,45,1,1.0,0,0,0,0,12,0,1423711
+2026-27,4,8,DEF,Arsenal,Sunderland,False,90,6,3.05,4,0,2,4,10,0,957602
+2026-27,4,10,DEF,Arsenal,Sunderland,False,45,1,1.0,1,2,0,3,10,0,846036
+2026-27,4,12,MID,Arsenal,Sunderland,False,90,8,9.31,2,1,4,7,12,0,934235
+2026-27,4,13,MID,Arsenal,Sunderland,False,80,6,3.35,6,2,2,10,12,0,856714
+2026-27,4,14,MID,Arsenal,Sunderland,False,9,1,1.0,0,0,0,0,12,0,864921
+2026-27,4,15,MID,Arsenal,Sunderland,False,84,3,2.92,1,1,3,5,12,0,547410
+2026-27,4,17,MID,Arsenal,Sunderland,False,5,1,1.0,0,0,0,0,12,0,592010
+2026-27,4,19,MID,Arsenal,Sunderland,False,9,1,1.0,0,1,1,2,12,0,966837
+2026-27,4,26,FWD,Arsenal,Sunderland,False,90,1,2.42,1,0,1,2,12,0,836705
+2026-27,4,31,DEF,Arsenal,Sunderland,False,90,6,2.66,6,2,1,8,10,0,827679
+2026-27,4,33,DEF,Aston Villa,Nott'm Forest,True,65,0,1.04,4,1,2,5,10,0,303638
+2026-27,4,34,DEF,Aston Villa,Nott'm Forest,True,24,1,1.0,0,0,0,0,10,0,864169
+2026-27,4,36,DEF,Aston Villa,Nott'm Forest,True,90,1,2.93,3,1,6,4,10,0,976263
+2026-27,4,37,DEF,Aston Villa,Nott'm Forest,True,90,1,4.08,2,0,0,2,10,0,143334
+2026-27,4,40,MID,Chelsea,Hull City,True,90,8,4.36,0,2,4,6,12,0,948261
+2026-27,4,41,MID,Aston Villa,Nott'm Forest,True,62,2,2.27,0,0,5,5,12,0,783126
+2026-27,4,43,MID,Man Utd,Man City,True,66,2,2.71,3,2,0,5,12,0,331737
+2026-27,4,45,MID,Aston Villa,Nott'm Forest,True,90,6,3.43,2,1,6,9,12,0,250223
+2026-27,4,46,MID,Aston Villa,Nott'm Forest,True,62,2,2.42,0,4,3,7,12,0,98435
+2026-27,4,47,MID,Aston Villa,Nott'm Forest,True,90,2,2.25,1,3,1,5,12,0,826204
+2026-27,4,51,MID,Aston Villa,Nott'm Forest,True,45,1,1.03,1,0,0,1,12,0,1398204
+2026-27,4,52,MID,Aston Villa,Nott'm Forest,True,45,6,1.3,1,0,1,2,12,0,1631879
+2026-27,4,53,MID,Aston Villa,Nott'm Forest,True,27,1,1.24,0,1,1,2,12,0,1518931
+2026-27,4,56,FWD,Aston Villa,Nott'm Forest,True,45,1,1.0,0,0,1,1,12,0,610766
+2026-27,4,60,DEF,Bournemouth,Brentford,True,90,2,4.46,10,1,3,11,10,1,1156586
+2026-27,4,61,DEF,Bournemouth,Brentford,True,90,3,6.21,8,8,3,16,10,1,999028
+2026-27,4,64,DEF,Bournemouth,Brentford,True,90,0,2.46,5,1,4,6,10,0,44566
+2026-27,4,67,MID,Bournemouth,Brentford,True,81,2,4.69,2,1,0,3,12,0,1464966
+2026-27,4,68,MID,Bournemouth,Brentford,True,82,8,6.09,2,1,5,8,12,0,895576
+2026-27,4,69,MID,Bournemouth,Brentford,True,90,4,5.71,6,2,7,15,12,1,1104986
+2026-27,4,70,MID,Bournemouth,Brentford,True,65,8,4.79,1,0,3,4,12,0,851596
+2026-27,4,71,MID,Bournemouth,Brentford,True,8,0,0.0,2,0,0,2,12,0,548188
+2026-27,4,72,MID,Bournemouth,Brentford,True,8,1,1.59,0,1,3,4,12,0,1154861
+2026-27,4,73,MID,Bournemouth,Brentford,True,81,2,2.89,3,2,5,10,12,0,800419
+2026-27,4,74,MID,Bournemouth,Brentford,True,7,0,0.0,2,0,1,3,12,0,855731
+2026-27,4,75,MID,Bournemouth,Brentford,True,24,1,1.36,3,0,4,7,12,0,322391
+2026-27,4,79,FWD,Bournemouth,Brentford,True,90,5,2.75,1,0,3,4,12,0,998490
+2026-27,4,81,FWD,Bournemouth,Brentford,True,1,1,1.0,0,0,0,0,12,0,1154587
+2026-27,4,86,MID,Brentford,Bournemouth,False,59,1,1.54,1,1,0,2,12,0,972421
+2026-27,4,87,DEF,Brentford,Bournemouth,False,90,1,1.82,7,2,1,9,10,0,576384
+2026-27,4,88,DEF,Brentford,Bournemouth,False,19,1,1.45,1,0,1,1,10,0,1137431
+2026-27,4,90,DEF,Brentford,Bournemouth,False,70,1,2.33,5,2,4,7,10,0,966869
+2026-27,4,91,DEF,Coventry City,Brighton,True,90,2,2.3,8,2,1,10,10,1,855864
+2026-27,4,93,DEF,Brentford,Bournemouth,False,90,3,3.73,10,2,3,12,10,1,1474198
+2026-27,4,94,MID,Brentford,Bournemouth,False,90,15,6.52,0,1,3,4,12,0,1006387
+2026-27,4,95,MID,Brentford,Bournemouth,False,30,1,1.13,1,0,3,4,12,0,1106451
+2026-27,4,96,MID,Brentford,Bournemouth,False,30,1,1.5,1,0,3,4,12,0,907072
+2026-27,4,98,MID,Brentford,Bournemouth,False,90,4,4.41,11,3,6,20,12,1,814873
+2026-27,4,102,MID,Brentford,Bournemouth,False,59,4,1.63,2,0,3,5,12,0,1031258
+2026-27,4,104,MID,Coventry City,Brighton,True,72,2,2.3,2,1,4,7,12,0,885864
+2026-27,4,105,MID,Brentford,Bournemouth,False,59,1,1.3,5,2,4,11,12,0,1020680
+2026-27,4,106,FWD,Brentford,Bournemouth,False,90,1,1.53,0,0,1,1,12,0,1016907
+2026-27,4,112,DEF,Spurs,Everton,True,90,8,6.31,11,2,2,13,10,1,962012
+2026-27,4,113,DEF,Brighton,Coventry City,False,90,6,3.33,2,0,1,2,10,0,825844
+2026-27,4,114,DEF,Brighton,Coventry City,False,77,6,3.47,8,1,5,9,10,0,788784
+2026-27,4,115,DEF,Brighton,Coventry City,False,90,11,5.36,1,0,4,1,10,0,997152
+2026-27,4,116,DEF,Brighton,Coventry City,False,90,12,3.33,5,1,2,6,10,0,115365
+2026-27,4,119,DEF,Brighton,Coventry City,False,6,1,1.0,1,0,1,1,10,0,988333
+2026-27,4,124,MID,Brighton,Coventry City,False,90,17,9.93,2,2,2,6,12,0,48480
+2026-27,4,126,MID,Brighton,Coventry City,False,6,1,1.03,0,0,1,1,12,0,891829
+2026-27,4,127,MID,Brighton,Coventry City,False,83,3,3.15,1,0,2,3,12,0,1065588
+2026-27,4,129,MID,Brighton,Coventry City,False,90,8,3.9,0,1,6,7,12,0,1036269
+2026-27,4,136,FWD,Chelsea,Hull City,True,12,1,1.18,1,0,0,1,12,0,33902
+2026-27,4,138,FWD,Brighton,Coventry City,False,83,10,4.59,2,1,4,7,12,0,1416535
+2026-27,4,142,DEF,Chelsea,Hull City,True,90,1,3.39,2,2,4,4,10,0,885908
+2026-27,4,144,DEF,Chelsea,Hull City,True,77,1,3.18,5,0,4,5,10,0,996958
+2026-27,4,145,DEF,Chelsea,Hull City,True,85,1,2.73,4,2,4,6,10,0,923894
+2026-27,4,147,DEF,Spurs,Everton,True,5,1,1.0,2,2,1,4,10,0,352668
+2026-27,4,148,DEF,Chelsea,Hull City,True,45,0,0.3,2,1,2,3,10,0,1153079
+2026-27,4,149,DEF,Chelsea,Hull City,True,90,1,2.04,6,0,6,6,10,0,996911
+2026-27,4,153,DEF,Crystal Palace,Ipswich Town,True,33,-3,-3.0,6,0,2,6,10,0,827243
+2026-27,4,154,MID,Chelsea,Hull City,True,90,5,3.65,0,0,3,3,12,0,982780
+2026-27,4,155,MID,Man City,Man Utd,False,81,2,2.9,4,2,4,10,12,0,974505
+2026-27,4,156,MID,Chelsea,Hull City,True,85,2,2.96,3,1,3,7,12,0,879349
+2026-27,4,157,MID,Chelsea,Hull City,True,4,1,1.36,0,1,0,1,12,0,1597265
+2026-27,4,161,MID,Chelsea,Hull City,True,68,2,2.64,3,1,5,9,12,0,1069488
+2026-27,4,165,FWD,Chelsea,Hull City,True,90,12,6.28,2,0,0,2,12,0,975079
+2026-27,4,166,FWD,Aston Villa,Nott'm Forest,True,45,0,0.12,0,0,0,0,12,0,1085381
+2026-27,4,167,FWD,Nott'm Forest,Aston Villa,False,90,5,3.76,1,1,2,4,12,0,997087
+2026-27,4,173,DEF,Coventry City,Brighton,True,90,0,1.59,8,0,2,8,10,0,1033352
+2026-27,4,175,DEF,Coventry City,Brighton,True,90,0,0.36,6,1,3,7,10,0,948723
+2026-27,4,176,DEF,Coventry City,Brighton,True,90,0,1.23,3,0,3,3,10,0,791985
+2026-27,4,182,DEF,Coventry City,Brighton,True,90,0,0.24,8,0,0,8,10,0,999276
+2026-27,4,183,MID,Coventry City,Brighton,True,72,2,5.96,2,0,3,5,12,0,979565
+2026-27,4,184,MID,Coventry City,Brighton,True,83,2,2.38,1,1,1,3,12,0,340713
+2026-27,4,186,MID,Coventry City,Brighton,True,59,1,3.48,2,0,2,4,12,0,861315
+2026-27,4,188,MID,Coventry City,Brighton,True,6,1,1.0,0,0,0,0,12,0,837011
+2026-27,4,194,FWD,Coventry City,Brighton,True,17,1,1.93,0,0,0,0,12,0,846061
+2026-27,4,200,DEF,Chelsea,Hull City,True,4,1,1.0,2,1,0,3,10,0,879674
+2026-27,4,201,DEF,Nott'm Forest,Aston Villa,False,90,2,5.62,3,4,4,7,10,0,870360
+2026-27,4,202,DEF,Crystal Palace,Ipswich Town,True,90,2,2.93,12,1,6,13,10,1,931844
+2026-27,4,204,DEF,Crystal Palace,Ipswich Town,True,76,1,2.47,1,0,8,1,10,0,988275
+2026-27,4,209,MID,Everton,Spurs,False,74,3,3.99,2,2,2,6,12,0,1085180
+2026-27,4,210,MID,Crystal Palace,Ipswich Town,True,76,2,2.84,1,1,3,5,12,0,1109771
+2026-27,4,211,MID,Crystal Palace,Ipswich Town,True,36,1,1.03,0,0,1,1,12,0,984624
+2026-27,4,212,MID,Crystal Palace,Ipswich Town,True,13,1,1.12,1,1,2,4,12,0,193554
+2026-27,4,213,MID,Crystal Palace,Ipswich Town,True,6,1,1.0,1,0,0,1,12,0,355796
+2026-27,4,214,MID,Crystal Palace,Ipswich Town,True,83,8,2.45,0,1,0,1,12,0,794338
+2026-27,4,222,FWD,Crystal Palace,Ipswich Town,True,83,8,4.42,0,1,1,2,12,0,876599
+2026-27,4,229,DEF,Everton,Spurs,False,90,8,6.04,3,5,3,8,10,0,145188
+2026-27,4,230,DEF,Everton,Spurs,False,90,6,4.01,8,1,2,9,10,0,979563
+2026-27,4,232,DEF,Everton,Spurs,False,15,1,1.0,1,0,1,1,10,0,998253
+2026-27,4,233,DEF,Everton,Spurs,False,90,11,9.22,4,7,4,11,10,1,876643
+2026-27,4,236,MID,Everton,Spurs,False,90,2,2.62,2,0,4,6,12,0,861970
+2026-27,4,237,MID,Man City,Man Utd,False,45,1,1.03,3,1,6,10,12,0,914309
+2026-27,4,238,MID,Everton,Spurs,False,25,1,1.03,2,1,1,4,12,0,189061
+2026-27,4,239,MID,Everton,Spurs,False,90,4,3.76,3,6,8,17,12,1,927361
+2026-27,4,240,MID,Hull City,Chelsea,False,21,0,0.0,1,1,0,2,12,0,1085950
+2026-27,4,242,MID,Everton,Spurs,False,64,3,3.38,1,0,2,3,12,0,1403061
+2026-27,4,244,MID,Everton,Spurs,False,90,3,2.56,3,0,2,5,12,0,1627560
+2026-27,4,247,MID,Everton,Spurs,False,15,1,1.06,1,0,0,1,12,0,1008471
+2026-27,4,249,FWD,Everton,Spurs,False,90,2,4.77,1,0,1,2,12,0,1395746
+2026-27,4,254,DEF,Fulham,Liverpool,False,90,6,3.56,7,2,4,9,10,0,803174
+2026-27,4,256,DEF,Fulham,Liverpool,False,27,0,0.0,3,0,0,3,10,0,190877
+2026-27,4,257,DEF,Fulham,Liverpool,False,90,6,3.41,7,1,3,8,10,0,861972
+2026-27,4,258,DEF,Fulham,Liverpool,False,71,6,3.94,3,2,3,5,10,0,329417
+2026-27,4,259,DEF,Ipswich Town,Crystal Palace,False,90,1,3.54,6,1,5,7,10,0,825719
+2026-27,4,260,MID,Leeds,Newcastle,True,18,1,1.09,1,1,0,2,12,0,355528
+2026-27,4,261,MID,Fulham,Liverpool,False,76,3,3.52,0,1,3,4,12,0,352770
+2026-27,4,262,MID,Fulham,Liverpool,False,13,1,1.0,1,0,1,2,12,0,867445
+2026-27,4,263,MID,Fulham,Liverpool,False,18,1,1.36,0,1,2,3,12,0,1112879
+2026-27,4,264,MID,Fulham,Liverpool,False,62,3,2.92,2,1,4,7,12,0,1065216
+2026-27,4,265,MID,Fulham,Liverpool,False,90,3,2.31,4,3,2,9,12,0,793167
+2026-27,4,267,MID,Ipswich Town,Crystal Palace,False,76,1,2.0,5,1,4,10,12,0,371222
+2026-27,4,268,MID,Fulham,Liverpool,False,76,3,3.76,0,2,2,4,12,0,1546231
+2026-27,4,271,FWD,Fulham,Liverpool,False,13,1,1.0,1,0,0,1,12,0,1015256
+2026-27,4,277,DEF,Hull City,Chelsea,False,90,2,3.85,12,2,6,14,10,1,100578
+2026-27,4,279,DEF,Hull City,Chelsea,False,90,1,3.39,2,1,2,3,10,0,307274
+2026-27,4,280,DEF,Hull City,Chelsea,False,81,1,3.76,2,1,4,3,10,0,827587
+2026-27,4,282,DEF,Hull City,Chelsea,False,90,4,3.12,6,1,2,7,10,0,931304
+2026-27,4,286,MID,Hull City,Chelsea,False,59,13,4.03,0,1,0,1,12,0,1125839
+2026-27,4,289,MID,Hull City,Chelsea,False,68,1,1.58,5,2,3,10,12,0,140479
+2026-27,4,290,MID,Hull City,Chelsea,False,90,2,2.9,3,3,5,11,12,0,864474
+2026-27,4,295,FWD,Hull City,Chelsea,False,81,4,2.44,2,1,0,3,12,0,367228
+2026-27,4,304,DEF,Ipswich Town,Crystal Palace,False,90,1,3.39,7,2,2,9,10,0,856719
+2026-27,4,305,DEF,Ipswich Town,Crystal Palace,False,90,14,7.84,2,0,0,2,10,0,963493
+2026-27,4,306,DEF,Ipswich Town,Crystal Palace,False,87,1,3.18,6,0,4,6,10,0,990821
+2026-27,4,313,MID,Ipswich Town,Crystal Palace,False,62,1,2.63,0,1,1,2,12,0,921005
+2026-27,4,315,MID,Ipswich Town,Crystal Palace,False,61,1,1.97,2,2,3,7,12,0,1103589
+2026-27,4,316,FWD,Ipswich Town,Crystal Palace,False,62,12,6.91,0,0,2,2,12,0,1128844
+2026-27,4,318,MID,Ipswich Town,Crystal Palace,False,28,1,1.1,0,0,3,3,12,0,1014461
+2026-27,4,328,DEF,Brighton,Coventry City,False,12,1,1.03,4,0,0,4,10,0,836675
+2026-27,4,330,DEF,Leeds,Newcastle,True,82,15,9.83,1,2,1,3,10,0,929132
+2026-27,4,331,DEF,Leeds,Newcastle,True,72,6,4.78,1,3,2,4,10,0,834308
+2026-27,4,332,DEF,Leeds,Newcastle,True,90,2,4.5,3,2,1,5,10,0,827681
+2026-27,4,334,DEF,Leeds,Newcastle,True,90,7,5.72,10,1,5,11,10,1,1118177
+2026-27,4,335,MID,Leeds,Newcastle,True,87,3,4.91,3,2,5,10,12,0,889861
+2026-27,4,336,MID,Leeds,Newcastle,True,71,9,4.15,1,2,3,6,12,0,865523
+2026-27,4,337,MID,Leeds,Newcastle,True,18,1,1.0,0,0,1,1,12,0,973431
+2026-27,4,338,MID,Leeds,Newcastle,True,90,7,4.82,2,1,9,12,12,1,847097
+2026-27,4,339,MID,Leeds,Newcastle,True,2,1,1.0,0,0,0,0,12,0,866191
+2026-27,4,343,MID,Leeds,Newcastle,True,7,1,1.55,0,0,2,2,12,0,828639
+2026-27,4,345,MID,Leeds,Newcastle,True,71,6,2.95,1,2,2,5,12,0,871886
+2026-27,4,346,FWD,Leeds,Newcastle,True,77,10,6.48,1,0,4,5,12,0,372344
+2026-27,4,347,FWD,Leeds,Newcastle,True,12,1,1.03,0,0,1,1,12,0,803185
+2026-27,4,356,DEF,Liverpool,Fulham,True,90,8,6.02,10,0,1,10,10,1,151545
+2026-27,4,357,DEF,Liverpool,Fulham,True,18,1,1.36,3,1,1,4,10,0,970361
+2026-27,4,358,DEF,Liverpool,Fulham,True,45,1,1.03,2,1,0,3,10,0,1097425
+2026-27,4,362,DEF,Liverpool,Fulham,True,90,9,7.05,4,1,5,5,10,0,1445625
+2026-27,4,364,DEF,Liverpool,Fulham,True,45,1,1.03,2,1,3,3,10,0,786259
+2026-27,4,366,MID,Liverpool,Fulham,True,90,3,3.23,2,1,6,9,12,0,1019322
+2026-27,4,367,MID,Liverpool,Fulham,True,30,1,1.46,0,0,2,2,12,0,862967
+2026-27,4,368,MID,Liverpool,Fulham,True,90,3,3.94,3,0,3,6,12,0,869856
+2026-27,4,369,MID,Liverpool,Fulham,True,18,1,1.55,1,0,0,1,12,0,1881902
+2026-27,4,371,MID,Liverpool,Fulham,True,59,1,1.23,7,2,1,10,12,0,904897
+2026-27,4,372,MID,Liverpool,Fulham,True,30,1,1.16,2,1,1,4,12,0,895324
+2026-27,4,377,MID,Liverpool,Fulham,True,59,1,1.5,0,0,2,2,12,0,1145642
+2026-27,4,379,FWD,Liverpool,Fulham,True,90,2,4.0,0,0,1,1,12,0,823941
+2026-27,4,387,DEF,Man City,Man Utd,False,8,1,1.0,0,0,1,0,10,0,1142703
+2026-27,4,388,DEF,Man City,Man Utd,False,90,6,3.47,7,0,3,7,10,0,877994
+2026-27,4,389,DEF,Man City,Man Utd,False,90,9,6.5,9,2,8,11,10,1,945122
+2026-27,4,390,DEF,Man City,Man Utd,False,90,6,3.47,7,0,2,7,10,0,318941
+2026-27,4,391,DEF,Man City,Man Utd,False,90,11,5.59,3,4,3,7,10,0,964994
+2026-27,4,397,MID,Man City,Man Utd,False,90,3,2.55,0,1,2,3,12,0,934354
+2026-27,4,398,MID,Man City,Man Utd,False,22,-2,-1.94,0,0,0,0,12,0,859765
+2026-27,4,399,MID,Man City,Man Utd,False,45,1,1.33,1,0,0,1,12,0,979128
+2026-27,4,401,FWD,Spurs,Everton,True,76,2,2.17,0,0,5,5,12,0,873554
+2026-27,4,403,MID,Spurs,Everton,True,90,3,3.61,1,0,5,6,12,0,1046795
+2026-27,4,405,MID,Newcastle,Leeds,False,18,1,1.0,0,0,1,1,12,0,954056
+2026-27,4,411,FWD,Man City,Man Utd,False,90,9,8.51,0,0,3,3,12,0,839956
+2026-27,4,415,MID,Man Utd,Man City,True,90,4,4.42,3,6,3,12,12,1,1397168
+2026-27,4,417,DEF,Man Utd,Man City,True,90,2,3.6,2,1,9,3,10,0,843200
+2026-27,4,418,DEF,Man Utd,Man City,True,90,1,3.08,4,1,6,5,10,0,149380
+2026-27,4,419,DEF,Man Utd,Man City,True,90,2,3.75,3,3,5,6,10,0,859999
+2026-27,4,426,MID,Man Utd,Man City,True,90,2,3.47,1,2,4,7,12,0,288205
+2026-27,4,427,MID,Man Utd,Man City,True,90,2,5.02,1,1,3,5,12,0,927083
+2026-27,4,428,MID,Man Utd,Man City,True,90,2,2.97,0,1,1,2,12,0,886363
+2026-27,4,429,MID,Man Utd,Man City,True,82,2,3.18,2,1,2,5,12,0,814590
+2026-27,4,432,MID,Man Utd,Man City,True,90,4,4.69,4,0,9,13,12,1,1142175
+2026-27,4,439,FWD,Man Utd,Man City,True,23,1,1.24,0,0,2,2,12,0,986397
+2026-27,4,440,FWD,Man Utd,Man City,True,7,1,1.03,1,0,2,3,12,0,917007
+2026-27,4,445,DEF,Newcastle,Leeds,False,90,2,2.5,11,0,1,11,10,1,1014286
+2026-27,4,447,DEF,Newcastle,Leeds,False,90,2,2.5,15,2,4,17,10,1,910046
+2026-27,4,449,DEF,Newcastle,Leeds,False,90,0,0.65,2,4,4,6,10,0,1136730
+2026-27,4,450,DEF,Newcastle,Leeds,False,32,3,0.03,1,2,4,3,10,0,980634
+2026-27,4,452,MID,Arsenal,Sunderland,False,45,7,2.87,1,1,1,3,12,0,866469
+2026-27,4,453,MID,Newcastle,Leeds,False,90,2,4.5,3,0,3,6,12,0,855647
+2026-27,4,455,MID,Spurs,Everton,True,90,3,3.71,5,0,6,11,12,0,892673
+2026-27,4,457,MID,Newcastle,Leeds,False,56,0,0.42,0,1,3,4,12,0,372336
+2026-27,4,459,MID,Newcastle,Leeds,False,79,0,0.23,3,1,6,10,12,0,1400650
+2026-27,4,460,MID,Newcastle,Leeds,False,32,1,1.78,1,1,2,4,12,0,888550
+2026-27,4,461,MID,Newcastle,Leeds,False,33,6,2.43,0,0,2,2,12,0,1568123
+2026-27,4,462,MID,Newcastle,Leeds,False,71,2,2.25,3,2,2,7,12,0,1859920
+2026-27,4,464,FWD,Newcastle,Leeds,False,90,2,2.64,2,1,2,5,12,0,805123
+2026-27,4,469,DEF,Nott'm Forest,Aston Villa,False,90,2,5.44,2,1,1,3,10,0,927356
+2026-27,4,472,DEF,Nott'm Forest,Aston Villa,False,90,6,4.79,10,2,6,12,10,1,1199282
+2026-27,4,473,DEF,Nott'm Forest,Aston Villa,False,90,2,3.79,5,3,2,8,10,0,800417
+2026-27,4,480,MID,Nott'm Forest,Aston Villa,False,90,8,8.97,0,1,3,4,12,0,865912
+2026-27,4,481,MID,Man City,Man Utd,False,90,5,4.4,5,3,6,14,12,1,994546
+2026-27,4,483,MID,Nott'm Forest,Aston Villa,False,74,1,5.73,0,0,2,2,12,0,944327
+2026-27,4,486,MID,Nott'm Forest,Aston Villa,False,81,3,4.77,4,3,5,12,12,1,1003334
+2026-27,4,488,MID,Nott'm Forest,Aston Villa,False,8,1,1.33,1,1,0,2,12,0,843754
+2026-27,4,490,FWD,Nott'm Forest,Aston Villa,False,1,1,1.0,0,0,0,0,12,0,50480
+2026-27,4,491,FWD,Nott'm Forest,Aston Villa,False,15,7,3.55,0,0,3,3,12,0,981619
+2026-27,4,492,FWD,Coventry City,Brighton,True,52,-2,-1.73,0,1,1,2,12,0,359664
+2026-27,4,501,DEF,Sunderland,Arsenal,True,90,1,1.85,4,0,3,4,10,0,794953
+2026-27,4,502,DEF,Spurs,Everton,True,90,7,5.01,2,0,3,2,10,0,262911
+2026-27,4,503,DEF,Spurs,Everton,True,90,6,3.38,6,0,4,6,10,0,998247
+2026-27,4,504,DEF,Brighton,Coventry City,False,77,6,4.01,8,1,4,9,10,0,1405212
+2026-27,4,512,MID,Spurs,Everton,True,27,1,1.15,0,1,1,2,12,0,905163
+2026-27,4,514,MID,Spurs,Everton,True,27,1,1.32,0,0,0,0,12,0,1048888
+2026-27,4,515,MID,Spurs,Everton,True,13,1,1.03,2,0,1,3,12,0,356398
+2026-27,4,516,MID,Spurs,Everton,True,62,3,2.63,5,3,2,10,12,0,791190
+2026-27,4,520,MID,Spurs,Everton,True,27,1,2.05,1,1,2,4,12,0,1391251
+2026-27,4,522,MID,Spurs,Everton,True,84,3,2.88,4,2,5,11,12,0,1142335
+2026-27,4,525,MID,Spurs,Everton,True,62,3,3.15,0,2,2,4,12,0,1142562
+2026-27,4,526,FWD,Spurs,Everton,True,62,2,2.03,0,0,2,2,12,0,361420
+2026-27,4,532,DEF,Sunderland,Arsenal,True,90,0,1.12,5,1,3,6,10,0,958878
+2026-27,4,533,DEF,Sunderland,Arsenal,True,90,0,4.87,3,3,3,6,10,0,780014
+2026-27,4,536,DEF,Sunderland,Arsenal,True,90,-2,-0.63,6,1,3,7,10,0,831424
+2026-27,4,541,DEF,Sunderland,Arsenal,True,75,2,4.12,2,0,4,2,10,0,128587
+2026-27,4,542,MID,Sunderland,Arsenal,True,90,0,6.17,0,0,4,4,12,0,984014
+2026-27,4,544,MID,Sunderland,Arsenal,True,90,1,2.26,2,1,8,11,12,0,117777
+2026-27,4,545,MID,Sunderland,Arsenal,True,90,2,2.35,4,3,3,10,12,0,1171539
+2026-27,4,551,MID,Sunderland,Arsenal,True,69,2,2.44,0,2,1,3,12,0,1116571
+2026-27,4,552,FWD,Sunderland,Arsenal,True,90,1,1.03,0,0,4,4,12,0,910048
+2026-27,4,553,FWD,Sunderland,Arsenal,True,20,1,1.0,0,1,0,1,12,0,877980
+2026-27,4,557,MID,Arsenal,Sunderland,False,80,3,2.63,1,1,1,3,12,0,1031259
+2026-27,4,558,MID,Nott'm Forest,Aston Villa,False,90,3,3.8,3,6,7,16,12,1,791079
+2026-27,4,559,MID,Newcastle,Leeds,False,10,1,1.0,0,1,1,2,12,0,1868591
+2026-27,4,562,MID,Ipswich Town,Crystal Palace,False,27,1,1.0,0,0,0,0,12,0,832420
+2026-27,4,565,MID,Brentford,Bournemouth,False,90,4,5.01,1,6,6,13,12,1,1064697
+2026-27,4,566,DEF,Bournemouth,Brentford,True,90,3,9.6,10,0,5,10,10,1,1006069
+2026-27,4,568,MID,Chelsea,Hull City,True,21,0,0.27,1,0,1,2,12,0,1127057
+2026-27,4,569,FWD,Fulham,Liverpool,False,76,2,2.89,1,0,2,3,12,0,1402716
+2026-27,4,571,MID,Ipswich Town,Crystal Palace,False,13,1,1.03,1,1,0,2,12,0,855845
+2026-27,4,575,MID,Coventry City,Brighton,True,17,1,1.03,0,0,0,0,12,0,1986794
+2026-27,4,576,MID,Hull City,Chelsea,False,59,1,1.05,0,2,3,5,12,0,1383695
+2026-27,4,577,DEF,Crystal Palace,Ipswich Town,True,53,0,0.03,4,1,3,5,10,0,804434
+2026-27,4,579,DEF,Liverpool,Fulham,True,71,6,4.2,3,1,5,4,10,0,925097
+2026-27,4,580,MID,Fulham,Liverpool,False,90,5,4.34,8,1,8,17,12,1,1131449
+2026-27,4,581,DEF,Nott'm Forest,Aston Villa,False,90,4,6.42,13,1,3,14,10,1,1394342
+2026-27,4,583,DEF,Chelsea,Hull City,True,45,1,1.03,1,0,1,1,10,0,1010421
+2026-27,4,585,DEF,Hull City,Chelsea,False,31,1,1.03,1,0,0,1,10,0,1646783
+2026-27,4,586,DEF,Hull City,Chelsea,False,58,1,1.0,5,2,0,7,10,0,1458073
+2026-27,4,588,DEF,Crystal Palace,Ipswich Town,True,90,7,3.49,3,2,4,5,10,0,1403362
+2026-27,4,591,MID,Ipswich Town,Crystal Palace,False,90,2,3.39,1,0,4,5,12,0,973556
+2026-27,4,592,DEF,Ipswich Town,Crystal Palace,False,2,1,1.0,0,1,1,1,10,0,1930811
+2026-27,4,593,DEF,Newcastle,Leeds,False,57,0,0.0,3,3,4,6,10,0,1102791
+2026-27,4,595,MID,Crystal Palace,Ipswich Town,True,6,1,1.0,0,0,0,0,12,0,1578999
+2026-27,4,598,DEF,Leeds,Newcastle,True,90,2,3.96,8,1,3,9,10,0,282229
+2026-27,4,599,FWD,Coventry City,Brighton,True,30,1,1.0,1,0,0,1,12,0,1514916
+2026-27,4,600,MID,Brighton,Coventry City,False,12,1,1.28,0,0,1,1,12,0,1471095
+2026-27,4,605,MID,Brighton,Coventry City,False,64,8,5.71,2,2,2,6,12,0,1568186
+2026-27,4,611,DEF,Aston Villa,Nott'm Forest,True,90,3,3.59,7,5,1,12,10,1,863653
+2026-27,4,617,MID,Hull City,Chelsea,False,30,1,3.83,1,0,1,2,12,0,1063235
+2026-27,4,619,MID,Ipswich Town,Crystal Palace,False,90,4,4.66,5,3,5,13,12,1,822600
+2026-27,4,620,DEF,Brentford,Bournemouth,False,30,1,1.03,1,0,1,1,10,0,1471764
+2026-27,4,627,MID,Liverpool,Fulham,True,71,3,3.69,0,3,2,5,12,0,996952
+2026-27,4,631,MID,Aston Villa,Nott'm Forest,True,27,1,1.49,0,1,1,2,12,0,1590918
+2026-27,4,633,DEF,Crystal Palace,Ipswich Town,True,90,3,3.78,9,2,4,11,10,1,1634980
+2026-27,4,634,FWD,Newcastle,Leeds,False,57,1,1.03,0,1,1,2,12,0,1149144
+2026-27,4,635,MID,Fulham,Liverpool,False,13,1,1.03,0,0,1,1,12,0,1142211
+2026-27,4,637,FWD,Hull City,Chelsea,False,8,1,1.0,0,0,1,1,12,0,1514800
+2026-27,4,638,DEF,Hull City,Chelsea,False,8,0,0.3,0,0,2,0,10,0,1087514
+2026-27,4,639,MID,Brighton,Coventry City,False,25,4,2.23,2,1,1,4,12,0,1464641
+2026-27,4,640,FWD,Ipswich Town,Crystal Palace,False,27,5,3.08,1,0,1,2,12,0,875137
+2026-27,4,641,DEF,Leeds,Newcastle,True,18,1,1.0,1,1,2,2,10,0,906075
+2026-27,4,642,MID,Hull City,Chelsea,False,30,1,1.19,0,0,4,4,12,0,911039
+2026-27,4,643,DEF,Crystal Palace,Ipswich Town,True,13,1,1.75,1,0,0,1,10,0,802695
+2026-27,4,644,MID,Crystal Palace,Ipswich Town,True,90,4,4.78,2,8,6,16,12,1,959805
+2026-27,4,646,MID,Sunderland,Arsenal,True,14,1,1.0,0,0,0,0,12,0,1195784
+2026-27,4,649,DEF,Everton,Spurs,False,74,6,5.2,3,2,4,5,10,0,352768
+2026-27,4,650,DEF,Fulham,Liverpool,False,90,8,5.11,11,1,3,12,10,1,988672
+2026-27,5,4,DEF,Arsenal,Brighton,False,90,1,2.5,6,3,4,9,10,0,869792
+2026-27,5,5,DEF,Arsenal,Brighton,False,59,0,0.06,0,2,2,2,10,0,958959
+2026-27,5,8,DEF,Arsenal,Brighton,False,90,1,2.59,2,3,5,5,10,0,957602
+2026-27,5,12,MID,Arsenal,Brighton,False,80,2,5.72,0,1,1,2,12,0,934235
+2026-27,5,13,MID,Arsenal,Brighton,False,90,1,1.55,2,2,4,8,12,0,856714
+2026-27,5,14,MID,Arsenal,Brighton,False,17,1,1.06,0,0,0,0,12,0,864921
+2026-27,5,15,MID,Arsenal,Brighton,False,72,2,2.87,1,0,1,2,12,0,547410
+2026-27,5,17,MID,Arsenal,Brighton,False,30,1,1.39,1,0,3,4,12,0,592010
+2026-27,5,19,MID,Arsenal,Brighton,False,30,1,1.65,1,0,0,1,12,0,966837
+2026-27,5,20,MID,Arsenal,Brighton,False,9,1,1.24,0,0,0,0,12,0,1917626
+2026-27,5,25,FWD,Arsenal,Brighton,False,17,1,1.69,0,0,0,0,12,0,804508
+2026-27,5,26,FWD,Arsenal,Brighton,False,90,2,5.18,2,0,1,3,12,0,836705
+2026-27,5,31,DEF,Arsenal,Brighton,False,90,1,3.49,4,0,3,4,10,0,827679
+2026-27,5,32,DEF,Aston Villa,Spurs,False,45,-1,-1.0,3,0,0,3,10,0,833956
+2026-27,5,33,DEF,Aston Villa,Spurs,False,90,3,3.84,12,1,3,13,10,1,303638
+2026-27,5,37,DEF,Aston Villa,Spurs,False,90,1,1.84,6,0,2,6,10,0,143334
+2026-27,5,40,MID,Chelsea,Brentford,False,90,2,3.93,2,0,6,8,12,0,948261
+2026-27,5,41,MID,Aston Villa,Spurs,False,90,12,8.12,2,7,6,15,12,1,783126
+2026-27,5,43,MID,Man Utd,Fulham,False,90,4,5.25,2,3,8,13,12,1,331737
+2026-27,5,45,MID,Aston Villa,Spurs,False,83,6,2.58,2,0,4,6,12,0,250223
+2026-27,5,46,MID,Aston Villa,Spurs,False,6,1,1.0,1,0,3,4,12,0,98435
+2026-27,5,47,MID,Aston Villa,Spurs,False,83,6,3.09,1,2,3,6,12,0,826204
+2026-27,5,51,MID,Aston Villa,Spurs,False,18,1,1.0,0,0,0,0,12,0,1398204
+2026-27,5,53,MID,Aston Villa,Spurs,False,71,13,7.19,2,1,4,7,12,0,1518931
+2026-27,5,54,MID,Aston Villa,Spurs,False,90,4,4.27,5,5,3,13,12,1,1015267
+2026-27,5,56,FWD,Aston Villa,Spurs,False,2,1,1.0,0,0,0,0,12,0,610766
+2026-27,5,60,DEF,Bournemouth,Liverpool,True,90,4,4.83,11,4,3,15,10,1,1156586
+2026-27,5,61,DEF,Bournemouth,Liverpool,True,90,2,3.07,5,2,3,7,10,0,999028
+2026-27,5,64,DEF,Bournemouth,Liverpool,True,74,2,3.05,0,0,2,0,10,0,44566
+2026-27,5,67,MID,Bournemouth,Liverpool,True,87,2,3.3,1,2,1,4,12,0,1464966
+2026-27,5,68,MID,Bournemouth,Liverpool,True,74,2,2.58,0,3,3,6,12,0,895576
+2026-27,5,69,MID,Bournemouth,Liverpool,True,90,2,3.0,0,0,8,8,12,0,1104986
+2026-27,5,71,MID,Bournemouth,Liverpool,True,15,1,1.0,1,0,1,2,12,0,548188
+2026-27,5,72,MID,Bournemouth,Liverpool,True,2,1,1.06,0,0,0,0,12,0,1154861
+2026-27,5,73,MID,Bournemouth,Liverpool,True,87,4,4.37,5,2,6,13,12,1,800419
+2026-27,5,74,MID,Bournemouth,Liverpool,True,15,1,1.18,0,0,2,2,12,0,855731
+2026-27,5,75,MID,Bournemouth,Liverpool,True,74,2,4.78,0,0,5,5,12,0,322391
+2026-27,5,76,MID,Bournemouth,Liverpool,True,2,1,1.0,0,0,0,0,12,0,1476524
+2026-27,5,79,FWD,Bournemouth,Liverpool,True,90,2,2.67,1,2,2,5,12,0,998490
+2026-27,5,86,MID,Brentford,Chelsea,True,80,3,3.28,5,1,3,9,12,0,972421
+2026-27,5,87,DEF,Brentford,Chelsea,True,90,7,4.89,9,0,3,9,10,0,576384
+2026-27,5,88,DEF,Brentford,Chelsea,True,68,6,4.52,1,1,2,2,10,0,1137431
+2026-27,5,90,DEF,Brentford,Chelsea,True,21,1,1.03,4,0,0,4,10,0,966869
+2026-27,5,91,DEF,Coventry City,Nott'm Forest,False,90,8,5.33,19,0,1,19,10,1,855864
+2026-27,5,93,DEF,Brentford,Chelsea,True,90,14,10.3,15,1,3,16,10,1,1474198
+2026-27,5,94,MID,Brentford,Chelsea,True,90,9,5.2,2,1,4,7,12,0,1006387
+2026-27,5,95,MID,Brentford,Chelsea,True,9,1,1.0,0,0,0,0,12,0,1106451
+2026-27,5,96,MID,Brentford,Chelsea,True,86,3,3.54,2,4,4,10,12,0,907072
+2026-27,5,98,MID,Brentford,Chelsea,True,90,3,2.71,2,3,4,9,12,0,814873
+2026-27,5,100,MID,Brentford,Chelsea,True,3,6,3.15,0,0,0,0,12,0,991604
+2026-27,5,101,MID,Chelsea,Brentford,False,90,2,2.31,2,1,7,10,12,0,42694
+2026-27,5,102,MID,Brentford,Chelsea,True,68,3,2.91,3,2,5,10,12,0,1031258
+2026-27,5,104,MID,Coventry City,Nott'm Forest,False,90,3,2.33,4,2,3,9,12,0,885864
+2026-27,5,105,MID,Brentford,Chelsea,True,80,10,9.36,1,0,1,2,12,0,1020680
+2026-27,5,106,FWD,Brentford,Chelsea,True,90,5,3.97,0,1,2,3,12,0,1016907
+2026-27,5,112,DEF,Spurs,Aston Villa,True,90,6,4.25,6,3,4,9,10,0,962012
+2026-27,5,113,DEF,Brighton,Arsenal,True,75,5,2.94,3,0,3,3,10,0,825844
+2026-27,5,114,DEF,Brighton,Arsenal,True,90,6,2.9,5,2,2,7,10,0,788784
+2026-27,5,115,DEF,Brighton,Arsenal,True,90,6,3.59,3,4,4,7,10,0,997152
+2026-27,5,119,DEF,Brighton,Arsenal,True,14,1,1.42,1,0,0,1,10,0,988333
+2026-27,5,120,DEF,Brighton,Arsenal,True,4,1,1.0,0,1,1,1,10,0,888340
+2026-27,5,124,MID,Brighton,Arsenal,True,90,14,6.5,3,1,1,5,12,0,48480
+2026-27,5,125,FWD,Brighton,Arsenal,True,14,1,1.39,0,0,2,2,12,0,946695
+2026-27,5,126,MID,Brighton,Arsenal,True,4,1,2.4,2,0,0,2,12,0,891829
+2026-27,5,127,MID,Brighton,Arsenal,True,85,8,4.29,1,5,7,13,12,1,1065588
+2026-27,5,129,MID,Brighton,Arsenal,True,90,3,2.99,2,1,4,7,12,0,1036269
+2026-27,5,136,FWD,Chelsea,Brentford,False,70,2,2.24,1,1,2,4,12,0,33902
+2026-27,5,138,FWD,Brighton,Arsenal,True,75,10,3.75,0,1,3,4,12,0,1416535
+2026-27,5,145,DEF,Chelsea,Brentford,False,70,4,4.94,13,2,4,15,10,1,923894
+2026-27,5,149,DEF,Chelsea,Brentford,False,90,1,1.31,7,0,4,7,10,0,996911
+2026-27,5,151,DEF,Chelsea,Brentford,False,19,0,0.03,0,1,0,1,10,0,1403050
+2026-27,5,154,MID,Chelsea,Brentford,False,90,2,3.26,1,3,2,6,12,0,982780
+2026-27,5,155,MID,Man City,Sunderland,True,90,7,3.01,1,0,4,5,12,0,974505
+2026-27,5,156,MID,Chelsea,Brentford,False,86,2,3.06,0,3,3,6,12,0,879349
+2026-27,5,157,MID,Chelsea,Brentford,False,3,1,1.0,0,0,0,0,12,0,1597265
+2026-27,5,164,MID,Chelsea,Brentford,False,19,1,1.18,0,0,0,0,12,0,1403165
+2026-27,5,166,FWD,Aston Villa,Spurs,False,87,6,3.82,1,0,3,4,12,0,1085381
+2026-27,5,167,FWD,Nott'm Forest,Coventry City,True,90,1,2.15,2,1,5,8,12,0,997087
+2026-27,5,173,DEF,Coventry City,Nott'm Forest,False,90,9,6.81,12,1,3,13,10,1,1033352
+2026-27,5,176,DEF,Coventry City,Nott'm Forest,False,90,15,8.37,4,0,4,4,10,0,791985
+2026-27,5,179,DEF,Coventry City,Nott'm Forest,False,1,1,1.0,2,0,0,2,10,0,859763
+2026-27,5,183,MID,Coventry City,Nott'm Forest,False,73,5,5.48,4,1,8,13,12,1,979565
+2026-27,5,184,MID,Coventry City,Nott'm Forest,False,90,3,2.61,4,3,3,10,12,0,340713
+2026-27,5,186,MID,Coventry City,Nott'm Forest,False,45,1,1.25,0,0,2,2,12,0,861315
+2026-27,5,190,MID,Coventry City,Nott'm Forest,False,45,1,1.2,1,0,2,3,12,0,1004505
+2026-27,5,194,FWD,Coventry City,Nott'm Forest,False,90,4,4.55,6,3,7,16,12,1,846061
+2026-27,5,195,FWD,Coventry City,Nott'm Forest,False,16,1,1.0,0,0,0,0,12,0,991614
+2026-27,5,200,DEF,Chelsea,Brentford,False,90,3,4.09,11,1,3,12,10,1,879674
+2026-27,5,201,DEF,Nott'm Forest,Coventry City,True,82,2,4.83,2,1,3,3,10,0,870360
+2026-27,5,202,DEF,Crystal Palace,Leeds,False,90,8,5.11,8,2,3,10,10,1,931844
+2026-27,5,203,DEF,Crystal Palace,Leeds,False,90,8,5.44,9,1,5,10,10,1,1471671
+2026-27,5,204,DEF,Crystal Palace,Leeds,False,90,7,4.14,3,5,8,8,10,0,988275
+2026-27,5,208,MID,Crystal Palace,Leeds,False,8,1,1.03,0,0,0,0,12,0,845286
+2026-27,5,209,MID,Everton,Ipswich Town,True,65,3,6.45,1,3,4,8,12,0,1085180
+2026-27,5,210,MID,Crystal Palace,Leeds,False,90,2,2.28,4,2,1,7,12,0,1109771
+2026-27,5,211,MID,Crystal Palace,Leeds,False,81,2,2.53,2,0,3,5,12,0,984624
+2026-27,5,213,MID,Crystal Palace,Leeds,False,45,0,1.3,6,2,3,11,12,0,355796
+2026-27,5,214,MID,Crystal Palace,Leeds,False,90,3,4.46,0,1,9,10,12,0,794338
+2026-27,5,222,FWD,Crystal Palace,Leeds,False,81,2,2.67,3,0,0,3,12,0,876599
+2026-27,5,224,FWD,Crystal Palace,Leeds,False,8,1,1.06,0,0,1,1,12,0,858194
+2026-27,5,229,DEF,Everton,Ipswich Town,True,90,14,8.04,11,1,5,12,10,1,145188
+2026-27,5,230,DEF,Everton,Ipswich Town,True,90,8,4.95,14,0,3,14,10,1,979563
+2026-27,5,232,DEF,Everton,Ipswich Town,True,1,1,1.0,1,0,1,1,10,0,998253
+2026-27,5,233,DEF,Everton,Ipswich Town,True,90,5,2.25,3,3,11,6,10,0,876643
+2026-27,5,236,MID,Everton,Ipswich Town,True,90,3,5.15,0,2,5,7,12,0,861970
+2026-27,5,237,MID,Man City,Sunderland,True,74,5,2.96,1,0,3,4,12,0,914309
+2026-27,5,238,MID,Everton,Ipswich Town,True,78,3,3.25,0,0,7,7,12,0,189061
+2026-27,5,239,MID,Everton,Ipswich Town,True,90,3,3.16,4,0,5,9,12,0,927361
+2026-27,5,240,MID,Hull City,Newcastle,False,45,1,1.63,0,2,5,7,12,0,1085950
+2026-27,5,242,MID,Everton,Ipswich Town,True,11,1,1.18,0,0,2,2,12,0,1403061
+2026-27,5,244,MID,Everton,Ipswich Town,True,90,2,2.95,1,2,2,5,12,0,1627560
+2026-27,5,245,MID,Everton,Ipswich Town,True,24,1,2.33,0,0,0,0,12,0,1174472
+2026-27,5,247,MID,Everton,Ipswich Town,True,1,1,1.0,0,0,0,0,12,0,1008471
+2026-27,5,249,FWD,Everton,Ipswich Town,True,90,6,4.11,2,0,3,5,12,0,1395746
+2026-27,5,253,DEF,Fulham,Man Utd,True,10,1,1.0,5,0,0,5,10,0,362682
+2026-27,5,254,DEF,Fulham,Man Utd,True,90,2,3.08,4,3,4,7,10,0,803174
+2026-27,5,257,DEF,Fulham,Man Utd,True,90,6,4.2,6,2,7,8,10,0,861972
+2026-27,5,258,DEF,Fulham,Man Utd,True,90,1,1.84,9,0,4,9,10,0,329417
+2026-27,5,259,DEF,Ipswich Town,Everton,False,90,4,4.82,10,0,4,10,10,1,825719
+2026-27,5,261,MID,Fulham,Man Utd,True,70,5,6.51,1,1,5,7,12,0,352770
+2026-27,5,263,MID,Fulham,Man Utd,True,19,1,1.2,1,0,1,2,12,0,1112879
+2026-27,5,264,MID,Fulham,Man Utd,True,70,3,3.7,1,2,3,6,12,0,1065216
+2026-27,5,265,MID,Fulham,Man Utd,True,76,3,2.62,2,0,0,2,12,0,793167
+2026-27,5,267,MID,Ipswich Town,Everton,False,72,2,2.92,2,1,3,6,12,0,371222
+2026-27,5,268,MID,Fulham,Man Utd,True,79,2,3.28,1,0,4,5,12,0,1546231
+2026-27,5,271,FWD,Fulham,Man Utd,True,10,0,0.0,1,0,0,1,12,0,1015256
+2026-27,5,277,DEF,Hull City,Newcastle,False,77,1,2.14,2,2,1,4,10,0,100578
+2026-27,5,279,DEF,Hull City,Newcastle,False,90,1,2.04,2,2,5,4,10,0,307274
+2026-27,5,280,DEF,Hull City,Newcastle,False,90,1,2.07,1,1,3,2,10,0,827587
+2026-27,5,282,DEF,Hull City,Newcastle,False,90,0,1.19,4,1,2,5,10,0,931304
+2026-27,5,286,MID,Hull City,Newcastle,False,82,4,3.95,0,6,5,11,12,0,1125839
+2026-27,5,289,MID,Hull City,Newcastle,False,45,0,0.36,0,2,0,2,12,0,140479
+2026-27,5,290,MID,Hull City,Newcastle,False,77,2,3.01,1,0,2,3,12,0,864474
+2026-27,5,295,FWD,Hull City,Newcastle,False,90,1,2.5,3,0,3,6,12,0,367228
+2026-27,5,304,DEF,Ipswich Town,Everton,False,90,2,2.43,9,0,5,9,10,0,856719
+2026-27,5,305,DEF,Ipswich Town,Everton,False,90,2,5.01,5,0,2,5,10,0,963493
+2026-27,5,313,MID,Ipswich Town,Everton,False,65,2,3.18,2,0,2,4,12,0,921005
+2026-27,5,315,MID,Ipswich Town,Everton,False,66,-1,0.73,2,0,2,4,12,0,1103589
+2026-27,5,316,FWD,Ipswich Town,Everton,False,80,2,2.55,0,1,0,1,12,0,1128844
+2026-27,5,318,MID,Ipswich Town,Everton,False,24,1,1.33,0,0,1,1,12,0,1014461
+2026-27,5,320,FWD,Ipswich Town,Everton,False,9,1,1.68,0,0,0,0,12,0,190867
+2026-27,5,328,DEF,Brighton,Arsenal,True,85,5,2.87,5,1,6,6,10,0,836675
+2026-27,5,330,DEF,Leeds,Crystal Palace,True,66,5,3.49,1,0,2,1,10,0,929132
+2026-27,5,331,DEF,Leeds,Crystal Palace,True,90,6,3.48,2,3,1,5,10,0,834308
+2026-27,5,332,DEF,Leeds,Crystal Palace,True,90,8,6.05,6,3,2,9,10,0,827681
+2026-27,5,334,DEF,Leeds,Crystal Palace,True,90,6,5.82,7,1,5,8,10,0,1118177
+2026-27,5,335,MID,Leeds,Crystal Palace,True,90,5,4.84,6,2,5,13,12,1,889861
+2026-27,5,336,MID,Leeds,Crystal Palace,True,75,3,2.64,0,2,3,5,12,0,865523
+2026-27,5,337,MID,Leeds,Crystal Palace,True,22,1,1.0,0,1,3,4,12,0,973431
+2026-27,5,338,MID,Leeds,Crystal Palace,True,90,5,4.65,5,3,6,14,12,1,847097
+2026-27,5,340,MID,Hull City,Newcastle,False,7,1,1.56,0,0,1,1,12,0,945806
+2026-27,5,343,MID,Leeds,Crystal Palace,True,23,1,1.0,1,0,0,1,12,0,828639
+2026-27,5,345,MID,Leeds,Crystal Palace,True,67,2,2.22,2,1,2,5,12,0,871886
+2026-27,5,346,FWD,Leeds,Crystal Palace,True,90,2,4.08,4,0,4,8,12,0,372344
+2026-27,5,347,FWD,Leeds,Crystal Palace,True,14,1,1.0,0,1,1,2,12,0,803185
+2026-27,5,356,DEF,Liverpool,Bournemouth,False,90,8,5.85,13,0,2,13,10,1,151545
+2026-27,5,358,DEF,Liverpool,Bournemouth,False,90,6,4.15,6,1,2,7,10,0,1097425
+2026-27,5,362,DEF,Liverpool,Bournemouth,False,90,6,3.88,5,3,6,8,10,0,1445625
+2026-27,5,366,MID,Liverpool,Bournemouth,False,70,6,3.77,1,3,4,8,12,0,1019322
+2026-27,5,367,MID,Liverpool,Bournemouth,False,90,3,4.92,2,2,1,5,12,0,862967
+2026-27,5,368,MID,Liverpool,Bournemouth,False,80,2,2.23,2,2,2,6,12,0,869856
+2026-27,5,371,MID,Liverpool,Bournemouth,False,9,1,1.03,0,0,1,1,12,0,904897
+2026-27,5,372,MID,Liverpool,Bournemouth,False,90,5,4.6,4,2,7,13,12,1,895324
+2026-27,5,375,MID,Liverpool,Bournemouth,False,19,1,1.0,5,0,0,5,12,0,1445945
+2026-27,5,377,MID,Liverpool,Bournemouth,False,18,1,1.18,1,1,1,3,12,0,1145642
+2026-27,5,379,FWD,Liverpool,Bournemouth,False,80,8,7.06,1,0,0,1,12,0,823941
+2026-27,5,381,MID,Liverpool,Bournemouth,False,9,1,2.25,0,0,0,0,12,0,1403111
+2026-27,5,387,DEF,Man City,Sunderland,True,5,1,5.68,1,1,1,2,10,0,1142703
+2026-27,5,388,DEF,Man City,Sunderland,True,90,4,1.5,4,0,2,4,10,0,877994
+2026-27,5,389,DEF,Man City,Sunderland,True,90,1,1.14,8,1,0,9,10,0,945122
+2026-27,5,390,DEF,Man City,Sunderland,True,90,1,2.31,4,0,0,4,10,0,318941
+2026-27,5,391,DEF,Man City,Sunderland,True,90,4,3.0,7,0,6,7,10,0,964994
+2026-27,5,397,MID,Man City,Sunderland,True,90,17,5.34,2,2,3,7,12,0,934354
+2026-27,5,399,MID,Man City,Sunderland,True,84,8,4.08,2,0,3,5,12,0,979128
+2026-27,5,400,MID,Man City,Sunderland,True,15,1,3.11,1,0,1,2,12,0,934386
+2026-27,5,401,FWD,Spurs,Aston Villa,True,90,2,2.2,0,1,3,4,12,0,873554
+2026-27,5,403,MID,Spurs,Aston Villa,True,90,2,4.27,2,0,3,5,12,0,1046795
+2026-27,5,411,FWD,Man City,Sunderland,True,90,6,6.42,2,0,0,2,12,0,839956
+2026-27,5,415,MID,Man Utd,Fulham,False,6,4,1.68,2,0,0,2,12,0,1397168
+2026-27,5,417,DEF,Man Utd,Fulham,False,90,2,3.3,1,1,7,2,10,0,843200
+2026-27,5,418,DEF,Man Utd,Fulham,False,90,2,2.94,4,1,4,5,10,0,149380
+2026-27,5,419,DEF,Man Utd,Fulham,False,90,0,1.75,4,0,1,4,10,0,859999
+2026-27,5,423,DEF,Man Utd,Fulham,False,83,2,3.06,3,0,1,3,10,0,190839
+2026-27,5,426,MID,Man Utd,Fulham,False,90,2,4.17,0,1,5,6,12,0,288205
+2026-27,5,427,MID,Man Utd,Fulham,False,90,2,4.3,2,1,1,4,12,0,927083
+2026-27,5,428,MID,Man Utd,Fulham,False,90,10,6.62,1,0,2,3,12,0,886363
+2026-27,5,429,MID,Man Utd,Fulham,False,76,2,4.62,2,0,0,2,12,0,814590
+2026-27,5,430,MID,Man Utd,Fulham,False,10,1,1.48,0,0,1,1,12,0,836694
+2026-27,5,432,MID,Man Utd,Fulham,False,79,4,4.8,1,1,10,12,12,1,1142175
+2026-27,5,440,FWD,Man Utd,Fulham,False,13,1,1.0,1,0,0,1,12,0,917007
+2026-27,5,445,DEF,Newcastle,Hull City,True,90,4,4.85,13,0,3,13,10,1,1014286
+2026-27,5,446,DEF,Newcastle,Hull City,True,24,1,1.03,7,0,0,7,10,0,101882
+2026-27,5,447,DEF,Newcastle,Hull City,True,90,4,5.12,17,1,1,18,10,1,910046
+2026-27,5,449,DEF,Newcastle,Hull City,True,90,13,9.29,9,1,7,10,10,1,1136730
+2026-27,5,452,MID,Arsenal,Brighton,False,59,1,1.03,2,0,4,6,12,0,866469
+2026-27,5,453,MID,Newcastle,Hull City,True,90,9,4.08,4,0,5,9,12,0,855647
+2026-27,5,455,MID,Spurs,Aston Villa,True,83,2,3.26,1,6,4,11,12,0,892673
+2026-27,5,457,MID,Newcastle,Hull City,True,90,1,1.56,3,2,3,8,12,0,372336
+2026-27,5,459,MID,Newcastle,Hull City,True,90,4,4.32,7,4,5,16,12,1,1400650
+2026-27,5,460,MID,Newcastle,Hull City,True,86,10,6.2,1,1,4,6,12,0,888550
+2026-27,5,461,MID,Newcastle,Hull City,True,16,1,1.0,1,0,1,2,12,0,1568123
+2026-27,5,462,MID,Newcastle,Hull City,True,65,3,2.68,2,2,3,7,12,0,1859920
+2026-27,5,464,FWD,Newcastle,Hull City,True,90,0,3.39,2,0,3,5,12,0,805123
+2026-27,5,469,DEF,Nott'm Forest,Coventry City,True,90,2,5.22,1,1,8,2,10,0,927356
+2026-27,5,472,DEF,Nott'm Forest,Coventry City,True,90,4,6.71,10,1,2,11,10,1,1199282
+2026-27,5,474,DEF,Nott'm Forest,Coventry City,True,90,1,3.2,6,2,3,8,10,0,1170722
+2026-27,5,478,DEF,Nott'm Forest,Coventry City,True,7,1,1.06,0,0,0,0,10,0,979144
+2026-27,5,480,MID,Nott'm Forest,Coventry City,True,90,2,3.71,0,0,2,2,12,0,865912
+2026-27,5,481,MID,Man City,Sunderland,True,90,2,2.19,4,2,3,9,12,0,994546
+2026-27,5,483,MID,Nott'm Forest,Coventry City,True,58,1,2.15,1,0,0,1,12,0,944327
+2026-27,5,486,MID,Nott'm Forest,Coventry City,True,82,2,3.68,1,1,2,4,12,0,1003334
+2026-27,5,488,MID,Nott'm Forest,Coventry City,True,7,1,1.0,0,0,0,0,12,0,843754
+2026-27,5,490,FWD,Nott'm Forest,Coventry City,True,17,1,1.0,0,0,0,0,12,0,50480
+2026-27,5,491,FWD,Nott'm Forest,Coventry City,True,31,1,1.67,0,0,3,3,12,0,981619
+2026-27,5,499,DEF,Spurs,Aston Villa,True,18,1,1.06,0,1,0,1,10,0,913654
+2026-27,5,501,DEF,Sunderland,Man City,False,90,0,0.69,8,0,5,8,10,0,794953
+2026-27,5,502,DEF,Spurs,Aston Villa,True,90,4,3.03,1,2,7,3,10,0,262911
+2026-27,5,503,DEF,Spurs,Aston Villa,True,90,1,2.4,5,1,5,6,10,0,998247
+2026-27,5,504,DEF,Brighton,Arsenal,True,90,8,4.78,10,2,4,12,10,1,1405212
+2026-27,5,512,MID,Spurs,Aston Villa,True,45,4,1.95,0,2,5,7,12,0,905163
+2026-27,5,515,MID,Spurs,Aston Villa,True,24,1,1.36,0,4,2,6,12,0,356398
+2026-27,5,516,MID,Spurs,Aston Villa,True,83,4,4.45,3,6,8,17,12,1,791190
+2026-27,5,519,MID,Spurs,Aston Villa,True,6,6,2.75,0,3,1,4,12,0,904970
+2026-27,5,520,MID,Spurs,Aston Villa,True,6,1,1.03,0,1,0,1,12,0,1391251
+2026-27,5,522,MID,Spurs,Aston Villa,True,71,2,3.06,1,2,2,5,12,0,1142335
+2026-27,5,525,MID,Spurs,Aston Villa,True,45,1,1.41,2,1,4,7,12,0,1142562
+2026-27,5,526,FWD,Spurs,Aston Villa,True,65,2,2.48,1,2,3,6,12,0,361420
+2026-27,5,532,DEF,Sunderland,Man City,False,90,2,3.08,10,4,3,14,10,1,958878
+2026-27,5,533,DEF,Sunderland,Man City,False,90,0,1.23,5,4,3,9,10,0,780014
+2026-27,5,534,DEF,Sunderland,Man City,False,11,1,1.63,0,1,0,1,10,0,989034
+2026-27,5,541,DEF,Sunderland,Man City,False,78,3,2.4,2,2,3,4,10,0,128587
+2026-27,5,542,MID,Sunderland,Man City,False,90,5,3.62,2,1,0,3,12,0,984014
+2026-27,5,544,MID,Sunderland,Man City,False,90,2,3.2,3,3,2,8,12,0,117777
+2026-27,5,545,MID,Sunderland,Man City,False,67,2,2.59,1,0,2,3,12,0,1171539
+2026-27,5,551,MID,Sunderland,Man City,False,59,4,3.28,3,0,1,4,12,0,1116571
+2026-27,5,552,FWD,Sunderland,Man City,False,90,17,14.52,0,0,0,0,12,0,910048
+2026-27,5,553,FWD,Sunderland,Man City,False,22,1,1.0,0,1,1,2,12,0,877980
+2026-27,5,557,MID,Arsenal,Brighton,False,72,2,2.67,1,1,1,3,12,0,1031259
+2026-27,5,558,MID,Nott'm Forest,Coventry City,True,90,2,3.06,2,2,3,7,12,0,791079
+2026-27,5,559,MID,Newcastle,Hull City,True,3,1,1.0,2,1,1,4,12,0,1868591
+2026-27,5,562,MID,Ipswich Town,Everton,False,16,1,1.03,0,1,0,1,12,0,832420
+2026-27,5,565,MID,Brentford,Chelsea,True,21,0,0.0,1,1,1,3,12,0,1064697
+2026-27,5,566,DEF,Bournemouth,Liverpool,True,90,3,3.83,13,2,2,15,10,1,1006069
+2026-27,5,568,MID,Chelsea,Brentford,False,86,2,2.32,2,3,4,9,12,0,1127057
+2026-27,5,569,FWD,Fulham,Man Utd,True,79,2,5.75,1,0,1,2,12,0,1402716
+2026-27,5,570,MID,Fulham,Man Utd,True,19,1,1.0,1,1,2,4,12,0,1402688
+2026-27,5,571,MID,Ipswich Town,Everton,False,17,1,1.0,0,0,0,0,12,0,855845
+2026-27,5,575,MID,Coventry City,Nott'm Forest,False,90,3,2.37,2,1,2,5,12,0,1986794
+2026-27,5,577,DEF,Crystal Palace,Leeds,False,45,1,1.03,3,0,0,3,10,0,804434
+2026-27,5,579,DEF,Liverpool,Bournemouth,False,90,7,4.85,3,2,6,5,10,0,925097
+2026-27,5,580,MID,Fulham,Man Utd,True,90,4,4.26,11,2,0,13,12,1,1131449
+2026-27,5,581,DEF,Nott'm Forest,Coventry City,True,72,2,4.46,5,0,7,5,10,0,1394342
+2026-27,5,583,DEF,Chelsea,Brentford,False,90,1,1.64,6,3,3,9,10,0,1010421
+2026-27,5,585,DEF,Hull City,Newcastle,False,90,1,2.16,7,1,5,8,10,0,1646783
+2026-27,5,588,DEF,Crystal Palace,Leeds,False,90,6,3.14,4,2,11,6,10,0,1403362
+2026-27,5,589,MID,Hull City,Newcastle,False,12,1,1.18,0,1,0,1,12,0,1012657
+2026-27,5,591,MID,Ipswich Town,Everton,False,73,2,4.02,0,0,5,5,12,0,973556
+2026-27,5,592,DEF,Ipswich Town,Everton,False,90,2,2.58,5,3,10,8,10,0,1930811
+2026-27,5,596,DEF,Aston Villa,Spurs,False,90,3,4.05,13,0,9,13,10,1,965011
+2026-27,5,598,DEF,Leeds,Crystal Palace,True,90,6,3.84,4,0,1,4,10,0,282229
+2026-27,5,605,MID,Brighton,Arsenal,True,5,1,1.74,0,1,0,1,12,0,1568186
+2026-27,5,608,FWD,Bournemouth,Liverpool,True,15,1,1.0,0,0,0,0,12,0,1096136
+2026-27,5,611,DEF,Aston Villa,Spurs,False,45,1,1.03,4,2,0,6,10,0,863653
+2026-27,5,612,DEF,Sunderland,Man City,False,90,-1,-0.55,2,1,4,3,10,0,1894003
+2026-27,5,617,MID,Hull City,Newcastle,False,27,6,2.95,0,0,0,0,12,0,1063235
+2026-27,5,619,MID,Ipswich Town,Everton,False,80,2,2.19,2,1,3,6,12,0,822600
+2026-27,5,620,DEF,Brentford,Chelsea,True,9,1,1.0,1,0,0,1,10,0,1471764
+2026-27,5,627,MID,Liverpool,Bournemouth,False,71,3,2.86,0,0,3,3,12,0,996952
+2026-27,5,631,MID,Aston Villa,Spurs,False,6,1,1.0,0,0,0,0,12,0,1590918
+2026-27,5,634,FWD,Newcastle,Hull City,True,73,2,2.2,0,1,1,2,12,0,1149144
+2026-27,5,635,MID,Fulham,Man Utd,True,13,1,1.0,2,0,2,4,12,0,1142211
+2026-27,5,637,FWD,Hull City,Newcastle,False,12,1,1.03,0,0,1,1,12,0,1514800
+2026-27,5,639,MID,Brighton,Arsenal,True,84,8,3.96,2,0,7,9,12,0,1464641
+2026-27,5,640,FWD,Ipswich Town,Everton,False,9,0,0.4,0,1,2,3,12,0,875137
+2026-27,5,642,MID,Hull City,Newcastle,False,62,2,3.35,0,1,2,3,12,0,911039
+2026-27,5,644,MID,Crystal Palace,Leeds,False,90,3,2.96,2,2,1,5,12,0,959805
+2026-27,5,646,MID,Sunderland,Man City,False,30,1,2.98,0,1,2,3,12,0,1195784
+2026-27,5,648,MID,Leeds,Crystal Palace,True,1,1,1.0,0,0,0,0,12,0,1146148
+2026-27,5,649,DEF,Everton,Ipswich Town,True,90,8,5.44,5,3,3,8,10,0,352768
+2026-27,5,650,DEF,Fulham,Man Utd,True,90,4,4.87,9,2,4,11,10,1,988672
+2026-27,5,656,DEF,Coventry City,Nott'm Forest,False,90,6,3.36,7,1,3,8,10,0,1402791
+2026-27,5,662,MID,Chelsea,Brentford,False,3,1,1.0,0,2,0,2,12,0,2037476
+2026-27,6,4,DEF,Arsenal,Leeds,True,90,2,4.18,5,0,1,5,10,0,869792
+2026-27,6,5,DEF,Arsenal,Leeds,True,27,1,1.15,1,0,1,1,10,0,958959
+2026-27,6,7,MID,Arsenal,Leeds,True,62,2,3.7,3,0,1,4,12,0,1423711
+2026-27,6,8,DEF,Arsenal,Leeds,True,81,9,8.63,2,2,1,4,10,0,957602
+2026-27,6,9,DEF,Arsenal,Leeds,True,8,1,1.0,3,0,0,3,10,0,1002837
+2026-27,6,10,DEF,Arsenal,Leeds,True,62,5,4.71,1,3,5,4,10,0,846036
+2026-27,6,12,MID,Arsenal,Leeds,True,90,2,4.77,3,1,4,8,12,0,934235
+2026-27,6,13,MID,Arsenal,Leeds,True,90,7,4.78,5,2,3,10,12,0,856714
+2026-27,6,15,MID,Arsenal,Leeds,True,89,1,6.0,1,0,5,6,12,0,547410
+2026-27,6,16,MID,Arsenal,Leeds,True,90,2,5.35,1,0,4,5,12,0,966547
+2026-27,6,17,MID,Arsenal,Leeds,True,1,1,1.0,0,0,0,0,12,0,592010
+2026-27,6,25,FWD,Arsenal,Leeds,True,27,1,1.48,0,1,3,4,12,0,804508
+2026-27,6,26,FWD,Arsenal,Leeds,True,62,2,2.62,0,0,0,0,12,0,836705
+2026-27,6,31,DEF,Arsenal,Leeds,True,90,4,6.15,7,3,3,10,10,1,827679
+2026-27,6,32,DEF,Aston Villa,Brentford,True,90,0,1.42,3,5,3,8,10,0,833956
+2026-27,6,33,DEF,Aston Villa,Brentford,True,90,1,2.39,8,0,3,8,10,0,303638
+2026-27,6,37,DEF,Aston Villa,Brentford,True,90,3,4.39,14,0,2,14,10,1,143334
+2026-27,6,40,MID,Chelsea,Bournemouth,True,83,9,5.38,4,3,6,13,12,1,948261
+2026-27,6,41,MID,Aston Villa,Brentford,True,63,4,3.84,0,3,7,10,12,0,783126
+2026-27,6,43,MID,Man Utd,Spurs,True,58,3,3.42,0,5,13,18,12,1,331737
+2026-27,6,45,MID,Aston Villa,Brentford,True,90,10,9.91,1,1,4,6,12,0,250223
+2026-27,6,46,MID,Aston Villa,Brentford,True,4,1,1.03,0,0,2,2,12,0,98435
+2026-27,6,47,MID,Aston Villa,Brentford,True,90,4,4.84,7,1,5,13,12,1,826204
+2026-27,6,52,MID,Aston Villa,Brentford,True,4,1,1.0,0,0,0,0,12,0,1631879
+2026-27,6,53,MID,Aston Villa,Brentford,True,85,5,5.58,0,0,4,4,12,0,1518931
+2026-27,6,54,MID,Aston Villa,Brentford,True,85,2,2.43,1,1,1,3,12,0,1015267
+2026-27,6,60,DEF,Bournemouth,Chelsea,False,90,2,3.39,7,4,5,11,10,1,1156586
+2026-27,6,61,DEF,Bournemouth,Chelsea,False,83,-1,1.2,4,4,2,8,10,0,999028
+2026-27,6,64,DEF,Bournemouth,Chelsea,False,71,0,1.48,2,0,1,2,10,0,44566
+2026-27,6,66,DEF,Bournemouth,Chelsea,False,6,1,1.0,0,1,2,1,10,0,1201520
+2026-27,6,67,MID,Bournemouth,Chelsea,False,90,2,3.77,2,1,0,3,12,0,1464966
+2026-27,6,68,MID,Bournemouth,Chelsea,False,72,1,1.45,1,1,3,5,12,0,895576
+2026-27,6,71,MID,Bournemouth,Chelsea,False,17,1,1.0,2,0,2,4,12,0,548188
+2026-27,6,72,MID,Bournemouth,Chelsea,False,45,1,1.15,0,1,4,5,12,0,1154861
+2026-27,6,73,MID,Bournemouth,Chelsea,False,90,1,1.39,3,0,3,6,12,0,800419
+2026-27,6,74,MID,Bournemouth,Chelsea,False,45,1,1.03,0,1,2,3,12,0,855731
+2026-27,6,75,MID,Bournemouth,Chelsea,False,72,3,4.68,2,1,10,13,12,1,322391
+2026-27,6,79,FWD,Bournemouth,Chelsea,False,90,7,5.74,2,1,5,8,12,0,998490
+2026-27,6,81,FWD,Bournemouth,Chelsea,False,18,1,1.17,1,0,2,3,12,0,1154587
+2026-27,6,86,MID,Brentford,Aston Villa,False,66,2,2.47,1,0,4,5,12,0,972421
+2026-27,6,87,DEF,Brentford,Aston Villa,False,90,6,1.55,7,2,7,9,10,0,576384
+2026-27,6,88,DEF,Brentford,Aston Villa,False,90,0,0.65,3,2,4,5,10,0,1137431
+2026-27,6,90,DEF,Brentford,Aston Villa,False,45,1,1.0,5,0,2,5,10,0,966869
+2026-27,6,91,DEF,Coventry City,Newcastle,True,90,2,2.64,3,1,3,4,10,0,855864
+2026-27,6,93,DEF,Brentford,Aston Villa,False,45,1,1.0,6,0,3,6,10,0,1474198
+2026-27,6,94,MID,Brentford,Aston Villa,False,51,1,3.08,0,2,2,4,12,0,1006387
+2026-27,6,95,MID,Brentford,Aston Villa,False,23,1,1.35,1,3,2,6,12,0,1106451
+2026-27,6,97,MID,Brentford,Aston Villa,False,23,1,1.18,1,0,0,1,12,0,799251
+2026-27,6,98,MID,Brentford,Aston Villa,False,90,3,3.25,6,1,7,14,12,1,814873
+2026-27,6,101,MID,Chelsea,Bournemouth,True,90,18,6.1,5,0,3,8,12,0,42694
+2026-27,6,102,MID,Brentford,Aston Villa,False,66,8,3.66,2,2,0,4,12,0,1031258
+2026-27,6,104,MID,Coventry City,Newcastle,True,12,1,1.15,0,0,1,1,12,0,885864
+2026-27,6,105,MID,Brentford,Aston Villa,False,84,5,2.59,1,1,5,7,12,0,1020680
+2026-27,6,106,FWD,Brentford,Aston Villa,False,90,4,1.67,2,1,4,7,12,0,1016907
+2026-27,6,108,FWD,Brentford,Aston Villa,False,5,0,0.0,0,0,1,1,12,0,113956
+2026-27,6,112,DEF,Spurs,Man Utd,False,90,3,4.89,10,1,6,11,10,1,962012
+2026-27,6,113,DEF,Brighton,Sunderland,False,90,9,6.98,11,1,6,12,10,1,825844
+2026-27,6,114,DEF,Brighton,Sunderland,False,67,5,3.44,4,0,1,4,10,0,788784
+2026-27,6,115,DEF,Brighton,Sunderland,False,67,15,8.76,2,1,5,3,10,0,997152
+2026-27,6,116,DEF,Brighton,Sunderland,False,30,1,1.0,5,0,2,5,10,0,115365
+2026-27,6,119,DEF,Brighton,Sunderland,False,22,1,1.0,0,0,0,0,10,0,988333
+2026-27,6,124,MID,Brighton,Sunderland,False,90,6,4.31,3,5,2,10,12,0,48480
+2026-27,6,125,FWD,Brighton,Sunderland,False,2,4,1.45,0,0,0,0,12,0,946695
+2026-27,6,127,MID,Brighton,Sunderland,False,87,5,5.67,5,5,9,19,12,1,1065588
+2026-27,6,129,MID,Brighton,Sunderland,False,87,3,3.12,1,0,1,2,12,0,1036269
+2026-27,6,131,MID,Man Utd,Spurs,True,31,3,3.33,4,2,6,12,12,1,1199043
+2026-27,6,136,FWD,Chelsea,Bournemouth,True,7,1,1.0,0,0,0,0,12,0,33902
+2026-27,6,138,FWD,Brighton,Sunderland,False,59,1,1.07,3,2,2,7,12,0,1416535
+2026-27,6,144,DEF,Chelsea,Bournemouth,True,2,1,1.0,0,0,0,0,10,0,996958
+2026-27,6,149,DEF,Chelsea,Bournemouth,True,90,2,3.01,4,1,2,5,10,0,996911
+2026-27,6,151,DEF,Chelsea,Bournemouth,True,90,2,3.07,2,4,7,6,10,0,1403050
+2026-27,6,152,DEF,Chelsea,Bournemouth,True,18,1,1.0,0,0,1,0,10,0,1397736
+2026-27,6,154,MID,Chelsea,Bournemouth,True,87,8,2.47,1,2,7,10,12,0,982780
+2026-27,6,155,MID,Man City,Liverpool,False,79,3,2.7,3,2,4,9,12,0,974505
+2026-27,6,156,MID,Chelsea,Bournemouth,True,82,5,3.25,1,2,3,6,12,0,879349
+2026-27,6,157,MID,Chelsea,Bournemouth,True,6,1,1.0,0,0,0,0,12,0,1597265
+2026-27,6,159,MID,Chelsea,Bournemouth,True,71,2,2.32,5,4,2,11,12,0,987650
+2026-27,6,161,MID,Chelsea,Bournemouth,True,18,1,1.0,2,1,0,3,12,0,1069488
+2026-27,6,165,FWD,Chelsea,Bournemouth,True,71,12,6.7,0,0,5,5,12,0,975079
+2026-27,6,166,FWD,Aston Villa,Brentford,True,90,9,7.07,0,2,0,2,12,0,1085381
+2026-27,6,167,FWD,Nott'm Forest,Crystal Palace,False,71,2,6.22,0,0,0,0,12,0,997087
+2026-27,6,173,DEF,Coventry City,Newcastle,True,90,4,4.67,21,1,4,22,10,1,1033352
+2026-27,6,175,DEF,Coventry City,Newcastle,True,90,6,3.67,12,2,1,14,10,1,948723
+2026-27,6,176,DEF,Coventry City,Newcastle,True,90,5,2.7,0,3,2,3,10,0,791985
+2026-27,6,183,MID,Coventry City,Newcastle,True,82,7,6.25,0,0,2,2,12,0,979565
+2026-27,6,184,MID,Coventry City,Newcastle,True,82,2,2.21,2,1,2,5,12,0,340713
+2026-27,6,185,MID,Coventry City,Newcastle,True,29,1,1.0,2,0,3,5,12,0,978927
+2026-27,6,186,MID,Coventry City,Newcastle,True,60,3,2.23,0,0,2,2,12,0,861315
+2026-27,6,188,MID,Coventry City,Newcastle,True,7,1,1.39,0,0,1,1,12,0,837011
+2026-27,6,194,FWD,Coventry City,Newcastle,True,90,5,2.11,3,2,3,8,12,0,846061
+2026-27,6,195,FWD,Coventry City,Newcastle,True,12,6,2.4,0,0,0,0,12,0,991614
+2026-27,6,200,DEF,Chelsea,Bournemouth,True,90,2,3.01,7,1,4,8,10,0,879674
+2026-27,6,201,DEF,Nott'm Forest,Crystal Palace,False,90,1,4.48,5,3,5,8,10,0,870360
+2026-27,6,202,DEF,Crystal Palace,Nott'm Forest,True,90,4,4.56,10,0,1,10,10,1,931844
+2026-27,6,203,DEF,Crystal Palace,Nott'm Forest,True,90,4,4.17,7,3,4,10,10,1,1471671
+2026-27,6,204,DEF,Crystal Palace,Nott'm Forest,True,90,4,4.23,6,7,5,13,10,1,988275
+2026-27,6,208,MID,Crystal Palace,Nott'm Forest,True,7,1,1.0,0,0,2,2,12,0,845286
+2026-27,6,209,MID,Everton,Hull City,False,65,2,3.04,1,0,4,5,12,0,1085180
+2026-27,6,210,MID,Crystal Palace,Nott'm Forest,True,90,7,5.33,2,2,3,7,12,0,1109771
+2026-27,6,211,MID,Crystal Palace,Nott'm Forest,True,82,9,6.3,1,2,4,7,12,0,984624
+2026-27,6,213,MID,Crystal Palace,Nott'm Forest,True,71,8,5.61,6,1,5,12,12,1,355796
+2026-27,6,214,MID,Crystal Palace,Nott'm Forest,True,89,8,4.86,2,2,5,9,12,0,794338
+2026-27,6,222,FWD,Crystal Palace,Nott'm Forest,True,82,5,6.91,3,1,3,7,12,0,876599
+2026-27,6,224,FWD,Crystal Palace,Nott'm Forest,True,7,1,1.0,0,0,0,0,12,0,858194
+2026-27,6,229,DEF,Everton,Hull City,False,90,3,4.09,15,2,3,17,10,1,145188
+2026-27,6,230,DEF,Everton,Hull City,False,90,3,4.42,9,1,6,10,10,1,979563
+2026-27,6,231,DEF,Everton,Hull City,False,90,1,2.15,5,2,5,7,10,0,110846
+2026-27,6,232,DEF,Everton,Hull City,False,12,1,1.03,0,0,0,0,10,0,998253
+2026-27,6,236,MID,Everton,Hull City,False,90,13,7.44,1,2,7,10,12,0,861970
+2026-27,6,237,MID,Man City,Liverpool,False,55,1,1.03,0,0,1,1,12,0,914309
+2026-27,6,238,MID,Everton,Hull City,False,85,2,3.17,0,1,4,5,12,0,189061
+2026-27,6,239,MID,Everton,Hull City,False,90,4,5.39,2,5,5,12,12,1,927361
+2026-27,6,240,MID,Hull City,Everton,True,25,1,1.03,0,0,4,4,12,0,1085950
+2026-27,6,241,MID,Crystal Palace,Nott'm Forest,True,1,1,1.0,0,0,0,0,12,0,935543
+2026-27,6,242,MID,Everton,Hull City,False,24,1,1.03,0,0,2,2,12,0,1403061
+2026-27,6,243,MID,Everton,Hull City,False,4,1,1.1,0,0,1,1,12,0,1017392
+2026-27,6,244,MID,Everton,Hull City,False,77,2,3.5,4,1,6,11,12,0,1627560
+2026-27,6,245,MID,Everton,Hull City,False,4,1,1.24,0,0,1,1,12,0,1174472
+2026-27,6,247,MID,Everton,Hull City,False,12,1,1.06,0,0,0,0,12,0,1008471
+2026-27,6,249,FWD,Everton,Hull City,False,85,6,5.63,3,0,0,3,12,0,1395746
+2026-27,6,256,DEF,Fulham,Ipswich Town,False,90,1,2.93,6,1,3,7,10,0,190877
+2026-27,6,257,DEF,Fulham,Ipswich Town,False,90,2,3.33,8,4,0,12,10,1,861972
+2026-27,6,259,DEF,Ipswich Town,Fulham,True,90,2,2.92,6,0,6,6,10,0,825719
+2026-27,6,260,MID,Leeds,Arsenal,False,19,1,1.0,0,0,0,0,12,0,355528
+2026-27,6,261,MID,Fulham,Ipswich Town,False,86,4,3.98,1,2,8,11,12,0,352770
+2026-27,6,262,MID,Fulham,Ipswich Town,False,3,0,0.0,0,0,0,0,12,0,867445
+2026-27,6,263,MID,Fulham,Ipswich Town,False,14,1,1.75,0,1,1,2,12,0,1112879
+2026-27,6,264,MID,Fulham,Ipswich Town,False,75,3,5.1,0,2,3,5,12,0,1065216
+2026-27,6,265,MID,Fulham,Ipswich Town,False,90,2,3.36,5,2,2,9,12,0,793167
+2026-27,6,267,MID,Ipswich Town,Fulham,True,90,4,4.31,3,4,6,13,12,1,371222
+2026-27,6,268,MID,Fulham,Ipswich Town,False,75,2,2.37,0,0,3,3,12,0,1546231
+2026-27,6,269,DEF,Fulham,Ipswich Town,False,90,7,3.11,5,0,6,5,10,0,836698
+2026-27,6,271,FWD,Fulham,Ipswich Town,False,14,1,1.0,0,0,0,0,12,0,1015256
+2026-27,6,277,DEF,Hull City,Everton,True,90,1,2.47,6,0,2,6,10,0,100578
+2026-27,6,279,DEF,Hull City,Everton,True,90,1,1.81,5,2,2,7,10,0,307274
+2026-27,6,280,DEF,Hull City,Everton,True,90,1,1.75,1,1,4,2,10,0,827587
+2026-27,6,282,DEF,Hull City,Everton,True,63,2,3.0,0,0,4,0,10,0,931304
+2026-27,6,286,MID,Hull City,Everton,True,26,6,1.97,1,0,1,2,12,0,1125839
+2026-27,6,289,MID,Hull City,Everton,True,64,1,1.28,1,2,3,6,12,0,140479
+2026-27,6,290,MID,Hull City,Everton,True,74,2,2.25,1,4,1,6,12,0,864474
+2026-27,6,295,FWD,Hull City,Everton,True,90,1,1.27,0,1,4,5,12,0,367228
+2026-27,6,304,DEF,Ipswich Town,Fulham,True,90,11,7.09,8,1,7,9,10,0,856719
+2026-27,6,305,DEF,Ipswich Town,Fulham,True,90,1,1.98,2,2,1,4,10,0,963493
+2026-27,6,313,MID,Ipswich Town,Fulham,True,27,4,1.09,1,0,1,2,12,0,921005
+2026-27,6,316,FWD,Ipswich Town,Fulham,True,70,2,3.79,2,1,1,4,12,0,1128844
+2026-27,6,318,MID,Ipswich Town,Fulham,True,62,2,2.41,1,1,1,3,12,0,1014461
+2026-27,6,320,FWD,Ipswich Town,Fulham,True,19,1,1.64,0,0,1,1,12,0,190867
+2026-27,6,321,FWD,Ipswich Town,Fulham,True,9,1,1.4,0,0,1,1,12,0,1154598
+2026-27,6,327,DEF,Leeds,Arsenal,False,4,1,1.0,3,0,0,3,10,0,886930
+2026-27,6,328,DEF,Brighton,Sunderland,False,56,-2,-1.1,3,1,2,4,10,0,836675
+2026-27,6,330,DEF,Leeds,Arsenal,False,85,1,2.37,1,0,5,1,10,0,929132
+2026-27,6,331,DEF,Leeds,Arsenal,False,90,4,1.93,2,1,3,3,10,0,834308
+2026-27,6,332,DEF,Leeds,Arsenal,False,78,6,2.33,5,1,3,6,10,0,827681
+2026-27,6,334,DEF,Leeds,Arsenal,False,90,2,2.39,10,0,3,10,10,1,1118177
+2026-27,6,335,MID,Leeds,Arsenal,False,90,2,2.7,1,3,3,7,12,0,889861
+2026-27,6,336,MID,Leeds,Arsenal,False,70,2,2.65,0,0,2,2,12,0,865523
+2026-27,6,337,MID,Leeds,Arsenal,False,19,1,1.0,1,1,1,3,12,0,973431
+2026-27,6,338,MID,Leeds,Arsenal,False,90,1,1.37,5,1,2,8,12,0,847097
+2026-27,6,340,MID,Hull City,Everton,True,64,8,7.37,2,3,5,10,12,0,945806
+2026-27,6,345,MID,Leeds,Arsenal,False,70,1,1.72,1,2,4,7,12,0,871886
+2026-27,6,346,FWD,Leeds,Arsenal,False,90,2,2.0,2,0,2,4,12,0,372344
+2026-27,6,347,FWD,Leeds,Arsenal,False,11,1,1.0,0,0,2,2,12,0,803185
+2026-27,6,356,DEF,Liverpool,Man City,True,90,0,1.14,4,0,3,4,10,0,151545
+2026-27,6,357,DEF,Liverpool,Man City,True,15,1,1.0,0,0,0,0,10,0,970361
+2026-27,6,358,DEF,Liverpool,Man City,True,90,1,2.17,5,3,3,8,10,0,1097425
+2026-27,6,359,DEF,Liverpool,Man City,True,2,1,1.0,1,0,1,1,10,0,318927
+2026-27,6,362,DEF,Liverpool,Man City,True,87,3,5.96,9,3,0,12,10,1,1445625
+2026-27,6,366,MID,Liverpool,Man City,True,65,2,3.96,1,1,2,4,12,0,1019322
+2026-27,6,369,MID,Liverpool,Man City,True,15,1,1.0,0,0,0,0,12,0,1881902
+2026-27,6,370,MID,Liverpool,Man City,True,2,1,1.0,0,0,0,0,12,0,845386
+2026-27,6,371,MID,Liverpool,Man City,True,61,-1,0.07,3,1,4,8,12,0,904897
+2026-27,6,372,MID,Liverpool,Man City,True,90,2,3.66,2,1,5,8,12,0,895324
+2026-27,6,375,MID,Liverpool,Man City,True,24,1,1.0,1,1,0,2,12,0,1445945
+2026-27,6,377,MID,Liverpool,Man City,True,90,2,2.56,3,1,2,6,12,0,1145642
+2026-27,6,381,MID,Liverpool,Man City,True,74,2,2.97,1,0,1,2,12,0,1403111
+2026-27,6,387,DEF,Man City,Liverpool,False,65,5,2.68,2,1,4,3,10,0,1142703
+2026-27,6,388,DEF,Man City,Liverpool,False,90,6,3.59,4,0,3,4,10,0,877994
+2026-27,6,389,DEF,Man City,Liverpool,False,90,6,3.59,3,2,1,5,10,0,945122
+2026-27,6,390,DEF,Man City,Liverpool,False,90,6,3.59,4,0,2,4,10,0,318941
+2026-27,6,391,DEF,Man City,Liverpool,False,24,4,1.75,0,0,1,0,10,0,964994
+2026-27,6,397,MID,Man City,Liverpool,False,90,3,3.37,0,0,3,3,12,0,934354
+2026-27,6,399,MID,Man City,Liverpool,False,90,10,7.77,0,3,3,6,12,0,979128
+2026-27,6,400,MID,Man City,Liverpool,False,34,12,4.52,0,0,0,0,12,0,934386
+2026-27,6,401,FWD,Spurs,Man Utd,False,24,1,1.0,0,2,2,4,12,0,873554
+2026-27,6,403,MID,Spurs,Man Utd,False,90,2,3.85,0,0,5,5,12,0,1046795
+2026-27,6,405,MID,Newcastle,Coventry City,False,90,7,4.89,1,4,4,9,12,0,954056
+2026-27,6,411,FWD,Man City,Liverpool,False,79,6,3.63,2,1,2,5,12,0,839956
+2026-27,6,417,DEF,Man Utd,Spurs,True,31,0,0.21,4,1,0,5,10,0,843200
+2026-27,6,418,DEF,Man Utd,Spurs,True,90,2,3.51,8,1,4,9,10,0,149380
+2026-27,6,419,DEF,Man Utd,Spurs,True,90,3,3.85,9,2,1,11,10,1,859999
+2026-27,6,420,DEF,Man Utd,Spurs,True,58,3,3.03,9,3,6,12,10,1,1153315
+2026-27,6,421,DEF,Man Utd,Spurs,True,1,1,1.0,0,1,0,1,10,0,1445799
+2026-27,6,423,DEF,Man Utd,Spurs,True,90,3,3.82,10,3,1,13,10,1,190839
+2026-27,6,426,MID,Man Utd,Spurs,True,90,1,1.72,1,1,4,6,12,0,288205
+2026-27,6,427,MID,Man Utd,Spurs,True,90,8,4.7,1,0,1,2,12,0,927083
+2026-27,6,428,MID,Man Utd,Spurs,True,90,10,8.43,2,4,8,14,12,1,886363
+2026-27,6,429,MID,Man Utd,Spurs,True,1,1,1.0,0,0,0,0,12,0,814590
+2026-27,6,431,MID,Man Utd,Spurs,True,58,1,1.39,1,1,2,4,12,0,971037
+2026-27,6,432,MID,Man Utd,Spurs,True,90,4,4.29,2,5,10,17,12,1,1142175
+2026-27,6,440,FWD,Man Utd,Spurs,True,31,1,1.66,0,0,2,2,12,0,917007
+2026-27,6,445,DEF,Newcastle,Coventry City,False,90,0,0.98,8,0,5,8,10,0,1014286
+2026-27,6,447,DEF,Newcastle,Coventry City,False,90,8,3.22,9,1,1,10,10,1,910046
+2026-27,6,448,DEF,Newcastle,Coventry City,False,1,1,1.0,0,0,0,0,10,0,99090
+2026-27,6,449,DEF,Newcastle,Coventry City,False,90,0,1.16,5,1,6,6,10,0,1136730
+2026-27,6,452,MID,Arsenal,Leeds,True,27,9,4.71,1,0,5,6,12,0,866469
+2026-27,6,453,MID,Newcastle,Coventry City,False,90,2,5.03,1,2,4,7,12,0,855647
+2026-27,6,455,MID,Spurs,Man Utd,False,90,7,5.34,2,1,6,9,12,0,892673
+2026-27,6,457,MID,Newcastle,Coventry City,False,58,1,2.75,0,0,2,2,12,0,372336
+2026-27,6,458,MID,Newcastle,Coventry City,False,31,0,0.03,1,1,3,5,12,0,560128
+2026-27,6,459,MID,Newcastle,Coventry City,False,58,1,1.03,1,2,3,6,12,0,1400650
+2026-27,6,460,MID,Newcastle,Coventry City,False,58,1,2.73,1,1,0,2,12,0,888550
+2026-27,6,461,MID,Newcastle,Coventry City,False,31,1,1.66,0,2,2,4,12,0,1568123
+2026-27,6,464,FWD,Newcastle,Coventry City,False,77,2,2.63,0,0,0,0,12,0,805123
+2026-27,6,465,FWD,Newcastle,Coventry City,False,12,1,1.48,0,0,0,0,12,0,1122603
+2026-27,6,469,DEF,Nott'm Forest,Crystal Palace,False,90,1,3.25,1,1,2,2,10,0,927356
+2026-27,6,472,DEF,Nott'm Forest,Crystal Palace,False,90,2,4.07,7,3,6,10,10,1,1199282
+2026-27,6,473,DEF,Nott'm Forest,Crystal Palace,False,82,0,0.53,7,2,5,9,10,0,800417
+2026-27,6,480,MID,Nott'm Forest,Crystal Palace,False,90,2,3.89,0,2,6,8,12,0,865912
+2026-27,6,481,MID,Man City,Liverpool,False,90,6,3.1,1,1,6,8,12,0,994546
+2026-27,6,482,MID,Nott'm Forest,Crystal Palace,False,18,1,1.06,0,0,0,0,12,0,867442
+2026-27,6,483,MID,Nott'm Forest,Crystal Palace,False,71,7,5.69,0,0,0,0,12,0,944327
+2026-27,6,486,MID,Nott'm Forest,Crystal Palace,False,90,4,4.49,3,0,12,15,12,1,1003334
+2026-27,6,488,MID,Nott'm Forest,Crystal Palace,False,24,1,1.06,1,0,3,4,12,0,843754
+2026-27,6,490,FWD,Nott'm Forest,Crystal Palace,False,18,1,2.72,0,0,1,1,12,0,50480
+2026-27,6,493,FWD,Nott'm Forest,Crystal Palace,False,7,1,1.0,0,1,1,2,12,0,954061
+2026-27,6,498,DEF,Spurs,Man Utd,False,88,2,4.41,2,1,8,3,10,0,830659
+2026-27,6,501,DEF,Sunderland,Brighton,True,90,1,3.21,4,1,4,5,10,0,794953
+2026-27,6,503,DEF,Spurs,Man Utd,False,16,1,1.0,0,0,1,0,10,0,998247
+2026-27,6,504,DEF,Brighton,Sunderland,False,90,8,7.6,14,1,4,15,10,1,1405212
+2026-27,6,506,DEF,Spurs,Man Utd,False,73,2,4.97,5,1,3,6,10,0,983572
+2026-27,6,512,MID,Spurs,Man Utd,False,65,3,4.22,0,1,4,5,12,0,905163
+2026-27,6,515,MID,Spurs,Man Utd,False,16,1,1.03,0,3,1,4,12,0,356398
+2026-27,6,516,MID,Spurs,Man Utd,False,11,-2,-2.0,1,0,1,2,12,0,791190
+2026-27,6,519,MID,Spurs,Man Utd,False,73,3,6.14,3,2,8,13,12,1,904970
+2026-27,6,520,MID,Spurs,Man Utd,False,65,3,3.15,3,2,1,6,12,0,1391251
+2026-27,6,522,MID,Spurs,Man Utd,False,90,3,3.57,4,3,7,14,12,1,1142335
+2026-27,6,525,MID,Spurs,Man Utd,False,1,1,1.0,1,0,0,1,12,0,1142562
+2026-27,6,526,FWD,Spurs,Man Utd,False,90,7,5.86,2,0,2,4,12,0,361420
+2026-27,6,533,DEF,Sunderland,Brighton,True,90,3,4.46,7,3,10,10,10,1,780014
+2026-27,6,534,DEF,Sunderland,Brighton,True,90,1,2.07,5,3,3,8,10,0,989034
+2026-27,6,536,DEF,Sunderland,Brighton,True,72,2,3.58,5,2,3,7,10,0,831424
+2026-27,6,541,DEF,Sunderland,Brighton,True,33,1,1.9,0,0,1,0,10,0,128587
+2026-27,6,542,MID,Sunderland,Brighton,True,80,2,3.13,0,0,4,4,12,0,984014
+2026-27,6,544,MID,Sunderland,Brighton,True,90,2,2.84,2,2,4,8,12,0,117777
+2026-27,6,545,MID,Sunderland,Brighton,True,90,3,3.36,1,2,5,8,12,0,1171539
+2026-27,6,550,MID,Sunderland,Brighton,True,17,1,1.09,0,0,0,0,12,0,2138729
+2026-27,6,551,MID,Sunderland,Brighton,True,72,2,2.39,1,2,0,3,12,0,1116571
+2026-27,6,553,FWD,Sunderland,Brighton,True,90,2,2.72,0,0,3,3,12,0,877980
+2026-27,6,558,MID,Nott'm Forest,Crystal Palace,False,65,2,2.93,2,0,6,8,12,0,791079
+2026-27,6,562,MID,Ipswich Town,Fulham,True,80,2,2.26,0,2,2,4,12,0,832420
+2026-27,6,563,MID,Hull City,Everton,True,15,1,1.0,2,0,2,4,12,0,926560
+2026-27,6,565,MID,Brentford,Aston Villa,False,38,1,1.09,4,3,4,11,12,0,1064697
+2026-27,6,566,DEF,Bournemouth,Chelsea,False,90,0,4.12,3,2,7,5,10,0,1006069
+2026-27,6,569,FWD,Fulham,Ipswich Town,False,86,2,4.71,0,0,1,1,12,0,1402716
+2026-27,6,571,MID,Ipswich Town,Fulham,True,62,2,2.59,3,3,3,9,12,0,855845
+2026-27,6,573,DEF,Bournemouth,Chelsea,False,18,1,1.0,0,1,1,1,10,0,1010655
+2026-27,6,575,MID,Coventry City,Newcastle,True,77,4,4.22,3,3,7,13,12,1,1986794
+2026-27,6,576,MID,Hull City,Everton,True,26,4,1.18,1,0,3,4,12,0,1383695
+2026-27,6,579,DEF,Liverpool,Man City,True,74,0,1.98,5,1,4,6,10,0,925097
+2026-27,6,580,MID,Fulham,Ipswich Town,False,70,3,2.81,0,2,6,8,12,0,1131449
+2026-27,6,581,DEF,Nott'm Forest,Crystal Palace,False,90,1,1.81,5,1,9,6,10,0,1394342
+2026-27,6,583,DEF,Chelsea,Bournemouth,True,90,5,3.73,6,0,1,6,10,0,1010421
+2026-27,6,586,DEF,Hull City,Everton,True,90,3,5.55,13,0,2,13,10,1,1458073
+2026-27,6,588,DEF,Crystal Palace,Nott'm Forest,True,90,2,3.91,3,1,4,4,10,0,1403362
+2026-27,6,591,MID,Ipswich Town,Fulham,True,70,2,4.71,0,1,1,2,12,0,973556
+2026-27,6,592,DEF,Ipswich Town,Fulham,True,90,10,4.92,3,1,5,4,10,0,1930811
+2026-27,6,593,DEF,Newcastle,Coventry City,False,31,0,0.18,4,0,5,4,10,0,1102791
+2026-27,6,596,DEF,Aston Villa,Brentford,True,45,1,1.0,6,0,1,6,10,0,965011
+2026-27,6,598,DEF,Leeds,Arsenal,False,85,1,1.59,4,1,2,5,10,0,282229
+2026-27,6,599,FWD,Coventry City,Newcastle,True,77,12,6.32,0,0,2,2,12,0,1514916
+2026-27,6,605,MID,Brighton,Sunderland,False,22,1,1.0,4,1,1,6,12,0,1568186
+2026-27,6,611,DEF,Aston Villa,Brentford,True,45,1,1.03,3,2,1,5,10,0,863653
+2026-27,6,612,DEF,Sunderland,Brighton,True,17,1,1.0,2,0,2,2,10,0,1894003
+2026-27,6,614,DEF,Brighton,Sunderland,False,2,7,1.9,0,1,1,1,10,0,1049534
+2026-27,6,616,MID,Man City,Liverpool,False,10,0,0.19,0,0,0,0,12,0,1564180
+2026-27,6,619,MID,Ipswich Town,Fulham,True,27,1,1.06,3,2,2,7,12,0,822600
+2026-27,6,620,DEF,Brentford,Aston Villa,False,90,1,2.1,2,4,4,6,10,0,1471764
+2026-27,6,627,MID,Liverpool,Man City,True,87,2,2.65,1,3,6,10,12,0,996952
+2026-27,6,628,MID,Man City,Liverpool,False,10,1,1.0,0,0,0,0,12,0,1835889
+2026-27,6,631,MID,Aston Villa,Brentford,True,26,1,1.41,1,1,1,3,12,0,1590918
+2026-27,6,633,DEF,Crystal Palace,Nott'm Forest,True,18,1,1.0,4,0,0,4,10,0,1634980
+2026-27,6,634,FWD,Newcastle,Coventry City,False,90,2,4.59,2,0,3,5,12,0,1149144
+2026-27,6,635,MID,Fulham,Ipswich Town,False,3,1,1.3,0,0,0,0,12,0,1142211
+2026-27,6,636,MID,Fulham,Ipswich Town,False,19,0,0.0,1,0,1,2,12,0,1142683
+2026-27,6,637,FWD,Hull City,Everton,True,4,1,1.0,0,0,0,0,12,0,1514800
+2026-27,6,639,MID,Brighton,Sunderland,False,90,3,2.52,2,1,4,7,12,0,1464641
+2026-27,6,640,FWD,Ipswich Town,Fulham,True,19,1,1.0,0,0,1,1,12,0,875137
+2026-27,6,642,MID,Hull City,Everton,True,85,7,5.83,1,1,8,10,12,0,911039
+2026-27,6,644,MID,Crystal Palace,Nott'm Forest,True,90,7,4.98,2,2,10,14,12,1,959805
+2026-27,6,646,MID,Sunderland,Brighton,True,56,1,1.18,2,1,3,6,12,0,1195784
+2026-27,6,648,MID,Leeds,Arsenal,False,4,1,1.0,0,0,0,0,12,0,1146148
+2026-27,6,649,DEF,Everton,Hull City,False,77,4,3.61,3,1,0,4,10,0,352768
+2026-27,6,650,DEF,Fulham,Ipswich Town,False,90,3,4.78,8,3,3,11,10,1,988672
+2026-27,6,651,FWD,Sunderland,Brighton,True,9,1,1.0,0,0,0,0,12,0,2057385
+2026-27,6,656,DEF,Coventry City,Newcastle,True,7,7,2.26,1,0,0,1,10,0,1402791
+2026-27,7,4,DEF,Arsenal,Nott'm Forest,False,90,8,8.21,10,2,3,12,10,1,869792
+2026-27,7,5,DEF,Arsenal,Nott'm Forest,False,24,1,1.21,2,0,1,2,10,0,958959
+2026-27,7,8,DEF,Arsenal,Nott'm Forest,False,90,6,4.53,2,0,2,2,10,0,957602
+2026-27,7,10,DEF,Arsenal,Nott'm Forest,False,65,6,4.56,1,0,1,1,10,0,846036
+2026-27,7,12,MID,Arsenal,Nott'm Forest,False,90,3,2.89,1,4,2,7,12,0,934235
+2026-27,7,13,MID,Arsenal,Nott'm Forest,False,90,9,7.38,3,0,6,9,12,0,856714
+2026-27,7,14,MID,Arsenal,Nott'm Forest,False,45,1,1.03,0,0,0,0,12,0,864921
+2026-27,7,15,MID,Arsenal,Nott'm Forest,False,90,3,2.89,0,0,2,2,12,0,547410
+2026-27,7,16,MID,Arsenal,Nott'm Forest,False,45,5,0.39,0,0,0,0,12,0,966547
+2026-27,7,17,MID,Arsenal,Nott'm Forest,False,24,1,1.48,0,0,2,2,12,0,592010
+2026-27,7,21,MID,Everton,Chelsea,True,5,0,0.0,0,0,2,2,12,0,135256
+2026-27,7,25,FWD,Arsenal,Nott'm Forest,False,24,1,1.41,0,0,1,1,12,0,804508
+2026-27,7,26,FWD,Arsenal,Nott'm Forest,False,65,2,3.41,1,0,0,1,12,0,836705
+2026-27,7,31,DEF,Arsenal,Nott'm Forest,False,90,9,6.66,4,1,8,5,10,0,827679
+2026-27,7,32,DEF,Aston Villa,Newcastle,False,90,8,5.88,7,3,2,10,10,1,833956
+2026-27,7,33,DEF,Aston Villa,Newcastle,False,90,7,4.52,7,0,3,7,10,0,303638
+2026-27,7,34,DEF,Aston Villa,Newcastle,False,13,1,1.0,4,0,0,4,10,0,864169
+2026-27,7,37,DEF,Aston Villa,Newcastle,False,90,9,6.49,12,0,2,12,10,1,143334
+2026-27,7,40,MID,Chelsea,Everton,False,90,2,2.68,2,3,6,11,12,0,948261
+2026-27,7,41,MID,Aston Villa,Newcastle,False,71,3,3.74,1,6,4,11,12,0,783126
+2026-27,7,43,MID,Man Utd,Leeds,False,83,7,5.72,4,1,2,7,12,0,331737
+2026-27,7,45,MID,Aston Villa,Newcastle,False,45,1,1.06,0,4,6,10,12,0,250223
+2026-27,7,46,MID,Aston Villa,Newcastle,False,18,1,1.69,1,0,3,4,12,0,98435
+2026-27,7,47,MID,Aston Villa,Newcastle,False,90,5,4.4,6,5,6,17,12,1,826204
+2026-27,7,52,MID,Aston Villa,Newcastle,False,45,0,0.03,1,2,2,5,12,0,1631879
+2026-27,7,53,MID,Aston Villa,Newcastle,False,71,11,8.34,1,0,2,3,12,0,1518931
+2026-27,7,54,MID,Aston Villa,Newcastle,False,71,5,2.3,2,2,2,6,12,0,1015267
+2026-27,7,60,DEF,Bournemouth,Sunderland,True,90,7,7.27,7,2,7,9,10,0,1156586
+2026-27,7,61,DEF,Bournemouth,Sunderland,True,90,6,6.15,3,0,8,3,10,0,999028
+2026-27,7,62,DEF,Bournemouth,Sunderland,True,1,1,1.0,0,0,3,0,10,0,962408
+2026-27,7,64,DEF,Bournemouth,Sunderland,True,90,6,9.84,5,0,0,5,10,0,44566
+2026-27,7,67,MID,Bournemouth,Sunderland,True,88,3,5.27,1,1,3,5,12,0,1464966
+2026-27,7,68,MID,Bournemouth,Sunderland,True,78,10,11.38,2,0,8,10,12,0,895576
+2026-27,7,70,MID,Bournemouth,Sunderland,True,28,1,2.48,1,0,0,1,12,0,851596
+2026-27,7,71,MID,Bournemouth,Sunderland,True,61,2,3.35,1,1,3,5,12,0,548188
+2026-27,7,72,MID,Bournemouth,Sunderland,True,1,1,1.54,0,0,0,0,12,0,1154861
+2026-27,7,73,MID,Bournemouth,Sunderland,True,88,3,3.59,5,1,5,11,12,0,800419
+2026-27,7,75,MID,Bournemouth,Sunderland,True,90,2,4.06,1,2,5,8,12,0,322391
+2026-27,7,77,MID,Bournemouth,Sunderland,True,11,1,1.88,0,0,0,0,12,0,991478
+2026-27,7,79,FWD,Bournemouth,Sunderland,True,78,12,10.49,1,2,3,6,12,0,998490
+2026-27,7,81,FWD,Bournemouth,Sunderland,True,11,1,1.0,0,0,0,0,12,0,1154587
+2026-27,7,85,DEF,Brentford,Liverpool,True,70,1,1.95,6,0,3,6,10,0,924378
+2026-27,7,86,MID,Brentford,Liverpool,True,76,9,5.07,0,1,4,5,12,0,972421
+2026-27,7,87,DEF,Brentford,Liverpool,True,90,3,4.32,10,3,4,13,10,1,576384
+2026-27,7,88,DEF,Brentford,Liverpool,True,90,1,2.14,5,1,6,6,10,0,1137431
+2026-27,7,90,DEF,Brentford,Liverpool,True,19,1,1.0,3,1,2,4,10,0,966869
+2026-27,7,91,DEF,Coventry City,Spurs,False,90,1,2.99,9,0,1,9,10,0,855864
+2026-27,7,94,MID,Brentford,Liverpool,True,45,0,0.03,2,1,2,5,12,0,1006387
+2026-27,7,95,MID,Brentford,Liverpool,True,45,1,1.03,4,1,3,8,12,0,1106451
+2026-27,7,96,MID,Brentford,Liverpool,True,13,1,1.03,2,0,1,3,12,0,907072
+2026-27,7,97,MID,Brentford,Liverpool,True,45,1,1.06,1,0,1,2,12,0,799251
+2026-27,7,98,MID,Brentford,Liverpool,True,90,-1,-0.42,6,3,2,11,12,0,814873
+2026-27,7,101,MID,Chelsea,Everton,False,90,3,4.79,0,0,2,2,12,0,42694
+2026-27,7,102,MID,Brentford,Liverpool,True,52,-2,-2.0,2,0,0,2,12,0,1031258
+2026-27,7,104,MID,Coventry City,Spurs,False,30,1,1.6,1,2,3,6,12,0,885864
+2026-27,7,105,MID,Brentford,Liverpool,True,76,2,3.21,1,1,1,3,12,0,1020680
+2026-27,7,106,FWD,Brentford,Liverpool,True,90,4,3.53,5,0,5,10,12,0,1016907
+2026-27,7,112,DEF,Spurs,Coventry City,True,90,4,6.0,8,3,3,11,10,1,962012
+2026-27,7,113,DEF,Brighton,Crystal Palace,True,90,6,4.09,6,0,3,6,10,0,825844
+2026-27,7,114,DEF,Brighton,Crystal Palace,True,80,10,5.3,6,0,5,6,10,0,788784
+2026-27,7,115,DEF,Brighton,Crystal Palace,True,90,6,4.24,1,3,3,4,10,0,997152
+2026-27,7,116,DEF,Brighton,Crystal Palace,True,89,6,3.88,8,1,5,9,10,0,115365
+2026-27,7,120,DEF,Brighton,Crystal Palace,True,1,1,1.0,2,0,0,2,10,0,888340
+2026-27,7,123,MID,Brighton,Crystal Palace,True,19,6,5.66,1,0,1,2,12,0,1142315
+2026-27,7,124,MID,Brighton,Crystal Palace,True,70,5,2.58,1,0,2,3,12,0,48480
+2026-27,7,125,FWD,Brighton,Crystal Palace,True,19,1,1.15,0,0,0,0,12,0,946695
+2026-27,7,127,MID,Brighton,Crystal Palace,True,90,8,2.66,2,1,6,9,12,0,1065588
+2026-27,7,129,MID,Brighton,Crystal Palace,True,80,13,6.09,0,1,2,3,12,0,1036269
+2026-27,7,131,MID,Man Utd,Leeds,False,73,2,2.47,2,1,2,5,12,0,1199043
+2026-27,7,136,FWD,Chelsea,Everton,False,1,1,1.0,0,0,1,1,12,0,33902
+2026-27,7,138,FWD,Brighton,Crystal Palace,True,70,12,7.03,1,0,4,5,12,0,1416535
+2026-27,7,147,DEF,Spurs,Coventry City,True,70,2,4.44,4,1,3,5,10,0,352668
+2026-27,7,148,DEF,Chelsea,Everton,False,90,11,6.63,1,1,2,2,10,0,1153079
+2026-27,7,149,DEF,Chelsea,Everton,False,90,6,4.6,9,0,1,9,10,0,996911
+2026-27,7,151,DEF,Chelsea,Everton,False,90,7,5.63,7,3,1,10,10,1,1403050
+2026-27,7,152,DEF,Chelsea,Everton,False,1,1,1.0,1,0,0,1,10,0,1397736
+2026-27,7,154,MID,Chelsea,Everton,False,90,2,2.48,0,1,2,3,12,0,982780
+2026-27,7,155,MID,Man City,Ipswich Town,True,40,1,4.03,3,0,2,5,12,0,974505
+2026-27,7,156,MID,Chelsea,Everton,False,90,15,7.22,1,3,5,9,12,0,879349
+2026-27,7,159,MID,Chelsea,Everton,False,90,3,2.91,2,0,2,4,12,0,987650
+2026-27,7,161,MID,Chelsea,Everton,False,1,1,1.0,0,1,2,3,12,0,1069488
+2026-27,7,162,MID,Man Utd,Leeds,False,90,1,1.27,2,1,2,5,12,0,1105779
+2026-27,7,164,MID,Chelsea,Everton,False,1,1,1.0,0,0,0,0,12,0,1403165
+2026-27,7,165,FWD,Chelsea,Everton,False,90,2,3.18,1,1,1,3,12,0,975079
+2026-27,7,166,FWD,Aston Villa,Newcastle,False,90,2,3.8,1,0,2,3,12,0,1085381
+2026-27,7,167,FWD,Nott'm Forest,Arsenal,True,90,2,3.29,2,1,0,3,12,0,997087
+2026-27,7,173,DEF,Coventry City,Spurs,False,90,3,5.29,9,1,1,10,10,1,1033352
+2026-27,7,175,DEF,Coventry City,Spurs,False,90,1,3.02,3,3,3,6,10,0,948723
+2026-27,7,176,DEF,Coventry City,Spurs,False,90,0,1.84,4,2,0,6,10,0,791985
+2026-27,7,177,DEF,Coventry City,Spurs,False,3,1,1.0,0,1,2,1,10,0,1099074
+2026-27,7,183,MID,Coventry City,Spurs,False,86,6,2.18,1,2,1,4,12,0,979565
+2026-27,7,184,MID,Coventry City,Spurs,False,90,2,2.45,3,2,2,7,12,0,340713
+2026-27,7,185,MID,Coventry City,Spurs,False,77,2,3.28,1,0,3,4,12,0,978927
+2026-27,7,186,MID,Coventry City,Spurs,False,12,1,1.75,0,0,0,0,12,0,861315
+2026-27,7,194,FWD,Coventry City,Spurs,False,77,5,2.36,3,2,2,7,12,0,846061
+2026-27,7,200,DEF,Chelsea,Everton,False,90,6,6.1,7,1,1,8,10,0,879674
+2026-27,7,201,DEF,Nott'm Forest,Arsenal,True,90,2,3.28,3,2,1,5,10,0,870360
+2026-27,7,202,DEF,Crystal Palace,Brighton,False,90,2,2.57,11,2,1,13,10,1,931844
+2026-27,7,203,DEF,Crystal Palace,Brighton,False,90,-2,-1.43,7,2,3,9,10,0,1471671
+2026-27,7,204,DEF,Crystal Palace,Brighton,False,90,0,0.54,5,2,3,7,10,0,988275
+2026-27,7,209,MID,Everton,Chelsea,True,5,1,1.0,0,0,0,0,12,0,1085180
+2026-27,7,210,MID,Crystal Palace,Brighton,False,90,2,2.59,3,0,2,5,12,0,1109771
+2026-27,7,211,MID,Crystal Palace,Brighton,False,60,2,2.62,0,0,0,0,12,0,984624
+2026-27,7,212,MID,Crystal Palace,Brighton,False,9,1,1.0,0,0,0,0,12,0,193554
+2026-27,7,213,MID,Crystal Palace,Brighton,False,37,1,1.88,3,2,2,7,12,0,355796
+2026-27,7,214,MID,Crystal Palace,Brighton,False,80,1,1.38,1,0,4,5,12,0,794338
+2026-27,7,222,FWD,Crystal Palace,Brighton,False,60,2,2.0,0,0,2,2,12,0,876599
+2026-27,7,223,FWD,Crystal Palace,Brighton,False,29,1,2.87,1,0,3,4,12,0,848276
+2026-27,7,224,FWD,Crystal Palace,Brighton,False,29,1,1.09,1,0,1,2,12,0,858194
+2026-27,7,229,DEF,Everton,Chelsea,True,90,0,1.07,6,1,3,7,10,0,145188
+2026-27,7,230,DEF,Everton,Chelsea,True,90,1,2.31,6,2,1,8,10,0,979563
+2026-27,7,233,DEF,Everton,Chelsea,True,90,1,2.55,3,1,4,4,10,0,876643
+2026-27,7,236,MID,Everton,Chelsea,True,90,2,2.5,2,0,5,7,12,0,861970
+2026-27,7,237,MID,Man City,Ipswich Town,True,90,5,6.77,0,4,3,7,12,0,914309
+2026-27,7,238,MID,Everton,Chelsea,True,84,2,2.98,2,0,4,6,12,0,189061
+2026-27,7,239,MID,Everton,Chelsea,True,90,2,2.29,2,1,5,8,12,0,927361
+2026-27,7,240,MID,Hull City,Fulham,False,45,1,1.03,0,1,1,2,12,0,1085950
+2026-27,7,241,MID,Crystal Palace,Brighton,False,45,1,1.63,0,0,2,2,12,0,935543
+2026-27,7,242,MID,Everton,Chelsea,True,35,1,1.03,0,0,1,1,12,0,1403061
+2026-27,7,244,MID,Everton,Chelsea,True,84,1,1.36,3,1,1,5,12,0,1627560
+2026-27,7,246,MID,Everton,Chelsea,True,90,2,2.38,6,1,2,9,12,0,1064082
+2026-27,7,249,FWD,Everton,Chelsea,True,90,2,3.2,1,0,0,1,12,0,1395746
+2026-27,7,254,DEF,Fulham,Hull City,True,90,7,6.47,5,2,1,7,10,0,803174
+2026-27,7,257,DEF,Fulham,Hull City,True,90,8,8.37,7,3,2,10,10,1,861972
+2026-27,7,258,DEF,Fulham,Hull City,True,90,8,7.74,4,2,4,6,10,0,329417
+2026-27,7,259,DEF,Ipswich Town,Man City,False,90,3,3.14,8,4,6,12,10,1,825719
+2026-27,7,261,MID,Fulham,Hull City,True,90,11,10.04,0,0,5,5,12,0,352770
+2026-27,7,264,MID,Fulham,Hull City,True,77,3,4.63,0,1,5,6,12,0,1065216
+2026-27,7,265,MID,Fulham,Hull City,True,90,5,2.22,2,1,3,6,12,0,793167
+2026-27,7,266,MID,Fulham,Hull City,True,12,1,1.15,0,1,2,3,12,0,82566
+2026-27,7,268,MID,Fulham,Hull City,True,77,2,3.81,1,1,2,4,12,0,1546231
+2026-27,7,269,DEF,Fulham,Hull City,True,12,-2,-2.0,2,0,2,2,10,0,836698
+2026-27,7,277,DEF,Hull City,Fulham,False,90,4,5.01,10,2,3,12,10,1,100578
+2026-27,7,279,DEF,Hull City,Fulham,False,90,2,3.01,6,1,4,7,10,0,307274
+2026-27,7,280,DEF,Hull City,Fulham,False,90,2,3.31,4,2,1,6,10,0,827587
+2026-27,7,282,DEF,Hull City,Fulham,False,22,1,1.0,2,1,0,3,10,0,931304
+2026-27,7,286,MID,Hull City,Fulham,False,90,2,3.02,1,4,1,6,12,0,1125839
+2026-27,7,289,MID,Hull City,Fulham,False,67,2,2.45,2,2,0,4,12,0,140479
+2026-27,7,290,MID,Hull City,Fulham,False,74,1,1.46,4,1,2,7,12,0,864474
+2026-27,7,295,FWD,Hull City,Fulham,False,90,2,2.0,1,0,2,3,12,0,367228
+2026-27,7,304,DEF,Ipswich Town,Man City,False,90,3,3.2,8,5,3,13,10,1,856719
+2026-27,7,305,DEF,Ipswich Town,Man City,False,90,0,0.47,6,2,3,8,10,0,963493
+2026-27,7,306,DEF,Ipswich Town,Man City,False,90,1,1.34,4,3,2,7,10,0,990821
+2026-27,7,310,MID,Ipswich Town,Man City,False,19,1,1.0,0,1,3,4,12,0,856495
+2026-27,7,313,MID,Ipswich Town,Man City,False,1,1,1.0,1,0,1,2,12,0,921005
+2026-27,7,315,MID,Ipswich Town,Man City,False,19,4,1.0,0,2,2,4,12,0,1103589
+2026-27,7,316,FWD,Ipswich Town,Man City,False,77,2,3.72,0,0,1,1,12,0,1128844
+2026-27,7,320,FWD,Ipswich Town,Man City,False,12,1,1.0,0,1,0,1,12,0,190867
+2026-27,7,330,DEF,Leeds,Man Utd,True,90,2,4.82,1,2,8,3,10,0,929132
+2026-27,7,331,DEF,Leeds,Man Utd,True,90,1,2.59,1,1,2,2,10,0,834308
+2026-27,7,332,DEF,Leeds,Man Utd,True,90,2,3.86,4,2,8,6,10,0,827681
+2026-27,7,334,DEF,Leeds,Man Utd,True,90,5,4.43,5,0,1,5,10,0,1118177
+2026-27,7,335,MID,Leeds,Man Utd,True,90,2,4.43,1,0,2,3,12,0,889861
+2026-27,7,336,MID,Leeds,Man Utd,True,73,2,2.6,0,0,2,2,12,0,865523
+2026-27,7,338,MID,Leeds,Man Utd,True,90,1,1.52,3,2,5,10,12,0,847097
+2026-27,7,339,MID,Leeds,Man Utd,True,9,1,1.0,1,0,0,1,12,0,866191
+2026-27,7,340,MID,Hull City,Fulham,False,22,1,1.0,0,0,2,2,12,0,945806
+2026-27,7,345,MID,Leeds,Man Utd,True,80,2,2.69,1,2,2,5,12,0,871886
+2026-27,7,346,FWD,Leeds,Man Utd,True,90,9,7.55,1,1,1,3,12,0,372344
+2026-27,7,347,FWD,Leeds,Man Utd,True,16,1,1.84,0,1,0,1,12,0,803185
+2026-27,7,356,DEF,Liverpool,Brentford,False,90,4,6.05,12,1,5,13,10,1,151545
+2026-27,7,357,DEF,Liverpool,Brentford,False,6,1,1.03,0,1,2,1,10,0,970361
+2026-27,7,358,DEF,Liverpool,Brentford,False,90,2,3.69,5,2,5,7,10,0,1097425
+2026-27,7,359,DEF,Liverpool,Brentford,False,11,1,1.0,4,1,1,5,10,0,318927
+2026-27,7,362,DEF,Liverpool,Brentford,False,90,3,4.87,9,4,2,13,10,1,1445625
+2026-27,7,366,MID,Liverpool,Brentford,False,90,5,3.03,0,0,1,1,12,0,1019322
+2026-27,7,368,MID,Liverpool,Brentford,False,31,1,2.22,1,1,4,6,12,0,869856
+2026-27,7,369,MID,Liverpool,Brentford,False,38,1,1.36,0,0,4,4,12,0,1881902
+2026-27,7,372,MID,Liverpool,Brentford,False,90,1,3.51,2,2,5,9,12,0,895324
+2026-27,7,375,MID,Liverpool,Brentford,False,58,1,1.66,5,1,1,7,12,0,1445945
+2026-27,7,377,MID,Liverpool,Brentford,False,78,9,5.44,0,0,4,4,12,0,1145642
+2026-27,7,379,FWD,Liverpool,Brentford,False,78,9,6.38,0,0,0,0,12,0,823941
+2026-27,7,381,MID,Liverpool,Brentford,False,11,1,1.3,0,0,0,0,12,0,1403111
+2026-27,7,387,DEF,Man City,Ipswich Town,True,60,2,4.91,0,0,4,0,10,0,1142703
+2026-27,7,388,DEF,Man City,Ipswich Town,True,90,1,1.98,2,1,3,3,10,0,877994
+2026-27,7,389,DEF,Man City,Ipswich Town,True,75,2,3.62,0,3,6,3,10,0,945122
+2026-27,7,390,DEF,Man City,Ipswich Town,True,90,1,3.21,3,1,4,4,10,0,318941
+2026-27,7,391,DEF,Man City,Ipswich Town,True,29,0,0.27,2,0,4,2,10,0,964994
+2026-27,7,393,DEF,Man City,Ipswich Town,True,14,1,1.0,1,0,1,1,10,0,1194333
+2026-27,7,397,MID,Man City,Ipswich Town,True,13,1,1.0,0,1,0,1,12,0,934354
+2026-27,7,398,MID,Man City,Ipswich Town,True,76,9,9.1,1,2,0,3,12,0,859765
+2026-27,7,400,MID,Man City,Ipswich Town,True,76,6,5.11,0,1,3,4,12,0,934386
+2026-27,7,401,FWD,Spurs,Coventry City,True,86,9,5.33,1,1,4,6,12,0,873554
+2026-27,7,405,MID,Newcastle,Aston Villa,True,90,3,3.64,2,3,7,12,12,1,954056
+2026-27,7,406,MID,Man City,Ipswich Town,True,49,5,2.51,0,0,4,4,12,0,136710
+2026-27,7,411,FWD,Man City,Ipswich Town,True,90,13,9.17,0,0,2,2,12,0,839956
+2026-27,7,417,DEF,Man Utd,Leeds,False,90,4,5.04,8,4,8,12,10,1,843200
+2026-27,7,418,DEF,Man Utd,Leeds,False,90,4,5.01,8,3,6,11,10,1,149380
+2026-27,7,419,DEF,Man Utd,Leeds,False,45,1,1.06,2,0,1,2,10,0,859999
+2026-27,7,420,DEF,Man Utd,Leeds,False,90,4,5.04,10,1,1,11,10,1,1153315
+2026-27,7,422,DEF,Man Utd,Leeds,False,45,3,3.0,9,1,2,10,10,1,847030
+2026-27,7,426,MID,Man Utd,Leeds,False,90,1,1.76,1,1,4,6,12,0,288205
+2026-27,7,427,MID,Man Utd,Leeds,False,90,8,6.49,0,1,1,2,12,0,927083
+2026-27,7,428,MID,Man Utd,Leeds,False,6,1,1.1,0,0,1,1,12,0,886363
+2026-27,7,430,MID,Man Utd,Leeds,False,16,1,1.36,1,1,2,4,12,0,836694
+2026-27,7,431,MID,Man Utd,Leeds,False,90,2,2.7,1,5,4,10,12,0,971037
+2026-27,7,445,DEF,Newcastle,Aston Villa,True,90,1,2.01,9,0,4,9,10,0,1014286
+2026-27,7,447,DEF,Newcastle,Aston Villa,True,90,3,4.58,10,0,2,10,10,1,910046
+2026-27,7,448,DEF,Newcastle,Aston Villa,True,1,1,1.06,0,1,2,1,10,0,99090
+2026-27,7,449,DEF,Newcastle,Aston Villa,True,90,4,5.04,7,3,8,10,10,1,1136730
+2026-27,7,452,MID,Arsenal,Nott'm Forest,False,65,3,2.69,2,2,6,10,12,0,866469
+2026-27,7,453,MID,Newcastle,Aston Villa,True,90,2,3.68,0,0,3,3,12,0,855647
+2026-27,7,455,MID,Spurs,Coventry City,True,90,4,5.61,5,3,7,15,12,1,892673
+2026-27,7,458,MID,Newcastle,Aston Villa,True,89,1,1.41,3,0,3,6,12,0,560128
+2026-27,7,459,MID,Newcastle,Aston Villa,True,90,2,3.11,3,1,7,11,12,0,1400650
+2026-27,7,460,MID,Newcastle,Aston Villa,True,55,1,1.18,0,1,1,2,12,0,888550
+2026-27,7,461,MID,Newcastle,Aston Villa,True,34,1,1.15,0,2,1,3,12,0,1568123
+2026-27,7,464,FWD,Newcastle,Aston Villa,True,90,1,3.09,0,1,3,4,12,0,805123
+2026-27,7,465,FWD,Newcastle,Aston Villa,True,34,0,0.24,0,0,0,0,12,0,1122603
+2026-27,7,469,DEF,Nott'm Forest,Arsenal,True,90,3,4.76,9,1,7,10,10,1,927356
+2026-27,7,472,DEF,Nott'm Forest,Arsenal,True,90,2,5.14,7,2,5,9,10,0,1199282
+2026-27,7,474,DEF,Nott'm Forest,Arsenal,True,84,2,3.31,3,0,2,3,10,0,1170722
+2026-27,7,481,MID,Man City,Ipswich Town,True,13,1,1.0,1,0,4,5,12,0,994546
+2026-27,7,482,MID,Nott'm Forest,Arsenal,True,5,1,1.18,0,0,2,2,12,0,867442
+2026-27,7,483,MID,Nott'm Forest,Arsenal,True,72,3,3.04,1,0,2,3,12,0,944327
+2026-27,7,486,MID,Nott'm Forest,Arsenal,True,84,2,3.13,2,2,5,9,12,0,1003334
+2026-27,7,487,MID,Nott'm Forest,Arsenal,True,73,3,2.42,1,3,3,7,12,0,871765
+2026-27,7,488,MID,Nott'm Forest,Arsenal,True,16,1,1.0,2,1,1,4,12,0,843754
+2026-27,7,490,FWD,Nott'm Forest,Arsenal,True,5,1,1.32,0,0,0,0,12,0,50480
+2026-27,7,492,FWD,Coventry City,Spurs,False,30,1,2.12,0,0,2,2,12,0,359664
+2026-27,7,493,FWD,Nott'm Forest,Arsenal,True,17,1,1.0,1,0,0,1,12,0,954061
+2026-27,7,501,DEF,Sunderland,Bournemouth,False,16,-3,-2.76,1,0,2,1,10,0,794953
+2026-27,7,502,DEF,Spurs,Coventry City,True,68,5,4.44,2,0,1,2,10,0,262911
+2026-27,7,503,DEF,Spurs,Coventry City,True,90,2,4.39,5,2,2,7,10,0,998247
+2026-27,7,504,DEF,Brighton,Crystal Palace,True,90,11,8.34,11,1,6,12,10,1,1405212
+2026-27,7,508,DEF,Spurs,Coventry City,True,21,7,1.24,1,1,0,2,10,0,94758
+2026-27,7,512,MID,Spurs,Coventry City,True,86,6,4.03,4,0,5,9,12,0,905163
+2026-27,7,514,MID,Spurs,Coventry City,True,3,1,1.23,0,0,0,0,12,0,1048888
+2026-27,7,515,MID,Spurs,Coventry City,True,68,9,5.21,2,0,4,6,12,0,356398
+2026-27,7,519,MID,Spurs,Coventry City,True,21,1,1.03,1,0,0,1,12,0,904970
+2026-27,7,521,MID,Spurs,Coventry City,True,3,1,1.0,0,0,2,2,12,0,928124
+2026-27,7,522,MID,Spurs,Coventry City,True,90,2,2.97,3,2,4,9,12,0,1142335
+2026-27,7,525,MID,Spurs,Coventry City,True,19,1,1.3,0,0,3,3,12,0,1142562
+2026-27,7,526,FWD,Spurs,Coventry City,True,90,4,2.27,4,0,5,9,12,0,361420
+2026-27,7,533,DEF,Sunderland,Bournemouth,False,90,3,3.09,14,1,3,15,10,1,780014
+2026-27,7,534,DEF,Sunderland,Bournemouth,False,90,3,3.21,9,1,4,10,10,1,989034
+2026-27,7,535,DEF,Sunderland,Bournemouth,False,58,-1,-1.0,5,0,2,5,10,0,805137
+2026-27,7,536,DEF,Sunderland,Bournemouth,False,90,1,1.06,6,1,3,7,10,0,831424
+2026-27,7,539,DEF,Sunderland,Bournemouth,False,31,1,1.0,4,1,1,5,10,0,365812
+2026-27,7,542,MID,Sunderland,Bournemouth,False,90,4,4.09,1,3,8,12,12,1,984014
+2026-27,7,543,MID,Sunderland,Bournemouth,False,31,1,1.0,0,0,2,2,12,0,1128532
+2026-27,7,544,MID,Sunderland,Bournemouth,False,90,2,2.34,4,2,4,10,12,0,117777
+2026-27,7,545,MID,Sunderland,Bournemouth,False,90,2,2.07,2,0,2,4,12,0,1171539
+2026-27,7,548,MID,Sunderland,Bournemouth,False,64,1,1.03,4,2,2,8,12,0,1394089
+2026-27,7,558,MID,Nott'm Forest,Arsenal,True,90,4,4.37,2,7,5,14,12,1,791079
+2026-27,7,562,MID,Ipswich Town,Man City,False,70,7,4.13,1,0,2,3,12,0,832420
+2026-27,7,563,MID,Hull City,Fulham,False,15,1,1.03,2,1,4,7,12,0,926560
+2026-27,7,565,MID,Brentford,Liverpool,True,45,1,1.12,0,2,6,8,12,0,1064697
+2026-27,7,566,DEF,Bournemouth,Sunderland,True,90,8,7.82,11,1,3,12,10,1,1006069
+2026-27,7,569,FWD,Fulham,Hull City,True,84,2,4.26,2,0,1,3,12,0,1402716
+2026-27,7,570,MID,Fulham,Hull City,True,5,1,1.0,0,0,2,2,12,0,1402688
+2026-27,7,571,MID,Ipswich Town,Man City,False,70,2,2.16,3,3,3,9,12,0,855845
+2026-27,7,575,MID,Coventry City,Spurs,False,59,0,0.03,3,2,3,8,12,0,1986794
+2026-27,7,579,DEF,Liverpool,Brentford,False,45,1,1.0,2,0,1,2,10,0,925097
+2026-27,7,580,MID,Fulham,Hull City,True,90,3,3.76,2,3,4,9,12,0,1131449
+2026-27,7,581,DEF,Nott'm Forest,Arsenal,True,90,2,3.28,5,3,3,8,10,0,1394342
+2026-27,7,584,MID,Coventry City,Spurs,False,12,1,1.36,0,0,0,0,12,0,837495
+2026-27,7,585,DEF,Hull City,Fulham,False,45,0,0.0,6,2,2,8,10,0,1646783
+2026-27,7,588,DEF,Crystal Palace,Brighton,False,90,0,1.11,6,3,3,9,10,0,1403362
+2026-27,7,591,MID,Ipswich Town,Man City,False,77,2,2.16,1,2,8,11,12,0,973556
+2026-27,7,592,DEF,Ipswich Town,Man City,False,90,3,1.07,7,0,6,7,10,0,1930811
+2026-27,7,598,DEF,Leeds,Man Utd,True,90,2,4.37,6,0,8,6,10,0,282229
+2026-27,7,599,FWD,Coventry City,Spurs,False,59,1,1.14,2,0,2,4,12,0,1514916
+2026-27,7,605,MID,Brighton,Crystal Palace,True,9,1,1.0,0,0,0,0,12,0,1568186
+2026-27,7,611,DEF,Aston Villa,Newcastle,False,76,6,4.37,3,1,1,4,10,0,863653
+2026-27,7,613,MID,Sunderland,Bournemouth,False,25,1,1.0,0,0,1,1,12,0,2137673
+2026-27,7,614,DEF,Brighton,Crystal Palace,True,9,1,1.0,1,0,1,1,10,0,1049534
+2026-27,7,616,MID,Man City,Ipswich Town,True,90,2,2.22,4,3,4,11,12,0,1564180
+2026-27,7,618,MID,Aston Villa,Newcastle,False,18,1,1.38,6,1,2,9,12,0,184661
+2026-27,7,619,MID,Ipswich Town,Man City,False,90,4,4.07,3,5,11,19,12,1,822600
+2026-27,7,620,DEF,Brentford,Liverpool,True,13,1,1.03,2,2,1,4,10,0,1471764
+2026-27,7,627,MID,Liverpool,Brentford,False,90,4,4.63,2,1,6,9,12,0,996952
+2026-27,7,631,MID,Aston Villa,Newcastle,False,18,1,2.57,2,0,2,4,12,0,1590918
+2026-27,7,633,DEF,Crystal Palace,Brighton,False,52,-1,-1.0,3,1,0,4,10,0,1634980
+2026-27,7,634,FWD,Newcastle,Aston Villa,True,55,1,1.06,0,1,1,2,12,0,1149144
+2026-27,7,637,FWD,Hull City,Fulham,False,22,1,1.0,0,0,2,2,12,0,1514800
+2026-27,7,638,DEF,Hull City,Fulham,False,67,2,3.8,3,0,2,3,10,0,1087514
+2026-27,7,639,MID,Brighton,Crystal Palace,True,90,2,1.52,0,5,2,7,12,0,1464641
+2026-27,7,640,FWD,Ipswich Town,Man City,False,12,5,4.63,0,0,1,1,12,0,875137
+2026-27,7,642,MID,Hull City,Fulham,False,67,2,2.45,1,2,3,6,12,0,911039
+2026-27,7,644,MID,Crystal Palace,Brighton,False,45,1,1.0,1,0,2,3,12,0,959805
+2026-27,7,649,DEF,Everton,Chelsea,True,54,1,1.03,4,0,4,4,10,0,352768
+2026-27,7,650,DEF,Fulham,Hull City,True,90,6,5.44,5,2,2,7,10,0,988672
+2026-27,8,4,DEF,Arsenal,Everton,True,90,17,12.43,11,3,3,14,10,1,869792
+2026-27,8,7,MID,Arsenal,Everton,True,67,2,1.86,1,3,4,8,12,0,1423711
+2026-27,8,8,DEF,Arsenal,Everton,True,22,1,1.0,1,2,0,3,10,0,957602
+2026-27,8,10,DEF,Arsenal,Everton,True,90,10,6.21,4,1,4,5,10,0,846036
+2026-27,8,13,MID,Arsenal,Everton,True,79,3,4.32,2,1,1,4,12,0,856714
+2026-27,8,14,MID,Arsenal,Everton,True,79,3,3.35,1,0,3,4,12,0,864921
+2026-27,8,15,MID,Arsenal,Everton,True,90,3,5.09,0,0,3,3,12,0,547410
+2026-27,8,16,MID,Arsenal,Everton,True,90,3,3.51,0,1,2,3,12,0,966547
+2026-27,8,17,MID,Arsenal,Everton,True,67,3,5.49,0,0,4,4,12,0,592010
+2026-27,8,19,MID,Arsenal,Everton,True,10,1,1.03,0,0,0,0,12,0,966837
+2026-27,8,20,MID,Arsenal,Everton,True,10,1,1.03,0,0,0,0,12,0,1917626
+2026-27,8,25,FWD,Arsenal,Everton,True,67,5,2.18,0,0,3,3,12,0,804508
+2026-27,8,26,FWD,Arsenal,Everton,True,22,1,1.0,0,1,1,2,12,0,836705
+2026-27,8,31,DEF,Arsenal,Everton,True,90,14,8.41,1,1,1,2,10,0,827679
+2026-27,8,32,DEF,Aston Villa,Man City,True,90,3,3.84,5,8,2,13,10,1,833956
+2026-27,8,34,DEF,Aston Villa,Man City,True,90,2,2.84,3,0,4,3,10,0,864169
+2026-27,8,36,DEF,Aston Villa,Man City,True,90,2,3.35,3,4,5,7,10,0,976263
+2026-27,8,37,DEF,Aston Villa,Man City,True,90,2,2.84,5,1,0,6,10,0,143334
+2026-27,8,40,MID,Chelsea,Spurs,True,90,1,1.87,0,1,5,6,12,0,948261
+2026-27,8,41,MID,Aston Villa,Man City,True,24,0,0.0,0,3,0,3,12,0,783126
+2026-27,8,43,MID,Man Utd,Bournemouth,True,45,0,0.0,0,0,0,0,12,0,331737
+2026-27,8,45,MID,Aston Villa,Man City,True,65,6,3.95,3,1,3,7,12,0,250223
+2026-27,8,46,MID,Aston Villa,Man City,True,24,1,1.0,1,0,0,1,12,0,98435
+2026-27,8,47,MID,Aston Villa,Man City,True,90,4,4.21,6,6,4,16,12,1,826204
+2026-27,8,52,MID,Aston Villa,Man City,True,58,1,1.53,1,3,1,5,12,0,1631879
+2026-27,8,53,MID,Aston Villa,Man City,True,65,1,1.67,2,3,1,6,12,0,1518931
+2026-27,8,54,MID,Aston Villa,Man City,True,81,2,2.27,4,1,4,9,12,0,1015267
+2026-27,8,60,DEF,Bournemouth,Man Utd,False,90,11,8.27,15,7,3,22,10,1,1156586
+2026-27,8,61,DEF,Bournemouth,Man Utd,False,90,10,5.23,3,1,4,4,10,0,999028
+2026-27,8,62,DEF,Bournemouth,Man Utd,False,3,1,1.0,1,1,0,2,10,0,962408
+2026-27,8,64,DEF,Bournemouth,Man Utd,False,87,6,3.47,2,1,3,3,10,0,44566
+2026-27,8,67,MID,Bournemouth,Man Utd,False,90,10,8.92,7,2,8,17,12,1,1464966
+2026-27,8,68,MID,Bournemouth,Man Utd,False,86,10,8.59,0,1,5,6,12,0,895576
+2026-27,8,70,MID,Bournemouth,Man Utd,False,62,6,3.22,3,0,2,5,12,0,851596
+2026-27,8,71,MID,Bournemouth,Man Utd,False,74,6,2.52,1,1,5,7,12,0,548188
+2026-27,8,72,MID,Bournemouth,Man Utd,False,27,1,1.0,0,1,4,5,12,0,1154861
+2026-27,8,73,MID,Bournemouth,Man Utd,False,90,4,3.37,2,2,9,13,12,1,800419
+2026-27,8,75,MID,Bournemouth,Man Utd,False,15,1,1.0,3,4,4,11,12,0,322391
+2026-27,8,77,MID,Bournemouth,Man Utd,False,3,1,1.0,0,0,0,0,12,0,991478
+2026-27,8,78,MID,Bournemouth,Man Utd,False,3,1,1.0,1,1,0,2,12,0,1426228
+2026-27,8,79,FWD,Bournemouth,Man Utd,False,86,6,4.11,2,2,5,9,12,0,998490
+2026-27,8,85,DEF,Brentford,Hull City,False,90,2,3.85,7,0,4,7,10,0,924378
+2026-27,8,86,MID,Brentford,Hull City,False,77,2,2.35,2,0,3,5,12,0,972421
+2026-27,8,87,DEF,Brentford,Hull City,False,90,2,2.86,7,1,3,8,10,0,576384
+2026-27,8,88,DEF,Brentford,Hull City,False,90,4,5.34,9,2,5,11,10,1,1137431
+2026-27,8,90,DEF,Brentford,Hull City,False,61,1,2.86,4,1,2,5,10,0,966869
+2026-27,8,91,DEF,Coventry City,Fulham,True,90,4,6.52,13,1,3,14,10,1,855864
+2026-27,8,94,MID,Brentford,Hull City,False,61,2,3.33,1,1,4,6,12,0,1006387
+2026-27,8,95,MID,Brentford,Hull City,False,77,10,10.9,2,0,4,6,12,0,1106451
+2026-27,8,96,MID,Brentford,Hull City,False,28,1,1.82,0,1,2,3,12,0,907072
+2026-27,8,97,MID,Brentford,Hull City,False,90,2,2.5,2,2,2,6,12,0,799251
+2026-27,8,101,MID,Chelsea,Spurs,True,90,2,3.18,3,2,1,6,12,0,42694
+2026-27,8,104,MID,Coventry City,Fulham,True,23,1,1.03,0,3,1,4,12,0,885864
+2026-27,8,105,MID,Brentford,Hull City,False,28,1,2.43,1,0,3,4,12,0,1020680
+2026-27,8,106,FWD,Brentford,Hull City,False,90,5,4.7,1,3,2,6,12,0,1016907
+2026-27,8,108,FWD,Brentford,Hull City,False,12,1,1.36,0,0,0,0,12,0,113956
+2026-27,8,112,DEF,Spurs,Chelsea,False,90,7,5.53,6,2,3,8,10,0,962012
+2026-27,8,113,DEF,Brighton,Liverpool,False,5,1,1.0,0,0,0,0,10,0,825844
+2026-27,8,114,DEF,Brighton,Liverpool,False,45,-1,-0.46,4,0,2,4,10,0,788784
+2026-27,8,115,DEF,Brighton,Liverpool,False,90,1,3.34,4,1,4,5,10,0,997152
+2026-27,8,116,DEF,Brighton,Liverpool,False,90,1,2.23,5,2,7,7,10,0,115365
+2026-27,8,119,DEF,Brighton,Liverpool,False,84,0,2.49,6,2,3,8,10,0,988333
+2026-27,8,123,MID,Brighton,Liverpool,False,45,1,1.06,0,1,2,3,12,0,1142315
+2026-27,8,124,MID,Brighton,Liverpool,False,90,0,1.35,1,0,4,5,12,0,48480
+2026-27,8,125,FWD,Brighton,Liverpool,False,15,1,1.73,0,1,1,2,12,0,946695
+2026-27,8,127,MID,Brighton,Liverpool,False,90,2,3.61,3,0,4,7,12,0,1065588
+2026-27,8,129,MID,Brighton,Liverpool,False,74,2,4.0,0,2,1,3,12,0,1036269
+2026-27,8,131,MID,Man Utd,Bournemouth,True,71,2,2.43,3,1,5,9,12,0,1199043
+2026-27,8,136,FWD,Chelsea,Spurs,True,2,1,1.0,0,0,0,0,12,0,33902
+2026-27,8,138,FWD,Brighton,Liverpool,False,90,2,4.17,1,1,4,6,12,0,1416535
+2026-27,8,148,DEF,Chelsea,Spurs,True,64,6,4.38,4,4,3,8,10,0,1153079
+2026-27,8,149,DEF,Chelsea,Spurs,True,90,3,5.42,8,3,7,11,10,1,996911
+2026-27,8,151,DEF,Chelsea,Spurs,True,90,1,2.91,2,3,1,5,10,0,1403050
+2026-27,8,152,DEF,Chelsea,Spurs,True,25,0,0.0,1,0,0,1,10,0,1397736
+2026-27,8,153,DEF,Crystal Palace,Newcastle,True,90,3,6.47,14,3,3,17,10,1,827243
+2026-27,8,154,MID,Chelsea,Spurs,True,79,-1,0.38,0,0,3,3,12,0,982780
+2026-27,8,155,MID,Man City,Aston Villa,False,90,2,3.82,0,0,1,1,12,0,974505
+2026-27,8,156,MID,Chelsea,Spurs,True,87,3,4.44,2,3,7,12,12,1,879349
+2026-27,8,157,MID,Chelsea,Spurs,True,18,1,1.43,0,0,0,0,12,0,1597265
+2026-27,8,159,MID,Chelsea,Spurs,True,90,2,2.51,6,3,2,11,12,0,987650
+2026-27,8,162,MID,Man Utd,Bournemouth,True,90,3,3.99,2,4,7,13,12,1,1105779
+2026-27,8,164,MID,Chelsea,Spurs,True,71,3,2.58,1,2,4,7,12,0,1403165
+2026-27,8,166,FWD,Aston Villa,Man City,True,81,13,6.54,1,1,5,7,12,0,1085381
+2026-27,8,167,FWD,Nott'm Forest,Ipswich Town,False,90,2,3.5,0,1,3,4,12,0,997087
+2026-27,8,173,DEF,Coventry City,Fulham,True,59,1,1.24,4,0,5,4,10,0,1033352
+2026-27,8,175,DEF,Coventry City,Fulham,True,90,2,4.4,7,0,4,7,10,0,948723
+2026-27,8,176,DEF,Coventry City,Fulham,True,90,2,4.61,2,0,2,2,10,0,791985
+2026-27,8,183,MID,Coventry City,Fulham,True,90,2,3.38,1,2,6,9,12,0,979565
+2026-27,8,184,MID,Coventry City,Fulham,True,90,2,3.07,4,0,1,5,12,0,340713
+2026-27,8,185,MID,Coventry City,Fulham,True,85,2,2.89,2,3,3,8,12,0,978927
+2026-27,8,186,MID,Coventry City,Fulham,True,23,1,1.0,1,0,0,1,12,0,861315
+2026-27,8,194,FWD,Coventry City,Fulham,True,66,2,2.6,1,0,1,2,12,0,846061
+2026-27,8,200,DEF,Chelsea,Spurs,True,90,3,4.91,8,2,6,10,10,1,879674
+2026-27,8,201,DEF,Nott'm Forest,Ipswich Town,False,90,7,7.37,2,5,2,7,10,0,870360
+2026-27,8,202,DEF,Crystal Palace,Newcastle,True,90,3,4.7,9,4,5,13,10,1,931844
+2026-27,8,203,DEF,Crystal Palace,Newcastle,True,90,0,1.58,3,4,8,7,10,0,1471671
+2026-27,8,204,DEF,Crystal Palace,Newcastle,True,90,1,2.73,4,0,4,4,10,0,988275
+2026-27,8,209,MID,Everton,Arsenal,False,71,2,2.15,0,1,1,2,12,0,1085180
+2026-27,8,210,MID,Crystal Palace,Newcastle,True,90,2,2.72,1,2,3,6,12,0,1109771
+2026-27,8,211,MID,Crystal Palace,Newcastle,True,90,1,2.43,2,2,3,7,12,0,984624
+2026-27,8,214,MID,Crystal Palace,Newcastle,True,90,2,2.9,2,2,6,10,12,0,794338
+2026-27,8,223,FWD,Crystal Palace,Newcastle,True,61,2,5.2,1,0,0,1,12,0,848276
+2026-27,8,224,FWD,Crystal Palace,Newcastle,True,28,1,1.12,0,0,1,1,12,0,858194
+2026-27,8,229,DEF,Everton,Arsenal,False,90,2,2.59,9,1,4,10,10,1,145188
+2026-27,8,232,DEF,Everton,Arsenal,False,90,3,3.56,13,0,1,13,10,1,998253
+2026-27,8,233,DEF,Everton,Arsenal,False,73,0,0.62,4,2,3,6,10,0,876643
+2026-27,8,236,MID,Everton,Arsenal,False,85,2,2.51,4,0,0,4,12,0,861970
+2026-27,8,237,MID,Man City,Aston Villa,False,68,5,3.95,0,0,5,5,12,0,914309
+2026-27,8,239,MID,Everton,Arsenal,False,90,3,3.53,4,1,8,13,12,1,927361
+2026-27,8,240,MID,Hull City,Brentford,True,71,9,6.45,4,3,5,12,12,1,1085950
+2026-27,8,241,MID,Crystal Palace,Newcastle,True,62,2,2.7,2,1,3,6,12,0,935543
+2026-27,8,242,MID,Everton,Arsenal,False,90,2,2.98,0,3,3,6,12,0,1403061
+2026-27,8,243,MID,Everton,Arsenal,False,4,1,1.3,0,0,1,1,12,0,1017392
+2026-27,8,244,MID,Everton,Arsenal,False,90,4,4.87,5,5,6,16,12,1,1627560
+2026-27,8,245,MID,Everton,Arsenal,False,18,1,1.18,0,2,0,2,12,0,1174472
+2026-27,8,246,MID,Everton,Arsenal,False,90,2,2.17,3,1,2,6,12,0,1064082
+2026-27,8,247,MID,Everton,Arsenal,False,16,1,1.16,0,0,1,1,12,0,1008471
+2026-27,8,249,FWD,Everton,Arsenal,False,90,2,3.55,5,1,0,6,12,0,1395746
+2026-27,8,254,DEF,Fulham,Coventry City,False,90,7,5.46,10,2,0,12,10,1,803174
+2026-27,8,256,DEF,Fulham,Coventry City,False,9,1,1.0,0,3,0,3,10,0,190877
+2026-27,8,257,DEF,Fulham,Coventry City,False,90,8,6.61,9,2,4,11,10,1,861972
+2026-27,8,258,DEF,Fulham,Coventry City,False,90,7,5.76,3,5,4,8,10,0,329417
+2026-27,8,259,DEF,Ipswich Town,Nott'm Forest,True,90,1,1.41,6,0,5,6,10,0,825719
+2026-27,8,260,MID,Leeds,Sunderland,False,65,3,2.9,2,2,2,6,12,0,355528
+2026-27,8,261,MID,Fulham,Coventry City,False,73,3,3.67,0,1,5,6,12,0,352770
+2026-27,8,264,MID,Fulham,Coventry City,False,80,11,6.48,0,0,2,2,12,0,1065216
+2026-27,8,265,MID,Fulham,Coventry City,False,27,1,1.06,2,1,2,5,12,0,793167
+2026-27,8,266,MID,Fulham,Coventry City,False,9,1,1.0,0,0,0,0,12,0,82566
+2026-27,8,268,MID,Fulham,Coventry City,False,80,6,3.53,0,0,3,3,12,0,1546231
+2026-27,8,271,FWD,Fulham,Coventry City,False,16,1,1.24,0,0,1,1,12,0,1015256
+2026-27,8,277,DEF,Hull City,Brentford,True,90,4,5.0,9,1,2,10,10,1,100578
+2026-27,8,279,DEF,Hull City,Brentford,True,90,4,4.7,6,6,5,12,10,1,307274
+2026-27,8,280,DEF,Hull City,Brentford,True,64,2,3.02,4,3,4,7,10,0,827587
+2026-27,8,282,DEF,Hull City,Brentford,True,64,2,3.05,2,1,0,3,10,0,931304
+2026-27,8,286,MID,Hull City,Brentford,True,85,4,6.17,3,2,9,14,12,1,1125839
+2026-27,8,290,MID,Hull City,Brentford,True,90,2,2.61,2,1,2,5,12,0,864474
+2026-27,8,295,FWD,Hull City,Brentford,True,85,8,7.19,1,0,2,3,12,0,367228
+2026-27,8,304,DEF,Ipswich Town,Nott'm Forest,True,90,2,2.44,7,1,3,8,10,0,856719
+2026-27,8,305,DEF,Ipswich Town,Nott'm Forest,True,90,2,2.59,6,0,3,6,10,0,963493
+2026-27,8,310,MID,Ipswich Town,Nott'm Forest,True,5,1,1.0,0,0,1,1,12,0,856495
+2026-27,8,313,MID,Ipswich Town,Nott'm Forest,True,29,1,1.25,0,0,3,3,12,0,921005
+2026-27,8,315,MID,Ipswich Town,Nott'm Forest,True,72,2,2.32,0,1,1,2,12,0,1103589
+2026-27,8,316,FWD,Ipswich Town,Nott'm Forest,True,59,1,1.15,1,0,1,2,12,0,1128844
+2026-27,8,318,MID,Ipswich Town,Nott'm Forest,True,60,2,2.6,0,2,1,3,12,0,1014461
+2026-27,8,320,FWD,Ipswich Town,Nott'm Forest,True,4,1,1.0,0,0,0,0,12,0,190867
+2026-27,8,327,DEF,Leeds,Sunderland,False,90,8,5.86,13,2,4,15,10,1,886930
+2026-27,8,330,DEF,Leeds,Sunderland,False,90,5,3.82,3,2,2,5,10,0,929132
+2026-27,8,331,DEF,Leeds,Sunderland,False,90,6,3.86,4,2,1,6,10,0,834308
+2026-27,8,332,DEF,Leeds,Sunderland,False,90,6,3.95,4,2,1,6,10,0,827681
+2026-27,8,334,DEF,Leeds,Sunderland,False,90,9,7.37,13,0,3,13,10,1,1118177
+2026-27,8,335,MID,Leeds,Sunderland,False,24,1,1.03,1,0,0,1,12,0,889861
+2026-27,8,336,MID,Leeds,Sunderland,False,25,1,1.8,1,0,1,2,12,0,865523
+2026-27,8,337,MID,Leeds,Sunderland,False,64,3,2.57,1,0,2,3,12,0,973431
+2026-27,8,338,MID,Leeds,Sunderland,False,90,2,1.71,4,2,4,10,12,0,847097
+2026-27,8,339,MID,Leeds,Sunderland,False,1,1,2.6,0,0,0,0,12,0,866191
+2026-27,8,340,MID,Hull City,Brentford,True,4,1,2.7,0,0,0,0,12,0,945806
+2026-27,8,345,MID,Leeds,Sunderland,False,88,3,2.87,4,3,3,10,12,0,871886
+2026-27,8,346,FWD,Leeds,Sunderland,False,84,2,2.03,0,0,0,0,12,0,372344
+2026-27,8,347,FWD,Leeds,Sunderland,False,5,1,1.09,1,0,0,1,12,0,803185
+2026-27,8,356,DEF,Liverpool,Brighton,True,90,9,6.1,11,2,1,13,10,1,151545
+2026-27,8,358,DEF,Liverpool,Brighton,True,87,6,3.21,2,1,4,3,10,0,1097425
+2026-27,8,362,DEF,Liverpool,Brighton,True,90,8,5.19,9,1,1,10,10,1,1445625
+2026-27,8,364,DEF,Liverpool,Brighton,True,2,1,1.0,3,0,0,3,10,0,786259
+2026-27,8,366,MID,Liverpool,Brighton,True,64,6,3.43,1,3,5,9,12,0,1019322
+2026-27,8,367,MID,Liverpool,Brighton,True,90,3,5.19,0,1,5,6,12,0,862967
+2026-27,8,369,MID,Liverpool,Brighton,True,13,1,1.0,0,0,2,2,12,0,1881902
+2026-27,8,371,MID,Liverpool,Brighton,True,90,3,2.48,5,3,3,11,12,0,904897
+2026-27,8,372,MID,Liverpool,Brighton,True,90,3,2.58,3,1,7,11,12,0,895324
+2026-27,8,375,MID,Liverpool,Brighton,True,25,1,1.0,3,1,1,5,12,0,1445945
+2026-27,8,379,FWD,Liverpool,Brighton,True,76,9,6.69,0,0,2,2,12,0,823941
+2026-27,8,381,MID,Liverpool,Brighton,True,13,1,1.0,0,1,0,1,12,0,1403111
+2026-27,8,388,DEF,Man City,Aston Villa,False,45,0,0.0,4,0,1,4,10,0,877994
+2026-27,8,390,DEF,Man City,Aston Villa,False,90,1,3.23,5,0,3,5,10,0,318941
+2026-27,8,391,DEF,Man City,Aston Villa,False,90,1,5.99,5,3,3,8,10,0,964994
+2026-27,8,393,DEF,Man City,Aston Villa,False,90,3,5.47,8,8,5,16,10,1,1194333
+2026-27,8,395,DEF,Man City,Aston Villa,False,45,1,1.03,0,1,1,1,10,0,1136731
+2026-27,8,398,MID,Man City,Aston Villa,False,45,1,1.71,0,0,1,1,12,0,859765
+2026-27,8,399,MID,Man City,Aston Villa,False,45,0,2.07,0,0,1,1,12,0,979128
+2026-27,8,400,MID,Man City,Aston Villa,False,90,2,4.61,0,0,2,2,12,0,934386
+2026-27,8,401,FWD,Spurs,Chelsea,False,64,2,3.2,0,1,2,3,12,0,873554
+2026-27,8,405,MID,Newcastle,Crystal Palace,False,90,4,3.59,5,2,8,15,12,1,954056
+2026-27,8,411,FWD,Man City,Aston Villa,False,90,8,5.6,2,0,2,4,12,0,839956
+2026-27,8,417,DEF,Man Utd,Bournemouth,True,90,1,1.74,3,3,7,6,10,0,843200
+2026-27,8,418,DEF,Man Utd,Bournemouth,True,90,0,0.62,5,0,4,5,10,0,149380
+2026-27,8,419,DEF,Man Utd,Bournemouth,True,25,1,3.1,4,0,1,4,10,0,859999
+2026-27,8,420,DEF,Man Utd,Bournemouth,True,90,1,3.12,3,2,5,5,10,0,1153315
+2026-27,8,421,DEF,Man Utd,Bournemouth,True,64,0,0.96,7,1,4,8,10,0,1445799
+2026-27,8,427,MID,Man Utd,Bournemouth,True,90,2,3.54,0,0,3,3,12,0,927083
+2026-27,8,428,MID,Man Utd,Bournemouth,True,45,1,2.51,0,2,3,5,12,0,886363
+2026-27,8,430,MID,Man Utd,Bournemouth,True,90,2,2.97,1,2,6,9,12,0,836694
+2026-27,8,431,MID,Man Utd,Bournemouth,True,77,2,2.49,1,0,3,4,12,0,971037
+2026-27,8,435,MID,Man Utd,Bournemouth,True,12,1,1.18,0,1,0,1,12,0,1465865
+2026-27,8,440,FWD,Man Utd,Bournemouth,True,18,1,1.31,0,0,1,1,12,0,917007
+2026-27,8,445,DEF,Newcastle,Crystal Palace,False,1,1,1.0,0,0,0,0,10,0,1014286
+2026-27,8,446,DEF,Newcastle,Crystal Palace,False,90,7,3.88,14,1,3,15,10,1,101882
+2026-27,8,448,DEF,Newcastle,Crystal Palace,False,90,6,3.39,9,0,4,9,10,0,99090
+2026-27,8,449,DEF,Newcastle,Crystal Palace,False,90,5,2.03,8,0,5,8,10,0,1136730
+2026-27,8,452,MID,Arsenal,Everton,True,22,1,1.06,0,1,2,3,12,0,866469
+2026-27,8,453,MID,Newcastle,Crystal Palace,False,76,8,3.65,0,1,5,6,12,0,855647
+2026-27,8,454,MID,Newcastle,Crystal Palace,False,13,1,1.03,0,1,2,3,12,0,979232
+2026-27,8,455,MID,Spurs,Chelsea,False,90,5,5.07,1,4,7,12,12,1,892673
+2026-27,8,456,MID,Newcastle,Crystal Palace,False,13,1,1.0,1,1,1,3,12,0,975937
+2026-27,8,457,MID,Newcastle,Crystal Palace,False,90,6,3.04,3,2,3,8,12,0,372336
+2026-27,8,458,MID,Newcastle,Crystal Palace,False,84,3,2.7,5,2,3,10,12,0,560128
+2026-27,8,460,MID,Newcastle,Crystal Palace,False,76,3,2.3,1,1,3,5,12,0,888550
+2026-27,8,462,MID,Newcastle,Crystal Palace,False,5,1,1.0,0,0,0,0,12,0,1859920
+2026-27,8,464,FWD,Newcastle,Crystal Palace,False,13,1,1.0,4,0,2,6,12,0,805123
+2026-27,8,465,FWD,Newcastle,Crystal Palace,False,76,9,7.08,2,0,2,4,12,0,1122603
+2026-27,8,469,DEF,Nott'm Forest,Ipswich Town,False,83,8,7.11,0,2,4,2,10,0,927356
+2026-27,8,471,DEF,Nott'm Forest,Ipswich Town,False,90,2,5.37,6,0,4,6,10,0,836168
+2026-27,8,472,DEF,Nott'm Forest,Ipswich Town,False,90,1,4.76,3,1,9,4,10,0,1199282
+2026-27,8,474,DEF,Nott'm Forest,Ipswich Town,False,90,2,5.34,3,0,5,3,10,0,1170722
+2026-27,8,478,DEF,Nott'm Forest,Ipswich Town,False,6,1,1.0,0,0,0,0,10,0,979144
+2026-27,8,480,MID,Nott'm Forest,Ipswich Town,False,90,2,6.94,0,1,5,6,12,0,865912
+2026-27,8,481,MID,Man City,Aston Villa,False,90,1,2.29,3,1,7,11,12,0,994546
+2026-27,8,482,MID,Nott'm Forest,Ipswich Town,False,21,1,1.55,0,1,1,2,12,0,867442
+2026-27,8,483,MID,Nott'm Forest,Ipswich Town,False,68,2,4.94,1,0,0,1,12,0,944327
+2026-27,8,486,MID,Nott'm Forest,Ipswich Town,False,90,5,6.06,2,7,13,22,12,1,1003334
+2026-27,8,490,FWD,Nott'm Forest,Ipswich Town,False,1,1,1.0,0,0,0,0,12,0,50480
+2026-27,8,492,FWD,Coventry City,Fulham,True,23,1,1.0,0,0,0,0,12,0,359664
+2026-27,8,499,DEF,Spurs,Chelsea,False,25,1,1.39,0,0,1,0,10,0,913654
+2026-27,8,502,DEF,Spurs,Chelsea,False,64,6,5.25,2,0,4,2,10,0,262911
+2026-27,8,503,DEF,Spurs,Chelsea,False,90,5,3.5,1,0,2,1,10,0,998247
+2026-27,8,504,DEF,Brighton,Liverpool,False,90,1,3.07,5,1,6,6,10,0,1405212
+2026-27,8,508,DEF,Spurs,Chelsea,False,1,1,1.0,0,0,1,0,10,0,94758
+2026-27,8,512,MID,Spurs,Chelsea,False,88,3,2.92,1,3,7,11,12,0,905163
+2026-27,8,514,MID,Spurs,Chelsea,False,88,11,6.54,0,0,4,4,12,0,1048888
+2026-27,8,515,MID,Spurs,Chelsea,False,50,1,1.03,2,1,1,4,12,0,356398
+2026-27,8,519,MID,Spurs,Chelsea,False,39,0,0.28,1,1,2,4,12,0,904970
+2026-27,8,521,MID,Spurs,Chelsea,False,1,1,1.1,0,1,0,1,12,0,928124
+2026-27,8,522,MID,Spurs,Chelsea,False,90,3,2.63,2,2,1,5,12,0,1142335
+2026-27,8,525,MID,Spurs,Chelsea,False,90,7,4.21,3,5,6,14,12,1,1142562
+2026-27,8,526,FWD,Spurs,Chelsea,False,25,1,1.09,1,1,2,4,12,0,361420
+2026-27,8,533,DEF,Sunderland,Leeds,True,51,1,1.15,5,2,1,7,10,0,780014
+2026-27,8,534,DEF,Sunderland,Leeds,True,90,6,3.93,5,0,5,5,10,0,989034
+2026-27,8,535,DEF,Sunderland,Leeds,True,38,1,1.0,5,0,2,5,10,0,805137
+2026-27,8,536,DEF,Sunderland,Leeds,True,90,5,2.9,9,0,2,9,10,0,831424
+2026-27,8,539,DEF,Sunderland,Leeds,True,90,9,7.8,15,2,6,17,10,1,365812
+2026-27,8,542,MID,Sunderland,Leeds,True,78,3,3.71,2,0,1,3,12,0,984014
+2026-27,8,543,MID,Sunderland,Leeds,True,11,1,1.0,0,0,1,1,12,0,1128532
+2026-27,8,544,MID,Sunderland,Leeds,True,90,3,2.65,4,0,5,9,12,0,117777
+2026-27,8,545,MID,Sunderland,Leeds,True,90,3,2.5,5,2,1,8,12,0,1171539
+2026-27,8,548,MID,Sunderland,Leeds,True,90,3,2.88,3,2,3,8,12,0,1394089
+2026-27,8,549,MID,Sunderland,Leeds,True,11,1,1.5,1,0,0,1,12,0,1142675
+2026-27,8,551,MID,Sunderland,Leeds,True,78,3,3.83,3,2,1,6,12,0,1116571
+2026-27,8,552,FWD,Sunderland,Leeds,True,64,2,2.98,1,1,1,3,12,0,910048
+2026-27,8,558,MID,Nott'm Forest,Ipswich Town,False,90,4,5.23,3,4,8,15,12,1,791079
+2026-27,8,562,MID,Ipswich Town,Nott'm Forest,True,17,1,1.0,0,0,1,1,12,0,832420
+2026-27,8,563,MID,Hull City,Brentford,True,18,1,1.0,1,0,3,4,12,0,926560
+2026-27,8,565,MID,Brentford,Hull City,False,90,4,4.36,6,6,11,23,12,1,1064697
+2026-27,8,566,DEF,Bournemouth,Man Utd,False,90,8,5.24,9,2,6,11,10,1,1006069
+2026-27,8,569,FWD,Fulham,Coventry City,False,73,2,2.63,2,0,1,3,12,0,1402716
+2026-27,8,570,MID,Fulham,Coventry City,False,16,1,1.03,0,1,2,3,12,0,1402688
+2026-27,8,571,MID,Ipswich Town,Nott'm Forest,True,84,4,4.18,4,3,5,12,12,1,855845
+2026-27,8,575,MID,Coventry City,Fulham,True,66,3,2.66,2,0,4,6,12,0,1986794
+2026-27,8,576,MID,Hull City,Brentford,True,90,4,4.27,1,6,5,12,12,1,1383695
+2026-27,8,579,DEF,Liverpool,Brighton,True,90,10,7.46,8,3,6,11,10,1,925097
+2026-27,8,580,MID,Fulham,Coventry City,False,90,2,2.24,3,2,5,10,12,0,1131449
+2026-27,8,582,FWD,Aston Villa,Man City,True,8,0,0.0,0,0,0,0,12,0,2070311
+2026-27,8,584,MID,Coventry City,Fulham,True,4,1,1.12,0,0,0,0,12,0,837495
+2026-27,8,585,DEF,Hull City,Brentford,True,90,4,4.7,8,2,2,10,10,1,1646783
+2026-27,8,588,DEF,Crystal Palace,Newcastle,True,90,0,1.85,7,2,6,9,10,0,1403362
+2026-27,8,591,MID,Ipswich Town,Nott'm Forest,True,85,10,6.79,0,1,4,5,12,0,973556
+2026-27,8,592,DEF,Ipswich Town,Nott'm Forest,True,90,2,2.47,5,2,3,7,10,0,1930811
+2026-27,8,593,DEF,Newcastle,Crystal Palace,False,90,11,5.15,3,0,5,3,10,0,1102791
+2026-27,8,599,FWD,Coventry City,Fulham,True,66,2,2.08,0,0,1,1,12,0,1514916
+2026-27,8,605,MID,Brighton,Liverpool,False,36,1,1.51,0,0,2,2,12,0,1568186
+2026-27,8,617,MID,Hull City,Brentford,True,25,1,2.42,0,1,2,3,12,0,1063235
+2026-27,8,618,MID,Aston Villa,Man City,True,8,1,1.0,1,0,0,1,12,0,184661
+2026-27,8,619,MID,Ipswich Town,Nott'm Forest,True,90,4,4.34,1,2,14,17,12,1,822600
+2026-27,8,620,DEF,Brentford,Hull City,False,12,1,1.15,1,0,0,1,10,0,1471764
+2026-27,8,621,MID,Man City,Aston Villa,False,21,0,0.21,0,0,0,0,12,0,1826151
+2026-27,8,627,MID,Liverpool,Brighton,True,76,6,3.81,3,2,5,10,12,0,996952
+2026-27,8,631,MID,Aston Villa,Man City,True,31,4,1.12,1,0,0,1,12,0,1590918
+2026-27,8,635,MID,Fulham,Coventry City,False,62,3,2.7,3,0,0,3,12,0,1142211
+2026-27,8,637,FWD,Hull City,Brentford,True,4,1,1.0,0,0,1,1,12,0,1514800
+2026-27,8,638,DEF,Hull City,Brentford,True,25,1,1.03,0,2,1,2,10,0,1087514
+2026-27,8,639,MID,Brighton,Liverpool,False,53,1,1.13,2,4,1,7,12,0,1464641
+2026-27,8,640,FWD,Ipswich Town,Nott'm Forest,True,30,1,1.03,1,3,0,4,12,0,875137
+2026-27,8,647,MID,Crystal Palace,Newcastle,True,27,1,2.15,0,1,4,5,12,0,1106824
+2026-27,8,650,DEF,Fulham,Coventry City,False,90,6,4.43,9,0,3,9,10,0,988672
+2026-27,8,656,DEF,Coventry City,Fulham,True,30,1,1.57,4,0,1,4,10,0,1402791

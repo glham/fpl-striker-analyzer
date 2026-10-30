@@ -2,6 +2,10 @@
  "files": [
   "chartstyle.py",
   "fpl_names.py",
+  "xa_fpl_model.json",
+  "pl_tables.csv",
+  "fpl_match_2025-26.csv",
+  "fpl_match_2026-27.csv",
   "shots_2023-24.csv",
   "sofa_pm_2023-24.csv",
   "shots_2024-25.csv",

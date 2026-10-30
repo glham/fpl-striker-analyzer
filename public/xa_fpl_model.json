@@ -1,0 +1,9 @@
+{
+ "coefs": {
+  "xa": 0.3032,
+  "bcc": 0.2967,
+  "kp": 0.0444
+ },
+ "fit": "nnls on PL 2024-25 player-seasons (mins>=600, minute-weighted); intercept 0.05/season dropped as negligible",
+ "validation": "held-out 2025-26: MAE 1.13 vs 1.25 raw Opta xA / 1.25 FPL own xA; corr 0.81 vs 0.77"
+}
