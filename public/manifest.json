@@ -1,0 +1,14 @@
+{
+ "files": [
+  "chartstyle.py",
+  "fpl_names.py",
+  "shots_2023-24.csv",
+  "sofa_pm_2023-24.csv",
+  "shots_2024-25.csv",
+  "sofa_pm_2024-25.csv",
+  "shots_2025-26.csv",
+  "sofa_pm_2025-26.csv",
+  "shots_2026-27.csv",
+  "sofa_pm_2026-27.csv"
+ ]
+}

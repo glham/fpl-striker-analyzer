@@ -1,0 +1,2462 @@
+event,pid,name,team,opp,pos,mins,bcm,g,touches
+16363633,581310,David Raya,Arsenal,Coventry City,G,90,0,0,27
+16363633,846036,Ben White,Arsenal,Coventry City,D,90,0,0,94
+16363633,1144630,Cristhian Mosquera,Arsenal,Coventry City,D,90,0,0,74
+16363633,869792,Gabriel Magalhães,Arsenal,Coventry City,D,90,0,0,68
+16363633,957602,Riccardo Calafiori,Arsenal,Coventry City,D,81,0,0,35
+16363633,1423711,Myles Lewis-Skelly,Arsenal,Coventry City,M,90,0,0,94
+16363633,856714,Declan Rice,Arsenal,Coventry City,M,68,0,0,85
+16363633,934235,Bukayo Saka,Arsenal,Coventry City,M,68,0,1,49
+16363633,547410,Martin Ødegaard,Arsenal,Coventry City,M,76,0,1,72
+16363633,1031259,Christos Tzolis,Arsenal,Coventry City,M,76,0,0,52
+16363633,836705,Kai Havertz,Arsenal,Coventry City,F,90,0,1,38
+16363633,966837,Martín Zubimendi,Arsenal,Coventry City,M,22,0,0,32
+16363633,966547,Noni Madueke,Arsenal,Coventry City,F,22,0,0,21
+16363633,864921,Eberechi Eze,Arsenal,Coventry City,M,14,0,0,11
+16363633,592010,Mikel Merino,Arsenal,Coventry City,M,14,0,0,15
+16363633,1002837,Piero Hincapié,Arsenal,Coventry City,D,9,0,0,10
+16363633,1005800,Carl Rushworth,Coventry City,Arsenal,G,90,0,0,55
+16363633,948723,Milan van Ewijk,Coventry City,Arsenal,D,90,0,0,32
+16363633,1033352,Bobby Thomas,Coventry City,Arsenal,D,90,0,0,51
+16363633,999276,Aurèle Amenda,Coventry City,Arsenal,D,90,0,0,43
+16363633,791985,Jay DaSilva,Coventry City,Arsenal,D,90,0,0,45
+16363633,340713,Matt Grimes,Coventry City,Arsenal,M,90,0,0,67
+16363633,1004505,Loum Tchaouna,Coventry City,Arsenal,M,82,0,0,44
+16363633,1986794,Caleb Yirenkyi,Coventry City,Arsenal,M,62,0,0,15
+16363633,885864,Frank Onyeka,Coventry City,Arsenal,M,90,0,0,29
+16363633,846061,Brandon Thomas-Asante,Coventry City,Arsenal,M,70,0,0,21
+16363633,991614,Ellis Simms,Coventry City,Arsenal,F,70,0,0,22
+16363633,837011,Victor Torp,Coventry City,Arsenal,M,28,0,0,19
+16363633,979565,Jack Rudoni,Coventry City,Arsenal,M,20,1,0,19
+16363633,359664,Taiwo Awoniyi,Coventry City,Arsenal,F,20,0,0,7
+16363633,837495,Gustavo Hamer,Coventry City,Arsenal,M,8,0,0,8
+16363634,953414,Konstantinos Tzolakis,Hull City,Manchester United,G,90,0,0,70
+16363634,827587,Lewie Coyle,Hull City,Manchester United,D,70,0,0,32
+16363634,307274,Semi Ajayi,Hull City,Manchester United,D,64,0,1,26
+16363634,100578,John Egan,Hull City,Manchester United,D,90,0,0,54
+16363634,1458073,Nobel Mendy,Hull City,Manchester United,D,64,0,1,38
+16363634,931304,Ryan Giles,Hull City,Manchester United,D,85,0,0,38
+16363634,1125839,Mohamed Belloumi,Hull City,Manchester United,M,90,0,0,34
+16363634,140479,Matt Crooks,Hull City,Manchester United,M,90,0,0,35
+16363634,864474,Regan Slater,Hull City,Manchester United,M,90,0,0,31
+16363634,1383695,Elliot Stroud,Hull City,Manchester United,M,71,0,0,17
+16363634,367228,Oliver McBurnie,Hull City,Manchester United,F,90,1,0,36
+16363634,1646783,Lucas Herrington,Hull City,Manchester United,D,26,0,0,9
+16363634,592876,Paddy McNair,Hull City,Manchester United,D,26,0,0,7
+16363634,991577,Cody Drameh,Hull City,Manchester United,D,20,0,0,13
+16363634,902083,Liam Millar,Hull City,Manchester United,F,19,0,0,10
+16363634,368134,Matt Targett,Hull City,Manchester United,D,12,0,0,7
+16363634,964753,Senne Lammens,Manchester United,Hull City,G,90,0,0,26
+16363634,847030,Noussair Mazraoui,Manchester United,Hull City,D,80,0,0,93
+16363634,149380,Harry Maguire,Manchester United,Hull City,D,90,0,0,94
+16363634,1445799,Ayden Heaven,Manchester United,Hull City,D,90,0,0,76
+16363634,190839,Luke Shaw,Manchester United,Hull City,D,90,0,0,89
+16363634,331737,Youri Tielemans,Manchester United,Hull City,M,67,0,0,82
+16363634,1105779,Andrey Santos,Manchester United,Hull City,M,67,0,0,70
+16363634,927083,Bryan Mbeumo,Manchester United,Hull City,M,90,1,0,64
+16363634,288205,Bruno Fernandes,Manchester United,Hull City,M,90,0,0,106
+16363634,1397168,Patrick Dorgu,Manchester United,Hull City,M,45,1,0,22
+16363634,886363,Matheus Cunha,Manchester United,Hull City,F,80,0,0,44
+16363634,814590,Marcus Rashford,Manchester United,Hull City,F,45,0,0,32
+16363634,1142175,Kobbie Mainoo,Manchester United,Hull City,M,23,0,0,33
+16363634,986397,Benjamin Šeško,Manchester United,Hull City,F,23,0,0,6
+16363634,843200,Diogo Dalot,Manchester United,Hull City,D,10,0,0,14
+16363634,1465865,Shea Lacey,Manchester United,Hull City,F,10,0,0,7
+16363635,138530,Jordan Pickford,Everton,Crystal Palace,G,90,0,0,42
+16363635,1064082,Merlin Röhl,Everton,Crystal Palace,D,90,0,0,70
+16363635,145188,James Tarkowski,Everton,Crystal Palace,D,90,0,0,47
+16363635,979563,Jarrad Branthwaite,Everton,Crystal Palace,D,90,0,0,52
+16363635,876643,Vitaliy Mykolenko,Everton,Crystal Palace,D,90,0,0,63
+16363635,1627560,Harrison Armstrong,Everton,Crystal Palace,M,90,0,0,55
+16363635,1008471,Hayden Hackney,Everton,Crystal Palace,M,79,0,0,60
+16363635,914309,Iliman Ndiaye,Everton,Crystal Palace,M,90,0,0,67
+16363635,861970,Kiernan Dewsbury-Hall,Everton,Crystal Palace,M,89,0,1,61
+16363635,1403061,Tyrique George,Everton,Crystal Palace,M,84,0,0,54
+16363635,1395746,Thierno Barry,Everton,Crystal Palace,F,79,0,1,33
+16363635,927361,James Garner,Everton,Crystal Palace,M,11,0,0,12
+16363635,987489,Beto,Everton,Crystal Palace,F,11,0,0,6
+16363635,1085180,Brennan Johnson,Everton,Crystal Palace,F,14,0,0,11
+16363635,1017392,Carlos Alcaraz,Everton,Crystal Palace,M,1,0,0,4
+16363635,788134,Dean Henderson,Crystal Palace,Everton,G,90,0,0,45
+16363635,1471671,Jaydee Canvot,Crystal Palace,Everton,D,90,0,0,99
+16363635,931844,Chris Richards,Crystal Palace,Everton,D,90,0,0,88
+16363635,1064218,Chadi Riad,Crystal Palace,Everton,D,72,0,0,61
+16363635,870360,Daniel Muñoz,Crystal Palace,Everton,M,55,1,0,48
+16363635,1109771,Adam Wharton,Crystal Palace,Everton,M,90,0,0,91
+16363635,794338,Daichi Kamada,Crystal Palace,Everton,M,90,0,0,90
+16363635,988275,Tyrick Mitchell,Crystal Palace,Everton,M,90,0,0,56
+16363635,935543,Dwight McNeil,Crystal Palace,Everton,F,63,0,0,40
+16363635,858194,Eddie Nketiah,Crystal Palace,Everton,F,55,1,0,26
+16363635,848276,Jean-Philippe Mateta,Crystal Palace,Everton,F,63,2,0,21
+16363635,1403362,Anan Khalaili,Crystal Palace,Everton,F,35,0,0,43
+16363635,984624,Yéremy Pino,Crystal Palace,Everton,M,35,0,0,29
+16363635,876599,Jørgen Strand Larsen,Crystal Palace,Everton,F,27,0,0,5
+16363635,930245,Evann Guessand,Crystal Palace,Everton,F,27,0,0,21
+16363635,804434,Takehiro Tomiyasu,Crystal Palace,Everton,D,18,0,0,29
+16363636,852394,Kjell Scherpen,Ipswich Town,Sunderland,G,90,0,0,39
+16363636,856719,Dara O'Shea,Ipswich Town,Sunderland,D,90,0,0,70
+16363636,825719,Issa Diop,Ipswich Town,Sunderland,D,90,0,0,46
+16363636,990821,Jacob Greaves,Ipswich Town,Sunderland,D,90,0,0,52
+16363636,963493,Leif Davis,Ipswich Town,Sunderland,D,90,0,0,49
+16363636,1014801,Marcelino Núñez,Ipswich Town,Sunderland,M,80,0,0,56
+16363636,371222,Saša Lukić,Ipswich Town,Sunderland,M,90,0,0,53
+16363636,1103589,Abdul Fatawu Issahaku,Ipswich Town,Sunderland,M,66,0,0,36
+16363636,973556,Julio Enciso,Ipswich Town,Sunderland,M,71,0,0,41
+16363636,832420,Daizen Maeda,Ipswich Town,Sunderland,M,80,1,0,32
+16363636,1128844,Emersonn,Ipswich Town,Sunderland,F,66,0,1,26
+16363636,1065134,Kasey McAteer,Ipswich Town,Sunderland,M,24,0,0,9
+16363636,190867,Chuba Akpom,Ipswich Town,Sunderland,F,24,0,0,8
+16363636,921005,Jack Clarke,Ipswich Town,Sunderland,F,19,0,1,8
+16363636,1930811,Abdoul Ouattara,Ipswich Town,Sunderland,D,10,0,0,7
+16363636,1154598,Sindre Walle Egeli,Ipswich Town,Sunderland,F,10,0,0,2
+16363636,1012928,Robin Roefs,Sunderland,Ipswich Town,G,90,0,0,57
+16363636,128587,Thomas Meunier,Sunderland,Ipswich Town,D,90,0,0,83
+16363636,958878,Daniel Ballard,Sunderland,Ipswich Town,D,90,0,0,73
+16363636,365812,Luke O'Nien,Sunderland,Ipswich Town,D,67,0,0,70
+16363636,831424,Reinildo Mandava,Sunderland,Ipswich Town,D,90,0,0,81
+16363636,1171539,Noah Sadiki,Sunderland,Ipswich Town,M,90,1,0,74
+16363636,117777,Granit Xhaka,Sunderland,Ipswich Town,M,90,0,0,96
+16363636,989034,Trai Hume,Sunderland,Ipswich Town,M,80,0,0,37
+16363636,984014,Enzo Le Fée,Sunderland,Ipswich Town,M,80,0,0,59
+16363636,1116571,Nilson Angulo,Sunderland,Ipswich Town,M,59,0,1,39
+16363636,910048,Brian Brobbey,Sunderland,Ipswich Town,F,67,1,0,10
+16363636,1142675,Chemsdine Talbi,Sunderland,Ipswich Town,F,31,0,0,16
+16363636,805137,Omar Alderete,Sunderland,Ipswich Town,D,23,0,0,38
+16363636,877980,Wilson Isidor,Sunderland,Ipswich Town,F,23,0,0,6
+16363636,1394089,Chris Rigg,Sunderland,Ipswich Town,M,10,0,0,4
+16363636,1128532,Habib Diarra,Sunderland,Ipswich Town,M,10,0,0,7
+16363238,78152,Matz Sels,Nottingham Forest,Leeds United,G,90,0,0,35
+16363238,1170722,Jair,Nottingham Forest,Leeds United,D,90,0,0,60
+16363238,836168,Nikola Milenković,Nottingham Forest,Leeds United,D,90,0,0,61
+16363238,1199282,Murillo,Nottingham Forest,Leeds United,D,89,0,0,79
+16363238,800417,Ola Aina,Nottingham Forest,Leeds United,M,74,0,0,57
+16363238,1003334,James McAtee,Nottingham Forest,Leeds United,M,74,0,0,51
+16363238,843754,Ibrahim Sangaré,Nottingham Forest,Leeds United,M,90,0,0,61
+16363238,927356,Neco Williams,Nottingham Forest,Leeds United,M,90,0,0,55
+16363238,944327,Dan Ndoye,Nottingham Forest,Leeds United,F,62,0,0,17
+16363238,865912,Morgan Gibbs-White,Nottingham Forest,Leeds United,F,90,0,0,68
+16363238,981619,Igor Jesus,Nottingham Forest,Leeds United,F,90,0,0,40
+16363238,50480,Chris Wood,Nottingham Forest,Leeds United,F,28,0,0,9
+16363238,979144,Luca Netz,Nottingham Forest,Leeds United,D,16,0,0,11
+16363238,791079,Xaver Schlager,Nottingham Forest,Leeds United,M,16,0,0,11
+16363238,954061,Arnaud Kalimuendo,Nottingham Forest,Leeds United,F,1,0,0,0
+16363238,980643,James Trafford,Leeds United,Nottingham Forest,G,90,0,0,44
+16363238,828640,Joe Rodon,Leeds United,Nottingham Forest,D,90,0,0,41
+16363238,886930,Jaka Bijol,Leeds United,Nottingham Forest,D,90,0,0,72
+16363238,1118177,Tarik Muharemović,Leeds United,Nottingham Forest,D,90,0,0,46
+16363238,929132,Jayden Bogle,Leeds United,Nottingham Forest,M,90,0,0,39
+16363238,889861,Anton Stach,Leeds United,Nottingham Forest,M,90,0,1,57
+16363238,847097,Ethan Ampadu,Leeds United,Nottingham Forest,M,90,0,0,70
+16363238,827681,James Justin,Leeds United,Nottingham Forest,M,90,0,0,42
+16363238,355528,Harry Wilson,Leeds United,Nottingham Forest,F,66,0,0,24
+16363238,973431,Brenden Aaronson,Leeds United,Nottingham Forest,F,82,0,0,31
+16363238,372344,Dominic Calvert-Lewin,Leeds United,Nottingham Forest,F,90,0,0,22
+16363238,865523,Noah Okafor,Leeds United,Nottingham Forest,F,24,0,0,10
+16363238,866191,Sean Longstaff,Leeds United,Nottingham Forest,M,8,0,0,2
+16363242,827362,Caoimhin Kelleher,Brentford,Tottenham Hotspur,G,90,0,0,43
+16363242,1137431,Michael Kayode,Brentford,Tottenham Hotspur,D,76,0,1,39
+16363242,576384,Kristoffer Ajer,Brentford,Tottenham Hotspur,D,90,0,0,46
+16363242,958916,Nathan Collins,Brentford,Tottenham Hotspur,D,90,1,0,73
+16363242,972421,Keane Lewis-Potter,Brentford,Tottenham Hotspur,D,90,0,1,53
+16363242,814873,Vitaly Janelt,Brentford,Tottenham Hotspur,M,90,0,1,58
+16363242,1064697,Mamadou Sangare,Brentford,Tottenham Hotspur,M,76,0,0,51
+16363242,1106451,Dango Ouattara,Brentford,Tottenham Hotspur,M,67,0,0,26
+16363242,799251,Mathias Jensen,Brentford,Tottenham Hotspur,M,67,1,0,41
+16363242,1006387,Kevin Schade,Brentford,Tottenham Hotspur,M,90,0,0,41
+16363242,1016907,Igor Thiago,Brentford,Tottenham Hotspur,F,83,1,0,26
+16363242,1020680,Jaidon Anthony,Brentford,Tottenham Hotspur,F,23,0,0,15
+16363242,1031258,Yehor Yarmoliuk,Brentford,Tottenham Hotspur,M,23,0,0,18
+16363242,966869,Aaron Hickey,Brentford,Tottenham Hotspur,D,14,0,0,9
+16363242,907072,Mikkel Damsgaard,Brentford,Tottenham Hotspur,M,14,0,0,18
+16363242,113956,Callum Wilson,Brentford,Tottenham Hotspur,F,12,0,0,4
+16363242,1031251,Antonín Kinský,Tottenham Hotspur,Brentford,G,90,0,0,60
+16363242,1142335,Archie Gray,Tottenham Hotspur,Brentford,D,86,0,0,50
+16363242,962012,Jan Paul van Hecke,Tottenham Hotspur,Brentford,D,90,0,0,76
+16363242,830659,Marcos Senesi,Tottenham Hotspur,Brentford,D,90,0,0,104
+16363242,262911,Andy Robertson,Tottenham Hotspur,Brentford,D,90,0,0,78
+16363242,892673,Sandro Tonali,Tottenham Hotspur,Brentford,M,90,0,0,76
+16363242,1391251,Lucas Bergvall,Tottenham Hotspur,Brentford,M,45,0,0,27
+16363242,1403192,Mikey Moore,Tottenham Hotspur,Brentford,M,68,2,0,23
+16363242,904970,Conor Gallagher,Tottenham Hotspur,Brentford,M,45,0,0,27
+16363242,1048888,Mathys Tel,Tottenham Hotspur,Brentford,M,90,0,0,64
+16363242,840217,Richarlison,Tottenham Hotspur,Brentford,F,68,0,0,17
+16363242,1142562,Mateus Fernandes,Tottenham Hotspur,Brentford,M,45,0,0,44
+16363242,791190,Rodrigo Bentancur,Tottenham Hotspur,Brentford,M,45,0,0,46
+16363242,356398,James Maddison,Tottenham Hotspur,Brentford,M,22,0,0,29
+16363242,361420,Dominic Solanke,Tottenham Hotspur,Brentford,F,22,0,0,6
+16363242,983572,Destiny Udogie,Tottenham Hotspur,Brentford,D,9,0,0,13
+16363236,994363,Bart Verbruggen,Brighton & Hove Albion,Aston Villa,G,90,0,0,35
+16363236,959628,Mats Wieffer,Brighton & Hove Albion,Aston Villa,D,78,0,0,85
+16363236,1405212,Luka Vušković,Brighton & Hove Albion,Aston Villa,D,90,1,0,112
+16363236,115365,Lewis Dunk,Brighton & Hove Albion,Aston Villa,D,90,0,0,118
+16363236,788784,Olivier Boscagli,Brighton & Hove Albion,Aston Villa,D,90,0,0,84
+16363236,48480,Pascal Groß,Brighton & Hove Albion,Aston Villa,M,90,0,0,96
+16363236,1036269,Yasin Ayari,Brighton & Hove Albion,Aston Villa,M,64,0,0,47
+16363236,1065588,Diego Gómez,Brighton & Hove Albion,Aston Villa,M,86,0,0,51
+16363236,1142315,Jack Hinshelwood,Brighton & Hove Albion,Aston Villa,M,64,0,2,25
+16363236,997152,Maxim De Cuyper,Brighton & Hove Albion,Aston Villa,M,78,1,1,58
+16363236,946695,Georginio Rutter,Brighton & Hove Albion,Aston Villa,F,90,0,0,30
+16363236,988333,Costinha,Brighton & Hove Albion,Aston Villa,D,26,0,0,29
+16363236,1416535,Charalampos Kostoulas,Brighton & Hove Albion,Aston Villa,F,26,1,0,12
+16363236,1471095,Ibrahim Osman,Brighton & Hove Albion,Aston Villa,F,12,0,0,17
+16363236,2189496,Zadok Yohanna,Brighton & Hove Albion,Aston Villa,F,12,0,0,11
+16363236,1568186,Malick Yalcouyé,Brighton & Hove Albion,Aston Villa,M,9,0,0,15
+16363236,100390,Marco Bizot,Aston Villa,Brighton & Hove Albion,G,90,0,0,38
+16363236,833956,Matty Cash,Aston Villa,Brighton & Hove Albion,D,90,0,0,49
+16363236,143334,Victor Lindelöf,Aston Villa,Brighton & Hove Albion,D,90,0,0,39
+16363236,864169,Pau Torres,Aston Villa,Brighton & Hove Albion,D,74,0,0,33
+16363236,976263,Ian Maatsen,Aston Villa,Brighton & Hove Albion,D,82,0,0,39
+16363236,826204,Boubacar Kamara,Aston Villa,Brighton & Hove Albion,M,90,0,0,39
+16363236,1015267,João Gomes,Aston Villa,Brighton & Hove Albion,M,40,0,0,25
+16363236,250223,John McGinn,Aston Villa,Brighton & Hove Albion,M,82,0,0,39
+16363236,98435,Ross Barkley,Aston Villa,Brighton & Hove Albion,M,74,0,0,40
+16363236,1398204,George Hemmings,Aston Villa,Brighton & Hove Albion,M,90,0,0,23
+16363236,783126,Emiliano Buendía,Aston Villa,Brighton & Hove Albion,F,86,0,0,33
+16363236,303638,Tyrone Mings,Aston Villa,Brighton & Hove Albion,D,16,0,0,1
+16363236,1089388,Lamare Bogarde,Aston Villa,Brighton & Hove Albion,M,16,0,0,4
+16363236,965011,Matteo Ruggeri,Aston Villa,Brighton & Hove Albion,D,8,0,0,3
+16363236,1631879,Alysson,Aston Villa,Brighton & Hove Albion,F,8,0,0,4
+16363236,1135873,Alejandro Garnacho,Aston Villa,Brighton & Hove Albion,F,9,0,0,0
+16363243,824509,Gianluigi Donnarumma,Manchester City,Bournemouth,G,90,0,0,29
+16363243,1136731,Rico Lewis,Manchester City,Bournemouth,D,57,1,0,45
+16363243,1194333,Abdukodir Khusanov,Manchester City,Bournemouth,D,90,0,0,98
+16363243,318941,Rúben Dias,Manchester City,Bournemouth,D,90,0,0,139
+16363243,964994,Joško Gvardiol,Manchester City,Bournemouth,D,90,0,1,93
+16363243,994546,Elliot Anderson,Manchester City,Bournemouth,M,63,0,0,75
+16363243,877994,Marc Guéhi,Manchester City,Bournemouth,M,90,1,1,75
+16363243,859765,Phil Foden,Manchester City,Bournemouth,M,82,0,0,80
+16363243,1142703,Nico O'Reilly,Manchester City,Bournemouth,M,63,0,0,34
+16363243,934354,Antoine Semenyo,Manchester City,Bournemouth,M,90,0,0,54
+16363243,839956,Erling Haaland,Manchester City,Bournemouth,F,90,1,0,26
+16363243,945122,Matheus Nunes,Manchester City,Bournemouth,M,33,0,0,28
+16363243,136710,Mateo Kovačić,Manchester City,Bournemouth,M,27,0,0,27
+16363243,979128,Rayan Cherki,Manchester City,Bournemouth,M,27,0,0,19
+16363243,189061,Jack Grealish,Manchester City,Bournemouth,M,8,0,0,9
+16363243,882604,Đorđe Petrović,Bournemouth,Manchester City,G,90,0,0,52
+16363243,44566,Adam Smith,Bournemouth,Manchester City,D,90,0,0,35
+16363243,1156586,James Hill,Bournemouth,Manchester City,D,90,0,0,55
+16363243,1006069,António Silva,Bournemouth,Manchester City,D,90,0,0,53
+16363243,999028,Adrien Truffert,Bournemouth,Manchester City,D,90,0,0,46
+16363243,548188,Lewis Cook,Bournemouth,Manchester City,M,75,0,0,35
+16363243,1104986,Alex Scott,Bournemouth,Manchester City,M,90,0,0,57
+16363243,1464966,Rayan,Bournemouth,Manchester City,M,89,0,0,24
+16363243,851596,Justin Kluivert,Bournemouth,Manchester City,M,75,0,0,23
+16363243,895576,Marcus Tavernier,Bournemouth,Manchester City,M,90,0,1,49
+16363243,998490,Evanilson,Bournemouth,Manchester City,F,75,0,0,25
+16363243,1476524,Alex Tóth,Bournemouth,Manchester City,M,15,0,0,17
+16363243,800419,Tyler Adams,Bournemouth,Manchester City,M,15,0,0,14
+16363243,1096136,Daniel Jebbison,Bournemouth,Manchester City,F,15,0,0,9
+16363243,1154861,Ben Gannon-Doak,Bournemouth,Manchester City,F,1,0,0,5
+16363246,963744,Lukáš Horníček,Newcastle United,Liverpool FC,G,90,0,0,50
+16363246,1102791,Amar Dedić,Newcastle United,Liverpool FC,D,90,0,0,51
+16363246,1014286,Malick Thiaw,Newcastle United,Liverpool FC,D,90,0,0,48
+16363246,910046,Sven Botman,Newcastle United,Liverpool FC,D,90,0,0,48
+16363246,1136730,Lewis Hall,Newcastle United,Liverpool FC,D,90,0,0,54
+16363246,1859920,Sean Steur,Newcastle United,Liverpool FC,M,56,0,0,31
+16363246,1400650,Lewis Miley,Newcastle United,Liverpool FC,M,76,0,0,46
+16363246,979232,Anthony Elanga,Newcastle United,Liverpool FC,M,76,0,1,32
+16363246,805123,Yoane Wissa,Newcastle United,Liverpool FC,M,89,2,0,41
+16363246,855647,Harvey Barnes,Newcastle United,Liverpool FC,M,90,0,0,33
+16363246,1122603,William Osula,Newcastle United,Liverpool FC,F,56,0,0,20
+16363246,888550,Joe Willock,Newcastle United,Liverpool FC,M,34,0,1,15
+16363246,975937,Jacob Ramsey,Newcastle United,Liverpool FC,M,34,0,0,25
+16363246,1868591,Aladji Bamba,Newcastle United,Liverpool FC,M,14,0,0,5
+16363246,372336,Jacob Murphy,Newcastle United,Liverpool FC,M,14,0,0,7
+16363246,101882,Fabian Schär,Newcastle United,Liverpool FC,D,1,0,0,0
+16363246,243609,Alisson,Liverpool FC,Newcastle United,G,90,0,0,28
+16363246,970361,Jeremie Frimpong,Liverpool FC,Newcastle United,D,90,0,0,66
+16363246,1445625,Jérémy Jacquet,Liverpool FC,Newcastle United,D,70,0,0,51
+16363246,151545,Virgil van Dijk,Liverpool FC,Newcastle United,D,90,0,0,74
+16363246,1097425,Miloš Kerkez,Liverpool FC,Newcastle United,D,90,0,0,64
+16363246,869856,Dominik Szoboszlai,Liverpool FC,Newcastle United,M,90,0,1,88
+16363246,904897,Ryan Gravenberch,Liverpool FC,Newcastle United,M,78,0,0,62
+16363246,1881902,Rio Ngumoha,Liverpool FC,Newcastle United,M,63,0,0,21
+16363246,1019322,Florian Wirtz,Liverpool FC,Newcastle United,M,63,0,0,43
+16363246,862967,Cody Gakpo,Liverpool FC,Newcastle United,M,90,0,1,58
+16363246,823941,Alexander Isak,Liverpool FC,Newcastle United,F,90,2,0,28
+16363246,895324,Alexis Mac Allister,Liverpool FC,Newcastle United,M,27,0,0,18
+16363246,1145642,Víctor Muñoz,Liverpool FC,Newcastle United,F,27,0,0,16
+16363246,925097,Ronald Araújo,Liverpool FC,Newcastle United,D,20,0,0,35
+16363246,1403111,Lewis Koumas,Liverpool FC,Newcastle United,F,12,0,0,5
+16363244,103335,Bernd Leno,Fulham,Chelsea,G,90,0,0,51
+16363244,329417,Timothy Castagne,Fulham,Chelsea,D,90,0,0,64
+16363244,861972,Calvin Bassey,Fulham,Chelsea,D,90,0,0,104
+16363244,868715,Jorge Cuenca,Fulham,Chelsea,D,90,0,0,99
+16363244,803174,Antonee Robinson,Fulham,Chelsea,D,82,1,0,69
+16363244,793167,Sander Berge,Fulham,Chelsea,M,73,0,0,67
+16363244,352770,Alex Iwobi,Fulham,Chelsea,M,90,0,0,103
+16363244,1065216,Oscar Bobb,Fulham,Chelsea,M,67,0,0,39
+16363244,1546231,Josh King,Fulham,Chelsea,M,90,0,1,57
+16363244,1402688,César Palacios,Fulham,Chelsea,M,73,0,0,52
+16363244,1402716,Gonzalo García,Fulham,Chelsea,F,90,0,1,45
+16363244,1131449,Shea Charles,Fulham,Chelsea,M,23,0,0,31
+16363244,836698,Ryan Sessegnon,Fulham,Chelsea,M,17,0,0,19
+16363244,1112879,Kevin,Fulham,Chelsea,F,17,0,0,20
+16363244,1015256,Rodrigo Muniz,Fulham,Chelsea,F,8,0,0,7
+16363244,920546,Robert Sánchez,Chelsea,Fulham,G,90,0,0,39
+16363244,1403050,Josh Acheampong,Chelsea,Fulham,D,90,0,0,67
+16363244,879674,Maxence Lacroix,Chelsea,Fulham,D,90,0,0,68
+16363244,996911,Levi Colwill,Chelsea,Fulham,D,90,0,0,41
+16363244,996958,Malo Gusto,Chelsea,Fulham,M,76,0,0,43
+16363244,885908,Reece James,Chelsea,Fulham,M,90,0,0,70
+16363244,1069488,Roméo Lavia,Chelsea,Fulham,M,65,1,0,34
+16363244,1153079,Jorrel Hato,Chelsea,Fulham,M,65,0,0,40
+16363244,982780,Cole Palmer,Chelsea,Fulham,F,83,0,1,62
+16363244,948261,Morgan Rogers,Chelsea,Fulham,F,82,0,1,41
+16363244,975079,João Pedro,Chelsea,Fulham,F,90,0,1,39
+16363244,1010421,Pep Chavarría,Chelsea,Fulham,D,25,0,0,12
+16363244,974505,Enzo Fernández,Chelsea,Fulham,M,25,0,0,25
+16363244,879349,Pedro Neto,Chelsea,Fulham,F,14,0,0,14
+16363244,1403165,Geovany Quenda,Chelsea,Fulham,M,8,0,0,6
+16363244,1597265,Estêvão,Chelsea,Fulham,F,12,0,0,5
+16363252,788134,Dean Henderson,Crystal Palace,Manchester City,G,90,0,0,28
+16363252,1471671,Jaydee Canvot,Crystal Palace,Manchester City,D,90,0,0,64
+16363252,931844,Chris Richards,Crystal Palace,Manchester City,D,90,0,0,38
+16363252,804434,Takehiro Tomiyasu,Crystal Palace,Manchester City,D,74,0,0,39
+16363252,1403362,Anan Khalaili,Crystal Palace,Manchester City,M,75,0,0,60
+16363252,1109771,Adam Wharton,Crystal Palace,Manchester City,M,90,0,0,36
+16363252,794338,Daichi Kamada,Crystal Palace,Manchester City,M,90,0,0,51
+16363252,988275,Tyrick Mitchell,Crystal Palace,Manchester City,M,90,1,0,44
+16363252,984624,Yéremy Pino,Crystal Palace,Manchester City,F,68,0,0,44
+16363252,858194,Eddie Nketiah,Crystal Palace,Manchester City,F,68,1,0,22
+16363252,876599,Jørgen Strand Larsen,Crystal Palace,Manchester City,F,63,1,0,18
+16363252,930245,Evann Guessand,Crystal Palace,Manchester City,F,27,0,0,6
+16363252,935543,Dwight McNeil,Crystal Palace,Manchester City,F,22,0,0,6
+16363252,1578999,Zavier Gozo,Crystal Palace,Manchester City,F,22,0,0,9
+16363252,827243,Axel Disasi,Crystal Palace,Manchester City,D,16,0,0,8
+16363252,859773,Óscar Mingueza,Crystal Palace,Manchester City,D,15,0,0,7
+16363252,824509,Gianluigi Donnarumma,Manchester City,Crystal Palace,G,90,0,0,43
+16363252,1194333,Abdukodir Khusanov,Manchester City,Crystal Palace,D,89,0,0,106
+16363252,318941,Rúben Dias,Manchester City,Crystal Palace,D,90,0,0,118
+16363252,877994,Marc Guéhi,Manchester City,Crystal Palace,D,90,0,0,124
+16363252,964994,Joško Gvardiol,Manchester City,Crystal Palace,D,75,0,0,64
+16363252,1142703,Nico O'Reilly,Manchester City,Crystal Palace,M,89,0,0,70
+16363252,994546,Elliot Anderson,Manchester City,Crystal Palace,M,82,0,0,122
+16363252,859765,Phil Foden,Manchester City,Crystal Palace,M,90,2,0,70
+16363252,979128,Rayan Cherki,Manchester City,Crystal Palace,M,82,0,2,84
+16363252,934354,Antoine Semenyo,Manchester City,Crystal Palace,M,90,0,0,68
+16363252,839956,Erling Haaland,Manchester City,Crystal Palace,F,90,0,2,19
+16363252,136710,Mateo Kovačić,Manchester City,Crystal Palace,M,15,0,0,34
+16363252,1564180,Ayyoub Bouaddi,Manchester City,Crystal Palace,M,8,0,0,23
+16363252,1826151,Ryan McAidoo,Manchester City,Crystal Palace,F,8,0,0,7
+16363252,1485300,Vitor Reis,Manchester City,Crystal Palace,D,1,0,0,15
+16363252,1899484,Kaden Braithwaite,Manchester City,Crystal Palace,D,1,0,0,10
+16363254,243609,Alisson,Liverpool FC,Nottingham Forest,G,90,0,0,34
+16363254,970361,Jeremie Frimpong,Liverpool FC,Nottingham Forest,D,71,0,0,64
+16363254,1445625,Jérémy Jacquet,Liverpool FC,Nottingham Forest,D,77,0,0,110
+16363254,151545,Virgil van Dijk,Liverpool FC,Nottingham Forest,D,90,0,0,124
+16363254,1097425,Miloš Kerkez,Liverpool FC,Nottingham Forest,D,71,0,0,55
+16363254,895324,Alexis Mac Allister,Liverpool FC,Nottingham Forest,M,77,0,0,71
+16363254,869856,Dominik Szoboszlai,Liverpool FC,Nottingham Forest,M,90,0,0,117
+16363254,862967,Cody Gakpo,Liverpool FC,Nottingham Forest,M,71,0,0,40
+16363254,1019322,Florian Wirtz,Liverpool FC,Nottingham Forest,M,90,0,0,72
+16363254,1145642,Víctor Muñoz,Liverpool FC,Nottingham Forest,M,90,0,1,56
+16363254,823941,Alexander Isak,Liverpool FC,Nottingham Forest,F,90,0,1,14
+16363254,786259,Kostas Tsimikas,Liverpool FC,Nottingham Forest,D,19,0,0,20
+16363254,904897,Ryan Gravenberch,Liverpool FC,Nottingham Forest,M,19,0,0,17
+16363254,1881902,Rio Ngumoha,Liverpool FC,Nottingham Forest,F,19,0,0,18
+16363254,925097,Ronald Araújo,Liverpool FC,Nottingham Forest,D,13,0,0,27
+16363254,1445945,Trey Nyoni,Liverpool FC,Nottingham Forest,M,13,0,0,23
+16363254,78152,Matz Sels,Nottingham Forest,Liverpool FC,G,90,0,0,44
+16363254,1170722,Jair,Nottingham Forest,Liverpool FC,D,90,0,0,33
+16363254,836168,Nikola Milenković,Nottingham Forest,Liverpool FC,D,90,0,0,28
+16363254,1199282,Murillo,Nottingham Forest,Liverpool FC,D,90,0,0,32
+16363254,800417,Ola Aina,Nottingham Forest,Liverpool FC,M,86,0,0,62
+16363254,791079,Xaver Schlager,Nottingham Forest,Liverpool FC,M,90,0,0,46
+16363254,1003334,James McAtee,Nottingham Forest,Liverpool FC,M,89,0,0,54
+16363254,927356,Neco Williams,Nottingham Forest,Liverpool FC,M,90,1,0,57
+16363254,865912,Morgan Gibbs-White,Nottingham Forest,Liverpool FC,F,90,0,1,43
+16363254,944327,Dan Ndoye,Nottingham Forest,Liverpool FC,F,66,1,1,34
+16363254,981619,Igor Jesus,Nottingham Forest,Liverpool FC,F,89,1,0,51
+16363254,997087,Liam Delap,Nottingham Forest,Liverpool FC,F,24,0,0,12
+16363254,979144,Luca Netz,Nottingham Forest,Liverpool FC,D,10,0,0,4
+16363254,867442,Callum Hudson Odoi,Nottingham Forest,Liverpool FC,F,1,0,0,5
+16363254,871765,Nicolás Domínguez,Nottingham Forest,Liverpool FC,M,1,0,0,3
+16363247,882604,Đorđe Petrović,Bournemouth,Everton,G,90,0,0,49
+16363247,44566,Adam Smith,Bournemouth,Everton,D,90,0,0,57
+16363247,1156586,James Hill,Bournemouth,Everton,D,90,0,0,82
+16363247,1006069,António Silva,Bournemouth,Everton,D,90,0,0,63
+16363247,999028,Adrien Truffert,Bournemouth,Everton,D,90,0,0,70
+16363247,548188,Lewis Cook,Bournemouth,Everton,M,69,0,0,41
+16363247,1104986,Alex Scott,Bournemouth,Everton,M,87,0,1,84
+16363247,1464966,Rayan,Bournemouth,Everton,M,90,2,0,32
+16363247,851596,Justin Kluivert,Bournemouth,Everton,M,81,1,0,34
+16363247,895576,Marcus Tavernier,Bournemouth,Everton,M,90,0,0,75
+16363247,998490,Evanilson,Bournemouth,Everton,F,81,3,0,35
+16363247,800419,Tyler Adams,Bournemouth,Everton,M,21,0,0,17
+16363247,855731,David Brooks,Bournemouth,Everton,M,9,0,0,10
+16363247,1154587,Álvaro Rodriguez,Bournemouth,Everton,F,9,0,0,6
+16363247,322391,Ryan Christie,Bournemouth,Everton,M,8,0,0,8
+16363247,138530,Jordan Pickford,Everton,Bournemouth,G,90,0,0,47
+16363247,1064082,Merlin Röhl,Everton,Bournemouth,D,86,0,0,50
+16363247,145188,James Tarkowski,Everton,Bournemouth,D,90,0,1,57
+16363247,979563,Jarrad Branthwaite,Everton,Bournemouth,D,90,1,0,42
+16363247,876643,Vitaliy Mykolenko,Everton,Bournemouth,D,90,0,0,68
+16363247,1627560,Harrison Armstrong,Everton,Bournemouth,M,86,0,0,35
+16363247,927361,James Garner,Everton,Bournemouth,M,62,0,0,33
+16363247,914309,Iliman Ndiaye,Everton,Bournemouth,M,90,0,0,54
+16363247,861970,Kiernan Dewsbury-Hall,Everton,Bournemouth,M,90,0,0,52
+16363247,1403061,Tyrique George,Everton,Bournemouth,M,62,0,0,27
+16363247,1395746,Thierno Barry,Everton,Bournemouth,F,70,2,0,19
+16363247,1008471,Hayden Hackney,Everton,Bournemouth,M,28,0,0,22
+16363247,1085180,Brennan Johnson,Everton,Bournemouth,F,28,0,0,6
+16363247,987489,Beto,Everton,Bournemouth,F,20,0,0,8
+16363247,1017392,Carlos Alcaraz,Everton,Bournemouth,M,8,0,0,5
+16363247,1085950,Tim Iroegbunam,Everton,Bournemouth,M,8,0,0,1
+16363250,1005800,Carl Rushworth,Coventry City,Hull City,G,90,0,0,54
+16363250,948723,Milan van Ewijk,Coventry City,Hull City,D,90,0,0,69
+16363250,1033352,Bobby Thomas,Coventry City,Hull City,D,78,0,0,78
+16363250,999276,Aurèle Amenda,Coventry City,Hull City,D,90,0,0,83
+16363250,791985,Jay DaSilva,Coventry City,Hull City,D,90,0,0,92
+16363250,1986794,Caleb Yirenkyi,Coventry City,Hull City,M,71,0,0,52
+16363250,340713,Matt Grimes,Coventry City,Hull City,M,90,0,0,121
+16363250,1004505,Loum Tchaouna,Coventry City,Hull City,M,59,0,0,32
+16363250,979565,Jack Rudoni,Coventry City,Hull City,M,71,0,0,46
+16363250,861315,Ephron Mason-Clark,Coventry City,Hull City,M,58,0,0,28
+16363250,359664,Taiwo Awoniyi,Coventry City,Hull City,F,90,1,0,25
+16363250,846061,Brandon Thomas-Asante,Coventry City,Hull City,F,32,0,0,18
+16363250,978927,Tatsuhiro Sakamoto,Coventry City,Hull City,M,31,0,0,27
+16363250,837011,Victor Torp,Coventry City,Hull City,M,19,0,0,19
+16363250,837495,Gustavo Hamer,Coventry City,Hull City,M,19,0,0,15
+16363250,855864,Ethan Pinnock,Coventry City,Hull City,D,12,0,0,15
+16363250,953414,Konstantinos Tzolakis,Hull City,Coventry City,G,90,0,0,40
+16363250,827587,Lewie Coyle,Hull City,Coventry City,D,45,0,0,25
+16363250,307274,Semi Ajayi,Hull City,Coventry City,D,90,0,0,37
+16363250,100578,John Egan,Hull City,Coventry City,D,90,0,0,46
+16363250,1458073,Nobel Mendy,Hull City,Coventry City,D,59,0,0,38
+16363250,931304,Ryan Giles,Hull City,Coventry City,D,90,0,0,42
+16363250,1125839,Mohamed Belloumi,Hull City,Coventry City,M,83,0,0,33
+16363250,864474,Regan Slater,Hull City,Coventry City,M,90,0,0,43
+16363250,926560,Hidemasa Morita,Hull City,Coventry City,M,45,0,0,21
+16363250,1383695,Elliot Stroud,Hull City,Coventry City,M,59,0,0,17
+16363250,367228,Oliver McBurnie,Hull City,Coventry City,F,90,0,0,34
+16363250,991577,Cody Drameh,Hull City,Coventry City,D,45,0,0,16
+16363250,1012657,Lucas Gourna-Douath,Hull City,Coventry City,M,45,0,0,26
+16363250,1646783,Lucas Herrington,Hull City,Coventry City,D,31,0,0,11
+16363250,902083,Liam Millar,Hull City,Coventry City,F,31,0,1,12
+16363250,1063235,Mohamed Ali Cho,Hull City,Coventry City,F,13,0,0,4
+16363256,1031251,Antonín Kinský,Tottenham Hotspur,Newcastle United,G,90,0,0,45
+16363256,1142335,Archie Gray,Tottenham Hotspur,Newcastle United,D,68,0,0,30
+16363256,962012,Jan Paul van Hecke,Tottenham Hotspur,Newcastle United,D,90,1,0,95
+16363256,998247,Micky van de Ven,Tottenham Hotspur,Newcastle United,D,90,0,0,88
+16363256,262911,Andy Robertson,Tottenham Hotspur,Newcastle United,D,68,0,0,50
+16363256,791190,Rodrigo Bentancur,Tottenham Hotspur,Newcastle United,M,90,0,0,58
+16363256,892673,Sandro Tonali,Tottenham Hotspur,Newcastle United,M,75,0,0,41
+16363256,913654,Pedro Porro,Tottenham Hotspur,Newcastle United,M,90,1,0,55
+16363256,1142562,Mateus Fernandes,Tottenham Hotspur,Newcastle United,M,90,0,0,69
+16363256,1048888,Mathys Tel,Tottenham Hotspur,Newcastle United,M,68,0,0,42
+16363256,873554,Omar Marmoush,Tottenham Hotspur,Newcastle United,F,90,0,0,37
+16363256,983572,Destiny Udogie,Tottenham Hotspur,Newcastle United,D,22,0,0,20
+16363256,905163,Mohammed Kudus,Tottenham Hotspur,Newcastle United,M,22,0,0,25
+16363256,1403192,Mikey Moore,Tottenham Hotspur,Newcastle United,F,22,0,0,10
+16363256,361420,Dominic Solanke,Tottenham Hotspur,Newcastle United,F,15,0,0,4
+16363256,963744,Lukáš Horníček,Newcastle United,Tottenham Hotspur,G,90,0,0,38
+16363256,1102791,Amar Dedić,Newcastle United,Tottenham Hotspur,D,90,0,0,47
+16363256,1014286,Malick Thiaw,Newcastle United,Tottenham Hotspur,D,90,0,0,45
+16363256,910046,Sven Botman,Newcastle United,Tottenham Hotspur,D,90,0,0,62
+16363256,1136730,Lewis Hall,Newcastle United,Tottenham Hotspur,D,90,0,0,75
+16363256,954056,Nico González,Newcastle United,Tottenham Hotspur,M,71,0,0,58
+16363256,1400650,Lewis Miley,Newcastle United,Tottenham Hotspur,M,90,0,0,63
+16363256,979232,Anthony Elanga,Newcastle United,Tottenham Hotspur,M,82,0,1,30
+16363256,888550,Joe Willock,Newcastle United,Tottenham Hotspur,M,71,0,0,29
+16363256,855647,Harvey Barnes,Newcastle United,Tottenham Hotspur,M,89,0,0,30
+16363256,805123,Yoane Wissa,Newcastle United,Tottenham Hotspur,F,82,0,1,25
+16363256,1859920,Sean Steur,Newcastle United,Tottenham Hotspur,M,19,0,0,12
+16363256,980623,Nick Woltemade,Newcastle United,Tottenham Hotspur,F,19,0,0,11
+16363256,975937,Jacob Ramsey,Newcastle United,Tottenham Hotspur,M,8,0,0,8
+16363256,372336,Jacob Murphy,Newcastle United,Tottenham Hotspur,M,8,0,0,6
+16363256,1568123,Bazoumana Touré,Newcastle United,Tottenham Hotspur,F,1,0,0,2
+16363249,158263,Emiliano Martínez,Chelsea,Brighton & Hove Albion,G,90,0,0,49
+16363249,923894,Wesley Fofana,Chelsea,Brighton & Hove Albion,D,68,0,0,24
+16363249,879674,Maxence Lacroix,Chelsea,Brighton & Hove Albion,D,90,0,0,36
+16363249,996911,Levi Colwill,Chelsea,Brighton & Hove Albion,D,72,0,0,36
+16363249,879349,Pedro Neto,Chelsea,Brighton & Hove Albion,M,68,1,1,23
+16363249,996958,Malo Gusto,Chelsea,Brighton & Hove Albion,M,90,0,0,28
+16363249,1069488,Roméo Lavia,Chelsea,Brighton & Hove Albion,M,68,0,1,26
+16363249,1153079,Jorrel Hato,Chelsea,Brighton & Hove Albion,M,90,0,0,30
+16363249,982780,Cole Palmer,Chelsea,Brighton & Hove Albion,F,90,1,1,36
+16363249,948261,Morgan Rogers,Chelsea,Brighton & Hove Albion,F,90,0,0,33
+16363249,975079,João Pedro,Chelsea,Brighton & Hove Albion,F,90,1,1,43
+16363249,1403050,Josh Acheampong,Chelsea,Brighton & Hove Albion,D,22,0,0,10
+16363249,885908,Reece James,Chelsea,Brighton & Hove Albion,D,22,0,0,8
+16363249,987650,Moisés Caicedo,Chelsea,Brighton & Hove Albion,M,14,0,0,2
+16363249,1010421,Pep Chavarría,Chelsea,Brighton & Hove Albion,D,18,0,0,10
+16363249,1127057,Valentín Barco,Chelsea,Brighton & Hove Albion,M,8,0,0,2
+16363249,994363,Bart Verbruggen,Brighton & Hove Albion,Chelsea,G,90,0,0,56
+16363249,959628,Mats Wieffer,Brighton & Hove Albion,Chelsea,D,80,0,0,72
+16363249,1405212,Luka Vušković,Brighton & Hove Albion,Chelsea,D,90,0,0,111
+16363249,115365,Lewis Dunk,Brighton & Hove Albion,Chelsea,D,90,0,0,112
+16363249,825844,Ferdi Kadıoğlu,Brighton & Hove Albion,Chelsea,D,90,0,0,70
+16363249,48480,Pascal Groß,Brighton & Hove Albion,Chelsea,M,90,0,1,78
+16363249,788784,Olivier Boscagli,Brighton & Hove Albion,Chelsea,M,90,0,0,92
+16363249,1065588,Diego Gómez,Brighton & Hove Albion,Chelsea,M,90,2,0,50
+16363249,1568186,Malick Yalcouyé,Brighton & Hove Albion,Chelsea,M,74,1,1,47
+16363249,997152,Maxim De Cuyper,Brighton & Hove Albion,Chelsea,M,90,0,0,70
+16363249,1416535,Charalampos Kostoulas,Brighton & Hove Albion,Chelsea,F,80,1,0,30
+16363249,1471095,Ibrahim Osman,Brighton & Hove Albion,Chelsea,F,16,0,0,16
+16363249,988333,Costinha,Brighton & Hove Albion,Chelsea,D,10,0,0,11
+16363249,1119328,Promise David,Brighton & Hove Albion,Chelsea,F,10,0,0,5
+16363266,980643,James Trafford,Leeds United,Brentford,G,90,0,0,55
+16363266,828640,Joe Rodon,Leeds United,Brentford,D,34,0,0,18
+16363266,886930,Jaka Bijol,Leeds United,Brentford,D,45,0,0,26
+16363266,1118177,Tarik Muharemović,Leeds United,Brentford,D,90,0,0,79
+16363266,929132,Jayden Bogle,Leeds United,Brentford,M,68,0,0,47
+16363266,847097,Ethan Ampadu,Leeds United,Brentford,M,90,0,0,58
+16363266,889861,Anton Stach,Leeds United,Brentford,M,90,0,0,65
+16363266,827681,James Justin,Leeds United,Brentford,M,90,0,0,51
+16363266,973431,Brenden Aaronson,Leeds United,Brentford,F,45,0,0,13
+16363266,865523,Noah Okafor,Leeds United,Brentford,F,69,0,0,28
+16363266,372344,Dominic Calvert-Lewin,Leeds United,Brentford,F,90,0,1,24
+16363266,282229,Nico Elvedi,Leeds United,Brentford,D,56,0,0,52
+16363266,871886,Ao Tanaka,Leeds United,Brentford,M,45,0,0,37
+16363266,355528,Harry Wilson,Leeds United,Brentford,F,45,0,0,26
+16363266,828639,Daniel James,Leeds United,Brentford,F,22,0,0,16
+16363266,803185,Lukas Nmecha,Leeds United,Brentford,F,21,0,0,9
+16363266,827362,Caoimhin Kelleher,Brentford,Leeds United,G,90,0,0,41
+16363266,1137431,Michael Kayode,Brentford,Leeds United,D,88,0,0,54
+16363266,576384,Kristoffer Ajer,Brentford,Leeds United,D,90,0,0,50
+16363266,958916,Nathan Collins,Brentford,Leeds United,D,90,0,0,75
+16363266,972421,Keane Lewis-Potter,Brentford,Leeds United,D,88,0,0,67
+16363266,1064697,Mamadou Sangare,Brentford,Leeds United,M,90,0,0,81
+16363266,814873,Vitaly Janelt,Brentford,Leeds United,M,90,0,0,69
+16363266,1020680,Jaidon Anthony,Brentford,Leeds United,M,61,0,0,30
+16363266,907072,Mikkel Damsgaard,Brentford,Leeds United,M,69,0,0,60
+16363266,1006387,Kevin Schade,Brentford,Leeds United,M,88,0,1,46
+16363266,1016907,Igor Thiago,Brentford,Leeds United,F,90,2,0,43
+16363266,1106451,Dango Ouattara,Brentford,Leeds United,F,29,0,0,22
+16363266,1031258,Yehor Yarmoliuk,Brentford,Leeds United,M,21,0,0,16
+16363266,966869,Aaron Hickey,Brentford,Leeds United,D,2,0,0,11
+16363266,599128,Rico Henry,Brentford,Leeds United,D,2,0,0,2
+16363266,113956,Callum Wilson,Brentford,Leeds United,F,2,0,0,4
+16363255,1012928,Robin Roefs,Sunderland,Fulham,G,90,0,0,42
+16363255,128587,Thomas Meunier,Sunderland,Fulham,D,90,0,0,63
+16363255,780014,Nordi Mukiele,Sunderland,Fulham,D,90,0,0,74
+16363255,958878,Daniel Ballard,Sunderland,Fulham,D,90,0,0,63
+16363255,831424,Reinildo Mandava,Sunderland,Fulham,D,90,0,0,61
+16363255,117777,Granit Xhaka,Sunderland,Fulham,M,90,0,0,71
+16363255,1171539,Noah Sadiki,Sunderland,Fulham,M,90,0,0,61
+16363255,989034,Trai Hume,Sunderland,Fulham,M,90,0,0,39
+16363255,984014,Enzo Le Fée,Sunderland,Fulham,M,89,1,0,44
+16363255,1116571,Nilson Angulo,Sunderland,Fulham,M,65,0,0,36
+16363255,910048,Brian Brobbey,Sunderland,Fulham,F,64,0,0,14
+16363255,877980,Wilson Isidor,Sunderland,Fulham,F,26,1,1,6
+16363255,1128532,Habib Diarra,Sunderland,Fulham,M,18,0,0,5
+16363255,1394089,Chris Rigg,Sunderland,Fulham,M,12,0,0,1
+16363255,1094440,Romaine Mundle,Sunderland,Fulham,F,1,1,0,7
+16363255,103335,Bernd Leno,Fulham,Sunderland,G,90,0,0,59
+16363255,329417,Timothy Castagne,Fulham,Sunderland,D,68,0,0,30
+16363255,362682,Joachim Andersen,Fulham,Sunderland,D,90,0,0,100
+16363255,861972,Calvin Bassey,Fulham,Sunderland,D,90,0,0,91
+16363255,803174,Antonee Robinson,Fulham,Sunderland,D,90,0,0,74
+16363255,793167,Sander Berge,Fulham,Sunderland,M,83,0,0,59
+16363255,352770,Alex Iwobi,Fulham,Sunderland,M,90,0,0,69
+16363255,1065216,Oscar Bobb,Fulham,Sunderland,M,68,0,0,38
+16363255,1546231,Josh King,Fulham,Sunderland,M,90,1,0,53
+16363255,1402688,César Palacios,Fulham,Sunderland,M,76,0,0,41
+16363255,1402716,Gonzalo García,Fulham,Sunderland,F,90,1,0,32
+16363255,836698,Ryan Sessegnon,Fulham,Sunderland,M,22,0,0,29
+16363255,1131449,Shea Charles,Fulham,Sunderland,M,22,0,0,27
+16363255,867445,Emile Smith Rowe,Fulham,Sunderland,M,14,0,0,21
+16363255,1112879,Kevin,Fulham,Sunderland,F,12,0,0,8
+16363253,964753,Senne Lammens,Manchester United,Ipswich Town,G,90,0,0,28
+16363253,843200,Diogo Dalot,Manchester United,Ipswich Town,D,74,0,0,53
+16363253,149380,Harry Maguire,Manchester United,Ipswich Town,D,90,0,0,53
+16363253,859999,Lisandro Martínez,Manchester United,Ipswich Town,D,90,0,0,96
+16363253,190839,Luke Shaw,Manchester United,Ipswich Town,D,73,0,0,63
+16363253,331737,Youri Tielemans,Manchester United,Ipswich Town,M,90,1,0,92
+16363253,1142175,Kobbie Mainoo,Manchester United,Ipswich Town,M,80,0,0,68
+16363253,927083,Bryan Mbeumo,Manchester United,Ipswich Town,M,90,2,1,43
+16363253,288205,Bruno Fernandes,Manchester United,Ipswich Town,M,90,0,3,94
+16363253,814590,Marcus Rashford,Manchester United,Ipswich Town,M,80,1,0,52
+16363253,886363,Matheus Cunha,Manchester United,Ipswich Town,F,80,0,0,32
+16363253,847030,Noussair Mazraoui,Manchester United,Ipswich Town,D,17,0,0,23
+16363253,1153315,Leny Yoro,Manchester United,Ipswich Town,D,16,0,0,21
+16363253,1397168,Patrick Dorgu,Manchester United,Ipswich Town,D,10,1,0,13
+16363253,1105779,Andrey Santos,Manchester United,Ipswich Town,M,10,0,0,19
+16363253,986397,Benjamin Šeško,Manchester United,Ipswich Town,F,10,0,0,9
+16363253,852394,Kjell Scherpen,Ipswich Town,Manchester United,G,90,0,0,60
+16363253,856719,Dara O'Shea,Ipswich Town,Manchester United,D,90,0,0,50
+16363253,825719,Issa Diop,Ipswich Town,Manchester United,D,90,0,0,56
+16363253,990821,Jacob Greaves,Ipswich Town,Manchester United,D,90,0,0,63
+16363253,963493,Leif Davis,Ipswich Town,Manchester United,D,90,1,1,42
+16363253,371222,Saša Lukić,Ipswich Town,Manchester United,M,73,0,0,53
+16363253,1014801,Marcelino Núñez,Ipswich Town,Manchester United,M,62,0,0,37
+16363253,1103589,Abdul Fatawu Issahaku,Ipswich Town,Manchester United,M,83,0,0,38
+16363253,973556,Julio Enciso,Ipswich Town,Manchester United,M,90,1,0,46
+16363253,832420,Daizen Maeda,Ipswich Town,Manchester United,M,73,0,0,22
+16363253,1128844,Emersonn,Ipswich Town,Manchester United,F,45,0,0,10
+16363253,190867,Chuba Akpom,Ipswich Town,Manchester United,F,45,0,1,12
+16363253,822600,Exequiel Palacios,Ipswich Town,Manchester United,M,28,0,0,36
+16363253,786022,Darnell Furlong,Ipswich Town,Manchester United,D,17,0,0,19
+16363253,1930811,Abdoul Ouattara,Ipswich Town,Manchester United,D,17,0,0,14
+16363253,1065134,Kasey McAteer,Ipswich Town,Manchester United,M,15,0,0,6
+16363245,905351,Zion Suzuki,Aston Villa,Arsenal,G,90,0,0,36
+16363245,833956,Matty Cash,Aston Villa,Arsenal,D,78,0,0,41
+16363245,143334,Victor Lindelöf,Aston Villa,Arsenal,D,90,0,0,46
+16363245,864169,Pau Torres,Aston Villa,Arsenal,D,90,0,0,61
+16363245,976263,Ian Maatsen,Aston Villa,Arsenal,D,90,0,0,43
+16363245,826204,Boubacar Kamara,Aston Villa,Arsenal,M,90,0,0,53
+16363245,98435,Ross Barkley,Aston Villa,Arsenal,M,78,0,0,45
+16363245,250223,John McGinn,Aston Villa,Arsenal,M,90,0,0,40
+16363245,783126,Emiliano Buendía,Aston Villa,Arsenal,M,90,0,0,49
+16363245,1398204,George Hemmings,Aston Villa,Arsenal,M,71,0,0,22
+16363245,1085381,Nicolas Jackson,Aston Villa,Arsenal,F,71,0,0,24
+16363245,1631879,Alysson,Aston Villa,Arsenal,F,19,0,0,11
+16363245,610766,Tammy Abraham,Aston Villa,Arsenal,F,19,0,0,1
+16363245,863653,Aaron Wan-Bissaka,Aston Villa,Arsenal,D,12,0,0,11
+16363245,1135873,Alejandro Garnacho,Aston Villa,Arsenal,F,12,0,0,10
+16363245,581310,David Raya,Arsenal,Aston Villa,G,90,0,0,41
+16363245,846036,Ben White,Arsenal,Aston Villa,D,90,0,0,59
+16363245,1144630,Cristhian Mosquera,Arsenal,Aston Villa,D,79,0,0,61
+16363245,869792,Gabriel Magalhães,Arsenal,Aston Villa,D,90,1,0,89
+16363245,957602,Riccardo Calafiori,Arsenal,Aston Villa,D,90,0,0,38
+16363245,856714,Declan Rice,Arsenal,Aston Villa,M,85,0,0,88
+16363245,1423711,Myles Lewis-Skelly,Arsenal,Aston Villa,M,71,0,0,57
+16363245,934235,Bukayo Saka,Arsenal,Aston Villa,M,90,0,1,77
+16363245,547410,Martin Ødegaard,Arsenal,Aston Villa,M,71,0,0,55
+16363245,1031259,Christos Tzolis,Arsenal,Aston Villa,M,45,0,0,24
+16363245,836705,Kai Havertz,Arsenal,Aston Villa,F,90,0,0,26
+16363245,864921,Eberechi Eze,Arsenal,Aston Villa,M,45,0,0,29
+16363245,866469,Bruno Guimarães,Arsenal,Aston Villa,M,19,0,0,22
+16363245,592010,Mikel Merino,Arsenal,Aston Villa,M,19,0,0,19
+16363245,827679,Ezri Konsa,Arsenal,Aston Villa,D,11,0,0,11
+16363245,966837,Martín Zubimendi,Arsenal,Aston Villa,M,15,0,0,14
+16363261,852394,Kjell Scherpen,Ipswich Town,Liverpool FC,G,90,0,0,41
+16363261,856719,Dara O'Shea,Ipswich Town,Liverpool FC,D,90,0,0,57
+16363261,825719,Issa Diop,Ipswich Town,Liverpool FC,D,90,0,0,68
+16363261,990821,Jacob Greaves,Ipswich Town,Liverpool FC,D,90,0,0,61
+16363261,963493,Leif Davis,Ipswich Town,Liverpool FC,D,90,0,0,57
+16363261,371222,Saša Lukić,Ipswich Town,Liverpool FC,M,90,0,0,75
+16363261,822600,Exequiel Palacios,Ipswich Town,Liverpool FC,M,78,0,0,60
+16363261,1103589,Abdul Fatawu Issahaku,Ipswich Town,Liverpool FC,M,79,0,0,40
+16363261,973556,Julio Enciso,Ipswich Town,Liverpool FC,M,90,0,0,60
+16363261,832420,Daizen Maeda,Ipswich Town,Liverpool FC,M,66,0,0,16
+16363261,1128844,Emersonn,Ipswich Town,Liverpool FC,F,66,0,0,16
+16363261,921005,Jack Clarke,Ipswich Town,Liverpool FC,F,24,0,0,24
+16363261,875137,Zian Flemming,Ipswich Town,Liverpool FC,F,24,0,0,8
+16363261,1930811,Abdoul Ouattara,Ipswich Town,Liverpool FC,D,12,0,0,25
+16363261,1065134,Kasey McAteer,Ipswich Town,Liverpool FC,M,11,0,0,4
+16363261,243609,Alisson,Liverpool FC,Ipswich Town,G,90,0,0,55
+16363261,925097,Ronald Araújo,Liverpool FC,Ipswich Town,D,90,0,0,63
+16363261,1445625,Jérémy Jacquet,Liverpool FC,Ipswich Town,D,90,0,0,85
+16363261,151545,Virgil van Dijk,Liverpool FC,Ipswich Town,D,90,0,0,100
+16363261,1097425,Miloš Kerkez,Liverpool FC,Ipswich Town,D,90,0,0,55
+16363261,869856,Dominik Szoboszlai,Liverpool FC,Ipswich Town,M,90,0,0,79
+16363261,895324,Alexis Mac Allister,Liverpool FC,Ipswich Town,M,84,0,0,58
+16363261,1145642,Víctor Muñoz,Liverpool FC,Ipswich Town,M,64,0,0,39
+16363261,1019322,Florian Wirtz,Liverpool FC,Ipswich Town,M,89,0,0,75
+16363261,862967,Cody Gakpo,Liverpool FC,Ipswich Town,M,90,0,0,58
+16363261,823941,Alexander Isak,Liverpool FC,Ipswich Town,F,64,0,2,29
+16363261,904897,Ryan Gravenberch,Liverpool FC,Ipswich Town,M,26,0,0,17
+16363261,996952,Bradley Barcola,Liverpool FC,Ipswich Town,F,26,0,0,13
+16363261,1445945,Trey Nyoni,Liverpool FC,Ipswich Town,M,12,0,0,5
+16363261,1403111,Lewis Koumas,Liverpool FC,Ipswich Town,F,1,0,0,0
+16363637,963744,Lukáš Horníček,Newcastle United,Bournemouth,G,90,0,0,48
+16363637,1102791,Amar Dedić,Newcastle United,Bournemouth,D,90,0,0,67
+16363637,1014286,Malick Thiaw,Newcastle United,Bournemouth,D,90,0,0,72
+16363637,910046,Sven Botman,Newcastle United,Bournemouth,D,90,0,0,84
+16363637,1136730,Lewis Hall,Newcastle United,Bournemouth,D,89,0,0,73
+16363637,954056,Nico González,Newcastle United,Bournemouth,M,77,0,0,60
+16363637,1400650,Lewis Miley,Newcastle United,Bournemouth,M,63,0,0,38
+16363637,979232,Anthony Elanga,Newcastle United,Bournemouth,M,77,0,0,25
+16363637,888550,Joe Willock,Newcastle United,Bournemouth,M,63,1,0,36
+16363637,855647,Harvey Barnes,Newcastle United,Bournemouth,M,90,0,1,39
+16363637,805123,Yoane Wissa,Newcastle United,Bournemouth,F,90,0,0,34
+16363637,975937,Jacob Ramsey,Newcastle United,Bournemouth,M,27,0,1,19
+16363637,1149144,Matías Fernández-Pardo,Newcastle United,Bournemouth,F,27,0,0,14
+16363637,1859920,Sean Steur,Newcastle United,Bournemouth,M,13,0,0,12
+16363637,372336,Jacob Murphy,Newcastle United,Bournemouth,M,13,0,0,6
+16363637,980634,Tino Livramento,Newcastle United,Bournemouth,D,1,0,0,5
+16363637,882604,Đorđe Petrović,Bournemouth,Newcastle United,G,90,0,0,35
+16363637,44566,Adam Smith,Bournemouth,Newcastle United,D,90,0,0,39
+16363637,1156586,James Hill,Bournemouth,Newcastle United,D,90,0,0,58
+16363637,1006069,António Silva,Bournemouth,Newcastle United,D,90,0,0,58
+16363637,999028,Adrien Truffert,Bournemouth,Newcastle United,D,90,0,0,55
+16363637,800419,Tyler Adams,Bournemouth,Newcastle United,M,76,0,0,53
+16363637,1104986,Alex Scott,Bournemouth,Newcastle United,M,89,0,0,59
+16363637,1464966,Rayan,Bournemouth,Newcastle United,M,89,0,0,24
+16363637,851596,Justin Kluivert,Bournemouth,Newcastle United,M,76,0,0,19
+16363637,895576,Marcus Tavernier,Bournemouth,Newcastle United,M,89,0,1,46
+16363637,998490,Evanilson,Bournemouth,Newcastle United,F,90,1,0,37
+16363637,548188,Lewis Cook,Bournemouth,Newcastle United,M,14,0,0,5
+16363637,855731,David Brooks,Bournemouth,Newcastle United,M,14,0,0,3
+16363637,1154861,Ben Gannon-Doak,Bournemouth,Newcastle United,F,8,0,0,5
+16363637,1096136,Daniel Jebbison,Bournemouth,Newcastle United,F,8,0,0,2
+16363637,322391,Ryan Christie,Bournemouth,Newcastle United,M,1,0,0,1
+16363260,827362,Caoimhin Kelleher,Brentford,Sunderland,G,90,0,0,40
+16363260,1137431,Michael Kayode,Brentford,Sunderland,D,45,0,0,18
+16363260,576384,Kristoffer Ajer,Brentford,Sunderland,D,90,0,0,65
+16363260,958916,Nathan Collins,Brentford,Sunderland,D,17,0,0,4
+16363260,972421,Keane Lewis-Potter,Brentford,Sunderland,D,90,1,0,62
+16363260,1064697,Mamadou Sangare,Brentford,Sunderland,M,45,0,0,27
+16363260,814873,Vitaly Janelt,Brentford,Sunderland,M,90,0,1,61
+16363260,1106451,Dango Ouattara,Brentford,Sunderland,M,45,0,0,22
+16363260,907072,Mikkel Damsgaard,Brentford,Sunderland,M,86,0,0,53
+16363260,1006387,Kevin Schade,Brentford,Sunderland,M,90,0,0,43
+16363260,1016907,Igor Thiago,Brentford,Sunderland,F,90,1,0,35
+16363260,1474198,Jannik Schuster,Brentford,Sunderland,D,73,0,0,42
+16363260,966869,Aaron Hickey,Brentford,Sunderland,D,45,0,0,29
+16363260,1031258,Yehor Yarmoliuk,Brentford,Sunderland,M,45,0,0,38
+16363260,1020680,Jaidon Anthony,Brentford,Sunderland,F,45,0,0,29
+16363260,113956,Callum Wilson,Brentford,Sunderland,F,11,0,0,2
+16363260,1012928,Robin Roefs,Sunderland,Brentford,G,90,0,0,48
+16363260,780014,Nordi Mukiele,Sunderland,Brentford,D,90,0,0,54
+16363260,794953,Kevin Danso,Sunderland,Brentford,D,90,0,0,60
+16363260,958878,Daniel Ballard,Sunderland,Brentford,D,90,0,0,49
+16363260,831424,Reinildo Mandava,Sunderland,Brentford,D,90,0,0,59
+16363260,117777,Granit Xhaka,Sunderland,Brentford,M,90,0,0,76
+16363260,1171539,Noah Sadiki,Sunderland,Brentford,M,74,1,0,46
+16363260,128587,Thomas Meunier,Sunderland,Brentford,M,64,1,0,20
+16363260,984014,Enzo Le Fée,Sunderland,Brentford,M,90,0,1,55
+16363260,1116571,Nilson Angulo,Sunderland,Brentford,M,64,0,0,43
+16363260,910048,Brian Brobbey,Sunderland,Brentford,F,90,0,0,31
+16363260,989034,Trai Hume,Sunderland,Brentford,D,26,0,0,13
+16363260,877980,Wilson Isidor,Sunderland,Brentford,F,26,0,0,17
+16363260,1195784,Malick Fofana,Sunderland,Brentford,F,16,0,0,8
+16363258,994363,Bart Verbruggen,Brighton & Hove Albion,Leeds United,G,90,0,0,48
+16363258,825844,Ferdi Kadıoğlu,Brighton & Hove Albion,Leeds United,D,78,0,0,45
+16363258,1405212,Luka Vušković,Brighton & Hove Albion,Leeds United,D,90,0,1,84
+16363258,115365,Lewis Dunk,Brighton & Hove Albion,Leeds United,D,90,0,0,99
+16363258,788784,Olivier Boscagli,Brighton & Hove Albion,Leeds United,D,89,0,0,90
+16363258,48480,Pascal Groß,Brighton & Hove Albion,Leeds United,M,90,1,0,79
+16363258,1036269,Yasin Ayari,Brighton & Hove Albion,Leeds United,M,90,0,0,75
+16363258,1065588,Diego Gómez,Brighton & Hove Albion,Leeds United,M,90,0,0,57
+16363258,1568186,Malick Yalcouyé,Brighton & Hove Albion,Leeds United,M,90,0,0,54
+16363258,997152,Maxim De Cuyper,Brighton & Hove Albion,Leeds United,M,77,0,0,50
+16363258,1416535,Charalampos Kostoulas,Brighton & Hove Albion,Leeds United,F,90,1,0,49
+16363258,1119328,Promise David,Brighton & Hove Albion,Leeds United,F,13,1,0,5
+16363258,988333,Costinha,Brighton & Hove Albion,Leeds United,D,12,0,0,14
+16363258,836675,Pascal Struijk,Brighton & Hove Albion,Leeds United,D,1,0,0,2
+16363258,980643,James Trafford,Leeds United,Brighton & Hove Albion,G,90,0,0,49
+16363258,827681,James Justin,Leeds United,Brighton & Hove Albion,D,90,0,0,43
+16363258,282229,Nico Elvedi,Leeds United,Brighton & Hove Albion,D,90,0,0,36
+16363258,1118177,Tarik Muharemović,Leeds United,Brighton & Hove Albion,D,90,0,0,58
+16363258,929132,Jayden Bogle,Leeds United,Brighton & Hove Albion,M,61,0,1,26
+16363258,847097,Ethan Ampadu,Leeds United,Brighton & Hove Albion,M,90,0,0,46
+16363258,871886,Ao Tanaka,Leeds United,Brighton & Hove Albion,M,73,1,0,37
+16363258,834308,Gabriel Gudmundsson,Leeds United,Brighton & Hove Albion,M,90,0,0,50
+16363258,889861,Anton Stach,Leeds United,Brighton & Hove Albion,F,90,1,0,41
+16363258,865523,Noah Okafor,Leeds United,Brighton & Hove Albion,F,62,0,0,18
+16363258,372344,Dominic Calvert-Lewin,Leeds United,Brighton & Hove Albion,F,73,2,0,23
+16363258,886930,Jaka Bijol,Leeds United,Brighton & Hove Albion,D,29,0,0,9
+16363258,973431,Brenden Aaronson,Leeds United,Brighton & Hove Albion,M,28,0,0,11
+16363258,355528,Harry Wilson,Leeds United,Brighton & Hove Albion,F,17,0,0,8
+16363258,803185,Lukas Nmecha,Leeds United,Brighton & Hove Albion,F,17,0,0,8
+16363269,103335,Bernd Leno,Fulham,Crystal Palace,G,90,0,0,48
+16363269,329417,Timothy Castagne,Fulham,Crystal Palace,D,90,1,0,95
+16363269,362682,Joachim Andersen,Fulham,Crystal Palace,D,90,0,0,125
+16363269,861972,Calvin Bassey,Fulham,Crystal Palace,D,90,0,0,104
+16363269,803174,Antonee Robinson,Fulham,Crystal Palace,D,79,0,0,72
+16363269,1131449,Shea Charles,Fulham,Crystal Palace,M,79,0,0,66
+16363269,352770,Alex Iwobi,Fulham,Crystal Palace,M,83,0,0,87
+16363269,1065216,Oscar Bobb,Fulham,Crystal Palace,M,79,0,0,42
+16363269,1546231,Josh King,Fulham,Crystal Palace,M,90,0,1,50
+16363269,1402688,César Palacios,Fulham,Crystal Palace,M,61,0,1,41
+16363269,1402716,Gonzalo García,Fulham,Crystal Palace,F,90,0,0,41
+16363269,793167,Sander Berge,Fulham,Crystal Palace,M,29,0,0,36
+16363269,836698,Ryan Sessegnon,Fulham,Crystal Palace,M,11,0,0,26
+16363269,867445,Emile Smith Rowe,Fulham,Crystal Palace,M,11,0,0,9
+16363269,1142211,Hugo Larsson,Fulham,Crystal Palace,M,11,0,0,21
+16363269,1015256,Rodrigo Muniz,Fulham,Crystal Palace,F,12,0,0,8
+16363269,788134,Dean Henderson,Crystal Palace,Fulham,G,90,0,0,43
+16363269,931844,Chris Richards,Crystal Palace,Fulham,D,90,0,0,59
+16363269,827243,Axel Disasi,Crystal Palace,Fulham,D,90,0,0,78
+16363269,1471671,Jaydee Canvot,Crystal Palace,Fulham,D,90,0,0,61
+16363269,1403362,Anan Khalaili,Crystal Palace,Fulham,M,90,1,0,62
+16363269,959805,Quinten Timber,Crystal Palace,Fulham,M,74,0,0,26
+16363269,1109771,Adam Wharton,Crystal Palace,Fulham,M,90,0,0,40
+16363269,988275,Tyrick Mitchell,Crystal Palace,Fulham,M,74,0,2,48
+16363269,794338,Daichi Kamada,Crystal Palace,Fulham,F,89,0,0,36
+16363269,984624,Yéremy Pino,Crystal Palace,Fulham,F,89,1,0,52
+16363269,858194,Eddie Nketiah,Crystal Palace,Fulham,F,45,1,0,15
+16363269,876599,Jørgen Strand Larsen,Crystal Palace,Fulham,F,45,0,0,21
+16363269,802695,Ben Chilwell,Crystal Palace,Fulham,D,16,0,1,7
+16363269,193554,Will Hughes,Crystal Palace,Fulham,M,16,0,0,7
+16363269,859773,Óscar Mingueza,Crystal Palace,Fulham,D,1,0,0,7
+16363269,1106824,Darío Osorio,Crystal Palace,Fulham,M,1,0,0,4
+16363263,824509,Gianluigi Donnarumma,Manchester City,Coventry City,G,90,0,0,23
+16363263,1194333,Abdukodir Khusanov,Manchester City,Coventry City,D,90,0,0,97
+16363263,318941,Rúben Dias,Manchester City,Coventry City,D,90,0,0,128
+16363263,877994,Marc Guéhi,Manchester City,Coventry City,D,90,0,0,137
+16363263,964994,Joško Gvardiol,Manchester City,Coventry City,D,90,0,0,74
+16363263,974505,Enzo Fernández,Manchester City,Coventry City,M,76,0,0,94
+16363263,994546,Elliot Anderson,Manchester City,Coventry City,M,90,0,0,178
+16363263,934354,Antoine Semenyo,Manchester City,Coventry City,M,90,0,0,53
+16363263,979128,Rayan Cherki,Manchester City,Coventry City,M,66,0,0,95
+16363263,914309,Iliman Ndiaye,Manchester City,Coventry City,M,87,0,0,51
+16363263,839956,Erling Haaland,Manchester City,Coventry City,F,90,1,1,29
+16363263,859765,Phil Foden,Manchester City,Coventry City,M,24,1,0,25
+16363263,1564180,Ayyoub Bouaddi,Manchester City,Coventry City,M,14,0,0,22
+16363263,1826151,Ryan McAidoo,Manchester City,Coventry City,F,9,0,0,9
+16363263,1005800,Carl Rushworth,Coventry City,Manchester City,G,90,0,0,43
+16363263,999276,Aurèle Amenda,Coventry City,Manchester City,D,90,0,0,36
+16363263,1033352,Bobby Thomas,Coventry City,Manchester City,D,90,0,0,41
+16363263,855864,Ethan Pinnock,Coventry City,Manchester City,D,90,0,0,29
+16363263,948723,Milan van Ewijk,Coventry City,Manchester City,M,90,0,0,47
+16363263,885864,Frank Onyeka,Coventry City,Manchester City,M,63,0,0,19
+16363263,340713,Matt Grimes,Coventry City,Manchester City,M,90,0,0,37
+16363263,791985,Jay DaSilva,Coventry City,Manchester City,M,85,0,0,27
+16363263,979565,Jack Rudoni,Coventry City,Manchester City,F,63,1,0,23
+16363263,861315,Ephron Mason-Clark,Coventry City,Manchester City,F,71,0,0,18
+16363263,359664,Taiwo Awoniyi,Coventry City,Manchester City,F,71,1,0,22
+16363263,1986794,Caleb Yirenkyi,Coventry City,Manchester City,M,27,0,0,19
+16363263,1004505,Loum Tchaouna,Coventry City,Manchester City,F,27,0,0,17
+16363263,991614,Ellis Simms,Coventry City,Manchester City,F,19,1,0,4
+16363263,846061,Brandon Thomas-Asante,Coventry City,Manchester City,F,19,0,0,9
+16363263,837495,Gustavo Hamer,Coventry City,Manchester City,M,11,0,0,3
+16363638,78152,Matz Sels,Nottingham Forest,Tottenham Hotspur,G,90,0,0,32
+16363638,1170722,Jair,Nottingham Forest,Tottenham Hotspur,D,90,0,0,49
+16363638,836168,Nikola Milenković,Nottingham Forest,Tottenham Hotspur,D,90,0,0,55
+16363638,1199282,Murillo,Nottingham Forest,Tottenham Hotspur,D,89,0,0,66
+16363638,800417,Ola Aina,Nottingham Forest,Tottenham Hotspur,M,59,0,0,37
+16363638,791079,Xaver Schlager,Nottingham Forest,Tottenham Hotspur,M,90,0,0,47
+16363638,1003334,James McAtee,Nottingham Forest,Tottenham Hotspur,M,90,0,0,50
+16363638,927356,Neco Williams,Nottingham Forest,Tottenham Hotspur,M,90,0,0,56
+16363638,944327,Dan Ndoye,Nottingham Forest,Tottenham Hotspur,F,59,0,0,18
+16363638,865912,Morgan Gibbs-White,Nottingham Forest,Tottenham Hotspur,F,90,1,0,41
+16363638,997087,Liam Delap,Nottingham Forest,Tottenham Hotspur,F,74,0,0,21
+16363638,870360,Daniel Muñoz,Nottingham Forest,Tottenham Hotspur,D,31,0,0,15
+16363638,981619,Igor Jesus,Nottingham Forest,Tottenham Hotspur,F,31,0,0,11
+16363638,50480,Chris Wood,Nottingham Forest,Tottenham Hotspur,F,16,0,0,3
+16363638,1394342,Ousmane Diomande,Nottingham Forest,Tottenham Hotspur,D,1,0,0,2
+16363638,1031251,Antonín Kinský,Tottenham Hotspur,Nottingham Forest,G,90,0,0,44
+16363638,913654,Pedro Porro,Tottenham Hotspur,Nottingham Forest,D,90,0,0,89
+16363638,962012,Jan Paul van Hecke,Tottenham Hotspur,Nottingham Forest,D,90,0,0,84
+16363638,998247,Micky van de Ven,Tottenham Hotspur,Nottingham Forest,D,90,1,0,80
+16363638,983572,Destiny Udogie,Tottenham Hotspur,Nottingham Forest,D,61,0,0,49
+16363638,791190,Rodrigo Bentancur,Tottenham Hotspur,Nottingham Forest,M,90,0,0,51
+16363638,892673,Sandro Tonali,Tottenham Hotspur,Nottingham Forest,M,90,0,0,61
+16363638,1046795,Sávio,Tottenham Hotspur,Nottingham Forest,M,61,0,0,41
+16363638,904970,Conor Gallagher,Tottenham Hotspur,Nottingham Forest,M,83,0,0,47
+16363638,1048888,Mathys Tel,Tottenham Hotspur,Nottingham Forest,M,74,0,0,41
+16363638,873554,Omar Marmoush,Tottenham Hotspur,Nottingham Forest,F,84,0,0,26
+16363638,262911,Andy Robertson,Tottenham Hotspur,Nottingham Forest,D,29,0,0,32
+16363638,905163,Mohammed Kudus,Tottenham Hotspur,Nottingham Forest,M,29,0,0,20
+16363638,958966,Mykhailo Mudryk,Tottenham Hotspur,Nottingham Forest,M,16,0,0,4
+16363638,1142562,Mateus Fernandes,Tottenham Hotspur,Nottingham Forest,M,13,0,0,3
+16363638,361420,Dominic Solanke,Tottenham Hotspur,Nottingham Forest,F,12,1,0,5
+16363262,953414,Konstantinos Tzolakis,Hull City,Aston Villa,G,90,0,0,42
+16363262,827587,Lewie Coyle,Hull City,Aston Villa,D,64,0,0,16
+16363262,307274,Semi Ajayi,Hull City,Aston Villa,D,90,0,0,35
+16363262,100578,John Egan,Hull City,Aston Villa,D,90,0,0,26
+16363262,1458073,Nobel Mendy,Hull City,Aston Villa,D,71,0,0,41
+16363262,931304,Ryan Giles,Hull City,Aston Villa,D,90,0,0,37
+16363262,1125839,Mohamed Belloumi,Hull City,Aston Villa,M,82,0,0,34
+16363262,864474,Regan Slater,Hull City,Aston Villa,M,90,0,0,34
+16363262,1012657,Lucas Gourna-Douath,Hull City,Aston Villa,M,82,0,0,34
+16363262,1383695,Elliot Stroud,Hull City,Aston Villa,M,63,0,0,12
+16363262,367228,Oliver McBurnie,Hull City,Aston Villa,F,90,1,0,32
+16363262,911039,Sorba Thomas,Hull City,Aston Villa,F,27,0,0,13
+16363262,1087514,Brooke Norton-Cuffy,Hull City,Aston Villa,D,26,0,0,9
+16363262,1646783,Lucas Herrington,Hull City,Aston Villa,D,19,0,0,8
+16363262,1427971,Jens Hjertø-Dahl,Hull City,Aston Villa,M,8,0,0,3
+16363262,1063235,Mohamed Ali Cho,Hull City,Aston Villa,F,8,0,0,2
+16363262,905351,Zion Suzuki,Aston Villa,Hull City,G,90,0,0,55
+16363262,833956,Matty Cash,Aston Villa,Hull City,D,85,0,0,85
+16363262,143334,Victor Lindelöf,Aston Villa,Hull City,D,90,0,0,114
+16363262,303638,Tyrone Mings,Aston Villa,Hull City,D,90,0,0,90
+16363262,976263,Ian Maatsen,Aston Villa,Hull City,D,75,0,0,56
+16363262,826204,Boubacar Kamara,Aston Villa,Hull City,M,90,0,0,114
+16363262,98435,Ross Barkley,Aston Villa,Hull City,M,90,0,0,120
+16363262,250223,John McGinn,Aston Villa,Hull City,M,90,1,0,55
+16363262,783126,Emiliano Buendía,Aston Villa,Hull City,M,75,1,0,40
+16363262,1398204,George Hemmings,Aston Villa,Hull City,M,75,0,0,32
+16363262,1085381,Nicolas Jackson,Aston Villa,Hull City,F,85,0,0,29
+16363262,965011,Matteo Ruggeri,Aston Villa,Hull City,D,15,0,0,23
+16363262,1631879,Alysson,Aston Villa,Hull City,F,15,0,0,13
+16363262,1135873,Alejandro Garnacho,Aston Villa,Hull City,F,15,0,0,12
+16363262,863653,Aaron Wan-Bissaka,Aston Villa,Hull City,D,9,0,0,12
+16363262,610766,Tammy Abraham,Aston Villa,Hull City,F,9,0,0,4
+16363259,138530,Jordan Pickford,Everton,Manchester United,G,90,0,0,51
+16363259,1064082,Merlin Röhl,Everton,Manchester United,D,75,0,0,40
+16363259,145188,James Tarkowski,Everton,Manchester United,D,90,0,0,69
+16363259,979563,Jarrad Branthwaite,Everton,Manchester United,D,90,0,0,69
+16363259,876643,Vitaliy Mykolenko,Everton,Manchester United,D,90,0,0,61
+16363259,1627560,Harrison Armstrong,Everton,Manchester United,M,90,0,0,40
+16363259,927361,James Garner,Everton,Manchester United,M,77,0,0,55
+16363259,1085180,Brennan Johnson,Everton,Manchester United,M,66,0,0,28
+16363259,861970,Kiernan Dewsbury-Hall,Everton,Manchester United,M,90,0,0,64
+16363259,1403061,Tyrique George,Everton,Manchester United,M,90,0,1,46
+16363259,1395746,Thierno Barry,Everton,Manchester United,F,90,1,0,38
+16363259,189061,Jack Grealish,Everton,Manchester United,M,24,0,0,16
+16363259,1008471,Hayden Hackney,Everton,Manchester United,M,15,0,0,22
+16363259,352768,Ainsley Maitland-Niles,Everton,Manchester United,M,13,0,1,6
+16363259,964753,Senne Lammens,Manchester United,Everton,G,90,0,0,33
+16363259,843200,Diogo Dalot,Manchester United,Everton,D,84,0,0,49
+16363259,149380,Harry Maguire,Manchester United,Everton,D,90,0,0,80
+16363259,859999,Lisandro Martínez,Manchester United,Everton,D,90,0,0,57
+16363259,190839,Luke Shaw,Manchester United,Everton,D,89,0,0,64
+16363259,1142175,Kobbie Mainoo,Manchester United,Everton,M,84,0,0,95
+16363259,331737,Youri Tielemans,Manchester United,Everton,M,90,0,0,89
+16363259,927083,Bryan Mbeumo,Manchester United,Everton,M,90,0,1,39
+16363259,288205,Bruno Fernandes,Manchester United,Everton,M,90,0,0,65
+16363259,814590,Marcus Rashford,Manchester United,Everton,M,70,0,0,37
+16363259,886363,Matheus Cunha,Manchester United,Everton,F,70,0,0,42
+16363259,1397168,Patrick Dorgu,Manchester United,Everton,D,20,0,0,13
+16363259,986397,Benjamin Šeško,Manchester United,Everton,F,20,0,1,7
+16363259,1153315,Leny Yoro,Manchester United,Everton,D,13,0,0,11
+16363259,1105779,Andrey Santos,Manchester United,Everton,M,13,0,0,16
+16363259,847030,Noussair Mazraoui,Manchester United,Everton,D,1,0,0,5
+16363257,581310,David Raya,Arsenal,Chelsea,G,90,0,0,48
+16363257,846036,Ben White,Arsenal,Chelsea,D,90,0,0,57
+16363257,827679,Ezri Konsa,Arsenal,Chelsea,D,90,0,0,56
+16363257,869792,Gabriel Magalhães,Arsenal,Chelsea,D,90,1,0,55
+16363257,957602,Riccardo Calafiori,Arsenal,Chelsea,D,67,1,0,31
+16363257,856714,Declan Rice,Arsenal,Chelsea,M,90,0,0,81
+16363257,1423711,Myles Lewis-Skelly,Arsenal,Chelsea,M,67,0,0,38
+16363257,934235,Bukayo Saka,Arsenal,Chelsea,M,89,1,0,49
+16363257,547410,Martin Ødegaard,Arsenal,Chelsea,M,77,0,1,66
+16363257,1031259,Christos Tzolis,Arsenal,Chelsea,M,90,0,0,56
+16363257,836705,Kai Havertz,Arsenal,Chelsea,F,78,0,1,39
+16363257,1002837,Piero Hincapié,Arsenal,Chelsea,D,23,0,0,17
+16363257,966837,Martín Zubimendi,Arsenal,Chelsea,M,23,0,0,20
+16363257,592010,Mikel Merino,Arsenal,Chelsea,M,13,0,0,10
+16363257,804508,Viktor Gyökeres,Arsenal,Chelsea,F,12,0,0,5
+16363257,966547,Noni Madueke,Arsenal,Chelsea,F,1,0,0,6
+16363257,158263,Emiliano Martínez,Chelsea,Arsenal,G,90,0,0,49
+16363257,1403050,Josh Acheampong,Chelsea,Arsenal,D,90,0,0,21
+16363257,879674,Maxence Lacroix,Chelsea,Arsenal,D,90,0,0,61
+16363257,923894,Wesley Fofana,Chelsea,Arsenal,D,90,0,0,74
+16363257,879349,Pedro Neto,Chelsea,Arsenal,M,81,0,0,39
+16363257,1069488,Roméo Lavia,Chelsea,Arsenal,M,60,0,0,37
+16363257,885908,Reece James,Chelsea,Arsenal,M,90,0,0,60
+16363257,1153079,Jorrel Hato,Chelsea,Arsenal,M,60,0,0,29
+16363257,982780,Cole Palmer,Chelsea,Arsenal,F,90,0,0,55
+16363257,948261,Morgan Rogers,Chelsea,Arsenal,F,87,0,1,39
+16363257,975079,João Pedro,Chelsea,Arsenal,F,90,0,0,34
+16363257,996958,Malo Gusto,Chelsea,Arsenal,D,30,0,0,25
+16363257,1010421,Pep Chavarría,Chelsea,Arsenal,D,30,0,0,18
+16363257,1597265,Estêvão,Chelsea,Arsenal,F,9,0,0,6
+16363257,33902,Danny Welbeck,Chelsea,Arsenal,F,8,0,0,2
+16363639,905351,Zion Suzuki,Aston Villa,Nottingham Forest,G,90,0,0,59
+16363639,863653,Aaron Wan-Bissaka,Aston Villa,Nottingham Forest,D,90,0,0,75
+16363639,143334,Victor Lindelöf,Aston Villa,Nottingham Forest,D,90,1,0,72
+16363639,864169,Pau Torres,Aston Villa,Nottingham Forest,D,25,0,0,27
+16363639,976263,Ian Maatsen,Aston Villa,Nottingham Forest,D,83,0,0,63
+16363639,826204,Boubacar Kamara,Aston Villa,Nottingham Forest,M,90,0,0,49
+16363639,98435,Ross Barkley,Aston Villa,Nottingham Forest,M,63,0,0,45
+16363639,250223,John McGinn,Aston Villa,Nottingham Forest,M,90,0,0,42
+16363639,783126,Emiliano Buendía,Aston Villa,Nottingham Forest,M,63,0,0,32
+16363639,1398204,George Hemmings,Aston Villa,Nottingham Forest,M,45,0,0,14
+16363639,1085381,Nicolas Jackson,Aston Villa,Nottingham Forest,F,45,0,0,12
+16363639,303638,Tyrone Mings,Aston Villa,Nottingham Forest,D,65,0,0,43
+16363639,1631879,Alysson,Aston Villa,Nottingham Forest,F,45,0,1,22
+16363639,610766,Tammy Abraham,Aston Villa,Nottingham Forest,F,45,0,0,14
+16363639,1518931,Johan Manzambi,Aston Villa,Nottingham Forest,M,27,0,0,15
+16363639,1590918,Ibrahim Mbaye,Aston Villa,Nottingham Forest,F,27,0,0,16
+16363639,78152,Matz Sels,Nottingham Forest,Aston Villa,G,90,0,0,34
+16363639,800417,Ola Aina,Nottingham Forest,Aston Villa,D,90,0,0,53
+16363639,1394342,Ousmane Diomande,Nottingham Forest,Aston Villa,D,90,1,0,52
+16363639,1199282,Murillo,Nottingham Forest,Aston Villa,D,90,0,0,64
+16363639,870360,Daniel Muñoz,Nottingham Forest,Aston Villa,M,90,1,0,63
+16363639,1003334,James McAtee,Nottingham Forest,Aston Villa,M,82,0,0,69
+16363639,791079,Xaver Schlager,Nottingham Forest,Aston Villa,M,90,1,0,57
+16363639,927356,Neco Williams,Nottingham Forest,Aston Villa,M,90,0,0,44
+16363639,944327,Dan Ndoye,Nottingham Forest,Aston Villa,F,75,1,0,19
+16363639,865912,Morgan Gibbs-White,Nottingham Forest,Aston Villa,F,90,0,0,55
+16363639,997087,Liam Delap,Nottingham Forest,Aston Villa,F,89,1,1,33
+16363639,981619,Igor Jesus,Nottingham Forest,Aston Villa,F,15,0,1,12
+16363639,843754,Ibrahim Sangaré,Nottingham Forest,Aston Villa,M,8,0,0,13
+16363639,50480,Chris Wood,Nottingham Forest,Aston Villa,F,1,0,0,0
+16363640,882604,Đorđe Petrović,Bournemouth,Brentford,G,90,0,0,42
+16363640,44566,Adam Smith,Bournemouth,Brentford,D,90,0,0,66
+16363640,1156586,James Hill,Bournemouth,Brentford,D,90,0,0,83
+16363640,1006069,António Silva,Bournemouth,Brentford,D,90,2,0,81
+16363640,999028,Adrien Truffert,Bournemouth,Brentford,D,90,0,0,88
+16363640,800419,Tyler Adams,Bournemouth,Brentford,M,82,0,0,76
+16363640,1104986,Alex Scott,Bournemouth,Brentford,M,90,1,0,82
+16363640,1464966,Rayan,Bournemouth,Brentford,M,82,1,0,42
+16363640,851596,Justin Kluivert,Bournemouth,Brentford,M,66,0,1,35
+16363640,895576,Marcus Tavernier,Bournemouth,Brentford,M,83,0,1,53
+16363640,998490,Evanilson,Bournemouth,Brentford,F,89,0,0,38
+16363640,322391,Ryan Christie,Bournemouth,Brentford,M,24,0,0,24
+16363640,548188,Lewis Cook,Bournemouth,Brentford,M,8,0,0,6
+16363640,1154861,Ben Gannon-Doak,Bournemouth,Brentford,F,8,0,0,14
+16363640,855731,David Brooks,Bournemouth,Brentford,M,13,0,0,8
+16363640,1154587,Álvaro Rodriguez,Bournemouth,Brentford,F,1,0,0,4
+16363640,827362,Caoimhin Kelleher,Brentford,Bournemouth,G,90,0,0,51
+16363640,966869,Aaron Hickey,Brentford,Bournemouth,D,71,0,0,46
+16363640,1474198,Jannik Schuster,Brentford,Bournemouth,D,90,0,0,51
+16363640,576384,Kristoffer Ajer,Brentford,Bournemouth,D,90,0,0,50
+16363640,972421,Keane Lewis-Potter,Brentford,Bournemouth,D,60,0,0,37
+16363640,1064697,Mamadou Sangare,Brentford,Bournemouth,M,90,0,0,64
+16363640,814873,Vitaly Janelt,Brentford,Bournemouth,M,90,0,0,68
+16363640,1020680,Jaidon Anthony,Brentford,Bournemouth,M,60,0,0,32
+16363640,1031258,Yehor Yarmoliuk,Brentford,Bournemouth,M,60,0,0,36
+16363640,1006387,Kevin Schade,Brentford,Bournemouth,M,90,0,2,46
+16363640,1016907,Igor Thiago,Brentford,Bournemouth,F,90,0,0,34
+16363640,1471764,El Hadji Malick Diouf,Brentford,Bournemouth,D,30,0,0,21
+16363640,1106451,Dango Ouattara,Brentford,Bournemouth,F,30,0,0,21
+16363640,907072,Mikkel Damsgaard,Brentford,Bournemouth,M,30,0,0,23
+16363640,1137431,Michael Kayode,Brentford,Bournemouth,D,19,0,0,16
+16363641,158263,Emiliano Martínez,Chelsea,Hull City,G,90,0,0,31
+16363641,996958,Malo Gusto,Chelsea,Hull City,D,78,0,0,73
+16363641,923894,Wesley Fofana,Chelsea,Hull City,D,86,0,0,100
+16363641,996911,Levi Colwill,Chelsea,Hull City,D,90,0,0,80
+16363641,1153079,Jorrel Hato,Chelsea,Hull City,D,45,0,0,25
+16363641,885908,Reece James,Chelsea,Hull City,M,90,0,0,110
+16363641,1069488,Roméo Lavia,Chelsea,Hull City,M,69,0,0,56
+16363641,879349,Pedro Neto,Chelsea,Hull City,M,86,0,0,78
+16363641,982780,Cole Palmer,Chelsea,Hull City,M,90,0,0,52
+16363641,948261,Morgan Rogers,Chelsea,Hull City,M,90,1,1,46
+16363641,975079,João Pedro,Chelsea,Hull City,F,90,0,1,44
+16363641,1010421,Pep Chavarría,Chelsea,Hull City,D,45,0,0,39
+16363641,1127057,Valentín Barco,Chelsea,Hull City,M,21,0,0,38
+16363641,33902,Danny Welbeck,Chelsea,Hull City,F,12,0,0,6
+16363641,879674,Maxence Lacroix,Chelsea,Hull City,D,11,0,0,9
+16363641,1597265,Estêvão,Chelsea,Hull City,F,11,0,0,7
+16363641,953414,Konstantinos Tzolakis,Hull City,Chelsea,G,90,0,0,58
+16363641,827587,Lewie Coyle,Hull City,Chelsea,D,82,0,0,34
+16363641,307274,Semi Ajayi,Hull City,Chelsea,D,90,1,0,38
+16363641,100578,John Egan,Hull City,Chelsea,D,90,0,0,49
+16363641,1458073,Nobel Mendy,Hull City,Chelsea,D,59,0,0,34
+16363641,931304,Ryan Giles,Hull City,Chelsea,D,90,0,0,43
+16363641,1125839,Mohamed Belloumi,Hull City,Chelsea,M,60,0,2,17
+16363641,140479,Matt Crooks,Hull City,Chelsea,M,69,0,0,25
+16363641,864474,Regan Slater,Hull City,Chelsea,M,90,0,0,41
+16363641,1383695,Elliot Stroud,Hull City,Chelsea,M,60,0,0,20
+16363641,367228,Oliver McBurnie,Hull City,Chelsea,F,82,1,0,28
+16363641,1646783,Lucas Herrington,Hull City,Chelsea,D,31,0,0,13
+16363641,911039,Sorba Thomas,Hull City,Chelsea,F,30,0,0,17
+16363641,1063235,Mohamed Ali Cho,Hull City,Chelsea,F,30,1,0,11
+16363641,1085950,Tim Iroegbunam,Hull City,Chelsea,M,21,0,0,12
+16363641,1087514,Brooke Norton-Cuffy,Hull City,Chelsea,D,8,0,0,10
+16363641,1514800,Robinio Vaz,Hull City,Chelsea,F,8,0,0,7
+16363643,249859,Walter Benítez,Crystal Palace,Ipswich Town,G,90,0,0,38
+16363643,931844,Chris Richards,Crystal Palace,Ipswich Town,D,90,0,0,73
+16363643,827243,Axel Disasi,Crystal Palace,Ipswich Town,D,34,0,0,29
+16363643,1634980,Honest Ahanor,Crystal Palace,Ipswich Town,D,90,0,0,77
+16363643,1403362,Anan Khalaili,Crystal Palace,Ipswich Town,M,90,1,1,57
+16363643,959805,Quinten Timber,Crystal Palace,Ipswich Town,M,90,0,0,72
+16363643,1109771,Adam Wharton,Crystal Palace,Ipswich Town,M,77,0,0,45
+16363643,988275,Tyrick Mitchell,Crystal Palace,Ipswich Town,M,77,0,0,51
+16363643,794338,Daichi Kamada,Crystal Palace,Ipswich Town,F,84,0,0,25
+16363643,984624,Yéremy Pino,Crystal Palace,Ipswich Town,F,37,0,0,21
+16363643,876599,Jørgen Strand Larsen,Crystal Palace,Ipswich Town,F,84,0,1,31
+16363643,804434,Takehiro Tomiyasu,Crystal Palace,Ipswich Town,D,53,0,0,48
+16363643,802695,Ben Chilwell,Crystal Palace,Ipswich Town,D,13,0,0,12
+16363643,193554,Will Hughes,Crystal Palace,Ipswich Town,M,13,0,0,15
+16363643,355796,Jefferson Lerma,Crystal Palace,Ipswich Town,M,12,0,0,6
+16363643,1578999,Zavier Gozo,Crystal Palace,Ipswich Town,F,12,0,0,5
+16363643,852394,Kjell Scherpen,Ipswich Town,Crystal Palace,G,90,0,0,44
+16363643,856719,Dara O'Shea,Ipswich Town,Crystal Palace,D,90,0,0,78
+16363643,825719,Issa Diop,Ipswich Town,Crystal Palace,D,90,0,0,71
+16363643,990821,Jacob Greaves,Ipswich Town,Crystal Palace,D,88,0,0,68
+16363643,963493,Leif Davis,Ipswich Town,Crystal Palace,D,90,0,1,42
+16363643,371222,Saša Lukić,Ipswich Town,Crystal Palace,M,77,0,0,52
+16363643,822600,Exequiel Palacios,Ipswich Town,Crystal Palace,M,90,0,0,80
+16363643,1103589,Abdul Fatawu Issahaku,Ipswich Town,Crystal Palace,M,62,0,0,47
+16363643,973556,Julio Enciso,Ipswich Town,Crystal Palace,M,90,0,0,38
+16363643,921005,Jack Clarke,Ipswich Town,Crystal Palace,M,63,0,0,35
+16363643,1128844,Emersonn,Ipswich Town,Crystal Palace,F,63,0,1,27
+16363643,1014461,Jaden Philogene-Bidace,Ipswich Town,Crystal Palace,F,28,0,0,22
+16363643,832420,Daizen Maeda,Ipswich Town,Crystal Palace,F,27,0,0,10
+16363643,875137,Zian Flemming,Ipswich Town,Crystal Palace,F,27,0,1,11
+16363643,855845,Florentino Luís,Ipswich Town,Crystal Palace,M,13,0,0,27
+16363643,1930811,Abdoul Ouattara,Ipswich Town,Crystal Palace,D,8,0,0,5
+16363264,243609,Alisson,Liverpool FC,Fulham,G,90,0,0,40
+16363264,925097,Ronald Araújo,Liverpool FC,Fulham,D,72,0,0,48
+16363264,1445625,Jérémy Jacquet,Liverpool FC,Fulham,D,90,0,0,96
+16363264,151545,Virgil van Dijk,Liverpool FC,Fulham,D,90,0,0,89
+16363264,786259,Kostas Tsimikas,Liverpool FC,Fulham,D,45,0,0,50
+16363264,869856,Dominik Szoboszlai,Liverpool FC,Fulham,M,90,0,0,77
+16363264,904897,Ryan Gravenberch,Liverpool FC,Fulham,M,60,0,0,47
+16363264,1145642,Víctor Muñoz,Liverpool FC,Fulham,M,60,1,0,23
+16363264,1019322,Florian Wirtz,Liverpool FC,Fulham,M,90,0,0,67
+16363264,996952,Bradley Barcola,Liverpool FC,Fulham,M,72,1,0,32
+16363264,823941,Alexander Isak,Liverpool FC,Fulham,F,90,1,0,15
+16363264,1097425,Miloš Kerkez,Liverpool FC,Fulham,D,45,0,0,37
+16363264,895324,Alexis Mac Allister,Liverpool FC,Fulham,M,30,0,0,26
+16363264,862967,Cody Gakpo,Liverpool FC,Fulham,F,30,0,0,13
+16363264,970361,Jeremie Frimpong,Liverpool FC,Fulham,D,18,0,0,23
+16363264,1881902,Rio Ngumoha,Liverpool FC,Fulham,F,18,1,0,10
+16363264,103335,Bernd Leno,Fulham,Liverpool FC,G,90,0,0,45
+16363264,329417,Timothy Castagne,Fulham,Liverpool FC,D,72,0,0,58
+16363264,988672,David Affengruber,Fulham,Liverpool FC,D,90,0,0,59
+16363264,861972,Calvin Bassey,Fulham,Liverpool FC,D,90,0,0,40
+16363264,803174,Antonee Robinson,Fulham,Liverpool FC,D,90,0,0,69
+16363264,793167,Sander Berge,Fulham,Liverpool FC,M,90,0,0,60
+16363264,1131449,Shea Charles,Fulham,Liverpool FC,M,90,0,0,76
+16363264,1065216,Oscar Bobb,Fulham,Liverpool FC,M,63,0,0,33
+16363264,1546231,Josh King,Fulham,Liverpool FC,M,77,0,0,36
+16363264,352770,Alex Iwobi,Fulham,Liverpool FC,M,77,0,0,49
+16363264,1402716,Gonzalo García,Fulham,Liverpool FC,F,77,1,0,28
+16363264,190877,Kenny Tete,Fulham,Liverpool FC,D,27,0,0,14
+16363264,1112879,Kevin,Fulham,Liverpool FC,F,18,0,0,10
+16363264,1142211,Hugo Larsson,Fulham,Liverpool FC,M,13,0,0,3
+16363264,867445,Emile Smith Rowe,Fulham,Liverpool FC,M,13,0,0,6
+16363264,1015256,Rodrigo Muniz,Fulham,Liverpool FC,F,13,0,0,6
+16363647,1031251,Antonín Kinský,Tottenham Hotspur,Everton,G,90,0,0,29
+16363647,1142335,Archie Gray,Tottenham Hotspur,Everton,D,85,0,0,71
+16363647,962012,Jan Paul van Hecke,Tottenham Hotspur,Everton,D,90,1,0,127
+16363647,998247,Micky van de Ven,Tottenham Hotspur,Everton,D,90,0,0,88
+16363647,262911,Andy Robertson,Tottenham Hotspur,Everton,D,90,0,0,78
+16363647,791190,Rodrigo Bentancur,Tottenham Hotspur,Everton,M,63,0,0,72
+16363647,892673,Sandro Tonali,Tottenham Hotspur,Everton,M,90,0,0,104
+16363647,1046795,Sávio,Tottenham Hotspur,Everton,M,90,0,0,63
+16363647,1142562,Mateus Fernandes,Tottenham Hotspur,Everton,M,63,0,0,62
+16363647,873554,Omar Marmoush,Tottenham Hotspur,Everton,M,77,0,0,29
+16363647,361420,Dominic Solanke,Tottenham Hotspur,Everton,F,63,0,0,20
+16363647,1391251,Lucas Bergvall,Tottenham Hotspur,Everton,M,27,0,0,26
+16363647,905163,Mohammed Kudus,Tottenham Hotspur,Everton,M,27,0,0,27
+16363647,1048888,Mathys Tel,Tottenham Hotspur,Everton,F,27,0,0,17
+16363647,356398,James Maddison,Tottenham Hotspur,Everton,M,13,0,0,19
+16363647,352668,Tosin Adarabioyo,Tottenham Hotspur,Everton,D,8,0,0,11
+16363647,138530,Jordan Pickford,Everton,Tottenham Hotspur,G,90,0,0,57
+16363647,352768,Ainsley Maitland-Niles,Everton,Tottenham Hotspur,D,75,0,0,44
+16363647,145188,James Tarkowski,Everton,Tottenham Hotspur,D,90,0,0,65
+16363647,979563,Jarrad Branthwaite,Everton,Tottenham Hotspur,D,90,0,0,56
+16363647,876643,Vitaliy Mykolenko,Everton,Tottenham Hotspur,D,90,0,0,65
+16363647,927361,James Garner,Everton,Tottenham Hotspur,M,90,0,0,71
+16363647,1085180,Brennan Johnson,Everton,Tottenham Hotspur,M,75,0,0,25
+16363647,1627560,Harrison Armstrong,Everton,Tottenham Hotspur,M,90,0,0,33
+16363647,861970,Kiernan Dewsbury-Hall,Everton,Tottenham Hotspur,M,90,1,0,59
+16363647,1403061,Tyrique George,Everton,Tottenham Hotspur,M,65,0,0,36
+16363647,1395746,Thierno Barry,Everton,Tottenham Hotspur,F,90,1,0,28
+16363647,189061,Jack Grealish,Everton,Tottenham Hotspur,M,25,0,0,17
+16363647,998253,Jake O'Brien,Everton,Tottenham Hotspur,D,15,0,0,3
+16363647,1008471,Hayden Hackney,Everton,Tottenham Hotspur,M,15,0,0,7
+16363646,1012928,Robin Roefs,Sunderland,Arsenal,G,90,0,0,37
+16363646,780014,Nordi Mukiele,Sunderland,Arsenal,D,90,2,0,48
+16363646,794953,Kevin Danso,Sunderland,Arsenal,D,90,0,0,47
+16363646,958878,Daniel Ballard,Sunderland,Arsenal,D,90,0,0,51
+16363646,831424,Reinildo Mandava,Sunderland,Arsenal,D,90,0,0,44
+16363646,117777,Granit Xhaka,Sunderland,Arsenal,M,90,0,0,72
+16363646,1171539,Noah Sadiki,Sunderland,Arsenal,M,90,0,0,35
+16363646,128587,Thomas Meunier,Sunderland,Arsenal,M,76,0,0,31
+16363646,984014,Enzo Le Fée,Sunderland,Arsenal,M,90,1,0,25
+16363646,1116571,Nilson Angulo,Sunderland,Arsenal,M,70,0,0,20
+16363646,910048,Brian Brobbey,Sunderland,Arsenal,F,90,0,0,30
+16363646,877980,Wilson Isidor,Sunderland,Arsenal,F,20,0,0,4
+16363646,1195784,Malick Fofana,Sunderland,Arsenal,F,14,0,0,9
+16363646,581310,David Raya,Arsenal,Sunderland,G,90,0,0,50
+16363646,846036,Ben White,Arsenal,Sunderland,D,45,0,0,30
+16363646,827679,Ezri Konsa,Arsenal,Sunderland,D,90,0,0,39
+16363646,869792,Gabriel Magalhães,Arsenal,Sunderland,D,90,0,0,63
+16363646,957602,Riccardo Calafiori,Arsenal,Sunderland,D,90,0,0,40
+16363646,856714,Declan Rice,Arsenal,Sunderland,M,81,0,0,78
+16363646,1423711,Myles Lewis-Skelly,Arsenal,Sunderland,M,45,0,0,37
+16363646,934235,Bukayo Saka,Arsenal,Sunderland,M,90,1,1,47
+16363646,547410,Martin Ødegaard,Arsenal,Sunderland,M,85,0,0,55
+16363646,1031259,Christos Tzolis,Arsenal,Sunderland,M,81,0,0,37
+16363646,836705,Kai Havertz,Arsenal,Sunderland,F,90,1,0,32
+16363646,958959,Jurriën Timber,Arsenal,Sunderland,D,45,0,0,19
+16363646,866469,Bruno Guimarães,Arsenal,Sunderland,M,45,0,1,20
+16363646,864921,Eberechi Eze,Arsenal,Sunderland,M,9,0,0,3
+16363646,966837,Martín Zubimendi,Arsenal,Sunderland,M,9,0,0,8
+16363646,592010,Mikel Merino,Arsenal,Sunderland,M,14,0,0,7
+16363642,1005800,Carl Rushworth,Coventry City,Brighton & Hove Albion,G,90,0,0,57
+16363642,999276,Aurèle Amenda,Coventry City,Brighton & Hove Albion,D,90,0,0,37
+16363642,1033352,Bobby Thomas,Coventry City,Brighton & Hove Albion,D,90,0,0,41
+16363642,855864,Ethan Pinnock,Coventry City,Brighton & Hove Albion,D,90,0,0,34
+16363642,948723,Milan van Ewijk,Coventry City,Brighton & Hove Albion,M,90,0,0,49
+16363642,885864,Frank Onyeka,Coventry City,Brighton & Hove Albion,M,73,0,0,30
+16363642,340713,Matt Grimes,Coventry City,Brighton & Hove Albion,M,84,0,0,31
+16363642,791985,Jay DaSilva,Coventry City,Brighton & Hove Albion,M,90,0,0,27
+16363642,979565,Jack Rudoni,Coventry City,Brighton & Hove Albion,F,73,1,0,36
+16363642,861315,Ephron Mason-Clark,Coventry City,Brighton & Hove Albion,F,60,0,0,20
+16363642,359664,Taiwo Awoniyi,Coventry City,Brighton & Hove Albion,F,53,0,0,16
+16363642,1514916,Sidiki Cherif,Coventry City,Brighton & Hove Albion,F,30,0,0,12
+16363642,1986794,Caleb Yirenkyi,Coventry City,Brighton & Hove Albion,M,17,0,0,6
+16363642,846061,Brandon Thomas-Asante,Coventry City,Brighton & Hove Albion,F,17,0,0,7
+16363642,837011,Victor Torp,Coventry City,Brighton & Hove Albion,M,13,0,0,5
+16363642,994363,Bart Verbruggen,Brighton & Hove Albion,Coventry City,G,90,0,0,42
+16363642,825844,Ferdi Kadıoğlu,Brighton & Hove Albion,Coventry City,D,90,0,0,48
+16363642,1405212,Luka Vušković,Brighton & Hove Albion,Coventry City,D,78,0,0,78
+16363642,115365,Lewis Dunk,Brighton & Hove Albion,Coventry City,D,90,0,1,103
+16363642,788784,Olivier Boscagli,Brighton & Hove Albion,Coventry City,D,78,0,0,73
+16363642,48480,Pascal Groß,Brighton & Hove Albion,Coventry City,M,90,0,1,113
+16363642,1036269,Yasin Ayari,Brighton & Hove Albion,Coventry City,M,90,0,1,57
+16363642,1065588,Diego Gómez,Brighton & Hove Albion,Coventry City,M,84,0,0,38
+16363642,1568186,Malick Yalcouyé,Brighton & Hove Albion,Coventry City,M,65,0,1,32
+16363642,997152,Maxim De Cuyper,Brighton & Hove Albion,Coventry City,M,90,0,0,62
+16363642,1416535,Charalampos Kostoulas,Brighton & Hove Albion,Coventry City,F,84,1,1,30
+16363642,1464641,Chema Andrés,Brighton & Hove Albion,Coventry City,M,25,0,0,22
+16363642,836675,Pascal Struijk,Brighton & Hove Albion,Coventry City,D,12,0,0,27
+16363642,1471095,Ibrahim Osman,Brighton & Hove Albion,Coventry City,F,12,0,0,12
+16363642,988333,Costinha,Brighton & Hove Albion,Coventry City,D,13,0,0,11
+16363642,891829,Matt O'Riley,Brighton & Hove Albion,Coventry City,M,13,0,0,2
+16363645,964753,Senne Lammens,Manchester United,Manchester City,G,90,0,0,18
+16363645,843200,Diogo Dalot,Manchester United,Manchester City,D,90,0,0,62
+16363645,149380,Harry Maguire,Manchester United,Manchester City,D,90,0,0,68
+16363645,859999,Lisandro Martínez,Manchester United,Manchester City,D,90,0,0,77
+16363645,1397168,Patrick Dorgu,Manchester United,Manchester City,D,90,0,0,68
+16363645,331737,Youri Tielemans,Manchester United,Manchester City,M,67,0,0,56
+16363645,1142175,Kobbie Mainoo,Manchester United,Manchester City,M,90,0,0,86
+16363645,927083,Bryan Mbeumo,Manchester United,Manchester City,M,90,1,0,43
+16363645,288205,Bruno Fernandes,Manchester United,Manchester City,M,90,0,0,71
+16363645,814590,Marcus Rashford,Manchester United,Manchester City,M,83,0,0,54
+16363645,886363,Matheus Cunha,Manchester United,Manchester City,F,90,0,0,46
+16363645,986397,Benjamin Šeško,Manchester United,Manchester City,F,23,0,0,8
+16363645,917007,Joshua Zirkzee,Manchester United,Manchester City,F,13,0,0,9
+16363645,824509,Gianluigi Donnarumma,Manchester City,Manchester United,G,90,0,0,52
+16363645,945122,Matheus Nunes,Manchester City,Manchester United,D,90,0,0,64
+16363645,877994,Marc Guéhi,Manchester City,Manchester United,D,90,0,0,61
+16363645,318941,Rúben Dias,Manchester City,Manchester United,D,90,0,0,59
+16363645,964994,Joško Gvardiol,Manchester City,Manchester United,D,90,0,0,53
+16363645,994546,Elliot Anderson,Manchester City,Manchester United,M,90,0,0,77
+16363645,974505,Enzo Fernández,Manchester City,Manchester United,M,82,0,0,55
+16363645,859765,Phil Foden,Manchester City,Manchester United,M,23,0,0,15
+16363645,979128,Rayan Cherki,Manchester City,Manchester United,M,45,0,0,34
+16363645,934354,Antoine Semenyo,Manchester City,Manchester United,M,90,0,0,42
+16363645,839956,Erling Haaland,Manchester City,Manchester United,F,90,1,1,30
+16363645,914309,Iliman Ndiaye,Manchester City,Manchester United,F,45,0,0,38
+16363645,1142703,Nico O'Reilly,Manchester City,Manchester United,D,8,0,0,4
+16363644,980643,James Trafford,Leeds United,Newcastle United,G,90,0,0,59
+16363644,827681,James Justin,Leeds United,Newcastle United,D,90,0,0,62
+16363644,282229,Nico Elvedi,Leeds United,Newcastle United,D,90,0,0,75
+16363644,1118177,Tarik Muharemović,Leeds United,Newcastle United,D,90,0,0,76
+16363644,929132,Jayden Bogle,Leeds United,Newcastle United,M,83,0,0,39
+16363644,847097,Ethan Ampadu,Leeds United,Newcastle United,M,90,0,0,63
+16363644,871886,Ao Tanaka,Leeds United,Newcastle United,M,72,0,0,54
+16363644,834308,Gabriel Gudmundsson,Leeds United,Newcastle United,M,72,0,0,53
+16363644,889861,Anton Stach,Leeds United,Newcastle United,F,88,1,0,49
+16363644,865523,Noah Okafor,Leeds United,Newcastle United,F,72,0,1,39
+16363644,372344,Dominic Calvert-Lewin,Leeds United,Newcastle United,F,78,1,2,26
+16363644,906075,Melvin Bard,Leeds United,Newcastle United,D,18,0,0,9
+16363644,355528,Harry Wilson,Leeds United,Newcastle United,F,18,0,0,9
+16363644,973431,Brenden Aaronson,Leeds United,Newcastle United,M,18,0,0,9
+16363644,803185,Lukas Nmecha,Leeds United,Newcastle United,F,12,0,0,5
+16363644,828639,Daniel James,Leeds United,Newcastle United,F,12,0,0,7
+16363644,866191,Sean Longstaff,Leeds United,Newcastle United,M,2,0,0,3
+16363644,963744,Lukáš Horníček,Newcastle United,Leeds United,G,90,0,0,39
+16363644,1102791,Amar Dedić,Newcastle United,Leeds United,D,58,0,0,42
+16363644,1014286,Malick Thiaw,Newcastle United,Leeds United,D,90,0,0,58
+16363644,910046,Sven Botman,Newcastle United,Leeds United,D,90,0,0,72
+16363644,1136730,Lewis Hall,Newcastle United,Leeds United,D,90,0,0,83
+16363644,1400650,Lewis Miley,Newcastle United,Leeds United,M,80,0,0,66
+16363644,954056,Nico González,Newcastle United,Leeds United,M,19,0,0,9
+16363644,372336,Jacob Murphy,Newcastle United,Leeds United,M,57,0,0,28
+16363644,805123,Yoane Wissa,Newcastle United,Leeds United,M,90,1,0,31
+16363644,855647,Harvey Barnes,Newcastle United,Leeds United,M,90,1,0,34
+16363644,1149144,Matías Fernández-Pardo,Newcastle United,Leeds United,F,58,0,0,18
+16363644,1859920,Sean Steur,Newcastle United,Leeds United,M,71,0,0,62
+16363644,1568123,Bazoumana Touré,Newcastle United,Leeds United,F,33,0,1,24
+16363644,980634,Tino Livramento,Newcastle United,Leeds United,D,32,0,0,24
+16363644,888550,Joe Willock,Newcastle United,Leeds United,M,32,0,0,23
+16363644,1868591,Aladji Bamba,Newcastle United,Leeds United,M,10,0,0,8
+16363649,827362,Caoimhin Kelleher,Brentford,Chelsea,G,90,0,0,43
+16363649,1137431,Michael Kayode,Brentford,Chelsea,D,69,0,0,32
+16363649,1474198,Jannik Schuster,Brentford,Chelsea,D,90,0,0,49
+16363649,576384,Kristoffer Ajer,Brentford,Chelsea,D,90,0,0,62
+16363649,972421,Keane Lewis-Potter,Brentford,Chelsea,D,81,0,0,52
+16363649,1031258,Yehor Yarmoliuk,Brentford,Chelsea,M,69,0,0,49
+16363649,814873,Vitaly Janelt,Brentford,Chelsea,M,90,0,0,56
+16363649,1020680,Jaidon Anthony,Brentford,Chelsea,M,81,0,1,25
+16363649,907072,Mikkel Damsgaard,Brentford,Chelsea,M,87,0,0,68
+16363649,1006387,Kevin Schade,Brentford,Chelsea,M,90,1,0,40
+16363649,1016907,Igor Thiago,Brentford,Chelsea,F,90,0,1,39
+16363649,966869,Aaron Hickey,Brentford,Chelsea,D,21,0,0,7
+16363649,1064697,Mamadou Sangare,Brentford,Chelsea,M,21,0,0,5
+16363649,1471764,El Hadji Malick Diouf,Brentford,Chelsea,D,9,0,0,7
+16363649,1106451,Dango Ouattara,Brentford,Chelsea,F,9,0,0,2
+16363649,991604,Fabio Carvalho,Brentford,Chelsea,M,10,0,1,5
+16363649,158263,Emiliano Martínez,Chelsea,Brentford,G,90,0,0,41
+16363649,923894,Wesley Fofana,Chelsea,Brentford,D,71,0,0,45
+16363649,879674,Maxence Lacroix,Chelsea,Brentford,D,90,1,0,79
+16363649,996911,Levi Colwill,Chelsea,Brentford,D,90,0,0,82
+16363649,879349,Pedro Neto,Chelsea,Brentford,M,87,0,0,41
+16363649,42694,Jordan Henderson,Chelsea,Brentford,M,90,0,0,92
+16363649,1127057,Valentín Barco,Chelsea,Brentford,M,87,0,0,65
+16363649,1010421,Pep Chavarría,Chelsea,Brentford,M,90,0,0,91
+16363649,982780,Cole Palmer,Chelsea,Brentford,F,90,0,0,55
+16363649,948261,Morgan Rogers,Chelsea,Brentford,F,90,0,0,66
+16363649,33902,Danny Welbeck,Chelsea,Brentford,F,71,0,0,17
+16363649,1403050,Josh Acheampong,Chelsea,Brentford,D,19,0,0,16
+16363649,1403165,Geovany Quenda,Chelsea,Brentford,M,19,0,0,14
+16363649,2037476,Mahdi Nicoll-Jazuli,Chelsea,Brentford,M,10,0,0,11
+16363649,1597265,Estêvão,Chelsea,Brentford,F,10,0,0,5
+16363870,1031251,Antonín Kinský,Tottenham Hotspur,Aston Villa,G,90,0,0,28
+16363870,913654,Pedro Porro,Tottenham Hotspur,Aston Villa,D,19,0,0,19
+16363870,962012,Jan Paul van Hecke,Tottenham Hotspur,Aston Villa,D,90,0,1,83
+16363870,998247,Micky van de Ven,Tottenham Hotspur,Aston Villa,D,90,0,0,93
+16363870,262911,Andy Robertson,Tottenham Hotspur,Aston Villa,D,90,0,0,84
+16363870,791190,Rodrigo Bentancur,Tottenham Hotspur,Aston Villa,M,84,0,0,84
+16363870,892673,Sandro Tonali,Tottenham Hotspur,Aston Villa,M,84,0,0,81
+16363870,1046795,Sávio,Tottenham Hotspur,Aston Villa,M,90,0,0,80
+16363870,1142562,Mateus Fernandes,Tottenham Hotspur,Aston Villa,M,45,0,0,38
+16363870,873554,Omar Marmoush,Tottenham Hotspur,Aston Villa,M,90,1,0,39
+16363870,361420,Dominic Solanke,Tottenham Hotspur,Aston Villa,F,66,0,0,26
+16363870,1142335,Archie Gray,Tottenham Hotspur,Aston Villa,M,71,1,0,45
+16363870,905163,Mohammed Kudus,Tottenham Hotspur,Aston Villa,M,45,0,0,39
+16363870,356398,James Maddison,Tottenham Hotspur,Aston Villa,M,24,0,0,34
+16363870,904970,Conor Gallagher,Tottenham Hotspur,Aston Villa,M,15,0,1,15
+16363870,1391251,Lucas Bergvall,Tottenham Hotspur,Aston Villa,M,15,0,0,13
+16363870,905351,Zion Suzuki,Aston Villa,Tottenham Hotspur,G,90,0,0,55
+16363870,863653,Aaron Wan-Bissaka,Aston Villa,Tottenham Hotspur,D,45,0,0,33
+16363870,143334,Victor Lindelöf,Aston Villa,Tottenham Hotspur,D,90,0,0,37
+16363870,303638,Tyrone Mings,Aston Villa,Tottenham Hotspur,D,90,0,0,58
+16363870,965011,Matteo Ruggeri,Aston Villa,Tottenham Hotspur,D,90,0,0,68
+16363870,826204,Boubacar Kamara,Aston Villa,Tottenham Hotspur,M,84,0,0,50
+16363870,1015267,João Gomes,Aston Villa,Tottenham Hotspur,M,90,0,0,48
+16363870,250223,John McGinn,Aston Villa,Tottenham Hotspur,M,84,0,0,33
+16363870,1518931,Johan Manzambi,Aston Villa,Tottenham Hotspur,M,72,0,1,40
+16363870,783126,Emiliano Buendía,Aston Villa,Tottenham Hotspur,M,90,0,1,60
+16363870,1085381,Nicolas Jackson,Aston Villa,Tottenham Hotspur,F,88,1,1,42
+16363870,833956,Matty Cash,Aston Villa,Tottenham Hotspur,D,45,0,0,10
+16363870,1398204,George Hemmings,Aston Villa,Tottenham Hotspur,M,18,0,0,6
+16363870,98435,Ross Barkley,Aston Villa,Tottenham Hotspur,M,15,0,0,12
+16363870,1590918,Ibrahim Mbaye,Aston Villa,Tottenham Hotspur,F,15,0,0,3
+16363870,610766,Tammy Abraham,Aston Villa,Tottenham Hotspur,F,11,0,0,5
+16363650,994363,Bart Verbruggen,Brighton & Hove Albion,Arsenal,G,90,0,0,43
+16363650,825844,Ferdi Kadıoğlu,Brighton & Hove Albion,Arsenal,D,76,0,0,38
+16363650,1405212,Luka Vušković,Brighton & Hove Albion,Arsenal,D,90,0,0,53
+16363650,836675,Pascal Struijk,Brighton & Hove Albion,Arsenal,D,86,0,0,59
+16363650,788784,Olivier Boscagli,Brighton & Hove Albion,Arsenal,D,90,0,0,46
+16363650,1464641,Chema Andrés,Brighton & Hove Albion,Arsenal,M,85,0,1,43
+16363650,48480,Pascal Groß,Brighton & Hove Albion,Arsenal,M,90,0,1,45
+16363650,1065588,Diego Gómez,Brighton & Hove Albion,Arsenal,M,86,0,0,47
+16363650,1036269,Yasin Ayari,Brighton & Hove Albion,Arsenal,M,90,0,0,32
+16363650,997152,Maxim De Cuyper,Brighton & Hove Albion,Arsenal,M,90,0,0,42
+16363650,1416535,Charalampos Kostoulas,Brighton & Hove Albion,Arsenal,F,76,0,1,38
+16363650,988333,Costinha,Brighton & Hove Albion,Arsenal,D,14,0,0,3
+16363650,946695,Georginio Rutter,Brighton & Hove Albion,Arsenal,F,14,1,0,14
+16363650,1568186,Malick Yalcouyé,Brighton & Hove Albion,Arsenal,M,12,0,0,4
+16363650,888340,Michael Svoboda,Brighton & Hove Albion,Arsenal,D,11,0,0,4
+16363650,891829,Matt O'Riley,Brighton & Hove Albion,Arsenal,M,11,1,0,5
+16363650,581310,David Raya,Arsenal,Brighton & Hove Albion,G,90,0,0,59
+16363650,958959,Jurriën Timber,Arsenal,Brighton & Hove Albion,D,60,0,0,46
+16363650,827679,Ezri Konsa,Arsenal,Brighton & Hove Albion,D,90,0,0,77
+16363650,869792,Gabriel Magalhães,Arsenal,Brighton & Hove Albion,D,90,0,0,80
+16363650,957602,Riccardo Calafiori,Arsenal,Brighton & Hove Albion,D,90,0,0,67
+16363650,856714,Declan Rice,Arsenal,Brighton & Hove Albion,M,90,0,0,75
+16363650,866469,Bruno Guimarães,Arsenal,Brighton & Hove Albion,M,60,0,0,49
+16363650,934235,Bukayo Saka,Arsenal,Brighton & Hove Albion,M,81,1,0,39
+16363650,547410,Martin Ødegaard,Arsenal,Brighton & Hove Albion,M,73,0,0,51
+16363650,1031259,Christos Tzolis,Arsenal,Brighton & Hove Albion,M,73,0,0,34
+16363650,836705,Kai Havertz,Arsenal,Brighton & Hove Albion,F,90,1,0,41
+16363650,592010,Mikel Merino,Arsenal,Brighton & Hove Albion,M,30,0,0,28
+16363650,966837,Martín Zubimendi,Arsenal,Brighton & Hove Albion,M,30,0,0,33
+16363650,864921,Eberechi Eze,Arsenal,Brighton & Hove Albion,M,17,0,0,12
+16363650,804508,Viktor Gyökeres,Arsenal,Brighton & Hove Albion,F,17,0,0,8
+16363650,1917626,Max Dowman,Arsenal,Brighton & Hove Albion,M,9,0,0,5
+16363651,138530,Jordan Pickford,Everton,Ipswich Town,G,90,0,0,61
+16363651,352768,Ainsley Maitland-Niles,Everton,Ipswich Town,D,89,0,0,56
+16363651,145188,James Tarkowski,Everton,Ipswich Town,D,90,0,0,67
+16363651,979563,Jarrad Branthwaite,Everton,Ipswich Town,D,90,0,0,85
+16363651,876643,Vitaliy Mykolenko,Everton,Ipswich Town,D,90,0,0,87
+16363651,1627560,Harrison Armstrong,Everton,Ipswich Town,M,90,0,0,55
+16363651,927361,James Garner,Everton,Ipswich Town,M,90,0,0,73
+16363651,1085180,Brennan Johnson,Everton,Ipswich Town,M,66,1,0,26
+16363651,861970,Kiernan Dewsbury-Hall,Everton,Ipswich Town,M,89,1,0,65
+16363651,189061,Jack Grealish,Everton,Ipswich Town,M,79,0,0,61
+16363651,1395746,Thierno Barry,Everton,Ipswich Town,F,90,2,1,27
+16363651,1174472,Tyler Dibling,Everton,Ipswich Town,F,24,0,0,9
+16363651,1403061,Tyrique George,Everton,Ipswich Town,F,11,0,0,11
+16363651,998253,Jake O'Brien,Everton,Ipswich Town,D,8,0,0,3
+16363651,1008471,Hayden Hackney,Everton,Ipswich Town,M,8,0,0,4
+16363651,198038,Christian Walton,Ipswich Town,Everton,G,90,0,0,63
+16363651,1930811,Abdoul Ouattara,Ipswich Town,Everton,D,90,0,0,71
+16363651,825719,Issa Diop,Ipswich Town,Everton,D,90,0,0,85
+16363651,856719,Dara O'Shea,Ipswich Town,Everton,D,90,0,0,66
+16363651,963493,Leif Davis,Ipswich Town,Everton,D,90,1,0,59
+16363651,371222,Saša Lukić,Ipswich Town,Everton,M,73,0,0,63
+16363651,822600,Exequiel Palacios,Ipswich Town,Everton,M,81,0,0,69
+16363651,1103589,Abdul Fatawu Issahaku,Ipswich Town,Everton,M,67,0,0,31
+16363651,973556,Julio Enciso,Ipswich Town,Everton,M,74,0,0,28
+16363651,921005,Jack Clarke,Ipswich Town,Everton,M,66,0,0,34
+16363651,1128844,Emersonn,Ipswich Town,Everton,F,81,0,0,19
+16363651,1014461,Jaden Philogene-Bidace,Ipswich Town,Everton,F,24,0,0,16
+16363651,855845,Florentino Luís,Ipswich Town,Everton,M,17,0,0,9
+16363651,832420,Daizen Maeda,Ipswich Town,Everton,F,16,0,0,6
+16363651,190867,Chuba Akpom,Ipswich Town,Everton,F,9,0,0,10
+16363651,875137,Zian Flemming,Ipswich Town,Everton,F,9,0,0,9
+16363868,963744,Lukáš Horníček,Newcastle United,Hull City,G,90,0,0,44
+16363868,1400650,Lewis Miley,Newcastle United,Hull City,D,90,0,0,95
+16363868,1014286,Malick Thiaw,Newcastle United,Hull City,D,90,0,0,99
+16363868,910046,Sven Botman,Newcastle United,Hull City,D,90,1,0,99
+16363868,1136730,Lewis Hall,Newcastle United,Hull City,D,90,0,1,113
+16363868,1859920,Sean Steur,Newcastle United,Hull City,M,66,0,0,64
+16363868,888550,Joe Willock,Newcastle United,Hull City,M,87,0,1,69
+16363868,372336,Jacob Murphy,Newcastle United,Hull City,M,90,0,0,40
+16363868,805123,Yoane Wissa,Newcastle United,Hull City,M,90,1,0,32
+16363868,855647,Harvey Barnes,Newcastle United,Hull City,M,90,0,0,50
+16363868,1149144,Matías Fernández-Pardo,Newcastle United,Hull City,F,74,0,0,16
+16363868,101882,Fabian Schär,Newcastle United,Hull City,D,24,0,0,20
+16363868,1568123,Bazoumana Touré,Newcastle United,Hull City,F,16,0,0,10
+16363868,1868591,Aladji Bamba,Newcastle United,Hull City,M,10,0,0,6
+16363868,953414,Konstantinos Tzolakis,Hull City,Newcastle United,G,90,0,0,46
+16363868,827587,Lewie Coyle,Hull City,Newcastle United,D,90,0,0,63
+16363868,307274,Semi Ajayi,Hull City,Newcastle United,D,90,0,0,54
+16363868,100578,John Egan,Hull City,Newcastle United,D,78,0,0,27
+16363868,1646783,Lucas Herrington,Hull City,Newcastle United,D,90,0,0,63
+16363868,931304,Ryan Giles,Hull City,Newcastle United,D,90,0,0,50
+16363868,1125839,Mohamed Belloumi,Hull City,Newcastle United,M,83,1,0,65
+16363868,140479,Matt Crooks,Hull City,Newcastle United,M,45,0,0,20
+16363868,864474,Regan Slater,Hull City,Newcastle United,M,78,0,0,38
+16363868,911039,Sorba Thomas,Hull City,Newcastle United,M,63,0,0,33
+16363868,367228,Oliver McBurnie,Hull City,Newcastle United,F,90,0,0,39
+16363868,1085950,Tim Iroegbunam,Hull City,Newcastle United,M,45,0,0,29
+16363868,1063235,Mohamed Ali Cho,Hull City,Newcastle United,F,27,0,1,12
+16363868,1012657,Lucas Gourna-Douath,Hull City,Newcastle United,M,12,0,0,17
+16363868,1514800,Robinio Vaz,Hull City,Newcastle United,F,12,0,0,13
+16363868,945806,Joe Gelhardt,Hull City,Newcastle United,F,14,0,0,19
+16363869,78152,Matz Sels,Nottingham Forest,Coventry City,G,90,0,0,31
+16363869,1170722,Jair,Nottingham Forest,Coventry City,D,90,0,0,70
+16363869,1394342,Ousmane Diomande,Nottingham Forest,Coventry City,D,73,0,0,50
+16363869,1199282,Murillo,Nottingham Forest,Coventry City,D,90,0,0,92
+16363869,870360,Daniel Muñoz,Nottingham Forest,Coventry City,M,83,0,0,51
+16363869,1003334,James McAtee,Nottingham Forest,Coventry City,M,83,0,0,68
+16363869,791079,Xaver Schlager,Nottingham Forest,Coventry City,M,90,0,0,70
+16363869,927356,Neco Williams,Nottingham Forest,Coventry City,M,90,0,0,86
+16363869,865912,Morgan Gibbs-White,Nottingham Forest,Coventry City,F,90,0,0,71
+16363869,944327,Dan Ndoye,Nottingham Forest,Coventry City,F,59,0,0,23
+16363869,997087,Liam Delap,Nottingham Forest,Coventry City,F,90,0,0,43
+16363869,981619,Igor Jesus,Nottingham Forest,Coventry City,F,31,1,0,25
+16363869,50480,Chris Wood,Nottingham Forest,Coventry City,F,17,0,0,7
+16363869,979144,Luca Netz,Nottingham Forest,Coventry City,D,14,0,0,12
+16363869,843754,Ibrahim Sangaré,Nottingham Forest,Coventry City,M,14,0,0,14
+16363869,1005800,Carl Rushworth,Coventry City,Nottingham Forest,G,90,0,0,55
+16363869,1402791,Stephen Mfuni,Coventry City,Nottingham Forest,D,90,0,0,45
+16363869,1033352,Bobby Thomas,Coventry City,Nottingham Forest,D,90,0,0,47
+16363869,855864,Ethan Pinnock,Coventry City,Nottingham Forest,D,90,0,0,46
+16363869,1986794,Caleb Yirenkyi,Coventry City,Nottingham Forest,M,89,0,0,48
+16363869,885864,Frank Onyeka,Coventry City,Nottingham Forest,M,90,0,0,42
+16363869,340713,Matt Grimes,Coventry City,Nottingham Forest,M,90,0,0,46
+16363869,791985,Jay DaSilva,Coventry City,Nottingham Forest,M,90,0,1,41
+16363869,979565,Jack Rudoni,Coventry City,Nottingham Forest,F,74,0,0,49
+16363869,861315,Ephron Mason-Clark,Coventry City,Nottingham Forest,F,45,0,0,19
+16363869,846061,Brandon Thomas-Asante,Coventry City,Nottingham Forest,F,90,0,0,44
+16363869,1004505,Loum Tchaouna,Coventry City,Nottingham Forest,F,45,0,0,11
+16363869,991614,Ellis Simms,Coventry City,Nottingham Forest,F,16,0,0,5
+16363869,859763,Joel Latibeaudiere,Coventry City,Nottingham Forest,D,1,0,0,2
+16363648,882604,Đorđe Petrović,Bournemouth,Liverpool FC,G,90,0,0,37
+16363648,44566,Adam Smith,Bournemouth,Liverpool FC,D,75,0,0,32
+16363648,1156586,James Hill,Bournemouth,Liverpool FC,D,90,0,0,56
+16363648,1006069,António Silva,Bournemouth,Liverpool FC,D,90,0,0,69
+16363648,999028,Adrien Truffert,Bournemouth,Liverpool FC,D,90,0,0,71
+16363648,800419,Tyler Adams,Bournemouth,Liverpool FC,M,88,0,0,61
+16363648,1104986,Alex Scott,Bournemouth,Liverpool FC,M,90,0,0,71
+16363648,1464966,Rayan,Bournemouth,Liverpool FC,M,88,0,0,32
+16363648,322391,Ryan Christie,Bournemouth,Liverpool FC,M,75,1,0,44
+16363648,895576,Marcus Tavernier,Bournemouth,Liverpool FC,M,75,0,0,46
+16363648,998490,Evanilson,Bournemouth,Liverpool FC,F,90,0,0,35
+16363648,548188,Lewis Cook,Bournemouth,Liverpool FC,M,15,0,0,12
+16363648,855731,David Brooks,Bournemouth,Liverpool FC,M,15,0,0,18
+16363648,1096136,Daniel Jebbison,Bournemouth,Liverpool FC,F,15,0,0,9
+16363648,1154861,Ben Gannon-Doak,Bournemouth,Liverpool FC,F,2,0,0,3
+16363648,1476524,Alex Tóth,Bournemouth,Liverpool FC,M,2,0,0,3
+16363648,243609,Alisson,Liverpool FC,Bournemouth,G,90,0,0,53
+16363648,925097,Ronald Araújo,Liverpool FC,Bournemouth,D,90,0,0,77
+16363648,1445625,Jérémy Jacquet,Liverpool FC,Bournemouth,D,90,0,0,71
+16363648,151545,Virgil van Dijk,Liverpool FC,Bournemouth,D,90,0,0,92
+16363648,1097425,Miloš Kerkez,Liverpool FC,Bournemouth,D,90,0,0,63
+16363648,869856,Dominik Szoboszlai,Liverpool FC,Bournemouth,M,81,0,0,54
+16363648,895324,Alexis Mac Allister,Liverpool FC,Bournemouth,M,90,0,0,66
+16363648,862967,Cody Gakpo,Liverpool FC,Bournemouth,M,90,0,0,51
+16363648,1019322,Florian Wirtz,Liverpool FC,Bournemouth,M,71,0,0,53
+16363648,996952,Bradley Barcola,Liverpool FC,Bournemouth,M,72,0,0,27
+16363648,823941,Alexander Isak,Liverpool FC,Bournemouth,F,81,0,1,34
+16363648,1445945,Trey Nyoni,Liverpool FC,Bournemouth,M,19,0,0,16
+16363648,1145642,Víctor Muñoz,Liverpool FC,Bournemouth,F,18,0,0,13
+16363648,904897,Ryan Gravenberch,Liverpool FC,Bournemouth,M,9,0,0,10
+16363648,1403111,Lewis Koumas,Liverpool FC,Bournemouth,F,9,0,0,8
+16363866,980643,James Trafford,Leeds United,Crystal Palace,G,90,0,0,47
+16363866,827681,James Justin,Leeds United,Crystal Palace,D,90,0,0,58
+16363866,282229,Nico Elvedi,Leeds United,Crystal Palace,D,90,0,0,68
+16363866,1118177,Tarik Muharemović,Leeds United,Crystal Palace,D,90,0,0,89
+16363866,929132,Jayden Bogle,Leeds United,Crystal Palace,M,67,0,0,34
+16363866,847097,Ethan Ampadu,Leeds United,Crystal Palace,M,90,0,0,79
+16363866,871886,Ao Tanaka,Leeds United,Crystal Palace,M,68,0,0,39
+16363866,834308,Gabriel Gudmundsson,Leeds United,Crystal Palace,M,89,0,0,57
+16363866,889861,Anton Stach,Leeds United,Crystal Palace,F,90,0,0,55
+16363866,865523,Noah Okafor,Leeds United,Crystal Palace,F,76,0,0,34
+16363866,372344,Dominic Calvert-Lewin,Leeds United,Crystal Palace,F,90,1,0,28
+16363866,828639,Daniel James,Leeds United,Crystal Palace,F,23,0,0,11
+16363866,973431,Brenden Aaronson,Leeds United,Crystal Palace,M,22,0,0,17
+16363866,803185,Lukas Nmecha,Leeds United,Crystal Palace,F,14,0,0,4
+16363866,1146148,Jean-Mattéo Bahoya,Leeds United,Crystal Palace,F,1,0,0,4
+16363866,249859,Walter Benítez,Crystal Palace,Leeds United,G,90,0,0,32
+16363866,931844,Chris Richards,Crystal Palace,Leeds United,D,90,0,0,56
+16363866,804434,Takehiro Tomiyasu,Crystal Palace,Leeds United,D,45,0,0,26
+16363866,1471671,Jaydee Canvot,Crystal Palace,Leeds United,D,90,0,0,64
+16363866,1403362,Anan Khalaili,Crystal Palace,Leeds United,M,90,0,0,66
+16363866,959805,Quinten Timber,Crystal Palace,Leeds United,M,90,0,0,51
+16363866,1109771,Adam Wharton,Crystal Palace,Leeds United,M,90,0,0,79
+16363866,988275,Tyrick Mitchell,Crystal Palace,Leeds United,M,90,0,0,62
+16363866,794338,Daichi Kamada,Crystal Palace,Leeds United,F,90,1,0,57
+16363866,984624,Yéremy Pino,Crystal Palace,Leeds United,F,82,0,0,55
+16363866,876599,Jørgen Strand Larsen,Crystal Palace,Leeds United,F,82,0,0,28
+16363866,355796,Jefferson Lerma,Crystal Palace,Leeds United,M,45,1,0,31
+16363866,845286,Ismaïla Sarr,Crystal Palace,Leeds United,F,8,0,0,2
+16363866,858194,Eddie Nketiah,Crystal Palace,Leeds United,F,8,0,0,5
+16363867,824509,Gianluigi Donnarumma,Manchester City,Sunderland,G,90,0,0,37
+16363867,945122,Matheus Nunes,Manchester City,Sunderland,D,90,0,0,76
+16363867,318941,Rúben Dias,Manchester City,Sunderland,D,90,0,0,36
+16363867,877994,Marc Guéhi,Manchester City,Sunderland,D,90,0,0,70
+16363867,964994,Joško Gvardiol,Manchester City,Sunderland,D,90,0,0,51
+16363867,974505,Enzo Fernández,Manchester City,Sunderland,M,90,0,1,70
+16363867,994546,Elliot Anderson,Manchester City,Sunderland,M,90,0,0,85
+16363867,914309,Iliman Ndiaye,Manchester City,Sunderland,M,75,0,0,49
+16363867,979128,Rayan Cherki,Manchester City,Sunderland,M,85,0,1,82
+16363867,934354,Antoine Semenyo,Manchester City,Sunderland,M,90,0,2,51
+16363867,839956,Erling Haaland,Manchester City,Sunderland,F,90,1,1,25
+16363867,934386,Jérémy Doku,Manchester City,Sunderland,F,15,0,0,10
+16363867,1142703,Nico O'Reilly,Manchester City,Sunderland,D,11,1,0,12
+16363867,1012928,Robin Roefs,Sunderland,Manchester City,G,90,0,0,50
+16363867,780014,Nordi Mukiele,Sunderland,Manchester City,D,90,0,0,64
+16363867,794953,Kevin Danso,Sunderland,Manchester City,D,90,0,0,78
+16363867,958878,Daniel Ballard,Sunderland,Manchester City,D,90,1,0,52
+16363867,1894003,Dayann Methalie,Sunderland,Manchester City,D,90,0,0,56
+16363867,117777,Granit Xhaka,Sunderland,Manchester City,M,90,0,0,63
+16363867,1171539,Noah Sadiki,Sunderland,Manchester City,M,68,0,0,34
+16363867,128587,Thomas Meunier,Sunderland,Manchester City,M,79,0,0,31
+16363867,984014,Enzo Le Fée,Sunderland,Manchester City,M,90,0,0,44
+16363867,1116571,Nilson Angulo,Sunderland,Manchester City,M,60,2,0,25
+16363867,910048,Brian Brobbey,Sunderland,Manchester City,F,90,0,3,36
+16363867,1195784,Malick Fofana,Sunderland,Manchester City,F,30,2,0,16
+16363867,877980,Wilson Isidor,Sunderland,Manchester City,F,22,0,0,4
+16363867,989034,Trai Hume,Sunderland,Manchester City,D,11,0,0,9
+16363652,103335,Bernd Leno,Fulham,Manchester United,G,90,0,0,57
+16363652,329417,Timothy Castagne,Fulham,Manchester United,D,90,0,0,62
+16363652,988672,David Affengruber,Fulham,Manchester United,D,90,0,0,78
+16363652,861972,Calvin Bassey,Fulham,Manchester United,D,90,0,0,78
+16363652,803174,Antonee Robinson,Fulham,Manchester United,D,90,0,0,56
+16363652,793167,Sander Berge,Fulham,Manchester United,M,77,0,0,52
+16363652,1131449,Shea Charles,Fulham,Manchester United,M,90,0,0,58
+16363652,1065216,Oscar Bobb,Fulham,Manchester United,M,71,0,0,39
+16363652,1546231,Josh King,Fulham,Manchester United,M,80,1,0,40
+16363652,352770,Alex Iwobi,Fulham,Manchester United,M,71,1,0,50
+16363652,1402716,Gonzalo García,Fulham,Manchester United,F,80,1,0,17
+16363652,1402688,César Palacios,Fulham,Manchester United,M,19,0,0,12
+16363652,1112879,Kevin,Fulham,Manchester United,F,19,0,0,9
+16363652,1142211,Hugo Larsson,Fulham,Manchester United,M,13,0,0,8
+16363652,362682,Joachim Andersen,Fulham,Manchester United,D,10,0,0,8
+16363652,1015256,Rodrigo Muniz,Fulham,Manchester United,F,10,0,0,4
+16363652,964753,Senne Lammens,Manchester United,Fulham,G,90,0,0,32
+16363652,843200,Diogo Dalot,Manchester United,Fulham,D,90,0,0,69
+16363652,149380,Harry Maguire,Manchester United,Fulham,D,90,0,0,85
+16363652,859999,Lisandro Martínez,Manchester United,Fulham,D,90,0,0,97
+16363652,190839,Luke Shaw,Manchester United,Fulham,D,84,0,0,70
+16363652,1142175,Kobbie Mainoo,Manchester United,Fulham,M,80,0,0,75
+16363652,331737,Youri Tielemans,Manchester United,Fulham,M,90,0,0,90
+16363652,927083,Bryan Mbeumo,Manchester United,Fulham,M,90,0,0,61
+16363652,288205,Bruno Fernandes,Manchester United,Fulham,M,90,1,0,82
+16363652,814590,Marcus Rashford,Manchester United,Fulham,M,77,1,0,56
+16363652,886363,Matheus Cunha,Manchester United,Fulham,F,90,0,1,38
+16363652,917007,Joshua Zirkzee,Manchester United,Fulham,F,13,0,0,6
+16363652,836694,Mason Mount,Manchester United,Fulham,M,10,0,0,7
+16363652,1397168,Patrick Dorgu,Manchester United,Fulham,D,10,0,0,13
+16363871,581310,David Raya,Arsenal,Leeds United,G,90,0,0,47
+16363871,846036,Ben White,Arsenal,Leeds United,D,63,0,0,53
+16363871,827679,Ezri Konsa,Arsenal,Leeds United,D,90,0,0,71
+16363871,869792,Gabriel Magalhães,Arsenal,Leeds United,D,90,0,0,69
+16363871,957602,Riccardo Calafiori,Arsenal,Leeds United,D,82,0,1,44
+16363871,856714,Declan Rice,Arsenal,Leeds United,M,90,0,0,89
+16363871,1423711,Myles Lewis-Skelly,Arsenal,Leeds United,M,63,0,0,60
+16363871,934235,Bukayo Saka,Arsenal,Leeds United,M,90,1,0,56
+16363871,547410,Martin Ødegaard,Arsenal,Leeds United,M,89,1,0,75
+16363871,966547,Noni Madueke,Arsenal,Leeds United,M,90,0,0,59
+16363871,836705,Kai Havertz,Arsenal,Leeds United,F,63,1,0,23
+16363871,958959,Jurriën Timber,Arsenal,Leeds United,D,27,0,0,9
+16363871,866469,Bruno Guimarães,Arsenal,Leeds United,M,27,0,1,30
+16363871,804508,Viktor Gyökeres,Arsenal,Leeds United,F,27,0,0,12
+16363871,1002837,Piero Hincapié,Arsenal,Leeds United,D,8,0,0,11
+16363871,592010,Mikel Merino,Arsenal,Leeds United,M,1,0,0,2
+16363871,980643,James Trafford,Leeds United,Arsenal,G,90,0,0,65
+16363871,827681,James Justin,Leeds United,Arsenal,D,79,0,1,40
+16363871,282229,Nico Elvedi,Leeds United,Arsenal,D,86,0,0,33
+16363871,1118177,Tarik Muharemović,Leeds United,Arsenal,D,90,0,0,62
+16363871,929132,Jayden Bogle,Leeds United,Arsenal,M,86,1,0,38
+16363871,847097,Ethan Ampadu,Leeds United,Arsenal,M,90,0,0,62
+16363871,871886,Ao Tanaka,Leeds United,Arsenal,M,71,0,0,31
+16363871,834308,Gabriel Gudmundsson,Leeds United,Arsenal,M,90,0,0,42
+16363871,889861,Anton Stach,Leeds United,Arsenal,F,90,0,0,50
+16363871,865523,Noah Okafor,Leeds United,Arsenal,F,71,0,0,30
+16363871,372344,Dominic Calvert-Lewin,Leeds United,Arsenal,F,90,0,0,35
+16363871,355528,Harry Wilson,Leeds United,Arsenal,F,19,0,0,9
+16363871,973431,Brenden Aaronson,Leeds United,Arsenal,M,19,0,0,9
+16363871,803185,Lukas Nmecha,Leeds United,Arsenal,F,11,0,0,3
+16363871,886930,Jaka Bijol,Leeds United,Arsenal,D,10,0,0,13
+16363871,1146148,Jean-Mattéo Bahoya,Leeds United,Arsenal,F,10,0,0,4
+16363872,905351,Zion Suzuki,Aston Villa,Brentford,G,90,0,0,55
+16363872,833956,Matty Cash,Aston Villa,Brentford,D,90,0,0,69
+16363872,143334,Victor Lindelöf,Aston Villa,Brentford,D,90,0,0,63
+16363872,303638,Tyrone Mings,Aston Villa,Brentford,D,90,0,0,56
+16363872,965011,Matteo Ruggeri,Aston Villa,Brentford,D,45,0,0,25
+16363872,826204,Boubacar Kamara,Aston Villa,Brentford,M,90,0,0,71
+16363872,1015267,João Gomes,Aston Villa,Brentford,M,86,0,0,54
+16363872,250223,John McGinn,Aston Villa,Brentford,M,90,1,1,50
+16363872,783126,Emiliano Buendía,Aston Villa,Brentford,M,64,1,0,48
+16363872,1518931,Johan Manzambi,Aston Villa,Brentford,M,86,0,0,42
+16363872,1085381,Nicolas Jackson,Aston Villa,Brentford,F,90,0,1,35
+16363872,863653,Aaron Wan-Bissaka,Aston Villa,Brentford,D,45,0,0,29
+16363872,1590918,Ibrahim Mbaye,Aston Villa,Brentford,F,26,0,0,16
+16363872,98435,Ross Barkley,Aston Villa,Brentford,M,11,0,0,7
+16363872,1631879,Alysson,Aston Villa,Brentford,F,11,0,0,9
+16363872,827362,Caoimhin Kelleher,Brentford,Aston Villa,G,90,0,0,45
+16363872,1137431,Michael Kayode,Brentford,Aston Villa,D,90,0,0,53
+16363872,1474198,Jannik Schuster,Brentford,Aston Villa,D,45,0,0,25
+16363872,576384,Kristoffer Ajer,Brentford,Aston Villa,D,90,0,1,55
+16363872,1471764,El Hadji Malick Diouf,Brentford,Aston Villa,D,90,0,0,63
+16363872,1031258,Yehor Yarmoliuk,Brentford,Aston Villa,M,67,0,1,48
+16363872,814873,Vitaly Janelt,Brentford,Aston Villa,M,90,0,0,55
+16363872,1020680,Jaidon Anthony,Brentford,Aston Villa,M,85,1,0,33
+16363872,972421,Keane Lewis-Potter,Brentford,Aston Villa,M,67,0,0,26
+16363872,1006387,Kevin Schade,Brentford,Aston Villa,M,52,0,0,25
+16363872,1016907,Igor Thiago,Brentford,Aston Villa,F,90,1,0,34
+16363872,966869,Aaron Hickey,Brentford,Aston Villa,D,45,0,0,28
+16363872,1064697,Mamadou Sangare,Brentford,Aston Villa,M,38,0,0,35
+16363872,799251,Mathias Jensen,Brentford,Aston Villa,M,23,0,0,19
+16363872,1106451,Dango Ouattara,Brentford,Aston Villa,F,23,0,0,19
+16363872,113956,Callum Wilson,Brentford,Aston Villa,F,12,0,0,2
+16363873,158263,Emiliano Martínez,Chelsea,Bournemouth,G,90,0,0,56
+16363873,1403050,Josh Acheampong,Chelsea,Bournemouth,D,90,0,0,73
+16363873,879674,Maxence Lacroix,Chelsea,Bournemouth,D,90,0,0,62
+16363873,996911,Levi Colwill,Chelsea,Bournemouth,D,90,0,0,82
+16363873,879349,Pedro Neto,Chelsea,Bournemouth,M,83,1,0,46
+16363873,42694,Jordan Henderson,Chelsea,Bournemouth,M,90,0,2,79
+16363873,987650,Moisés Caicedo,Chelsea,Bournemouth,M,72,0,0,69
+16363873,1010421,Pep Chavarría,Chelsea,Bournemouth,M,90,0,0,59
+16363873,982780,Cole Palmer,Chelsea,Bournemouth,F,88,0,0,46
+16363873,948261,Morgan Rogers,Chelsea,Bournemouth,F,84,0,1,46
+16363873,975079,João Pedro,Chelsea,Bournemouth,F,72,0,2,25
+16363873,1397736,Marco Palestra,Chelsea,Bournemouth,D,18,0,0,8
+16363873,1069488,Roméo Lavia,Chelsea,Bournemouth,M,18,0,0,10
+16363873,33902,Danny Welbeck,Chelsea,Bournemouth,F,13,0,0,1
+16363873,1597265,Estêvão,Chelsea,Bournemouth,F,12,0,0,4
+16363873,996958,Malo Gusto,Chelsea,Bournemouth,D,8,0,0,2
+16363873,882604,Đorđe Petrović,Bournemouth,Chelsea,G,90,0,0,34
+16363873,44566,Adam Smith,Bournemouth,Chelsea,D,72,0,0,28
+16363873,1156586,James Hill,Bournemouth,Chelsea,D,90,0,0,91
+16363873,1006069,António Silva,Bournemouth,Chelsea,D,90,1,0,90
+16363873,999028,Adrien Truffert,Bournemouth,Chelsea,D,84,0,0,64
+16363873,800419,Tyler Adams,Bournemouth,Chelsea,M,90,0,0,66
+16363873,322391,Ryan Christie,Bournemouth,Chelsea,M,73,0,0,53
+16363873,855731,David Brooks,Bournemouth,Chelsea,M,45,0,0,15
+16363873,1464966,Rayan,Bournemouth,Chelsea,M,90,1,0,29
+16363873,895576,Marcus Tavernier,Bournemouth,Chelsea,M,72,0,0,47
+16363873,998490,Evanilson,Bournemouth,Chelsea,F,90,0,1,46
+16363873,1154861,Ben Gannon-Doak,Bournemouth,Chelsea,F,45,0,0,33
+16363873,1010655,Juanlu Sánchez,Bournemouth,Chelsea,M,18,0,0,17
+16363873,1154587,Álvaro Rodriguez,Bournemouth,Chelsea,F,18,0,0,12
+16363873,548188,Lewis Cook,Bournemouth,Chelsea,M,17,0,0,15
+16363873,1201520,Julio Soler,Bournemouth,Chelsea,D,12,0,0,2
+16363877,198038,Christian Walton,Ipswich Town,Fulham,G,90,0,0,44
+16363877,1930811,Abdoul Ouattara,Ipswich Town,Fulham,D,90,0,1,58
+16363877,825719,Issa Diop,Ipswich Town,Fulham,D,90,0,0,76
+16363877,856719,Dara O'Shea,Ipswich Town,Fulham,D,90,0,1,76
+16363877,963493,Leif Davis,Ipswich Town,Fulham,D,90,0,0,55
+16363877,371222,Saša Lukić,Ipswich Town,Fulham,M,90,0,0,85
+16363877,855845,Florentino Luís,Ipswich Town,Fulham,M,63,0,0,40
+16363877,832420,Daizen Maeda,Ipswich Town,Fulham,M,81,0,0,29
+16363877,973556,Julio Enciso,Ipswich Town,Fulham,M,71,0,0,34
+16363877,1014461,Jaden Philogene-Bidace,Ipswich Town,Fulham,M,63,0,0,28
+16363877,1128844,Emersonn,Ipswich Town,Fulham,F,71,1,0,33
+16363877,822600,Exequiel Palacios,Ipswich Town,Fulham,M,27,0,0,37
+16363877,921005,Jack Clarke,Ipswich Town,Fulham,F,27,0,0,30
+16363877,875137,Zian Flemming,Ipswich Town,Fulham,F,19,0,0,8
+16363877,190867,Chuba Akpom,Ipswich Town,Fulham,F,19,0,0,7
+16363877,1154598,Sindre Walle Egeli,Ipswich Town,Fulham,F,9,0,0,4
+16363877,103335,Bernd Leno,Fulham,Ipswich Town,G,90,0,0,42
+16363877,190877,Kenny Tete,Fulham,Ipswich Town,D,90,0,0,72
+16363877,988672,David Affengruber,Fulham,Ipswich Town,D,90,0,0,97
+16363877,861972,Calvin Bassey,Fulham,Ipswich Town,D,90,0,0,77
+16363877,836698,Ryan Sessegnon,Fulham,Ipswich Town,D,90,0,1,63
+16363877,793167,Sander Berge,Fulham,Ipswich Town,M,90,0,0,73
+16363877,1131449,Shea Charles,Fulham,Ipswich Town,M,71,0,0,55
+16363877,1065216,Oscar Bobb,Fulham,Ipswich Town,M,76,1,0,41
+16363877,1546231,Josh King,Fulham,Ipswich Town,M,76,0,0,34
+16363877,352770,Alex Iwobi,Fulham,Ipswich Town,M,87,0,0,69
+16363877,1402716,Gonzalo García,Fulham,Ipswich Town,F,87,2,0,36
+16363877,1142683,Manuel Ángel Morán,Fulham,Ipswich Town,M,19,0,0,8
+16363877,1112879,Kevin,Fulham,Ipswich Town,F,14,0,0,10
+16363877,1015256,Rodrigo Muniz,Fulham,Ipswich Town,F,14,0,0,5
+16363877,1142211,Hugo Larsson,Fulham,Ipswich Town,M,10,0,0,3
+16363877,867445,Emile Smith Rowe,Fulham,Ipswich Town,M,10,0,0,3
+16363880,1012928,Robin Roefs,Sunderland,Brighton & Hove Albion,G,90,0,0,52
+16363880,989034,Trai Hume,Sunderland,Brighton & Hove Albion,D,90,0,0,73
+16363880,780014,Nordi Mukiele,Sunderland,Brighton & Hove Albion,D,90,0,0,86
+16363880,794953,Kevin Danso,Sunderland,Brighton & Hove Albion,D,90,0,0,76
+16363880,831424,Reinildo Mandava,Sunderland,Brighton & Hove Albion,D,73,0,0,79
+16363880,117777,Granit Xhaka,Sunderland,Brighton & Hove Albion,M,90,0,0,96
+16363880,1171539,Noah Sadiki,Sunderland,Brighton & Hove Albion,M,90,0,0,69
+16363880,128587,Thomas Meunier,Sunderland,Brighton & Hove Albion,M,34,1,0,21
+16363880,984014,Enzo Le Fée,Sunderland,Brighton & Hove Albion,M,81,0,0,51
+16363880,1116571,Nilson Angulo,Sunderland,Brighton & Hove Albion,M,73,0,0,26
+16363880,877980,Wilson Isidor,Sunderland,Brighton & Hove Albion,F,90,0,0,21
+16363880,1195784,Malick Fofana,Sunderland,Brighton & Hove Albion,F,56,0,0,40
+16363880,1894003,Dayann Methalie,Sunderland,Brighton & Hove Albion,D,17,0,0,23
+16363880,2138729,Jocelin Ta Bi,Sunderland,Brighton & Hove Albion,F,17,0,0,15
+16363880,2057385,Juan Riquelme Angulo,Sunderland,Brighton & Hove Albion,F,9,0,0,1
+16363880,994363,Bart Verbruggen,Brighton & Hove Albion,Sunderland,G,90,0,0,52
+16363880,825844,Ferdi Kadıoğlu,Brighton & Hove Albion,Sunderland,D,90,0,0,53
+16363880,1405212,Luka Vušković,Brighton & Hove Albion,Sunderland,D,90,1,0,45
+16363880,836675,Pascal Struijk,Brighton & Hove Albion,Sunderland,D,57,1,0,38
+16363880,788784,Olivier Boscagli,Brighton & Hove Albion,Sunderland,D,68,0,0,44
+16363880,48480,Pascal Groß,Brighton & Hove Albion,Sunderland,M,90,0,0,54
+16363880,1464641,Chema Andrés,Brighton & Hove Albion,Sunderland,M,90,0,0,47
+16363880,1065588,Diego Gómez,Brighton & Hove Albion,Sunderland,M,88,1,0,57
+16363880,1036269,Yasin Ayari,Brighton & Hove Albion,Sunderland,M,88,0,0,25
+16363880,997152,Maxim De Cuyper,Brighton & Hove Albion,Sunderland,M,68,0,1,30
+16363880,1416535,Charalampos Kostoulas,Brighton & Hove Albion,Sunderland,F,60,0,0,28
+16363880,115365,Lewis Dunk,Brighton & Hove Albion,Sunderland,D,30,0,0,14
+16363880,988333,Costinha,Brighton & Hove Albion,Sunderland,D,22,0,0,9
+16363880,1568186,Malick Yalcouyé,Brighton & Hove Albion,Sunderland,M,22,0,0,16
+16363880,1049534,Jaouen Hadjam,Brighton & Hove Albion,Sunderland,D,10,0,1,8
+16363880,946695,Georginio Rutter,Brighton & Hove Albion,Sunderland,F,10,0,0,4
+16363879,964753,Senne Lammens,Manchester United,Tottenham Hotspur,G,90,0,0,35
+16363879,1153315,Leny Yoro,Manchester United,Tottenham Hotspur,D,59,0,0,43
+16363879,149380,Harry Maguire,Manchester United,Tottenham Hotspur,D,90,0,0,62
+16363879,859999,Lisandro Martínez,Manchester United,Tottenham Hotspur,D,90,0,0,91
+16363879,190839,Luke Shaw,Manchester United,Tottenham Hotspur,D,89,0,0,69
+16363879,331737,Youri Tielemans,Manchester United,Tottenham Hotspur,M,59,0,0,43
+16363879,1142175,Kobbie Mainoo,Manchester United,Tottenham Hotspur,M,90,0,0,89
+16363879,971037,Amad Diallo,Manchester United,Tottenham Hotspur,M,59,0,0,20
+16363879,288205,Bruno Fernandes,Manchester United,Tottenham Hotspur,M,90,0,0,65
+16363879,886363,Matheus Cunha,Manchester United,Tottenham Hotspur,M,89,0,0,56
+16363879,927083,Bryan Mbeumo,Manchester United,Tottenham Hotspur,F,90,1,1,31
+16363879,843200,Diogo Dalot,Manchester United,Tottenham Hotspur,D,31,0,0,18
+16363879,1199043,Carlos Baleba,Manchester United,Tottenham Hotspur,M,31,0,0,32
+16363879,917007,Joshua Zirkzee,Manchester United,Tottenham Hotspur,F,31,0,0,27
+16363879,1445799,Ayden Heaven,Manchester United,Tottenham Hotspur,D,1,0,0,3
+16363879,814590,Marcus Rashford,Manchester United,Tottenham Hotspur,F,1,0,0,3
+16363879,1031251,Antonín Kinský,Tottenham Hotspur,Manchester United,G,90,0,0,49
+16363879,1142335,Archie Gray,Tottenham Hotspur,Manchester United,D,90,0,0,57
+16363879,962012,Jan Paul van Hecke,Tottenham Hotspur,Manchester United,D,90,0,0,85
+16363879,830659,Marcos Senesi,Tottenham Hotspur,Manchester United,D,89,0,0,80
+16363879,983572,Destiny Udogie,Tottenham Hotspur,Manchester United,D,74,0,0,41
+16363879,1391251,Lucas Bergvall,Tottenham Hotspur,Manchester United,M,66,0,0,38
+16363879,892673,Sandro Tonali,Tottenham Hotspur,Manchester United,M,90,0,0,79
+16363879,905163,Mohammed Kudus,Tottenham Hotspur,Manchester United,M,66,0,0,34
+16363879,904970,Conor Gallagher,Tottenham Hotspur,Manchester United,M,74,1,0,66
+16363879,1046795,Sávio,Tottenham Hotspur,Manchester United,M,90,0,0,56
+16363879,361420,Dominic Solanke,Tottenham Hotspur,Manchester United,F,90,2,1,31
+16363879,791190,Rodrigo Bentancur,Tottenham Hotspur,Manchester United,M,12,0,0,3
+16363879,873554,Omar Marmoush,Tottenham Hotspur,Manchester United,F,24,0,0,14
+16363879,998247,Micky van de Ven,Tottenham Hotspur,Manchester United,D,16,0,0,10
+16363879,356398,James Maddison,Tottenham Hotspur,Manchester United,M,16,0,0,17
+16363879,1142562,Mateus Fernandes,Tottenham Hotspur,Manchester United,M,11,0,0,15
+16363875,249859,Walter Benítez,Crystal Palace,Nottingham Forest,G,90,0,0,51
+16363875,355796,Jefferson Lerma,Crystal Palace,Nottingham Forest,D,72,1,1,55
+16363875,931844,Chris Richards,Crystal Palace,Nottingham Forest,D,90,0,0,65
+16363875,1471671,Jaydee Canvot,Crystal Palace,Nottingham Forest,D,90,0,0,53
+16363875,1403362,Anan Khalaili,Crystal Palace,Nottingham Forest,M,90,0,0,46
+16363875,1109771,Adam Wharton,Crystal Palace,Nottingham Forest,M,90,0,0,66
+16363875,959805,Quinten Timber,Crystal Palace,Nottingham Forest,M,90,0,0,62
+16363875,988275,Tyrick Mitchell,Crystal Palace,Nottingham Forest,M,90,0,0,54
+16363875,794338,Daichi Kamada,Crystal Palace,Nottingham Forest,F,89,0,1,37
+16363875,984624,Yéremy Pino,Crystal Palace,Nottingham Forest,F,83,0,1,48
+16363875,876599,Jørgen Strand Larsen,Crystal Palace,Nottingham Forest,F,83,1,0,33
+16363875,1634980,Honest Ahanor,Crystal Palace,Nottingham Forest,D,18,0,0,9
+16363875,845286,Ismaïla Sarr,Crystal Palace,Nottingham Forest,F,12,0,0,5
+16363875,858194,Eddie Nketiah,Crystal Palace,Nottingham Forest,F,12,0,0,2
+16363875,935543,Dwight McNeil,Crystal Palace,Nottingham Forest,F,1,0,0,2
+16363875,78152,Matz Sels,Nottingham Forest,Crystal Palace,G,90,0,0,33
+16363875,800417,Ola Aina,Nottingham Forest,Crystal Palace,D,83,0,0,74
+16363875,1394342,Ousmane Diomande,Nottingham Forest,Crystal Palace,D,90,0,0,69
+16363875,1199282,Murillo,Nottingham Forest,Crystal Palace,D,90,0,0,84
+16363875,870360,Daniel Muñoz,Nottingham Forest,Crystal Palace,M,90,1,0,75
+16363875,791079,Xaver Schlager,Nottingham Forest,Crystal Palace,M,66,0,0,44
+16363875,1003334,James McAtee,Nottingham Forest,Crystal Palace,M,90,0,0,69
+16363875,927356,Neco Williams,Nottingham Forest,Crystal Palace,M,90,0,0,74
+16363875,865912,Morgan Gibbs-White,Nottingham Forest,Crystal Palace,F,90,0,0,80
+16363875,944327,Dan Ndoye,Nottingham Forest,Crystal Palace,F,72,3,1,38
+16363875,997087,Liam Delap,Nottingham Forest,Crystal Palace,F,72,2,0,20
+16363875,843754,Ibrahim Sangaré,Nottingham Forest,Crystal Palace,M,24,0,0,30
+16363875,867442,Callum Hudson Odoi,Nottingham Forest,Crystal Palace,F,18,0,0,17
+16363875,50480,Chris Wood,Nottingham Forest,Crystal Palace,F,18,1,0,5
+16363875,954061,Arnaud Kalimuendo,Nottingham Forest,Crystal Palace,F,12,0,0,6
+16363876,953414,Konstantinos Tzolakis,Hull City,Everton,G,90,0,0,56
+16363876,827587,Lewie Coyle,Hull City,Everton,D,90,0,0,40
+16363876,307274,Semi Ajayi,Hull City,Everton,D,90,0,0,39
+16363876,100578,John Egan,Hull City,Everton,D,90,0,0,29
+16363876,1458073,Nobel Mendy,Hull City,Everton,D,90,1,0,43
+16363876,931304,Ryan Giles,Hull City,Everton,D,64,0,0,30
+16363876,945806,Joe Gelhardt,Hull City,Everton,M,64,0,1,33
+16363876,140479,Matt Crooks,Hull City,Everton,M,65,0,0,27
+16363876,864474,Regan Slater,Hull City,Everton,M,75,0,0,36
+16363876,911039,Sorba Thomas,Hull City,Everton,M,86,0,0,51
+16363876,367228,Oliver McBurnie,Hull City,Everton,F,90,0,0,31
+16363876,1125839,Mohamed Belloumi,Hull City,Everton,F,26,0,1,13
+16363876,1383695,Elliot Stroud,Hull City,Everton,M,26,0,0,20
+16363876,1085950,Tim Iroegbunam,Hull City,Everton,M,25,0,0,15
+16363876,926560,Hidemasa Morita,Hull City,Everton,M,15,0,0,10
+16363876,1514800,Robinio Vaz,Hull City,Everton,F,10,0,0,2
+16363876,138530,Jordan Pickford,Everton,Hull City,G,90,0,0,46
+16363876,352768,Ainsley Maitland-Niles,Everton,Hull City,D,78,0,0,50
+16363876,145188,James Tarkowski,Everton,Hull City,D,90,0,0,100
+16363876,110846,Michael Keane,Everton,Hull City,D,90,0,0,82
+16363876,979563,Jarrad Branthwaite,Everton,Hull City,D,90,1,0,90
+16363876,927361,James Garner,Everton,Hull City,M,90,0,0,108
+16363876,1627560,Harrison Armstrong,Everton,Hull City,M,78,1,0,54
+16363876,1085180,Brennan Johnson,Everton,Hull City,M,66,0,0,27
+16363876,861970,Kiernan Dewsbury-Hall,Everton,Hull City,M,90,0,1,78
+16363876,189061,Jack Grealish,Everton,Hull City,M,86,0,0,56
+16363876,1395746,Thierno Barry,Everton,Hull City,F,86,4,1,27
+16363876,1403061,Tyrique George,Everton,Hull City,F,24,0,0,21
+16363876,998253,Jake O'Brien,Everton,Hull City,D,12,0,0,19
+16363876,1008471,Hayden Hackney,Everton,Hull City,M,12,0,0,21
+16363876,1174472,Tyler Dibling,Everton,Hull City,F,10,0,0,8
+16363876,1017392,Carlos Alcaraz,Everton,Hull City,M,10,0,0,6
+16363878,243609,Alisson,Liverpool FC,Manchester City,G,90,0,0,31
+16363878,925097,Ronald Araújo,Liverpool FC,Manchester City,D,75,0,0,39
+16363878,1445625,Jérémy Jacquet,Liverpool FC,Manchester City,D,88,0,0,35
+16363878,151545,Virgil van Dijk,Liverpool FC,Manchester City,D,90,0,0,62
+16363878,1097425,Miloš Kerkez,Liverpool FC,Manchester City,D,90,0,0,51
+16363878,904897,Ryan Gravenberch,Liverpool FC,Manchester City,M,62,0,0,39
+16363878,895324,Alexis Mac Allister,Liverpool FC,Manchester City,M,90,0,0,61
+16363878,1145642,Víctor Muñoz,Liverpool FC,Manchester City,M,90,0,0,33
+16363878,1019322,Florian Wirtz,Liverpool FC,Manchester City,M,66,0,0,46
+16363878,996952,Bradley Barcola,Liverpool FC,Manchester City,M,88,0,0,38
+16363878,1403111,Lewis Koumas,Liverpool FC,Manchester City,F,75,0,0,16
+16363878,1445945,Trey Nyoni,Liverpool FC,Manchester City,M,24,0,0,8
+16363878,970361,Jeremie Frimpong,Liverpool FC,Manchester City,D,15,0,0,2
+16363878,1881902,Rio Ngumoha,Liverpool FC,Manchester City,F,15,0,0,1
+16363878,318927,Joe Gomez,Liverpool FC,Manchester City,D,2,0,0,3
+16363878,845386,Federico Chiesa,Liverpool FC,Manchester City,F,2,0,0,0
+16363878,824509,Gianluigi Donnarumma,Manchester City,Liverpool FC,G,90,0,0,51
+16363878,945122,Matheus Nunes,Manchester City,Liverpool FC,D,90,0,0,45
+16363878,318941,Rúben Dias,Manchester City,Liverpool FC,D,90,0,0,75
+16363878,877994,Marc Guéhi,Manchester City,Liverpool FC,D,90,0,0,83
+16363878,1142703,Nico O'Reilly,Manchester City,Liverpool FC,D,66,1,0,41
+16363878,994546,Elliot Anderson,Manchester City,Liverpool FC,M,90,0,0,104
+16363878,974505,Enzo Fernández,Manchester City,Liverpool FC,M,80,0,0,89
+16363878,914309,Iliman Ndiaye,Manchester City,Liverpool FC,M,56,0,0,26
+16363878,979128,Rayan Cherki,Manchester City,Liverpool FC,M,90,0,1,87
+16363878,934354,Antoine Semenyo,Manchester City,Liverpool FC,M,90,0,0,43
+16363878,839956,Erling Haaland,Manchester City,Liverpool FC,F,80,1,1,19
+16363878,934386,Jérémy Doku,Manchester City,Liverpool FC,F,34,0,1,41
+16363878,964994,Joško Gvardiol,Manchester City,Liverpool FC,D,24,0,0,15
+16363878,1564180,Ayyoub Bouaddi,Manchester City,Liverpool FC,M,10,0,0,20
+16363878,1835889,Allan,Manchester City,Liverpool FC,F,10,0,0,6
+16363874,1005800,Carl Rushworth,Coventry City,Newcastle United,G,90,0,0,55
+16363874,948723,Milan van Ewijk,Coventry City,Newcastle United,D,90,0,0,47
+16363874,1033352,Bobby Thomas,Coventry City,Newcastle United,D,90,0,0,50
+16363874,855864,Ethan Pinnock,Coventry City,Newcastle United,D,90,0,0,28
+16363874,791985,Jay DaSilva,Coventry City,Newcastle United,D,90,0,0,36
+16363874,1986794,Caleb Yirenkyi,Coventry City,Newcastle United,M,78,0,0,37
+16363874,340713,Matt Grimes,Coventry City,Newcastle United,M,83,0,0,42
+16363874,846061,Brandon Thomas-Asante,Coventry City,Newcastle United,M,90,0,0,33
+16363874,979565,Jack Rudoni,Coventry City,Newcastle United,M,83,0,1,38
+16363874,861315,Ephron Mason-Clark,Coventry City,Newcastle United,M,61,0,0,16
+16363874,1514916,Sidiki Cherif,Coventry City,Newcastle United,F,78,1,1,21
+16363874,978927,Tatsuhiro Sakamoto,Coventry City,Newcastle United,M,29,0,0,16
+16363874,885864,Frank Onyeka,Coventry City,Newcastle United,M,12,0,0,3
+16363874,991614,Ellis Simms,Coventry City,Newcastle United,F,12,0,1,3
+16363874,1402791,Stephen Mfuni,Coventry City,Newcastle United,D,12,0,1,4
+16363874,837011,Victor Torp,Coventry City,Newcastle United,M,12,0,0,3
+16363874,963744,Lukáš Horníček,Newcastle United,Coventry City,G,90,0,0,37
+16363874,1400650,Lewis Miley,Newcastle United,Coventry City,D,59,0,0,50
+16363874,1014286,Malick Thiaw,Newcastle United,Coventry City,D,90,0,0,88
+16363874,910046,Sven Botman,Newcastle United,Coventry City,D,90,0,1,92
+16363874,1136730,Lewis Hall,Newcastle United,Coventry City,D,90,0,0,99
+16363874,954056,Nico González,Newcastle United,Coventry City,M,90,0,0,81
+16363874,888550,Joe Willock,Newcastle United,Coventry City,M,59,0,0,38
+16363874,372336,Jacob Murphy,Newcastle United,Coventry City,M,59,1,0,29
+16363874,805123,Yoane Wissa,Newcastle United,Coventry City,M,78,0,0,37
+16363874,855647,Harvey Barnes,Newcastle United,Coventry City,M,90,0,0,42
+16363874,1149144,Matías Fernández-Pardo,Newcastle United,Coventry City,F,90,2,0,41
+16363874,1102791,Amar Dedić,Newcastle United,Coventry City,D,31,0,0,29
+16363874,560128,Joelinton,Newcastle United,Coventry City,M,31,0,0,28
+16363874,1568123,Bazoumana Touré,Newcastle United,Coventry City,F,30,0,0,26
+16363874,1122603,William Osula,Newcastle United,Coventry City,F,12,0,0,5
+16363874,99090,Dan Burn,Newcastle United,Coventry City,D,1,0,0,3
+16363884,138530,Jordan Pickford,Everton,Chelsea,G,90,0,0,40
+16363884,352768,Ainsley Maitland-Niles,Everton,Chelsea,D,55,0,0,36
+16363884,145188,James Tarkowski,Everton,Chelsea,D,90,0,0,71
+16363884,979563,Jarrad Branthwaite,Everton,Chelsea,D,90,0,0,62
+16363884,876643,Vitaliy Mykolenko,Everton,Chelsea,D,90,0,0,81
+16363884,1627560,Harrison Armstrong,Everton,Chelsea,M,85,0,0,31
+16363884,927361,James Garner,Everton,Chelsea,M,90,0,0,66
+16363884,1064082,Merlin Röhl,Everton,Chelsea,M,90,0,0,39
+16363884,861970,Kiernan Dewsbury-Hall,Everton,Chelsea,M,90,0,0,48
+16363884,189061,Jack Grealish,Everton,Chelsea,M,85,0,0,42
+16363884,1395746,Thierno Barry,Everton,Chelsea,F,90,1,0,21
+16363884,1403061,Tyrique George,Everton,Chelsea,F,35,0,0,35
+16363884,135256,Christian Nørgaard,Everton,Chelsea,M,19,0,0,13
+16363884,1085180,Brennan Johnson,Everton,Chelsea,F,19,1,0,0
+16363884,158263,Emiliano Martínez,Chelsea,Everton,G,75,0,0,34
+16363884,1403050,Josh Acheampong,Chelsea,Everton,D,90,0,0,59
+16363884,879674,Maxence Lacroix,Chelsea,Everton,D,90,0,0,55
+16363884,996911,Levi Colwill,Chelsea,Everton,D,90,0,0,61
+16363884,1153079,Jorrel Hato,Chelsea,Everton,D,89,0,0,51
+16363884,987650,Moisés Caicedo,Chelsea,Everton,M,89,0,0,72
+16363884,42694,Jordan Henderson,Chelsea,Everton,M,90,0,0,76
+16363884,879349,Pedro Neto,Chelsea,Everton,M,89,0,2,48
+16363884,982780,Cole Palmer,Chelsea,Everton,M,90,0,0,57
+16363884,948261,Morgan Rogers,Chelsea,Everton,M,90,1,0,69
+16363884,975079,João Pedro,Chelsea,Everton,F,89,1,0,36
+16363884,1149148,Mike Penders,Chelsea,Everton,G,15,0,0,18
+16363884,1397736,Marco Palestra,Chelsea,Everton,D,12,0,0,3
+16363884,1403165,Geovany Quenda,Chelsea,Everton,M,1,0,0,0
+16363884,1069488,Roméo Lavia,Chelsea,Everton,M,12,0,0,9
+16363884,33902,Danny Welbeck,Chelsea,Everton,F,12,0,0,3
+16363882,827362,Caoimhin Kelleher,Brentford,Liverpool FC,G,90,0,0,56
+16363882,1137431,Michael Kayode,Brentford,Liverpool FC,D,90,0,0,54
+16363882,924378,Sepp van den Berg,Brentford,Liverpool FC,D,71,0,0,27
+16363882,576384,Kristoffer Ajer,Brentford,Liverpool FC,D,90,0,0,50
+16363882,972421,Keane Lewis-Potter,Brentford,Liverpool FC,D,77,0,1,30
+16363882,1031258,Yehor Yarmoliuk,Brentford,Liverpool FC,M,53,0,0,23
+16363882,814873,Vitaly Janelt,Brentford,Liverpool FC,M,90,0,0,54
+16363882,1106451,Dango Ouattara,Brentford,Liverpool FC,M,45,0,0,21
+16363882,799251,Mathias Jensen,Brentford,Liverpool FC,M,45,0,0,26
+16363882,1020680,Jaidon Anthony,Brentford,Liverpool FC,M,77,0,0,34
+16363882,1016907,Igor Thiago,Brentford,Liverpool FC,F,90,1,0,51
+16363882,1006387,Kevin Schade,Brentford,Liverpool FC,M,45,0,0,26
+16363882,1064697,Mamadou Sangare,Brentford,Liverpool FC,M,45,0,0,27
+16363882,966869,Aaron Hickey,Brentford,Liverpool FC,D,19,0,0,14
+16363882,1471764,El Hadji Malick Diouf,Brentford,Liverpool FC,D,13,0,0,18
+16363882,907072,Mikkel Damsgaard,Brentford,Liverpool FC,M,13,0,0,24
+16363882,243609,Alisson,Liverpool FC,Brentford,G,90,0,0,29
+16363882,925097,Ronald Araújo,Liverpool FC,Brentford,D,45,0,0,25
+16363882,1445625,Jérémy Jacquet,Liverpool FC,Brentford,D,90,0,0,72
+16363882,151545,Virgil van Dijk,Liverpool FC,Brentford,D,90,0,0,80
+16363882,1097425,Miloš Kerkez,Liverpool FC,Brentford,D,90,0,0,77
+16363882,895324,Alexis Mac Allister,Liverpool FC,Brentford,M,90,0,0,101
+16363882,869856,Dominik Szoboszlai,Liverpool FC,Brentford,M,32,0,0,33
+16363882,1145642,Víctor Muñoz,Liverpool FC,Brentford,M,79,0,1,39
+16363882,1019322,Florian Wirtz,Liverpool FC,Brentford,M,90,0,0,77
+16363882,996952,Bradley Barcola,Liverpool FC,Brentford,M,90,1,0,64
+16363882,823941,Alexander Isak,Liverpool FC,Brentford,F,79,0,1,16
+16363882,1445945,Trey Nyoni,Liverpool FC,Brentford,M,58,0,0,57
+16363882,970361,Jeremie Frimpong,Liverpool FC,Brentford,D,7,0,0,5
+16363882,1881902,Rio Ngumoha,Liverpool FC,Brentford,F,38,0,0,22
+16363882,318927,Joe Gomez,Liverpool FC,Brentford,D,11,0,0,14
+16363882,1403111,Lewis Koumas,Liverpool FC,Brentford,F,11,0,0,5
+16363885,103335,Bernd Leno,Fulham,Hull City,G,90,0,0,53
+16363885,329417,Timothy Castagne,Fulham,Hull City,D,90,0,0,123
+16363885,988672,David Affengruber,Fulham,Hull City,D,90,0,0,122
+16363885,861972,Calvin Bassey,Fulham,Hull City,D,90,1,0,101
+16363885,803174,Antonee Robinson,Fulham,Hull City,D,90,0,0,74
+16363885,793167,Sander Berge,Fulham,Hull City,M,90,0,0,116
+16363885,1131449,Shea Charles,Fulham,Hull City,M,90,0,0,82
+16363885,1065216,Oscar Bobb,Fulham,Hull City,M,78,0,0,56
+16363885,1546231,Josh King,Fulham,Hull City,M,78,1,0,73
+16363885,352770,Alex Iwobi,Fulham,Hull City,M,90,1,1,85
+16363885,1402716,Gonzalo García,Fulham,Hull City,F,85,1,0,33
+16363885,836698,Ryan Sessegnon,Fulham,Hull City,M,16,0,0,10
+16363885,82566,Tom Cairney,Fulham,Hull City,M,12,0,0,25
+16363885,1402688,César Palacios,Fulham,Hull City,M,12,0,0,8
+16363885,953414,Konstantinos Tzolakis,Hull City,Fulham,G,90,0,0,54
+16363885,827587,Lewie Coyle,Hull City,Fulham,D,90,0,0,25
+16363885,307274,Semi Ajayi,Hull City,Fulham,D,90,0,0,43
+16363885,100578,John Egan,Hull City,Fulham,D,90,0,0,44
+16363885,1646783,Lucas Herrington,Hull City,Fulham,D,45,0,0,25
+16363885,1087514,Brooke Norton-Cuffy,Hull City,Fulham,D,68,0,0,27
+16363885,1125839,Mohamed Belloumi,Hull City,Fulham,M,90,0,0,47
+16363885,140479,Matt Crooks,Hull City,Fulham,M,68,0,0,23
+16363885,864474,Regan Slater,Hull City,Fulham,M,75,0,0,25
+16363885,911039,Sorba Thomas,Hull City,Fulham,M,68,0,0,20
+16363885,367228,Oliver McBurnie,Hull City,Fulham,F,90,0,0,17
+16363885,1085950,Tim Iroegbunam,Hull City,Fulham,M,45,0,0,11
+16363885,931304,Ryan Giles,Hull City,Fulham,D,22,0,0,16
+16363885,945806,Joe Gelhardt,Hull City,Fulham,F,22,0,0,8
+16363885,1514800,Robinio Vaz,Hull City,Fulham,F,22,0,0,8
+16363885,926560,Hidemasa Morita,Hull City,Fulham,M,15,0,0,13
+16363887,824509,Gianluigi Donnarumma,Manchester City,Ipswich Town,G,90,0,0,33
+16363887,945122,Matheus Nunes,Manchester City,Ipswich Town,D,76,0,0,105
+16363887,318941,Rúben Dias,Manchester City,Ipswich Town,D,90,0,0,134
+16363887,877994,Marc Guéhi,Manchester City,Ipswich Town,D,90,0,0,126
+16363887,1142703,Nico O'Reilly,Manchester City,Ipswich Town,D,61,1,0,45
+16363887,136710,Mateo Kovačić,Manchester City,Ipswich Town,M,50,0,0,63
+16363887,1564180,Ayyoub Bouaddi,Manchester City,Ipswich Town,M,90,0,0,93
+16363887,914309,Iliman Ndiaye,Manchester City,Ipswich Town,M,90,1,0,87
+16363887,859765,Phil Foden,Manchester City,Ipswich Town,M,77,0,1,74
+16363887,934386,Jérémy Doku,Manchester City,Ipswich Town,M,77,0,0,63
+16363887,839956,Erling Haaland,Manchester City,Ipswich Town,F,90,0,2,27
+16363887,974505,Enzo Fernández,Manchester City,Ipswich Town,M,40,1,0,43
+16363887,964994,Joško Gvardiol,Manchester City,Ipswich Town,D,29,0,0,19
+16363887,1194333,Abdukodir Khusanov,Manchester City,Ipswich Town,D,14,0,0,13
+16363887,994546,Elliot Anderson,Manchester City,Ipswich Town,M,13,0,0,16
+16363887,934354,Antoine Semenyo,Manchester City,Ipswich Town,F,13,0,0,7
+16363887,198038,Christian Walton,Ipswich Town,Manchester City,G,90,0,0,34
+16363887,856719,Dara O'Shea,Ipswich Town,Manchester City,D,90,0,0,52
+16363887,825719,Issa Diop,Ipswich Town,Manchester City,D,90,0,0,45
+16363887,990821,Jacob Greaves,Ipswich Town,Manchester City,D,89,0,0,39
+16363887,1930811,Abdoul Ouattara,Ipswich Town,Manchester City,M,90,0,0,52
+16363887,855845,Florentino Luís,Ipswich Town,Manchester City,M,71,0,0,30
+16363887,822600,Exequiel Palacios,Ipswich Town,Manchester City,M,90,0,0,76
+16363887,963493,Leif Davis,Ipswich Town,Manchester City,M,90,0,0,48
+16363887,832420,Daizen Maeda,Ipswich Town,Manchester City,F,71,0,1,18
+16363887,973556,Julio Enciso,Ipswich Town,Manchester City,F,78,0,0,38
+16363887,1128844,Emersonn,Ipswich Town,Manchester City,F,78,1,0,27
+16363887,856495,Azor Matusiwa,Ipswich Town,Manchester City,M,19,0,0,14
+16363887,1103589,Abdul Fatawu Issahaku,Ipswich Town,Manchester City,F,19,0,0,19
+16363887,190867,Chuba Akpom,Ipswich Town,Manchester City,F,12,0,0,11
+16363887,875137,Zian Flemming,Ipswich Town,Manchester City,F,12,0,1,8
+16363887,921005,Jack Clarke,Ipswich Town,Manchester City,F,12,0,0,5
+16363888,963744,Lukáš Horníček,Newcastle United,Aston Villa,G,90,0,0,29
+16363888,1400650,Lewis Miley,Newcastle United,Aston Villa,D,90,0,0,64
+16363888,1014286,Malick Thiaw,Newcastle United,Aston Villa,D,90,0,0,77
+16363888,910046,Sven Botman,Newcastle United,Aston Villa,D,90,0,0,77
+16363888,1136730,Lewis Hall,Newcastle United,Aston Villa,D,90,0,0,72
+16363888,560128,Joelinton,Newcastle United,Aston Villa,M,89,0,0,51
+16363888,954056,Nico González,Newcastle United,Aston Villa,M,90,0,0,81
+16363888,1149144,Matías Fernández-Pardo,Newcastle United,Aston Villa,M,56,0,0,19
+16363888,888550,Joe Willock,Newcastle United,Aston Villa,M,56,0,0,32
+16363888,855647,Harvey Barnes,Newcastle United,Aston Villa,M,90,0,0,52
+16363888,805123,Yoane Wissa,Newcastle United,Aston Villa,F,90,0,0,35
+16363888,1568123,Bazoumana Touré,Newcastle United,Aston Villa,F,34,0,0,27
+16363888,1122603,William Osula,Newcastle United,Aston Villa,F,34,0,0,6
+16363888,99090,Dan Burn,Newcastle United,Aston Villa,D,1,0,0,4
+16363888,905351,Zion Suzuki,Aston Villa,Newcastle United,G,90,0,0,65
+16363888,833956,Matty Cash,Aston Villa,Newcastle United,D,90,0,0,67
+16363888,143334,Victor Lindelöf,Aston Villa,Newcastle United,D,90,0,0,69
+16363888,303638,Tyrone Mings,Aston Villa,Newcastle United,D,90,0,0,52
+16363888,863653,Aaron Wan-Bissaka,Aston Villa,Newcastle United,D,77,0,0,40
+16363888,826204,Boubacar Kamara,Aston Villa,Newcastle United,M,90,0,0,67
+16363888,1015267,João Gomes,Aston Villa,Newcastle United,M,72,0,0,39
+16363888,1631879,Alysson,Aston Villa,Newcastle United,M,45,0,0,28
+16363888,1518931,Johan Manzambi,Aston Villa,Newcastle United,M,72,0,1,35
+16363888,783126,Emiliano Buendía,Aston Villa,Newcastle United,M,72,0,0,54
+16363888,1085381,Nicolas Jackson,Aston Villa,Newcastle United,F,90,1,0,33
+16363888,250223,John McGinn,Aston Villa,Newcastle United,M,45,0,0,28
+16363888,98435,Ross Barkley,Aston Villa,Newcastle United,M,18,0,0,15
+16363888,184661,Leon Goretzka,Aston Villa,Newcastle United,M,18,0,0,14
+16363888,1590918,Ibrahim Mbaye,Aston Villa,Newcastle United,F,18,1,0,23
+16363888,864169,Pau Torres,Aston Villa,Newcastle United,D,13,0,0,12
+16363881,882604,Đorđe Petrović,Bournemouth,Sunderland,G,90,0,0,34
+16363881,44566,Adam Smith,Bournemouth,Sunderland,D,90,1,0,78
+16363881,1156586,James Hill,Bournemouth,Sunderland,D,90,0,0,96
+16363881,1006069,António Silva,Bournemouth,Sunderland,D,90,0,0,100
+16363881,999028,Adrien Truffert,Bournemouth,Sunderland,D,90,0,0,74
+16363881,800419,Tyler Adams,Bournemouth,Sunderland,M,89,0,0,79
+16363881,1464966,Rayan,Bournemouth,Sunderland,M,89,1,0,46
+16363881,322391,Ryan Christie,Bournemouth,Sunderland,M,90,0,0,61
+16363881,548188,Lewis Cook,Bournemouth,Sunderland,M,62,0,0,47
+16363881,895576,Marcus Tavernier,Bournemouth,Sunderland,M,79,1,1,61
+16363881,998490,Evanilson,Bournemouth,Sunderland,F,79,0,1,42
+16363881,851596,Justin Kluivert,Bournemouth,Sunderland,F,28,1,0,18
+16363881,991478,Amine Adli,Bournemouth,Sunderland,F,11,0,0,18
+16363881,1154587,Álvaro Rodriguez,Bournemouth,Sunderland,F,11,0,0,6
+16363881,962408,Bafodé Diakité,Bournemouth,Sunderland,D,8,0,0,12
+16363881,1154861,Ben Gannon-Doak,Bournemouth,Sunderland,F,8,0,0,12
+16363881,1012928,Robin Roefs,Sunderland,Bournemouth,G,90,0,0,51
+16363881,780014,Nordi Mukiele,Sunderland,Bournemouth,D,90,0,0,56
+16363881,794953,Kevin Danso,Sunderland,Bournemouth,D,17,0,0,18
+16363881,805137,Omar Alderete,Sunderland,Bournemouth,D,59,0,0,30
+16363881,831424,Reinildo Mandava,Sunderland,Bournemouth,D,90,0,0,46
+16363881,117777,Granit Xhaka,Sunderland,Bournemouth,M,90,0,0,75
+16363881,1171539,Noah Sadiki,Sunderland,Bournemouth,M,90,0,0,43
+16363881,989034,Trai Hume,Sunderland,Bournemouth,M,90,0,0,49
+16363881,1394089,Chris Rigg,Sunderland,Bournemouth,M,65,0,0,25
+16363881,984014,Enzo Le Fée,Sunderland,Bournemouth,M,90,0,0,50
+16363881,1432254,Timur Tuterov,Sunderland,Bournemouth,F,59,0,0,15
+16363881,365812,Luke O'Nien,Sunderland,Bournemouth,M,31,0,0,18
+16363881,1128532,Habib Diarra,Sunderland,Bournemouth,M,31,0,0,7
+16363881,2137673,Jules Ahoka,Sunderland,Bournemouth,M,25,0,0,12
+16363883,994363,Bart Verbruggen,Brighton & Hove Albion,Crystal Palace,G,90,0,0,30
+16363883,825844,Ferdi Kadıoğlu,Brighton & Hove Albion,Crystal Palace,D,90,0,0,62
+16363883,1405212,Luka Vušković,Brighton & Hove Albion,Crystal Palace,D,90,1,0,103
+16363883,115365,Lewis Dunk,Brighton & Hove Albion,Crystal Palace,D,89,0,0,96
+16363883,788784,Olivier Boscagli,Brighton & Hove Albion,Crystal Palace,D,81,0,0,84
+16363883,48480,Pascal Groß,Brighton & Hove Albion,Crystal Palace,M,71,0,0,52
+16363883,1464641,Chema Andrés,Brighton & Hove Albion,Crystal Palace,M,90,0,0,53
+16363883,1065588,Diego Gómez,Brighton & Hove Albion,Crystal Palace,M,90,0,1,55
+16363883,1036269,Yasin Ayari,Brighton & Hove Albion,Crystal Palace,M,81,0,1,28
+16363883,997152,Maxim De Cuyper,Brighton & Hove Albion,Crystal Palace,M,90,0,0,52
+16363883,1416535,Charalampos Kostoulas,Brighton & Hove Albion,Crystal Palace,F,71,0,1,32
+16363883,1142315,Jack Hinshelwood,Brighton & Hove Albion,Crystal Palace,M,19,0,1,8
+16363883,946695,Georginio Rutter,Brighton & Hove Albion,Crystal Palace,F,19,0,0,11
+16363883,1049534,Jaouen Hadjam,Brighton & Hove Albion,Crystal Palace,D,9,0,0,15
+16363883,1568186,Malick Yalcouyé,Brighton & Hove Albion,Crystal Palace,M,9,0,0,9
+16363883,888340,Michael Svoboda,Brighton & Hove Albion,Crystal Palace,D,1,0,0,9
+16363883,249859,Walter Benítez,Crystal Palace,Brighton & Hove Albion,G,90,0,0,55
+16363883,1471671,Jaydee Canvot,Crystal Palace,Brighton & Hove Albion,D,90,0,0,67
+16363883,931844,Chris Richards,Crystal Palace,Brighton & Hove Albion,D,90,0,0,77
+16363883,1634980,Honest Ahanor,Crystal Palace,Brighton & Hove Albion,D,53,0,0,47
+16363883,1403362,Anan Khalaili,Crystal Palace,Brighton & Hove Albion,M,90,0,0,62
+16363883,1109771,Adam Wharton,Crystal Palace,Brighton & Hove Albion,M,90,0,0,51
+16363883,959805,Quinten Timber,Crystal Palace,Brighton & Hove Albion,M,45,0,0,14
+16363883,988275,Tyrick Mitchell,Crystal Palace,Brighton & Hove Albion,M,90,0,0,48
+16363883,794338,Daichi Kamada,Crystal Palace,Brighton & Hove Albion,F,81,0,0,36
+16363883,984624,Yéremy Pino,Crystal Palace,Brighton & Hove Albion,F,61,0,0,21
+16363883,876599,Jørgen Strand Larsen,Crystal Palace,Brighton & Hove Albion,F,61,0,0,18
+16363883,935543,Dwight McNeil,Crystal Palace,Brighton & Hove Albion,F,45,0,0,15
+16363883,355796,Jefferson Lerma,Crystal Palace,Brighton & Hove Albion,M,37,0,0,25
+16363883,848276,Jean-Philippe Mateta,Crystal Palace,Brighton & Hove Albion,F,29,1,0,11
+16363883,858194,Eddie Nketiah,Crystal Palace,Brighton & Hove Albion,F,29,0,0,14
+16363883,193554,Will Hughes,Crystal Palace,Brighton & Hove Albion,M,9,0,0,6
+16363886,980643,James Trafford,Leeds United,Manchester United,G,90,0,0,62
+16363886,827681,James Justin,Leeds United,Manchester United,D,90,0,0,89
+16363886,282229,Nico Elvedi,Leeds United,Manchester United,D,90,1,0,95
+16363886,1118177,Tarik Muharemović,Leeds United,Manchester United,D,90,0,0,95
+16363886,929132,Jayden Bogle,Leeds United,Manchester United,M,90,0,0,60
+16363886,847097,Ethan Ampadu,Leeds United,Manchester United,M,90,0,0,92
+16363886,871886,Ao Tanaka,Leeds United,Manchester United,M,81,0,0,68
+16363886,834308,Gabriel Gudmundsson,Leeds United,Manchester United,M,90,0,0,35
+16363886,889861,Anton Stach,Leeds United,Manchester United,F,90,0,0,46
+16363886,865523,Noah Okafor,Leeds United,Manchester United,F,74,0,0,30
+16363886,372344,Dominic Calvert-Lewin,Leeds United,Manchester United,F,90,0,1,42
+16363886,803185,Lukas Nmecha,Leeds United,Manchester United,F,16,0,0,8
+16363886,866191,Sean Longstaff,Leeds United,Manchester United,M,9,0,0,7
+16363886,964753,Senne Lammens,Manchester United,Leeds United,G,90,0,0,41
+16363886,1153315,Leny Yoro,Manchester United,Leeds United,D,90,0,0,46
+16363886,149380,Harry Maguire,Manchester United,Leeds United,D,90,0,0,54
+16363886,859999,Lisandro Martínez,Manchester United,Leeds United,D,45,0,0,24
+16363886,843200,Diogo Dalot,Manchester United,Leeds United,D,90,0,0,80
+16363886,1105779,Andrey Santos,Manchester United,Leeds United,M,90,0,0,51
+16363886,1199043,Carlos Baleba,Manchester United,Leeds United,M,74,0,0,35
+16363886,971037,Amad Diallo,Manchester United,Leeds United,M,90,0,0,41
+16363886,331737,Youri Tielemans,Manchester United,Leeds United,M,84,0,0,43
+16363886,288205,Bruno Fernandes,Manchester United,Leeds United,M,90,0,0,51
+16363886,927083,Bryan Mbeumo,Manchester United,Leeds United,F,90,1,1,28
+16363886,847030,Noussair Mazraoui,Manchester United,Leeds United,D,45,0,0,28
+16363886,836694,Mason Mount,Manchester United,Leeds United,M,16,0,0,22
+16363886,886363,Matheus Cunha,Manchester United,Leeds United,F,11,0,0,9
+16363889,78152,Matz Sels,Nottingham Forest,Arsenal,G,90,0,0,38
+16363889,1170722,Jair,Nottingham Forest,Arsenal,D,85,0,0,24
+16363889,1394342,Ousmane Diomande,Nottingham Forest,Arsenal,D,90,0,0,27
+16363889,1199282,Murillo,Nottingham Forest,Arsenal,D,90,0,0,50
+16363889,870360,Daniel Muñoz,Nottingham Forest,Arsenal,M,90,0,0,27
+16363889,1003334,James McAtee,Nottingham Forest,Arsenal,M,85,0,0,38
+16363889,791079,Xaver Schlager,Nottingham Forest,Arsenal,M,90,0,0,31
+16363889,927356,Neco Williams,Nottingham Forest,Arsenal,M,90,0,0,57
+16363889,944327,Dan Ndoye,Nottingham Forest,Arsenal,F,73,0,0,17
+16363889,871765,Nicolás Domínguez,Nottingham Forest,Arsenal,F,74,0,0,25
+16363889,997087,Liam Delap,Nottingham Forest,Arsenal,F,90,0,0,37
+16363889,954061,Arnaud Kalimuendo,Nottingham Forest,Arsenal,F,17,0,0,4
+16363889,843754,Ibrahim Sangaré,Nottingham Forest,Arsenal,M,16,0,0,11
+16363889,867442,Callum Hudson Odoi,Nottingham Forest,Arsenal,F,9,0,0,5
+16363889,50480,Chris Wood,Nottingham Forest,Arsenal,F,9,0,0,3
+16363889,581310,David Raya,Arsenal,Nottingham Forest,G,90,0,0,41
+16363889,846036,Ben White,Arsenal,Nottingham Forest,D,66,0,0,68
+16363889,827679,Ezri Konsa,Arsenal,Nottingham Forest,D,90,0,0,94
+16363889,869792,Gabriel Magalhães,Arsenal,Nottingham Forest,D,90,1,0,92
+16363889,957602,Riccardo Calafiori,Arsenal,Nottingham Forest,D,90,0,0,56
+16363889,856714,Declan Rice,Arsenal,Nottingham Forest,M,90,0,0,114
+16363889,866469,Bruno Guimarães,Arsenal,Nottingham Forest,M,66,0,0,67
+16363889,934235,Bukayo Saka,Arsenal,Nottingham Forest,M,90,0,0,65
+16363889,547410,Martin Ødegaard,Arsenal,Nottingham Forest,M,90,0,0,89
+16363889,864921,Eberechi Eze,Arsenal,Nottingham Forest,M,45,0,0,22
+16363889,836705,Kai Havertz,Arsenal,Nottingham Forest,F,66,0,0,24
+16363889,966547,Noni Madueke,Arsenal,Nottingham Forest,F,45,0,1,30
+16363889,958959,Jurriën Timber,Arsenal,Nottingham Forest,D,24,0,0,23
+16363889,592010,Mikel Merino,Arsenal,Nottingham Forest,M,24,0,0,26
+16363889,804508,Viktor Gyökeres,Arsenal,Nottingham Forest,F,24,0,0,12
+16363890,1031251,Antonín Kinský,Tottenham Hotspur,Coventry City,G,90,0,0,34
+16363890,962012,Jan Paul van Hecke,Tottenham Hotspur,Coventry City,D,90,0,0,115
+16363890,352668,Tosin Adarabioyo,Tottenham Hotspur,Coventry City,D,71,0,0,75
+16363890,998247,Micky van de Ven,Tottenham Hotspur,Coventry City,D,90,0,0,97
+16363890,892673,Sandro Tonali,Tottenham Hotspur,Coventry City,M,90,0,0,87
+16363890,905163,Mohammed Kudus,Tottenham Hotspur,Coventry City,M,87,0,0,54
+16363890,1142335,Archie Gray,Tottenham Hotspur,Coventry City,M,90,0,0,48
+16363890,356398,James Maddison,Tottenham Hotspur,Coventry City,M,69,0,1,69
+16363890,262911,Andy Robertson,Tottenham Hotspur,Coventry City,M,69,0,0,41
+16363890,361420,Dominic Solanke,Tottenham Hotspur,Coventry City,F,90,0,0,32
+16363890,873554,Omar Marmoush,Tottenham Hotspur,Coventry City,F,87,0,1,35
+16363890,94758,Ben Davies,Tottenham Hotspur,Coventry City,D,21,0,1,19
+16363890,904970,Conor Gallagher,Tottenham Hotspur,Coventry City,M,21,0,0,17
+16363890,1142562,Mateus Fernandes,Tottenham Hotspur,Coventry City,M,19,0,0,27
+16363890,928124,Dejan Kulusevski,Tottenham Hotspur,Coventry City,M,12,0,0,9
+16363890,1048888,Mathys Tel,Tottenham Hotspur,Coventry City,F,12,0,0,10
+16363890,1005800,Carl Rushworth,Coventry City,Tottenham Hotspur,G,90,0,0,47
+16363890,948723,Milan van Ewijk,Coventry City,Tottenham Hotspur,D,90,0,0,51
+16363890,1033352,Bobby Thomas,Coventry City,Tottenham Hotspur,D,90,0,0,48
+16363890,855864,Ethan Pinnock,Coventry City,Tottenham Hotspur,D,90,0,0,44
+16363890,791985,Jay DaSilva,Coventry City,Tottenham Hotspur,D,90,0,0,40
+16363890,1986794,Caleb Yirenkyi,Coventry City,Tottenham Hotspur,M,60,0,0,20
+16363890,340713,Matt Grimes,Coventry City,Tottenham Hotspur,M,90,0,0,63
+16363890,978927,Tatsuhiro Sakamoto,Coventry City,Tottenham Hotspur,M,78,0,0,16
+16363890,979565,Jack Rudoni,Coventry City,Tottenham Hotspur,M,87,0,1,40
+16363890,846061,Brandon Thomas-Asante,Coventry City,Tottenham Hotspur,M,78,0,0,35
+16363890,1514916,Sidiki Cherif,Coventry City,Tottenham Hotspur,F,60,0,0,19
+16363890,885864,Frank Onyeka,Coventry City,Tottenham Hotspur,M,30,0,0,23
+16363890,359664,Taiwo Awoniyi,Coventry City,Tottenham Hotspur,F,30,0,0,10
+16363890,861315,Ephron Mason-Clark,Coventry City,Tottenham Hotspur,M,12,0,0,9
+16363890,837495,Gustavo Hamer,Coventry City,Tottenham Hotspur,M,12,0,0,10
+16363890,1099074,Kaine Kesler-Hayden,Coventry City,Tottenham Hotspur,D,12,0,0,8
+16363897,198038,Christian Walton,Ipswich Town,Nottingham Forest,G,90,0,0,49
+16363897,1930811,Abdoul Ouattara,Ipswich Town,Nottingham Forest,D,90,0,0,56
+16363897,825719,Issa Diop,Ipswich Town,Nottingham Forest,D,90,0,0,65
+16363897,856719,Dara O'Shea,Ipswich Town,Nottingham Forest,D,90,0,0,66
+16363897,963493,Leif Davis,Ipswich Town,Nottingham Forest,D,90,0,0,64
+16363897,822600,Exequiel Palacios,Ipswich Town,Nottingham Forest,M,90,0,0,103
+16363897,855845,Florentino Luís,Ipswich Town,Nottingham Forest,M,85,0,0,74
+16363897,1103589,Abdul Fatawu Issahaku,Ipswich Town,Nottingham Forest,M,73,0,0,29
+16363897,973556,Julio Enciso,Ipswich Town,Nottingham Forest,M,86,0,1,53
+16363897,1014461,Jaden Philogene-Bidace,Ipswich Town,Nottingham Forest,M,61,0,0,41
+16363897,1128844,Emersonn,Ipswich Town,Nottingham Forest,F,60,0,0,17
+16363897,875137,Zian Flemming,Ipswich Town,Nottingham Forest,F,30,0,0,14
+16363897,921005,Jack Clarke,Ipswich Town,Nottingham Forest,F,29,0,0,14
+16363897,832420,Daizen Maeda,Ipswich Town,Nottingham Forest,F,17,0,0,12
+16363897,856495,Azor Matusiwa,Ipswich Town,Nottingham Forest,M,14,0,0,8
+16363897,190867,Chuba Akpom,Ipswich Town,Nottingham Forest,F,13,0,0,3
+16363897,78152,Matz Sels,Nottingham Forest,Ipswich Town,G,90,0,0,44
+16363897,1170722,Jair,Nottingham Forest,Ipswich Town,D,90,0,0,88
+16363897,836168,Nikola Milenković,Nottingham Forest,Ipswich Town,D,90,0,0,62
+16363897,1199282,Murillo,Nottingham Forest,Ipswich Town,D,90,0,0,84
+16363897,870360,Daniel Muñoz,Nottingham Forest,Ipswich Town,M,90,0,0,70
+16363897,1003334,James McAtee,Nottingham Forest,Ipswich Town,M,90,0,0,86
+16363897,791079,Xaver Schlager,Nottingham Forest,Ipswich Town,M,90,0,0,68
+16363897,927356,Neco Williams,Nottingham Forest,Ipswich Town,M,84,0,1,35
+16363897,865912,Morgan Gibbs-White,Nottingham Forest,Ipswich Town,F,90,1,0,50
+16363897,944327,Dan Ndoye,Nottingham Forest,Ipswich Town,F,69,1,0,22
+16363897,997087,Liam Delap,Nottingham Forest,Ipswich Town,F,89,1,0,34
+16363897,867442,Callum Hudson Odoi,Nottingham Forest,Ipswich Town,F,21,0,0,17
+16363897,979144,Luca Netz,Nottingham Forest,Ipswich Town,D,15,0,0,6
+16363897,50480,Chris Wood,Nottingham Forest,Ipswich Town,F,1,0,0,0
+16363892,905351,Zion Suzuki,Aston Villa,Manchester City,G,90,0,0,55
+16363892,833956,Matty Cash,Aston Villa,Manchester City,D,90,0,0,46
+16363892,143334,Victor Lindelöf,Aston Villa,Manchester City,D,90,0,0,47
+16363892,864169,Pau Torres,Aston Villa,Manchester City,D,90,0,0,64
+16363892,976263,Ian Maatsen,Aston Villa,Manchester City,D,90,0,0,54
+16363892,826204,Boubacar Kamara,Aston Villa,Manchester City,M,90,0,0,49
+16363892,1015267,João Gomes,Aston Villa,Manchester City,M,82,0,0,37
+16363892,1631879,Alysson,Aston Villa,Manchester City,M,59,0,0,22
+16363892,250223,John McGinn,Aston Villa,Manchester City,M,66,0,0,27
+16363892,1518931,Johan Manzambi,Aston Villa,Manchester City,M,66,0,0,25
+16363892,1085381,Nicolas Jackson,Aston Villa,Manchester City,F,82,0,2,32
+16363892,1590918,Ibrahim Mbaye,Aston Villa,Manchester City,F,31,0,0,8
+16363892,98435,Ross Barkley,Aston Villa,Manchester City,M,24,0,0,6
+16363892,783126,Emiliano Buendía,Aston Villa,Manchester City,M,24,0,0,11
+16363892,184661,Leon Goretzka,Aston Villa,Manchester City,M,8,0,0,5
+16363892,2070311,Brian Madjo,Aston Villa,Manchester City,F,8,0,0,9
+16363892,824509,Gianluigi Donnarumma,Manchester City,Aston Villa,G,90,0,0,19
+16363892,1194333,Abdukodir Khusanov,Manchester City,Aston Villa,D,90,0,0,93
+16363892,877994,Marc Guéhi,Manchester City,Aston Villa,D,45,0,0,38
+16363892,318941,Rúben Dias,Manchester City,Aston Villa,D,90,0,0,91
+16363892,964994,Joško Gvardiol,Manchester City,Aston Villa,D,90,2,0,68
+16363892,994546,Elliot Anderson,Manchester City,Aston Villa,M,90,0,0,93
+16363892,974505,Enzo Fernández,Manchester City,Aston Villa,M,90,0,0,97
+16363892,914309,Iliman Ndiaye,Manchester City,Aston Villa,M,69,0,0,55
+16363892,979128,Rayan Cherki,Manchester City,Aston Villa,M,45,1,0,29
+16363892,934386,Jérémy Doku,Manchester City,Aston Villa,M,90,0,0,74
+16363892,839956,Erling Haaland,Manchester City,Aston Villa,F,90,0,1,15
+16363892,1136731,Rico Lewis,Manchester City,Aston Villa,D,45,0,0,33
+16363892,859765,Phil Foden,Manchester City,Aston Villa,M,45,0,0,28
+16363892,1826151,Ryan McAidoo,Manchester City,Aston Villa,F,21,0,0,22
+16363891,581310,David Raya,Arsenal,Everton,G,90,0,0,35
+16363891,846036,Ben White,Arsenal,Everton,D,90,0,0,69
+16363891,827679,Ezri Konsa,Arsenal,Everton,D,90,0,1,51
+16363891,869792,Gabriel Magalhães,Arsenal,Everton,D,90,0,1,71
+16363891,1423711,Myles Lewis-Skelly,Arsenal,Everton,D,68,0,0,55
+16363891,856714,Declan Rice,Arsenal,Everton,M,80,0,0,70
+16363891,592010,Mikel Merino,Arsenal,Everton,M,68,1,0,41
+16363891,966547,Noni Madueke,Arsenal,Everton,M,90,0,0,49
+16363891,547410,Martin Ødegaard,Arsenal,Everton,M,90,0,0,116
+16363891,864921,Eberechi Eze,Arsenal,Everton,M,80,0,0,45
+16363891,804508,Viktor Gyökeres,Arsenal,Everton,F,68,0,0,17
+16363891,957602,Riccardo Calafiori,Arsenal,Everton,D,22,0,0,14
+16363891,866469,Bruno Guimarães,Arsenal,Everton,M,22,0,0,32
+16363891,836705,Kai Havertz,Arsenal,Everton,F,22,0,0,10
+16363891,966837,Martín Zubimendi,Arsenal,Everton,M,10,0,0,18
+16363891,1917626,Max Dowman,Arsenal,Everton,F,10,0,0,10
+16363891,138530,Jordan Pickford,Everton,Arsenal,G,90,0,0,57
+16363891,1064082,Merlin Röhl,Everton,Arsenal,D,90,0,0,44
+16363891,145188,James Tarkowski,Everton,Arsenal,D,90,0,0,61
+16363891,998253,Jake O'Brien,Everton,Arsenal,D,90,0,0,45
+16363891,876643,Vitaliy Mykolenko,Everton,Arsenal,D,74,0,0,42
+16363891,1627560,Harrison Armstrong,Everton,Arsenal,M,90,1,0,55
+16363891,927361,James Garner,Everton,Arsenal,M,90,0,0,57
+16363891,1085180,Brennan Johnson,Everton,Arsenal,M,72,0,0,9
+16363891,861970,Kiernan Dewsbury-Hall,Everton,Arsenal,M,86,0,0,47
+16363891,1403061,Tyrique George,Everton,Arsenal,M,90,0,0,46
+16363891,1395746,Thierno Barry,Everton,Arsenal,F,90,1,0,40
+16363891,1174472,Tyler Dibling,Everton,Arsenal,F,18,0,0,24
+16363891,1008471,Hayden Hackney,Everton,Arsenal,M,16,0,0,21
+16363891,1017392,Carlos Alcaraz,Everton,Arsenal,M,13,0,0,6
+16363894,1005800,Carl Rushworth,Coventry City,Fulham,G,90,0,0,48
+16363894,948723,Milan van Ewijk,Coventry City,Fulham,D,90,0,0,61
+16363894,1033352,Bobby Thomas,Coventry City,Fulham,D,60,0,0,38
+16363894,855864,Ethan Pinnock,Coventry City,Fulham,D,90,0,0,47
+16363894,791985,Jay DaSilva,Coventry City,Fulham,D,90,0,0,44
+16363894,1986794,Caleb Yirenkyi,Coventry City,Fulham,M,67,0,0,35
+16363894,340713,Matt Grimes,Coventry City,Fulham,M,90,0,0,69
+16363894,978927,Tatsuhiro Sakamoto,Coventry City,Fulham,M,86,0,0,36
+16363894,979565,Jack Rudoni,Coventry City,Fulham,M,90,0,0,70
+16363894,846061,Brandon Thomas-Asante,Coventry City,Fulham,M,67,0,0,18
+16363894,1514916,Sidiki Cherif,Coventry City,Fulham,F,67,0,0,12
+16363894,1402791,Stephen Mfuni,Coventry City,Fulham,D,30,0,0,23
+16363894,861315,Ephron Mason-Clark,Coventry City,Fulham,M,23,0,0,16
+16363894,885864,Frank Onyeka,Coventry City,Fulham,M,23,0,0,18
+16363894,359664,Taiwo Awoniyi,Coventry City,Fulham,F,23,0,0,7
+16363894,837495,Gustavo Hamer,Coventry City,Fulham,M,10,0,0,4
+16363894,103335,Bernd Leno,Fulham,Coventry City,G,90,0,0,46
+16363894,329417,Timothy Castagne,Fulham,Coventry City,D,90,0,0,76
+16363894,988672,David Affengruber,Fulham,Coventry City,D,90,0,0,114
+16363894,861972,Calvin Bassey,Fulham,Coventry City,D,90,0,0,116
+16363894,803174,Antonee Robinson,Fulham,Coventry City,D,90,0,0,77
+16363894,1131449,Shea Charles,Fulham,Coventry City,M,90,0,0,95
+16363894,1142211,Hugo Larsson,Fulham,Coventry City,M,63,0,0,46
+16363894,1065216,Oscar Bobb,Fulham,Coventry City,M,81,0,1,39
+16363894,1546231,Josh King,Fulham,Coventry City,M,81,0,0,50
+16363894,352770,Alex Iwobi,Fulham,Coventry City,M,74,0,0,59
+16363894,1402716,Gonzalo García,Fulham,Coventry City,F,74,0,0,22
+16363894,793167,Sander Berge,Fulham,Coventry City,M,27,0,0,40
+16363894,1402688,César Palacios,Fulham,Coventry City,M,16,0,0,20
+16363894,1015256,Rodrigo Muniz,Fulham,Coventry City,F,16,0,0,6
+16363894,190877,Kenny Tete,Fulham,Coventry City,D,9,0,0,14
+16363894,82566,Tom Cairney,Fulham,Coventry City,M,9,0,0,14
+16363893,1149148,Mike Penders,Chelsea,Tottenham Hotspur,G,90,0,0,47
+16363893,1403050,Josh Acheampong,Chelsea,Tottenham Hotspur,D,90,0,0,30
+16363893,879674,Maxence Lacroix,Chelsea,Tottenham Hotspur,D,90,0,0,43
+16363893,996911,Levi Colwill,Chelsea,Tottenham Hotspur,D,90,0,0,65
+16363893,1153079,Jorrel Hato,Chelsea,Tottenham Hotspur,D,65,0,0,38
+16363893,987650,Moisés Caicedo,Chelsea,Tottenham Hotspur,M,90,0,0,56
+16363893,42694,Jordan Henderson,Chelsea,Tottenham Hotspur,M,90,0,0,43
+16363893,879349,Pedro Neto,Chelsea,Tottenham Hotspur,M,88,0,0,30
+16363893,982780,Cole Palmer,Chelsea,Tottenham Hotspur,M,80,0,0,30
+16363893,1403165,Geovany Quenda,Chelsea,Tottenham Hotspur,M,72,0,0,29
+16363893,948261,Morgan Rogers,Chelsea,Tottenham Hotspur,F,90,0,0,40
+16363893,1397736,Marco Palestra,Chelsea,Tottenham Hotspur,D,25,0,0,16
+16363893,1597265,Estêvão,Chelsea,Tottenham Hotspur,F,18,0,0,7
+16363893,33902,Danny Welbeck,Chelsea,Tottenham Hotspur,F,10,0,0,2
+16363893,1031251,Antonín Kinský,Tottenham Hotspur,Chelsea,G,90,0,0,60
+16363893,1142335,Archie Gray,Tottenham Hotspur,Chelsea,D,90,0,0,52
+16363893,962012,Jan Paul van Hecke,Tottenham Hotspur,Chelsea,D,90,0,0,110
+16363893,998247,Micky van de Ven,Tottenham Hotspur,Chelsea,D,90,0,0,85
+16363893,262911,Andy Robertson,Tottenham Hotspur,Chelsea,D,65,0,0,61
+16363893,892673,Sandro Tonali,Tottenham Hotspur,Chelsea,M,90,0,0,80
+16363893,1142562,Mateus Fernandes,Tottenham Hotspur,Chelsea,M,90,0,0,124
+16363893,905163,Mohammed Kudus,Tottenham Hotspur,Chelsea,M,89,0,0,53
+16363893,356398,James Maddison,Tottenham Hotspur,Chelsea,M,51,0,0,58
+16363893,1048888,Mathys Tel,Tottenham Hotspur,Chelsea,M,89,0,1,59
+16363893,873554,Omar Marmoush,Tottenham Hotspur,Chelsea,F,65,1,0,24
+16363893,904970,Conor Gallagher,Tottenham Hotspur,Chelsea,M,39,0,0,30
+16363893,913654,Pedro Porro,Tottenham Hotspur,Chelsea,D,25,0,0,22
+16363893,361420,Dominic Solanke,Tottenham Hotspur,Chelsea,F,25,0,0,10
+16363893,94758,Ben Davies,Tottenham Hotspur,Chelsea,D,9,0,0,10
+16363893,928124,Dejan Kulusevski,Tottenham Hotspur,Chelsea,M,9,0,0,7
+16363895,249859,Walter Benítez,Crystal Palace,Newcastle United,G,90,0,0,40
+16363895,931844,Chris Richards,Crystal Palace,Newcastle United,D,90,0,0,74
+16363895,827243,Axel Disasi,Crystal Palace,Newcastle United,D,90,0,0,60
+16363895,1471671,Jaydee Canvot,Crystal Palace,Newcastle United,D,90,0,0,59
+16363895,1403362,Anan Khalaili,Crystal Palace,Newcastle United,M,90,0,0,70
+16363895,1109771,Adam Wharton,Crystal Palace,Newcastle United,M,90,0,0,60
+16363895,794338,Daichi Kamada,Crystal Palace,Newcastle United,M,90,0,0,41
+16363895,988275,Tyrick Mitchell,Crystal Palace,Newcastle United,M,90,0,0,50
+16363895,935543,Dwight McNeil,Crystal Palace,Newcastle United,F,63,0,0,22
+16363895,984624,Yéremy Pino,Crystal Palace,Newcastle United,F,90,0,0,72
+16363895,848276,Jean-Philippe Mateta,Crystal Palace,Newcastle United,F,62,2,0,16
+16363895,858194,Eddie Nketiah,Crystal Palace,Newcastle United,F,28,0,0,9
+16363895,1106824,Darío Osorio,Crystal Palace,Newcastle United,M,27,0,0,23
+16363895,963744,Lukáš Horníček,Newcastle United,Crystal Palace,G,90,0,0,50
+16363895,1102791,Amar Dedić,Newcastle United,Crystal Palace,D,89,0,0,54
+16363895,101882,Fabian Schär,Newcastle United,Crystal Palace,D,90,0,0,64
+16363895,99090,Dan Burn,Newcastle United,Crystal Palace,D,90,0,0,54
+16363895,1136730,Lewis Hall,Newcastle United,Crystal Palace,D,90,0,0,70
+16363895,954056,Nico González,Newcastle United,Crystal Palace,M,90,0,0,61
+16363895,560128,Joelinton,Newcastle United,Crystal Palace,M,85,0,0,56
+16363895,372336,Jacob Murphy,Newcastle United,Crystal Palace,M,90,0,0,32
+16363895,888550,Joe Willock,Newcastle United,Crystal Palace,M,77,0,0,40
+16363895,855647,Harvey Barnes,Newcastle United,Crystal Palace,M,77,0,1,42
+16363895,1122603,William Osula,Newcastle United,Crystal Palace,F,77,0,1,14
+16363895,975937,Jacob Ramsey,Newcastle United,Crystal Palace,M,13,0,0,8
+16363895,805123,Yoane Wissa,Newcastle United,Crystal Palace,F,13,0,0,13
+16363895,979232,Anthony Elanga,Newcastle United,Crystal Palace,F,13,0,0,7
+16363895,1859920,Sean Steur,Newcastle United,Crystal Palace,M,14,0,0,2
+16363895,1014286,Malick Thiaw,Newcastle United,Crystal Palace,D,1,0,0,1
+16363896,953414,Konstantinos Tzolakis,Hull City,Brentford,G,90,0,0,56
+16363896,827587,Lewie Coyle,Hull City,Brentford,D,65,0,0,41
+16363896,307274,Semi Ajayi,Hull City,Brentford,D,90,0,0,36
+16363896,100578,John Egan,Hull City,Brentford,D,90,0,0,32
+16363896,1646783,Lucas Herrington,Hull City,Brentford,D,90,0,0,46
+16363896,931304,Ryan Giles,Hull City,Brentford,D,65,0,0,31
+16363896,1125839,Mohamed Belloumi,Hull City,Brentford,M,86,0,0,73
+16363896,1085950,Tim Iroegbunam,Hull City,Brentford,M,72,0,0,46
+16363896,864474,Regan Slater,Hull City,Brentford,M,90,0,0,54
+16363896,1383695,Elliot Stroud,Hull City,Brentford,M,90,0,0,47
+16363896,367228,Oliver McBurnie,Hull City,Brentford,F,86,0,1,23
+16363896,1087514,Brooke Norton-Cuffy,Hull City,Brentford,D,25,0,0,12
+16363896,1063235,Mohamed Ali Cho,Hull City,Brentford,F,25,0,0,19
+16363896,926560,Hidemasa Morita,Hull City,Brentford,M,18,0,0,14
+16363896,945806,Joe Gelhardt,Hull City,Brentford,F,8,1,0,4
+16363896,1514800,Robinio Vaz,Hull City,Brentford,F,8,0,0,3
+16363896,827362,Caoimhin Kelleher,Brentford,Hull City,G,90,0,0,35
+16363896,1137431,Michael Kayode,Brentford,Hull City,D,90,0,0,74
+16363896,924378,Sepp van den Berg,Brentford,Hull City,D,90,0,0,68
+16363896,576384,Kristoffer Ajer,Brentford,Hull City,D,90,0,0,57
+16363896,972421,Keane Lewis-Potter,Brentford,Hull City,D,78,0,0,59
+16363896,1064697,Mamadou Sangare,Brentford,Hull City,M,90,0,0,99
+16363896,966869,Aaron Hickey,Brentford,Hull City,M,62,0,0,54
+16363896,1106451,Dango Ouattara,Brentford,Hull City,M,78,1,1,42
+16363896,799251,Mathias Jensen,Brentford,Hull City,M,90,0,0,73
+16363896,1006387,Kevin Schade,Brentford,Hull City,M,62,0,0,19
+16363896,1016907,Igor Thiago,Brentford,Hull City,F,90,0,0,40
+16363896,1020680,Jaidon Anthony,Brentford,Hull City,F,28,0,0,24
+16363896,907072,Mikkel Damsgaard,Brentford,Hull City,M,28,0,0,25
+16363896,1471764,El Hadji Malick Diouf,Brentford,Hull City,D,12,0,0,9
+16363896,113956,Callum Wilson,Brentford,Hull City,F,12,0,0,10
+16363898,243609,Alisson,Liverpool FC,Brighton & Hove Albion,G,90,0,0,33
+16363898,925097,Ronald Araújo,Liverpool FC,Brighton & Hove Albion,D,90,0,0,59
+16363898,1445625,Jérémy Jacquet,Liverpool FC,Brighton & Hove Albion,D,90,0,0,40
+16363898,151545,Virgil van Dijk,Liverpool FC,Brighton & Hove Albion,D,90,0,0,58
+16363898,1097425,Miloš Kerkez,Liverpool FC,Brighton & Hove Albion,D,88,0,0,57
+16363898,904897,Ryan Gravenberch,Liverpool FC,Brighton & Hove Albion,M,90,0,0,45
+16363898,895324,Alexis Mac Allister,Liverpool FC,Brighton & Hove Albion,M,90,0,0,48
+16363898,996952,Bradley Barcola,Liverpool FC,Brighton & Hove Albion,M,77,0,0,29
+16363898,1019322,Florian Wirtz,Liverpool FC,Brighton & Hove Albion,M,65,0,0,57
+16363898,862967,Cody Gakpo,Liverpool FC,Brighton & Hove Albion,M,90,0,0,51
+16363898,823941,Alexander Isak,Liverpool FC,Brighton & Hove Albion,F,77,0,1,20
+16363898,1445945,Trey Nyoni,Liverpool FC,Brighton & Hove Albion,M,25,0,0,18
+16363898,1403111,Lewis Koumas,Liverpool FC,Brighton & Hove Albion,F,13,0,0,4
+16363898,1881902,Rio Ngumoha,Liverpool FC,Brighton & Hove Albion,F,13,0,0,6
+16363898,786259,Kostas Tsimikas,Liverpool FC,Brighton & Hove Albion,D,2,0,0,3
+16363898,994363,Bart Verbruggen,Brighton & Hove Albion,Liverpool FC,G,90,0,0,54
+16363898,825844,Ferdi Kadıoğlu,Brighton & Hove Albion,Liverpool FC,D,6,0,0,4
+16363898,1405212,Luka Vušković,Brighton & Hove Albion,Liverpool FC,D,90,0,0,83
+16363898,115365,Lewis Dunk,Brighton & Hove Albion,Liverpool FC,D,90,0,0,84
+16363898,788784,Olivier Boscagli,Brighton & Hove Albion,Liverpool FC,D,45,0,0,36
+16363898,48480,Pascal Groß,Brighton & Hove Albion,Liverpool FC,M,90,0,0,104
+16363898,1464641,Chema Andrés,Brighton & Hove Albion,Liverpool FC,M,54,0,0,53
+16363898,1065588,Diego Gómez,Brighton & Hove Albion,Liverpool FC,M,90,0,0,70
+16363898,1036269,Yasin Ayari,Brighton & Hove Albion,Liverpool FC,M,75,1,0,47
+16363898,997152,Maxim De Cuyper,Brighton & Hove Albion,Liverpool FC,M,90,0,0,67
+16363898,1416535,Charalampos Kostoulas,Brighton & Hove Albion,Liverpool FC,F,90,0,0,53
+16363898,988333,Costinha,Brighton & Hove Albion,Liverpool FC,D,84,0,0,70
+16363898,1142315,Jack Hinshelwood,Brighton & Hove Albion,Liverpool FC,M,45,0,0,25
+16363898,1568186,Malick Yalcouyé,Brighton & Hove Albion,Liverpool FC,M,36,0,0,31
+16363898,946695,Georginio Rutter,Brighton & Hove Albion,Liverpool FC,F,15,0,0,15
+16363899,964753,Senne Lammens,Manchester United,Bournemouth,G,90,0,0,43
+16363899,1153315,Leny Yoro,Manchester United,Bournemouth,D,90,0,0,91
+16363899,149380,Harry Maguire,Manchester United,Bournemouth,D,90,0,0,95
+16363899,1445799,Ayden Heaven,Manchester United,Bournemouth,D,65,0,0,73
+16363899,843200,Diogo Dalot,Manchester United,Bournemouth,D,90,0,0,93
+16363899,1105779,Andrey Santos,Manchester United,Bournemouth,M,90,0,0,91
+16363899,1199043,Carlos Baleba,Manchester United,Bournemouth,M,72,0,0,60
+16363899,971037,Amad Diallo,Manchester United,Bournemouth,M,78,0,0,45
+16363899,331737,Youri Tielemans,Manchester United,Bournemouth,M,45,0,0,26
+16363899,836694,Mason Mount,Manchester United,Bournemouth,M,90,0,0,88
+16363899,927083,Bryan Mbeumo,Manchester United,Bournemouth,F,90,0,0,45
+16363899,886363,Matheus Cunha,Manchester United,Bournemouth,F,45,0,0,49
+16363899,859999,Lisandro Martínez,Manchester United,Bournemouth,D,25,0,0,27
+16363899,917007,Joshua Zirkzee,Manchester United,Bournemouth,F,18,0,0,13
+16363899,1465865,Shea Lacey,Manchester United,Bournemouth,F,12,0,0,20
+16363899,882604,Đorđe Petrović,Bournemouth,Manchester United,G,90,0,0,44
+16363899,44566,Adam Smith,Bournemouth,Manchester United,D,87,0,0,42
+16363899,1156586,James Hill,Bournemouth,Manchester United,D,90,0,0,82
+16363899,1006069,António Silva,Bournemouth,Manchester United,D,90,0,0,65
+16363899,999028,Adrien Truffert,Bournemouth,Manchester United,D,90,0,0,60
+16363899,800419,Tyler Adams,Bournemouth,Manchester United,M,90,0,0,51
+16363899,548188,Lewis Cook,Bournemouth,Manchester United,M,75,0,0,31
+16363899,1464966,Rayan,Bournemouth,Manchester United,M,90,3,1,57
+16363899,851596,Justin Kluivert,Bournemouth,Manchester United,M,63,0,0,29
+16363899,895576,Marcus Tavernier,Bournemouth,Manchester United,M,87,0,1,34
+16363899,998490,Evanilson,Bournemouth,Manchester United,F,87,0,1,40
+16363899,1154861,Ben Gannon-Doak,Bournemouth,Manchester United,F,27,0,0,11
+16363899,322391,Ryan Christie,Bournemouth,Manchester United,M,15,0,0,22
+16363899,962408,Bafodé Diakité,Bournemouth,Manchester United,D,9,0,0,5
+16363899,991478,Amine Adli,Bournemouth,Manchester United,F,9,0,0,6
+16363899,1426228,Eli Junior Kroupi,Bournemouth,Manchester United,F,9,0,0,7
+16363900,1012928,Robin Roefs,Sunderland,Leeds United,G,90,0,0,32
+16363900,989034,Trai Hume,Sunderland,Leeds United,D,90,0,0,59
+16363900,780014,Nordi Mukiele,Sunderland,Leeds United,D,52,0,0,34
+16363900,365812,Luke O'Nien,Sunderland,Leeds United,D,90,0,0,69
+16363900,831424,Reinildo Mandava,Sunderland,Leeds United,D,90,0,0,77
+16363900,117777,Granit Xhaka,Sunderland,Leeds United,M,90,0,0,90
+16363900,1171539,Noah Sadiki,Sunderland,Leeds United,M,90,0,0,55
+16363900,1394089,Chris Rigg,Sunderland,Leeds United,M,90,0,0,40
+16363900,984014,Enzo Le Fée,Sunderland,Leeds United,M,79,0,0,47
+16363900,1116571,Nilson Angulo,Sunderland,Leeds United,M,79,0,0,43
+16363900,910048,Brian Brobbey,Sunderland,Leeds United,F,65,1,0,16
+16363900,805137,Omar Alderete,Sunderland,Leeds United,D,38,0,0,21
+16363900,1432254,Timur Tuterov,Sunderland,Leeds United,F,25,0,0,7
+16363900,1142675,Chemsdine Talbi,Sunderland,Leeds United,F,11,0,0,8
+16363900,1128532,Habib Diarra,Sunderland,Leeds United,M,11,0,0,4
+16363900,980643,James Trafford,Leeds United,Sunderland,G,90,0,0,53
+16363900,827681,James Justin,Leeds United,Sunderland,D,90,0,0,46
+16363900,886930,Jaka Bijol,Leeds United,Sunderland,D,90,0,0,61
+16363900,1118177,Tarik Muharemović,Leeds United,Sunderland,D,90,1,0,75
+16363900,929132,Jayden Bogle,Leeds United,Sunderland,M,90,0,0,52
+16363900,847097,Ethan Ampadu,Leeds United,Sunderland,M,90,0,0,67
+16363900,871886,Ao Tanaka,Leeds United,Sunderland,M,89,0,0,52
+16363900,834308,Gabriel Gudmundsson,Leeds United,Sunderland,M,90,0,0,57
+16363900,355528,Harry Wilson,Leeds United,Sunderland,F,66,0,0,41
+16363900,973431,Brenden Aaronson,Leeds United,Sunderland,F,65,0,0,21
+16363900,372344,Dominic Calvert-Lewin,Leeds United,Sunderland,F,85,0,0,22
+16363900,865523,Noah Okafor,Leeds United,Sunderland,F,25,0,0,17
+16363900,889861,Anton Stach,Leeds United,Sunderland,M,24,0,0,20
+16363900,803185,Lukas Nmecha,Leeds United,Sunderland,F,11,0,0,5
+16363900,866191,Sean Longstaff,Leeds United,Sunderland,M,1,1,0,5
